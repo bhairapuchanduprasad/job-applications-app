@@ -1,0 +1,52 @@
+{
+ "folder": "2026-10-14_accenture_junior-applied-ai-engineer",
+ "date": "2026-10-14",
+ "company": "Accenture DACH",
+ "role": "Junior Applied AI Engineer (all genders)",
+ "fit": 74,
+ "status": "build-first",
+ "next_step": "build llm-gateway",
+ "notes": "English documents; very good German required (have B1); junior level, salary may be below target; occasional travel required; 100+ applicants in 2 days",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Kronberg",
+ "ats": 100,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Junior%20Applied%20AI%20Engineer%20%28all%20genders%29%20Accenture%20DACH&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; responses managed off LinkedIn)",
+ "contact": "",
+ "verdict": "Technically you are above the bar for a junior role: LLM APIs in live pipelines with real cost tradeoffs ($200k budget cut), evaluation of AI output (RAGAS, precision/recall), full stack (React + FastAPI), Docker/CI/CD/AWS/Azure, LangGraph/RAG in production, and Claude Code with custom skills. Main risk: \"Very good German\" (you are B1). Without that, ~88.",
+ "gaps": [
+  "German (B1)",
+  "AI-workflow KPIs + LLM abstraction layer",
+  "HTML/CSS",
+  "TypeScript"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Accenture.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Accenture.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-llm-gateway.md"
+ ],
+ "build": "llm-gateway",
+ "found_by_scout": false
+}

@@ -1,0 +1,51 @@
+{
+ "folder": "2026-10-16_sap_ai-engineer-development-expert",
+ "date": "2026-10-16",
+ "company": "SAP SE",
+ "role": "AI Engineer – Development Expert (f/m/d)",
+ "fit": 45,
+ "status": "build-first",
+ "next_step": "build meter-read-plausibility-agent",
+ "notes": "English documents; senior T4 role (several years architecture + team lead; long shot, user chose to apply); salary range 94.2k–171.8k; Garching/Munich hybrid; travel 0–10%; hiring manager Guido Menkhaus, recruiter Nola O'Connor",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Garching/Munich",
+ "ats": 94,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer%20%E2%80%93%20Development%20Expert%20%28f/m/d%29%20SAP%20SE&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; responses managed off LinkedIn)",
+ "contact": "",
+ "verdict": "Domain and AI fit are unusually good, seniority is not. You built an agentic pipeline for the German energy sector with SAP domain experts, use agentic AI daily with Claude Code, and have real cost/accuracy results. But this is a senior architect and team-lead role (T4, \"several years of software architecture\", \"lead and mentor development teams\", €94–172k), and your ~3 years include an internship, a master's thesis, and no people leadership.",
+ "gaps": [
+  "Seniority and team leadership: not fixable by a project. This is the main reason",
+  "SAP Business AI (BTP, AI Core, Joule) and energy market communication (MaKo, sma",
+  "Governance/security/compliance: not documented."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_SAP.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_SAP.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-meter-read-plausibility-agent.md"
+ ],
+ "build": "meter-read-plausibility-agent",
+ "found_by_scout": false
+}

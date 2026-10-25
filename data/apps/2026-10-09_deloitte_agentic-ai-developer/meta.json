@@ -1,0 +1,52 @@
+{
+ "folder": "2026-10-09_deloitte_agentic-ai-developer",
+ "date": "2026-10-09",
+ "company": "Deloitte",
+ "role": "Agentic AI Developer im aiStudio (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build contract-risk-agents",
+ "notes": "English documents (user choice); German C1 required (have B1); no cover letter required, optional one included; reposted, 100+ applicants: move fast",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Düsseldorf",
+ "ats": 89,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Agentic%20AI%20Developer%20im%20aiStudio%20%28m/w/d%29%20Deloitte&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn Job-ID 49806 (pasted)",
+ "contact": "",
+ "verdict": "Technically a very strong match (LangGraph multi-agent systems, MCP, Claude Code, AWS + Azure, GitLab CI/CD, full lifecycle as sole developer). The hard blocker is \"Deutsch sehr gut in Wort und Schrift\": you are B1. Technical fit alone would be ~82.",
+ "gaps": [
+  "German (B1)",
+  "Strands, A2A, RBAC, tracing",
+  "JavaScript",
+  "Cursor / Kiro / Azure DevOps"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Deloitte.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Deloitte.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-contract-risk-agents.md"
+ ],
+ "build": "contract-risk-agents",
+ "found_by_scout": false
+}
