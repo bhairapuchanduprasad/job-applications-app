@@ -1,0 +1,87 @@
+{
+ "folder": "2026-10-24_valantic_junior-consultant-ai-mlops",
+ "date": "2026-10-24",
+ "company": "valantic",
+ "role": "Junior Consultant (all genders) AI & MLOps Engineering",
+ "fit": 72,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; Munich; junior band, check salary vs Blue Card threshold; gaps MLflow/model registry/drift monitoring; German B1",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 69,
+ "apply_url": "https://www.linkedin.com/jobs/view/4463494114",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the valantic careers site or the LinkedIn posting (https://www.linkedin.com/jobs/view/4463494114). ATS 69%: remaining gaps are real (MLOps tooling: experiment tracking, model registry, monitoring, drift, data quality, automated testing).",
+ "source": "https://www.linkedin.com/jobs/view/4463494114",
+ "contact": "",
+ "verdict": "You exceed the junior baseline (Master's done, 3 years of AI work, ML use cases beyond LLMs, Python, Git, CI/CD, Docker, AWS/Azure, stakeholder work at Covestro). Gaps are the classic MLOps toolchain: experiment tracking, model registry, retraining pipelines, drift monitoring (no MLflow/W&B/Databricks in the profile).",
+ "gaps": [
+  "MLflow/experiment tracking/model registry/drift",
+  "Over-qualification",
+  "German"
+ ],
+ "form_fields": [
+  {
+   "label": "Why valantic?",
+   "value": "The AI Solutions team takes AI from prototype to production across classic ML, industrial AI, GenAI and agents, with depth in MLOps and AI governance; that is the breadth and production focus I want."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€70,000 gross/year (range €60,000–75,000); junior band may be lower, and it must be above the EU Blue Card threshold."
+  },
+  {
+   "label": "Earliest start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "Munich; happy to travel to client sites."
+  },
+  {
+   "label": "German level",
+   "value": "B1, improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "How would you take a data science prototype to production?",
+   "a": "Package as a service (FastAPI), containerise (Docker), CI/CD with tests, infrastructure as code (you used AWS CDK), experiment tracking + model registry for versions, monitoring of data quality, performance and drift, retraining trigger. Evidence: Covestro agentic app to AWS via CDK and GitLab CI/CD."
+  },
+  {
+   "q": "Tell us about an ML use case beyond LLMs.",
+   "a": "Covestro: RF/XGBoost/LSTM on sensor time series, lag/rolling features, benchmark vs empirical curve-fitting, Streamlit dashboard. Cognizant: EV load forecasting, LSTM 96% test accuracy."
+  },
+  {
+   "q": "Why a junior consulting role with 3 years of experience?",
+   "a": "Breadth of projects (classic ML, industrial AI, GenAI, agents) and a team with real MLOps depth; you want production engineering skills, not just models."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_valantic.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_valantic.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

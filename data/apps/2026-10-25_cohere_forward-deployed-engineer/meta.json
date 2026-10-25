@@ -1,0 +1,88 @@
+{
+ "folder": "2026-10-25_cohere_forward-deployed-engineer",
+ "date": "2026-10-25",
+ "company": "Cohere",
+ "role": "Forward Deployed Engineer, Agentic Platform (Europe)",
+ "fit": 76,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; Berlin/Germany remote-friendly; travel 20-40%; also listed Berlin 4418824220 + Frankfurt 4418816639; gaps production scale, ReAct naming, safety evals",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": null,
+ "apply_url": "https://www.linkedin.com/jobs/view/4418823251",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the LinkedIn posting (https://www.linkedin.com/jobs/view/4418823251) or the Cohere careers page; the same role is also listed for Berlin and Frankfurt, apply once. Their screening uses AI tools; keep the CV as is.",
+ "source": "https://www.linkedin.com/jobs/view/4418823251",
+ "contact": "",
+ "verdict": "Close match on the core: LLM-powered agents with tools and orchestration (LangGraph multi-agent system), RAG, systematic evaluation against ground truth, Python, end-to-end ownership as sole developer, and customer-facing translation of ambiguous needs (Covestro AI consulting). Gaps: \"production-grade\" enterprise deployments at scale, named agent patterns (ReAct, Plan-and-Execute), latency/safety evaluation, enterprise security/compliance, and this is a senior-leaning role (\"lead the design\", \"set architectural standards\").",
+ "gaps": [
+  "Scale/production",
+  "Agent patterns",
+  "Safety evaluation",
+  "Seniority"
+ ],
+ "form_fields": [
+  {
+   "label": "Why Cohere?",
+   "value": "North runs agents close to sensitive enterprise data, even air-gapped, for customers like RBC and Dell; I want to build agents that are measured and checked by the people who use them, directly with customers."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€70,000 gross/year (range €60,000–75,000). Must be above the EU Blue Card threshold."
+  },
+  {
+   "label": "Earliest start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "Berlin, remote within Germany is fine; travel 20–40% fine."
+  },
+  {
+   "label": "German level",
+   "value": "B1, improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Design an agent for an enterprise workflow and tell us how you'd evaluate it.",
+   "a": "Frame the task, define success criteria with the customer, build a labelled set, measure accuracy and latency, add human approval where risk is high. Evidence: Kniit ground-truth loop (33/45 → 93/90), Expert Interface approvals."
+  },
+  {
+   "q": "Explain your agent architecture in ReAct or Plan-and-Execute terms.",
+   "a": "Kniit: parallel specialist agents + consolidation + reflection (plan/critique loop); Covestro: router agent choosing tools (vector search, inference, summarization)."
+  },
+  {
+   "q": "Tell us about working with a customer on an ambiguous problem.",
+   "a": "Covestro AI consulting: mapped decision workflows with business stakeholders, advised where agentic AI fits, then built it."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Cohere.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Cohere.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}
