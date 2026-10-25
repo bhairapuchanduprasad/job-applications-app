@@ -1,0 +1,89 @@
+{
+ "folder": "2026-10-24_rewe-digital_platform-engineer-ki-platform",
+ "date": "2026-10-24",
+ "company": "REWE digital",
+ "role": "Platform Engineer Analytics & KI-Platform (m/w/d)",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build llm-gateway (REWE extension: Terraform/GCP/BigQuery)",
+ "notes": "Found by job-scout; Cologne; apply via jobs.rewe-group.com; gaps Snowflake/BigQuery/Databricks, Terraform, GCP; German likely used day to day (B1)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Cologne",
+ "ats": 73,
+ "apply_url": "https://www.linkedin.com/jobs/view/4386355137",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the REWE Group careers site (jobs.rewe-group.com); the LinkedIn posting is https://www.linkedin.com/jobs/view/4386355137. The posting asks for availability and salary expectation in the online application.",
+ "source": "https://www.linkedin.com/jobs/view/4386355137",
+ "contact": "",
+ "verdict": "Strong on the GenAI/MLOps side (hands-on GenAI projects, Python, CI/CD, Docker/Kubernetes, Azure, IaC with AWS CDK) and on solution architecture. Real gaps on the platform-tooling side: no hands-on Snowflake/BigQuery/Databricks, no Terraform, no GCP, and \"mehrjährige\" platform/DevOps experience is only partly covered (3 years, AI engineering with DevOps parts).",
+ "gaps": [
+  "Snowflake/BigQuery/Databricks, Terraform, GCP",
+  "Platform team experience",
+  "German"
+ ],
+ "form_fields": [
+  {
+   "label": "Why REWE digital?",
+   "value": "You already run GenAI for 20,000 administrative staff and process over a billion records a day; a self-service platform for analytics, ML and GenAI makes every team faster, and that is the work I want to do."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€70,000 gross/year (range €60,000–75,000). Must be above the EU Blue Card threshold."
+  },
+  {
+   "label": "Earliest start / availability",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "Cologne; hybrid works well, willing to relocate."
+  },
+  {
+   "label": "German level",
+   "value": "B1, improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "How would you build a self-service GenAI platform for many business teams?",
+   "a": "Shared gateway for LLM access (one API, per-team budgets and allowed models, logging of cost/latency), onboarding by config in a PR, templates and best-practice docs, central evaluation and monitoring. Evidence: LiteLLM as the LLM layer at Kniit; MCP service that other tools use; if built, demo the LLM Gateway."
+  },
+  {
+   "q": "Tell us about your infrastructure-as-code and CI/CD experience.",
+   "a": "AWS CDK at Covestro (agentic app on AWS; Lambda/SQS/DynamoDB for thesis evaluation); GitLab CI/CD; Docker; Kubernetes and Azure at Kniit. Be honest: no Terraform in a job; same concepts (state, plan/apply, modules)."
+  },
+  {
+   "q": "Snowflake, BigQuery or Databricks?",
+   "a": "Honest: not in a job yet. SQL, Postgres, MongoDB, Neo4j, DynamoDB in practice; BigQuery in the LLM Gateway project once built."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_REWE-digital.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_REWE-digital.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-llm-gateway.md"
+ ],
+ "build": "llm-gateway",
+ "found_by_scout": true
+}

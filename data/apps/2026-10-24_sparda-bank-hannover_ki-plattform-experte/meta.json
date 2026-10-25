@@ -1,0 +1,87 @@
+{
+ "folder": "2026-10-24_sparda-bank-hannover_ki-plattform-experte",
+ "date": "2026-10-24",
+ "company": "Sparda-Bank Hannover eG",
+ "role": "KI-Plattform-Experte (m/w/d) mit Schwerpunkt Data Science und LLM Engineering",
+ "fit": 68,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; Hannover; contact Moritz Witte; up to €80,400; gaps Databricks/platform ops, governance; German likely needed (B1)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hannover",
+ "ats": 73,
+ "apply_url": "https://www.linkedin.com/jobs/view/4477678140",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply online via sparda-h.de/karriere (the posting says online only). Contact: Moritz Witte, Bereichsleiter Künstliche Intelligenz, 0511 3018-4610, moritz.witte@sparda-h.de.",
+ "source": "https://www.linkedin.com/jobs/view/4477678140",
+ "contact": "Moritz Witte, Bereichsleiter Künstliche Intelligenz",
+ "verdict": "Unusually good match on the two technical halves they want together: classic ML for forecasting and time series (Cognizant EV load forecasting, Covestro time-series prediction) and generative AI (multi-agent LLM systems, RAG, vector databases, semantic search, MCP), plus Python, Git, CI/CD and Azure. Gaps: building and operating an AI development platform (Databricks or similar), governance/standards for in-house AI development, banking domain.",
+ "gaps": [
+  "Databricks / platform operation",
+  "Governance",
+  "German"
+ ],
+ "form_fields": [
+  {
+   "label": "Why Sparda-Bank Hannover?",
+   "value": "You build AI in-house where no standard product fits, with standards and governance, and the role combines forecasting and LLM engineering, which is exactly my background."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€70,000 gross/year (posting states up to €80,400 under the tariff). Must be above the EU Blue Card threshold."
+  },
+  {
+   "label": "Earliest start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "Hannover; willing to relocate."
+  },
+  {
+   "label": "German level",
+   "value": "B1, improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "How would you build our AI platform?",
+   "a": "Start small and modular: shared environment for ML and GenAI (Databricks or Azure-native), Git-based development with CI/CD, model and prompt versioning, evaluation sets per use case, human approval before go-live, monitoring, clear standards for in-house development. Evidence: GitLab CI/CD, AWS CDK, Azure, ground-truth evaluation, Expert Interface approvals."
+  },
+  {
+   "q": "Tell us about a forecasting model you built.",
+   "a": "Cognizant EV load: ARIMA, SARIMA, Prophet, XGBoost, LSTM; LSTM 96% test accuracy. Covestro: RF/XGBoost/LSTM on sensor time series, lag/rolling features, Streamlit dashboard."
+  },
+  {
+   "q": "When would you build instead of buy?",
+   "a": "When no standard product fits the data or the process; Kniit second stream: deterministic pipeline cut a $200k projected LLM budget to near zero."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Sparda-Bank-Hannover.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Sparda-Bank-Hannover.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

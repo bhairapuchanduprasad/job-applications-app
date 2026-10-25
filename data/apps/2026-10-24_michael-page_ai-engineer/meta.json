@@ -1,0 +1,87 @@
+{
+ "folder": "2026-10-24_michael-page_ai-engineer",
+ "date": "2026-10-24",
+ "company": "Michael Page (client not named)",
+ "role": "AI Engineer (m/w/d)",
+ "fit": 72,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; Berlin remote-first; recruiter posting, ask for client name and salary band; English accepted",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4475036239",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the LinkedIn posting (https://www.linkedin.com/jobs/view/4475036239); it goes to Michael Page. On the first recruiter call ask: client name, team size, salary band, how remote-first works (office days in Berlin?), and whether the role is classic ML or GenAI-heavy.",
+ "source": "https://www.linkedin.com/jobs/view/4475036239",
+ "contact": "",
+ "verdict": "Solid match on the stated profile (degree, applied ML and deep learning, Python with TensorFlow/PyTorch, databases and data analysis, cloud, agile). The posting is generic and the employer is not named, so fit can't be checked against a real product; your strongest work (GenAI, agents, evaluation) is broader than what they list.",
+ "gaps": [
+  "Mid-Senior label",
+  "Classic deep learning in production",
+  "Documentation / Scrum"
+ ],
+ "form_fields": [
+  {
+   "label": "Why this company?",
+   "value": "You bring AI into existing business processes for customers across industries; that is what I did at Kniit and Covestro, owning systems end to end."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€70,000 gross/year (range €60,000–75,000). Must be above the EU Blue Card threshold."
+  },
+  {
+   "label": "Earliest start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "Berlin / remote within Germany; willing to relocate and travel."
+  },
+  {
+   "label": "German level",
+   "value": "B1, improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Tell us about an ML or deep learning model you built and how you validated it.",
+   "a": "Covestro intern: Random Forest, XGBoost, LSTM on sensor time series; lag + rolling-window features; benchmarked against empirical curve-fitting; Streamlit dashboard for chemists. Cognizant: LSTM at 96% test accuracy vs ARIMA/SARIMA/Prophet/XGBoost."
+  },
+  {
+   "q": "How did you improve an algorithm's performance and accuracy?",
+   "a": "Kniit: multi-agent LangGraph pipeline validated against SAP-derived ground truth, precision/recall 33/45 → 93/90. Second stream: deterministic code instead of an LLM, $200k projected budget → near zero, accuracy toward 100%."
+  },
+  {
+   "q": "How do you integrate AI into an existing system landscape?",
+   "a": "MCP query service into Claude Code; Expert Interface on Azure (React + Python microservices); Covestro FastAPI backend, Docker, AWS CDK, GitLab CI/CD."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Michael-Page.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Michael-Page.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

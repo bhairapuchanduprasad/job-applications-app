@@ -1,0 +1,90 @@
+{
+ "folder": "2026-10-24_union-investment_forward-deployed-engineer",
+ "date": "2026-10-24",
+ "company": "Union Investment",
+ "role": "Forward Deployed Engineer (m/w/d) KI-native Entwicklung",
+ "fit": 76,
+ "status": "build-first",
+ "next_step": "build spec-driven-agent-harness",
+ "notes": "Found by job-scout; Berlin (Merantix AI Campus), contact Katharina Beck; same project as opta data/BCG; gaps Agent SDKs, TypeScript, finance; German B1",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4465867033",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the Union Investment careers site or the LinkedIn posting (https://www.linkedin.com/jobs/view/4465867033). Contact: Katharina Beck, +49 69 2567-3116 (a short call before applying is fine).",
+ "source": "https://www.linkedin.com/jobs/view/4465867033",
+ "contact": "Katharina Beck",
+ "verdict": "Very close to your actual work: agentic systems with tool calling and orchestration, MCP servers, RAG, systematic evaluation, agent skills (Claude Code custom skills), working directly with business units and translating requirements. Gaps: Agent SDKs by name, TypeScript, tracing/observability tooling, regulated-finance experience (nice-to-have), and \"mehrjährige\" operation of production software.",
+ "gaps": [
+  "Agent SDKs, TypeScript",
+  "Observability/tracing",
+  "Banking",
+  "German"
+ ],
+ "form_fields": [
+  {
+   "label": "Why Union Investment?",
+   "value": "You already use AI for client fund allocations next to human advisers, and the KI-native team builds agents, skills and guardrails together with reliability and quality engineers: close to the business, evaluation as part of delivery."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€70,000 gross/year (range €60,000–75,000). Must be above the EU Blue Card threshold."
+  },
+  {
+   "label": "Earliest start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "Berlin, on-site majority is fine."
+  },
+  {
+   "label": "German level",
+   "value": "B1, improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Walk us through an agentic system you built and how you evaluated it.",
+   "a": "Kniit: parallel LangGraph agents (extraction, relationships, consolidation, reflection), indexing with agentic/deterministic/monolithic strategies, ground truth from SAP, 33/45 → 93/90."
+  },
+  {
+   "q": "What guardrails would you put on agents in a bank?",
+   "a": "Least-privilege tools, human approval for actions, logging and tracing of every run, evaluation sets in CI, prompt governance (versioned prompts, review), data never leaves approved systems. If built, demo the harness (hooks, CI gates, Langfuse traces)."
+  },
+  {
+   "q": "When would you not use an LLM?",
+   "a": "Kniit second data stream: deterministic code, $200k projected LLM budget → near zero, accuracy toward 100%."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Union-Investment.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Union-Investment.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-spec-driven-agent-harness.md"
+ ],
+ "build": "spec-driven-agent-harness",
+ "found_by_scout": true
+}
