@@ -1,0 +1,51 @@
+{
+ "folder": "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
+ "date": "2026-10-21",
+ "company": "Siemens Advanta",
+ "role": "Consultant (f/m/d), AI & New Technologies",
+ "fit": 78,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "English documents; location not in pasted text (likely Munich); needs Snowflake/dbt/Foundry/agent SDK (covered by project); have MSc transcript ready",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 95,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Consultant%20%28f/m/d%29%2C%20AI%20%26%20New%20Technologies%20Siemens%20Advanta&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted)",
+ "contact": "",
+ "verdict": "A natural fit for the \"skill spike\" they ask for: GenAI and agentic systems in a start-up (Kniit), AI on industrial data at a renowned industrial company (two Covestro internships + master's thesis), document intelligence (Kniit regulatory/technical documents), time series (Covestro process data, Cognizant EV load), Azure, and international background (India → Germany). Gaps: the named stack (Snowflake, dbt, Microsoft Foundry, ADK/OpenAI/Claude agent SDKs), IT/OT architecture, and formal consulting.",
+ "gaps": [
+  "Snowflake/dbt, Microsoft Foundry, agent SDKs",
+  "IT/OT",
+  "Consulting"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Siemens_Advanta.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Siemens_Advanta.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-plant-maintenance-agent.md"
+ ],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": false
+}

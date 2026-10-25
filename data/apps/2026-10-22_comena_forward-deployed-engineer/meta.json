@@ -1,0 +1,50 @@
+{
+ "folder": "2026-10-22_comena_forward-deployed-engineer",
+ "date": "2026-10-22",
+ "company": "Comena (YC S25)",
+ "role": "Forward Deployed Engineer",
+ "fit": 78,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "English documents; Munich on-site; EUR 80-150k posted (ask ~85k); TypeScript + Django gaps (project); 2 applicants in 2h; compensated take-home",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Forward%20Deployed%20Engineer%20Comena&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; responses managed off LinkedIn)",
+ "contact": "",
+ "verdict": "Strong on the core: you built and deployed LLM agents end to end as sole developer at a small start-up (Kniit), worked against SAP (ERP) system data with SAP domain experts, built full-stack apps (React + Python/FastAPI) and deployed them to AWS/Azure, used Postgres, and did stakeholder-facing AI consulting at Covestro. Gaps: TypeScript and Django (their stack), no email/document-to-ERP order processing, no hands-on ERP API integration.",
+ "gaps": [
+  "TypeScript, Django",
+  "Email → ERP order processing"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Comena.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Comena.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": false
+}

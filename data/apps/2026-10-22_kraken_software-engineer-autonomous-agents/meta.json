@@ -1,0 +1,51 @@
+{
+ "folder": "2026-10-22_kraken_software-engineer-autonomous-agents",
+ "date": "2026-10-22",
+ "company": "Kraken Technologies",
+ "role": "Software Engineer (Autonomous Agents)",
+ "fit": 82,
+ "status": "build-first",
+ "next_step": "build energy-service-agent",
+ "notes": "English documents; Berlin hybrid; no visa sponsorship (Blue Card = right to work, no sponsorship needed); TypeScript required (gap, covered by project); 15 applicants in 4h",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20%28Autonomous%20Agents%29%20Kraken%20Technologies&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; responses managed off LinkedIn)",
+ "contact": "",
+ "verdict": "Rare match on domain and stack: you built AI agents for the German energy sector (Kniit), an MCP server that gives agents fast access to a knowledge graph, evaluation of non-deterministic output against ground truth (P/R 33%/45% → 93%/90%, RAGAS), a domain-expert approval tool (human-in-the-loop), and you worked with stakeholders on their workflows (Covestro AI consulting internship). Gaps: TypeScript (required), customer-service/conversational AI, feature toggles, observability tools (Datadog/Sentry), Django.",
+ "gaps": [
+  "TypeScript",
+  "Customer service / conversational AI, feature toggles, observability",
+  "Django"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Kraken.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Kraken.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-energy-service-agent.md"
+ ],
+ "build": "energy-service-agent",
+ "found_by_scout": false
+}
