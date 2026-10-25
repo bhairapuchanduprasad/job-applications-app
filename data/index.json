@@ -1,0 +1,443 @@
+{
+ "generated": 1792895113.95238,
+ "apps": [
+  {
+   "folder": "2026-10-09_deloitte_agentic-ai-developer",
+   "date": "2026-10-09",
+   "company": "Deloitte",
+   "role": "Agentic AI Developer im aiStudio (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Düsseldorf",
+   "ats": 89,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Agentic%20AI%20Developer%20im%20aiStudio%20%28m/w/d%29%20Deloitte&location=Germany",
+   "apply_url_kind": "search",
+   "build": "contract-risk-agents",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-14_accenture_junior-applied-ai-engineer",
+   "date": "2026-10-14",
+   "company": "Accenture DACH",
+   "role": "Junior Applied AI Engineer (all genders)",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Kronberg",
+   "ats": 100,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Junior%20Applied%20AI%20Engineer%20%28all%20genders%29%20Accenture%20DACH&location=Germany",
+   "apply_url_kind": "search",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-14_dexter-health_ai-engineer-llm",
+   "date": "2026-10-14",
+   "company": "dexter health",
+   "role": "AI Engineer (LLM) - Remote",
+   "fit": 80,
+   "status": "build-first",
+   "city": "Germany, Remote",
+   "ats": 86,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer%20%28LLM%29%20-%20Remote%20dexter%20health&location=Germany",
+   "apply_url_kind": "search",
+   "build": "care-note-structurer",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-16_snocks_junior-ai-engineer",
+   "date": "2026-10-16",
+   "company": "SNOCKS",
+   "role": "Junior AI Engineer (m/w/d)",
+   "fit": 80,
+   "status": "build-first",
+   "city": "Mannheim",
+   "ats": 96,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Junior%20AI%20Engineer%20%28m/w/d%29%20SNOCKS&location=Germany",
+   "apply_url_kind": "search",
+   "build": "shop-support-agent",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-16_sap_ai-engineer-development-expert",
+   "date": "2026-10-16",
+   "company": "SAP SE",
+   "role": "AI Engineer – Development Expert (f/m/d)",
+   "fit": 45,
+   "status": "build-first",
+   "city": "Garching/Munich",
+   "ats": 94,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer%20%E2%80%93%20Development%20Expert%20%28f/m/d%29%20SAP%20SE&location=Germany",
+   "apply_url_kind": "search",
+   "build": "meter-read-plausibility-agent",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-17_haiar_backend-software-engineer-ai-systems",
+   "date": "2026-10-17",
+   "company": "HAIAR GmbH",
+   "role": "Backend Software Engineer - AI Systems (m/w/d)",
+   "fit": 76,
+   "status": "build-first",
+   "city": "Remote (Germany)",
+   "ats": 95,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20-%20AI%20Systems%20%28m/w/d%29%20HAIAR%20GmbH&location=Germany",
+   "apply_url_kind": "search",
+   "build": "autohaus-service-agent",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-17_bcg-platinion_ai-associate",
+   "date": "2026-10-17",
+   "company": "BCG Platinion",
+   "role": "AI Associate (all genders)",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 89,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Associate%20%28all%20genders%29%20BCG%20Platinion&location=Germany",
+   "apply_url_kind": "search",
+   "build": "spec-driven-agent-harness",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-17_jobgether_ai-evaluation-engineer",
+   "date": "2026-10-17",
+   "company": "Jobgether (undisclosed partner)",
+   "role": "AI Evaluation Engineer",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 100,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Evaluation%20Engineer%20Jobgether&location=Germany",
+   "apply_url_kind": "search",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-17_cloover_ai-engineering-automation-specialist",
+   "date": "2026-10-17",
+   "company": "Cloover",
+   "role": "AI Engineering & Automation Specialist (on-site)",
+   "fit": 84,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 95,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineering%20%26%20Automation%20Specialist%20%28on-site%29%20Cloover&location=Germany",
+   "apply_url_kind": "search",
+   "build": "ops-mcp-server",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-17_hotrega_ki-und-prozessmanager",
+   "date": "2026-10-17",
+   "company": "HOTREGA GmbH",
+   "role": "KI- und Prozessmanager (m/w/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Bad Salzschlirf, Hessen",
+   "ats": 88,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=KI-%20und%20Prozessmanager%20%28m/w/d%29%20HOTREGA%20GmbH&location=Germany",
+   "apply_url_kind": "search",
+   "build": "product-qa-assistant",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
+   "date": "2026-10-21",
+   "company": "Siemens Advanta",
+   "role": "Consultant (f/m/d), AI & New Technologies",
+   "fit": 78,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 95,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Consultant%20%28f/m/d%29%2C%20AI%20%26%20New%20Technologies%20Siemens%20Advanta&location=Germany",
+   "apply_url_kind": "search",
+   "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-21_aily-labs_decision-intelligence-analyst",
+   "date": "2026-10-21",
+   "company": "Aily Labs",
+   "role": "Decision Intelligence Analyst",
+   "fit": 86,
+   "status": "ready",
+   "city": "Munich",
+   "ats": 85,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Decision%20Intelligence%20Analyst%20Aily%20Labs&location=Germany",
+   "apply_url_kind": "search",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-21_bedrock-projekt_python-genai-developer",
+   "date": "2026-10-21",
+   "company": "Recruiter (end client unnamed)",
+   "role": "Python & GenAI Developer (m/w/d) – AWS Bedrock / Remote",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 94,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Python%20%26%20GenAI%20Developer%20%28m/w/d%29%20%E2%80%93%20AWS%20Bedrock%20/%20Remote%20Recruiter&location=Germany",
+   "apply_url_kind": "search",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-22_kraken_software-engineer-autonomous-agents",
+   "date": "2026-10-22",
+   "company": "Kraken Technologies",
+   "role": "Software Engineer (Autonomous Agents)",
+   "fit": 82,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20%28Autonomous%20Agents%29%20Kraken%20Technologies&location=Germany",
+   "apply_url_kind": "search",
+   "build": "energy-service-agent",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-22_comena_forward-deployed-engineer",
+   "date": "2026-10-22",
+   "company": "Comena (YC S25)",
+   "role": "Forward Deployed Engineer",
+   "fit": 78,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Forward%20Deployed%20Engineer%20Comena&location=Germany",
+   "apply_url_kind": "search",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-23_hermes-group_ai-engineer",
+   "date": "2026-10-23",
+   "company": "HERMES Group",
+   "role": "AI Engineer (m/w/d)",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 85,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer%20%28m/w/d%29%20HERMES%20Group&location=Germany",
+   "apply_url_kind": "search",
+   "build": "quality-process-copilot",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-23_dexter-health_ai-developer-llm-products",
+   "date": "2026-10-23",
+   "company": "dexter health",
+   "role": "AI Developer (LLM Products) - Remote",
+   "fit": 81,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 86,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Developer%20%28LLM%20Products%29%20-%20Remote%20dexter%20health&location=Germany",
+   "apply_url_kind": "search",
+   "build": "care-note-structurer",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-23_taskverse-adesso_ai-engineer",
+   "date": "2026-10-23",
+   "company": "TaskVerse (posting) / adesso SE",
+   "role": "AI Engineer",
+   "fit": 70,
+   "status": "ready",
+   "city": "Germany",
+   "ats": 73,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer%20TaskVerse&location=Germany",
+   "apply_url_kind": "search",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-23_opta-data_ai-engineer",
+   "date": "2026-10-23",
+   "company": "opta data Gruppe",
+   "role": "AI-Engineer (w/m/x)",
+   "fit": 84,
+   "status": "build-first",
+   "city": "Essen",
+   "ats": 77,
+   "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI-Engineer%20%28w/m/x%29%20opta%20data%20Gruppe&location=Germany",
+   "apply_url_kind": "search",
+   "build": "spec-driven-agent-harness",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-10-24_michael-page_ai-engineer",
+   "date": "2026-10-24",
+   "company": "Michael Page (client not named)",
+   "role": "AI Engineer (m/w/d)",
+   "fit": 72,
+   "status": "ready",
+   "city": "Berlin",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4475036239",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-24_rewe-digital_platform-engineer-ki-platform",
+   "date": "2026-10-24",
+   "company": "REWE digital",
+   "role": "Platform Engineer Analytics & KI-Platform (m/w/d)",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Cologne",
+   "ats": 73,
+   "apply_url": "https://www.linkedin.com/jobs/view/4386355137",
+   "apply_url_kind": "posting",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-24_bitmarck_software-engineer-conversational-ai",
+   "date": "2026-10-24",
+   "company": "BITMARCK",
+   "role": "Software Engineer Conversational AI (m/w/d)",
+   "fit": 78,
+   "status": "ready",
+   "city": "Essen",
+   "ats": 83,
+   "apply_url": "https://www.linkedin.com/jobs/view/4466081363",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-24_union-investment_forward-deployed-engineer",
+   "date": "2026-10-24",
+   "company": "Union Investment",
+   "role": "Forward Deployed Engineer (m/w/d) KI-native Entwicklung",
+   "fit": 76,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4465867033",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-agent-harness",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-24_valantic_junior-consultant-ai-mlops",
+   "date": "2026-10-24",
+   "company": "valantic",
+   "role": "Junior Consultant (all genders) AI & MLOps Engineering",
+   "fit": 72,
+   "status": "ready",
+   "city": "Munich",
+   "ats": 69,
+   "apply_url": "https://www.linkedin.com/jobs/view/4463494114",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-24_sparda-bank-hannover_ki-plattform-experte",
+   "date": "2026-10-24",
+   "company": "Sparda-Bank Hannover eG",
+   "role": "KI-Plattform-Experte (m/w/d) mit Schwerpunkt Data Science und LLM Engineering",
+   "fit": 68,
+   "status": "ready",
+   "city": "Hannover",
+   "ats": 73,
+   "apply_url": "https://www.linkedin.com/jobs/view/4477678140",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_cohere_forward-deployed-engineer",
+   "date": "2026-10-25",
+   "company": "Cohere",
+   "role": "Forward Deployed Engineer, Agentic Platform (Europe)",
+   "fit": 76,
+   "status": "ready",
+   "city": "Berlin",
+   "ats": null,
+   "apply_url": "https://www.linkedin.com/jobs/view/4418823251",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  }
+ ],
+ "builds": {
+  "contract-risk-agents": [
+   "2026-10-09_deloitte_agentic-ai-developer"
+  ],
+  "llm-gateway": [
+   "2026-10-14_accenture_junior-applied-ai-engineer",
+   "2026-10-24_rewe-digital_platform-engineer-ki-platform"
+  ],
+  "care-note-structurer": [
+   "2026-10-14_dexter-health_ai-engineer-llm",
+   "2026-10-23_dexter-health_ai-developer-llm-products"
+  ],
+  "shop-support-agent": [
+   "2026-10-16_snocks_junior-ai-engineer"
+  ],
+  "meter-read-plausibility-agent": [
+   "2026-10-16_sap_ai-engineer-development-expert"
+  ],
+  "autohaus-service-agent": [
+   "2026-10-17_haiar_backend-software-engineer-ai-systems"
+  ],
+  "spec-driven-agent-harness": [
+   "2026-10-17_bcg-platinion_ai-associate",
+   "2026-10-23_opta-data_ai-engineer",
+   "2026-10-24_union-investment_forward-deployed-engineer"
+  ],
+  "agent-eval-harness": [
+   "2026-10-17_jobgether_ai-evaluation-engineer"
+  ],
+  "ops-mcp-server": [
+   "2026-10-17_cloover_ai-engineering-automation-specialist"
+  ],
+  "product-qa-assistant": [
+   "2026-10-17_hotrega_ki-und-prozessmanager"
+  ],
+  "plant-maintenance-agent": [
+   "2026-10-21_siemens-advanta_consultant-ai-new-technologies"
+  ],
+  "energy-service-agent": [
+   "2026-10-22_kraken_software-engineer-autonomous-agents"
+  ],
+  "order-inbox-agent": [
+   "2026-10-22_comena_forward-deployed-engineer"
+  ],
+  "quality-process-copilot": [
+   "2026-10-23_hermes-group_ai-engineer"
+  ]
+ }
+}
