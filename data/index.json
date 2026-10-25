@@ -1,5 +1,5 @@
 {
- "generated": 1792895113.95238,
+ "generated": 1792896080.167953,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -384,7 +384,7 @@
    "fit": 76,
    "status": "ready",
    "city": "Berlin",
-   "ats": null,
+   "ats": 73,
    "apply_url": "https://www.linkedin.com/jobs/view/4418823251",
    "apply_url_kind": "posting",
    "build": "",
