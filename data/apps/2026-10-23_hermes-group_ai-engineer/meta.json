@@ -1,0 +1,49 @@
+{
+ "folder": "2026-10-23_hermes-group_ai-engineer",
+ "date": "2026-10-23",
+ "company": "HERMES Group",
+ "role": "AI Engineer (m/w/d)",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build quality-process-copilot",
+ "notes": "English documents (no explicit German requirement; German letter optional); Pullach near Munich, permanent, 37.5h; Power Platform must-have (gap, covered by project); posted 7 min before",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 85,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer%20%28m/w/d%29%20HERMES%20Group&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; responses managed off LinkedIn)",
+ "contact": "",
+ "verdict": "You cover the AI side well (agents, copilot-like assistants, integrations through APIs, Azure, reusable components) and you worked with chemists in the chemical industry, close to pharma. But the core must-have is hands-on Microsoft Power Platform (Power Automate, Power Apps), which you don't have; Copilot Studio and Azure AI Foundry (pluses) are also new. This is a low-code Microsoft role, while your work is code-first Python.",
+ "gaps": [
+  "Power Platform / Copilot Studio"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-quality-process-copilot.md"
+ ],
+ "build": "quality-process-copilot",
+ "found_by_scout": false
+}

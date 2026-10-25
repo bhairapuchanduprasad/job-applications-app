@@ -1,0 +1,45 @@
+{
+ "folder": "2026-10-23_taskverse-adesso_ai-engineer",
+ "date": "2026-10-23",
+ "company": "TaskVerse (posting) / adesso SE",
+ "role": "AI Engineer",
+ "fit": 70,
+ "status": "ready",
+ "next_step": "submit (and apply directly on adesso careers page)",
+ "notes": "English documents; remote Germany; WARNING: third-party/vague posting, share only CV + contact; built projects only (no build needed)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 73,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer%20TaskVerse&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; posted by TaskVerse not adesso)",
+ "contact": "",
+ "verdict": "On what the text does ask for (software development, AI, consulting, working with customers on requirements, evaluating and implementing solutions, documenting decisions, responsible AI) you match well: sole developer at Kniit, AI consulting internship at Covestro, evaluation against ground truth. There's nothing specific to tailor to.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_adesso.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_adesso.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false
+}

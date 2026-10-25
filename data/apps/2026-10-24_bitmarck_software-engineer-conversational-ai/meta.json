@@ -1,0 +1,88 @@
+{
+ "folder": "2026-10-24_bitmarck_software-engineer-conversational-ai",
+ "date": "2026-10-24",
+ "company": "BITMARCK",
+ "role": "Software Engineer Conversational AI (m/w/d)",
+ "fit": 78,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; Essen (8 locations); GKV customers; gaps chatbots/voicebots, pgvector, LlamaIndex; German B1",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Essen",
+ "ats": 83,
+ "apply_url": "https://www.linkedin.com/jobs/view/4466081363",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the BITMARCK careers site or the LinkedIn posting (https://www.linkedin.com/jobs/view/4466081363). Locations: Essen, Dresden, Hamburg, München, Frankfurt, Ludwigsburg, Magdeburg, Berlin; up to 3 days mobile per week.",
+ "source": "https://www.linkedin.com/jobs/view/4466081363",
+ "contact": "",
+ "verdict": "Strong on LLMs (open-source and API), RAG, agents, Python, backend/REST, databases, LangChain and Hugging Face, Git and CI/CD. Gaps: no chatbot or voicebot shipped as such, pgvector and LlamaIndex not in the profile, no health-insurance domain. Essen is one of the listed locations and you live there.",
+ "gaps": [
+  "Chatbots/voicebots",
+  "pgvector, LlamaIndex",
+  "GKV domain",
+  "German"
+ ],
+ "form_fields": [
+  {
+   "label": "Why BITMARCK?",
+   "value": "You build the software most statutory health insurers run on; a chatbot there must be correct and careful with data, which is the kind of reliability work I have done."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€70,000 gross/year (range €60,000–75,000). Must be above the EU Blue Card threshold."
+  },
+  {
+   "label": "Earliest start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "Essen; open to other BITMARCK locations."
+  },
+  {
+   "label": "German level",
+   "value": "B1, improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "How would you build a RAG chatbot for a health insurer?",
+   "a": "Retrieval over approved documents only, citations in every answer, evaluation set with domain experts (RAGAS + ground truth, as in your thesis), fallback to a human, no personal data in prompts or logs, monitoring of answer quality. Evidence: PrismaChat evaluation, Kniit ground-truth loop (33/45 → 93/90)."
+  },
+  {
+   "q": "Which vector database would you choose, Qdrant or pgvector?",
+   "a": "You used Qdrant, Pinecone and Azure AI Search; pgvector keeps vectors next to relational data in Postgres (simpler ops), Qdrant scales better for large collections and filtering. Be honest that you haven't used pgvector."
+  },
+  {
+   "q": "Tell us about integrating an LLM into a backend and frontend.",
+   "a": "Covestro: LangGraph agent + FastAPI + React, Docker, AWS CDK, GitLab CI/CD. Kniit: MCP service, Expert Interface on Azure."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_BITMARCK.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_BITMARCK.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

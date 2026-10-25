@@ -1,0 +1,90 @@
+{
+ "folder": "2026-10-23_opta-data_ai-engineer",
+ "date": "2026-10-23",
+ "company": "opta data Gruppe",
+ "role": "AI-Engineer (w/m/x)",
+ "fit": 84,
+ "status": "build-first",
+ "next_step": "build spec-driven-agent-harness",
+ "notes": "Essen hybrid; posting in German, no stated German requirement (have B1, likely used internally); Java listed as primary language (gap); reposted, 100+ clicked apply; THWS alumni at company",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Essen",
+ "ats": 77,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI-Engineer%20%28w/m/x%29%20opta%20data%20Gruppe&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "Apply via the opta data careers site (LinkedIn says responses are managed off LinkedIn). THWS alumni work there: consider a short LinkedIn message to one of them.",
+ "source": "LinkedIn (pasted; apply via opta data careers site)",
+ "contact": "",
+ "verdict": "Very strong on the core (LLM applications, RAG, agents, MCP, LLM APIs, Python, Docker/Kubernetes/CI-CD, RAGAS, fine-tuning, classic ML), and you already live in Essen. Gaps: Java, Langfuse/pgvector/Weaviate/FastMCP by name, healthcare domain, and German for daily work.",
+ "gaps": [
+  "Java",
+  "Langfuse / FastMCP / pgvector / Weaviate",
+  "OpenAI/Anthropic by name",
+  "Healthcare"
+ ],
+ "form_fields": [
+  {
+   "label": "Why opta data?",
+   "value": "You serve 60,000+ customers across care, therapy, medical supply and rescue services, with many products and document-heavy billing and approval processes. That is a good place for RAG systems, agents and better developer tooling, and I want to build AI that is measured and trusted, close to home in Essen."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€70,000 gross/year (range €60,000–75,000). Must be above the EU Blue Card threshold."
+  },
+  {
+   "label": "Earliest start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "Essen; hybrid works well."
+  },
+  {
+   "label": "German level",
+   "value": "B1, improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Walk us through a RAG or agent system you built and how you measured its quality.",
+   "a": "Kniit: LangGraph agents (entity extraction, relationship analysis, consolidation, reflection) on regulatory documents; measured against SAP-derived ground truth; 33/45 → 93/90 precision/recall. Covestro thesis: RAGAS + PytrecEval against chemists' answers; embedding benchmark on 1M+ chunks. Prepare one concrete failure you found through evaluation and how you fixed it."
+  },
+  {
+   "q": "How would you help our developers work more efficiently with GenAI?",
+   "a": "Start small and measurable: an MCP server that exposes internal knowledge (APIs, coding conventions, product docs) to a coding agent; custom skills for recurring tasks; generated user documentation reviewed by a human; track adoption and time saved. Your evidence: Claude Code with custom skills at Kniit, MCP server built for Claude Code. If the Spec-Driven Coding Agent Harness is built by then, demo it."
+  },
+  {
+   "q": "When is GenAI the wrong tool?\" (feasibility analyses)",
+   "a": "Kniit second data stream: deterministic code beat an LLM, cut a projected $200,000 LLM budget to near zero, accuracy toward 100%. Covestro: advised business stakeholders on where agentic AI fits."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_opta-data.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_opta-data.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-spec-driven-agent-harness.md"
+ ],
+ "build": "spec-driven-agent-harness",
+ "found_by_scout": false
+}
