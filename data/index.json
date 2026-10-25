@@ -1,9 +1,10 @@
 {
- "generated": 1792930418.126001,
+ "generated": 1792937720.2439911,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
    "date": "2026-10-09",
+   "prepared_at": 1791562360,
    "company": "Deloitte",
    "role": "Agentic AI Developer im aiStudio (m/w/d)",
    "fit": 62,
@@ -19,6 +20,7 @@
   {
    "folder": "2026-10-14_accenture_junior-applied-ai-engineer",
    "date": "2026-10-14",
+   "prepared_at": 1791997788,
    "company": "Accenture DACH",
    "role": "Junior Applied AI Engineer (all genders)",
    "fit": 74,
@@ -34,6 +36,7 @@
   {
    "folder": "2026-10-14_dexter-health_ai-engineer-llm",
    "date": "2026-10-14",
+   "prepared_at": 1791998142,
    "company": "dexter health",
    "role": "AI Engineer (LLM) - Remote",
    "fit": 80,
@@ -49,6 +52,7 @@
   {
    "folder": "2026-10-16_snocks_junior-ai-engineer",
    "date": "2026-10-16",
+   "prepared_at": 1792174591,
    "company": "SNOCKS",
    "role": "Junior AI Engineer (m/w/d)",
    "fit": 80,
@@ -64,6 +68,7 @@
   {
    "folder": "2026-10-16_sap_ai-engineer-development-expert",
    "date": "2026-10-16",
+   "prepared_at": 1792175823,
    "company": "SAP SE",
    "role": "AI Engineer – Development Expert (f/m/d)",
    "fit": 45,
@@ -79,6 +84,7 @@
   {
    "folder": "2026-10-17_haiar_backend-software-engineer-ai-systems",
    "date": "2026-10-17",
+   "prepared_at": 1792175915,
    "company": "HAIAR GmbH",
    "role": "Backend Software Engineer - AI Systems (m/w/d)",
    "fit": 76,
@@ -94,6 +100,7 @@
   {
    "folder": "2026-10-17_bcg-platinion_ai-associate",
    "date": "2026-10-17",
+   "prepared_at": 1792176069,
    "company": "BCG Platinion",
    "role": "AI Associate (all genders)",
    "fit": 74,
@@ -109,6 +116,7 @@
   {
    "folder": "2026-10-17_jobgether_ai-evaluation-engineer",
    "date": "2026-10-17",
+   "prepared_at": 1792176221,
    "company": "Jobgether (undisclosed partner)",
    "role": "AI Evaluation Engineer",
    "fit": 70,
@@ -124,6 +132,7 @@
   {
    "folder": "2026-10-17_cloover_ai-engineering-automation-specialist",
    "date": "2026-10-17",
+   "prepared_at": 1792178119,
    "company": "Cloover",
    "role": "AI Engineering & Automation Specialist (on-site)",
    "fit": 84,
@@ -139,6 +148,7 @@
   {
    "folder": "2026-10-17_hotrega_ki-und-prozessmanager",
    "date": "2026-10-17",
+   "prepared_at": 1792180112,
    "company": "HOTREGA GmbH",
    "role": "KI- und Prozessmanager (m/w/d)",
    "fit": 72,
@@ -154,6 +164,7 @@
   {
    "folder": "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
    "date": "2026-10-21",
+   "prepared_at": 1792573272,
    "company": "Siemens Advanta",
    "role": "Consultant (f/m/d), AI & New Technologies",
    "fit": 78,
@@ -169,6 +180,7 @@
   {
    "folder": "2026-10-21_aily-labs_decision-intelligence-analyst",
    "date": "2026-10-21",
+   "prepared_at": 1792576915,
    "company": "Aily Labs",
    "role": "Decision Intelligence Analyst",
    "fit": 86,
@@ -184,6 +196,7 @@
   {
    "folder": "2026-10-21_bedrock-projekt_python-genai-developer",
    "date": "2026-10-21",
+   "prepared_at": 1792580801,
    "company": "Recruiter (end client unnamed)",
    "role": "Python & GenAI Developer (m/w/d) – AWS Bedrock / Remote",
    "fit": 62,
@@ -199,6 +212,7 @@
   {
    "folder": "2026-10-22_kraken_software-engineer-autonomous-agents",
    "date": "2026-10-22",
+   "prepared_at": 1792639034,
    "company": "Kraken Technologies",
    "role": "Software Engineer (Autonomous Agents)",
    "fit": 82,
@@ -214,6 +228,7 @@
   {
    "folder": "2026-10-22_comena_forward-deployed-engineer",
    "date": "2026-10-22",
+   "prepared_at": 1792639328,
    "company": "Comena (YC S25)",
    "role": "Forward Deployed Engineer",
    "fit": 78,
@@ -229,6 +244,7 @@
   {
    "folder": "2026-10-23_hermes-group_ai-engineer",
    "date": "2026-10-23",
+   "prepared_at": 1792746214,
    "company": "HERMES Group",
    "role": "AI Engineer (m/w/d)",
    "fit": 60,
@@ -244,6 +260,7 @@
   {
    "folder": "2026-10-23_dexter-health_ai-developer-llm-products",
    "date": "2026-10-23",
+   "prepared_at": 1792746354,
    "company": "dexter health",
    "role": "AI Developer (LLM Products) - Remote",
    "fit": 81,
@@ -259,6 +276,7 @@
   {
    "folder": "2026-10-23_taskverse-adesso_ai-engineer",
    "date": "2026-10-23",
+   "prepared_at": 1792750214,
    "company": "TaskVerse (posting) / adesso SE",
    "role": "AI Engineer",
    "fit": 70,
@@ -274,6 +292,7 @@
   {
    "folder": "2026-10-23_opta-data_ai-engineer",
    "date": "2026-10-23",
+   "prepared_at": 1792835777,
    "company": "opta data Gruppe",
    "role": "AI-Engineer (w/m/x)",
    "fit": 84,
@@ -289,6 +308,7 @@
   {
    "folder": "2026-10-24_michael-page_ai-engineer",
    "date": "2026-10-24",
+   "prepared_at": 1792841088,
    "company": "Michael Page (client not named)",
    "role": "AI Engineer (m/w/d)",
    "fit": 72,
@@ -304,6 +324,7 @@
   {
    "folder": "2026-10-24_rewe-digital_platform-engineer-ki-platform",
    "date": "2026-10-24",
+   "prepared_at": 1792841295,
    "company": "REWE digital",
    "role": "Platform Engineer Analytics & KI-Platform (m/w/d)",
    "fit": 60,
@@ -319,6 +340,7 @@
   {
    "folder": "2026-10-24_bitmarck_software-engineer-conversational-ai",
    "date": "2026-10-24",
+   "prepared_at": 1792857075,
    "company": "BITMARCK",
    "role": "Software Engineer Conversational AI (m/w/d)",
    "fit": 78,
@@ -334,6 +356,7 @@
   {
    "folder": "2026-10-24_union-investment_forward-deployed-engineer",
    "date": "2026-10-24",
+   "prepared_at": 1792857182,
    "company": "Union Investment",
    "role": "Forward Deployed Engineer (m/w/d) KI-native Entwicklung",
    "fit": 76,
@@ -349,6 +372,7 @@
   {
    "folder": "2026-10-24_valantic_junior-consultant-ai-mlops",
    "date": "2026-10-24",
+   "prepared_at": 1792858030,
    "company": "valantic",
    "role": "Junior Consultant (all genders) AI & MLOps Engineering",
    "fit": 72,
@@ -364,6 +388,7 @@
   {
    "folder": "2026-10-24_sparda-bank-hannover_ki-plattform-experte",
    "date": "2026-10-24",
+   "prepared_at": 1792858080,
    "company": "Sparda-Bank Hannover eG",
    "role": "KI-Plattform-Experte (m/w/d) mit Schwerpunkt Data Science und LLM Engineering",
    "fit": 68,
@@ -379,6 +404,7 @@
   {
    "folder": "2026-10-25_cohere_forward-deployed-engineer",
    "date": "2026-10-25",
+   "prepared_at": 1792895091,
    "company": "Cohere",
    "role": "Forward Deployed Engineer, Agentic Platform (Europe)",
    "fit": 76,
@@ -394,6 +420,7 @@
   {
    "folder": "2026-10-25_cancierge-ai_machine-learning-engineer",
    "date": "2026-10-25",
+   "prepared_at": 1792930261,
    "company": "cancierge.ai",
    "role": "Machine Learning Engineer",
    "fit": 72,
@@ -409,6 +436,7 @@
   {
    "folder": "2026-10-25_juicylemons_product-engineer",
    "date": "2026-10-25",
+   "prepared_at": 1792930401,
    "company": "JuicyLemons",
    "role": "Product Engineer (m/f/d)",
    "fit": 62,

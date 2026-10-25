@@ -14,6 +14,7 @@ import os
 import time
 from datetime import date, datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 import streamlit as st
@@ -186,9 +187,16 @@ def apps() -> list[dict]:
     return out
 
 
+TZ = ZoneInfo("Europe/Berlin")
+
+
+def today() -> date:
+    return datetime.now(TZ).date()
+
+
 def days_since(d: str) -> int | None:
     try:
-        return (date.today() - date.fromisoformat(d[:10])).days
+        return (today() - date.fromisoformat(d[:10])).days
     except Exception:
         return None
 
@@ -198,13 +206,41 @@ def ago(d: str) -> str:
     return "" if n is None else ("today" if n == 0 else "yesterday" if n == 1 else f"{n} days ago")
 
 
+def prepared_ago(a: dict) -> str:
+    """'3 hours ago' for today's applications, otherwise 'yesterday' / 'N days ago'."""
+    ts = a.get("prepared_at")
+    if ts and days_since(a["date"]) == 0:
+        mins = max(0, int((time.time() - ts) // 60))
+        if mins < 60:
+            return "just now" if mins < 2 else f"{mins} min ago"
+        h = mins // 60
+        return f"{h} hour{'s' if h > 1 else ''} ago"
+    return ago(a["date"])
+
+
+def day_label(d: str) -> str:
+    n = days_since(d)
+    if n == 0:
+        return "Today"
+    if n == 1:
+        return "Yesterday"
+    try:
+        return date.fromisoformat(d[:10]).strftime("%a %d %b")
+    except ValueError:
+        return d
+
+
+def shown_status(a: dict) -> str:
+    return "ready" if a["status"] in OPEN else a["status"]
+
+
 # ---------- actions ----------
 def set_status(folder: str, status: str, via: str = "", note: str = "", applied: str = "") -> None:
     def fn(data):
         e = data["apps"].setdefault(folder, {})
         e.update(status=status, updated=time.time())
         if status == "applied":
-            e["applied_date"] = applied or date.today().isoformat()
+            e["applied_date"] = applied or today().isoformat()
             e["applied_via"] = via
         if note:
             e["note"] = note
@@ -215,7 +251,7 @@ def set_status(folder: str, status: str, via: str = "", note: str = "", applied:
 def applied_dialog(a: dict):
     st.write(f"**{a['company']}** · {a['role']}")
     via = st.radio("Where did you apply?", CHANNELS, index=0)
-    when = st.date_input("Date", value=date.today())
+    when = st.date_input("Date", value=today())
     note = st.text_input("Note (optional)", placeholder="e.g. used referral, salary 70k entered")
     if st.button("✓ Save", type="primary", width="stretch"):
         set_status(a["folder"], "applied", via, note, when.isoformat())
@@ -236,7 +272,8 @@ def pdf_button(folder: str, doc: dict, key: str, label: str | None = None):
 
 
 def chip(a: dict) -> str:
-    bits = [f"{ICON.get(a['status'], '•')} {a['status']}"]
+    s = shown_status(a)
+    bits = [f"{ICON.get(s, '•')} {s}"]
     if a.get("fit") is not None:
         bits.append(f"fit {a['fit']}")
     if a.get("ats") is not None:
@@ -248,33 +285,32 @@ def chip(a: dict) -> str:
 def page_home():
     st.title("💼 To apply")
     rows = apps()
-    ready = [a for a in rows if a["status"] == "ready"]
-    build = [a for a in rows if a["status"] == "build-first"]
+    pick = [a for a in rows if a["status"] in OPEN]
     week = [a for a in rows if a["status"] in ACTIVE and (days_since(a.get("applied_date", "")) or 99) <= 7]
     c1, c2, c3 = st.columns(3)
-    c1.metric("Ready", len(ready))
-    c2.metric("Need build", len(build))
+    c1.metric("To apply", len(pick))
+    c2.metric("New today", sum(days_since(a["date"]) == 0 for a in pick))
     c3.metric("Applied 7d", len(week))
     if st.session_state.get("store_error"):
         st.warning("Couldn't reach the status store; showing the last export. " + st.session_state.pop("store_error"))
 
-    show = st.segmented_control("Show", ["Ready", "Need build", "All open"], default="Ready",
-                                label_visibility="collapsed") or "Ready"
-    pick = {"Ready": ready, "Need build": build, "All open": ready + build}[show]
-    pick.sort(key=lambda a: a["date"], reverse=True)
-    pick.sort(key=lambda a: (a["status"] != "ready", -(a.get("fit") or 0)))
+    # newest first, grouped by the day they were prepared
+    pick.sort(key=lambda a: (a["date"], a.get("prepared_at") or 0), reverse=True)
     if not pick:
         st.success("Nothing waiting here. 🎉")
+    last_day = None
     for a in pick:
+        if a["date"] != last_day:
+            last_day = a["date"]
+            n = sum(x["date"] == last_day for x in pick)
+            st.subheader(f"{day_label(last_day)} · {n}")
         m = meta(a["folder"])
         with st.container(border=True):
             st.markdown(f"**{a['company']}**  \n{a['role']}")
             where = a.get("city") or "—"
             src = "🔎 scout · " if a.get("found_by_scout") else ""
-            st.markdown(f"<div class='small'>{chip(a)}<br>📍 {where} · {src}prepared {ago(a['date'])}</div>",
+            st.markdown(f"<div class='small'>{chip(a)}<br>📍 {where} · {src}prepared {prepared_ago(a)}</div>",
                         unsafe_allow_html=True)
-            if a["status"] == "build-first" and m.get("build"):
-                st.caption(f"🛠️ Build first: **{m['build']}**")
             b1, b2 = st.columns([3, 2])
             label = "Apply ↗" if m.get("apply_url_kind") == "posting" else "Find posting ↗"
             if m.get("apply_url"):
@@ -298,31 +334,31 @@ def page_home():
 def page_detail():
     rows = apps()
     by = {a["folder"]: a for a in rows}
-    order = sorted(rows, key=lambda a: (a["status"] not in OPEN, a["status"] != "ready", a["date"]), reverse=False)
+    order = sorted(rows, key=lambda a: (a["status"] in OPEN, a["date"], a.get("prepared_at") or 0), reverse=True)
     folders = [a["folder"] for a in order]
     current = st.session_state.get("app") or st.query_params.get("app") or folders[0]
     if current not in by:
         current = folders[0]
     folder = st.selectbox("Application", folders, index=folders.index(current),
-                          format_func=lambda f: f"{ICON.get(by[f]['status'], '•')} {by[f]['company']} · {by[f]['role']}")
+                          format_func=lambda f: f"{ICON.get(shown_status(by[f]), '•')} {by[f]['company']} · {by[f]['role']}")
     st.session_state["app"] = folder
     st.query_params["app"] = folder
     a, m = by[folder], meta(folder)
 
     st.header(a["company"])
-    st.markdown(f"**{a['role']}**  \n📍 {a.get('city') or '—'} · prepared {a['date']} ({ago(a['date'])})")
+    st.markdown(f"**{a['role']}**  \n📍 {a.get('city') or '—'} · prepared {a['date']} ({prepared_ago(a)})")
     c1, c2, c3 = st.columns(3)
     c1.metric("Fit", f"{a['fit']}/100" if a.get("fit") is not None else "—")
     c2.metric("ATS", f"{a['ats']}%" if a.get("ats") is not None else "—")
-    c3.metric("Status", f"{ICON.get(a['status'], '')} {a['status']}")
+    c3.metric("Status", f"{ICON.get(shown_status(a), '')} {shown_status(a)}")
     if a.get("applied_date"):
         st.caption(f"Applied {a['applied_date']} via {a.get('applied_via') or '—'}"
                    + (f" · {a['note']}" if a.get("note") else ""))
     if m.get("verdict"):
         st.info(m["verdict"])
     if a["status"] == "build-first":
-        st.warning(f"🛠️ Build **{m.get('build') or 'the planned project'}** before sending: the CV lists it. "
-                   "See the Project tab.")
+        st.caption(f"🛠️ The CV includes the project **{m.get('build') or 'from the Project tab'}**; "
+                   "its brief is in the Project tab.")
 
     # Apply block
     with st.container(border=True):
