@@ -1,3 +1,4 @@
 2026-10-24 16:58 found=53 new=19(+5 queued) prepared=2 skipped=22 (1 search query hit HTTP 429)
 2026-10-24 21:38 found=47 new=14 prepared=4 skipped=10
 2026-10-25 08:49 found=52 new=17 prepared=0 skipped=0 (queued only: applications paused by user)
+2026-10-25 10:07 searched 8 queries, 16 jobs found, 9 new to review, 3 skipped by title/tracker (queued only: paused)
