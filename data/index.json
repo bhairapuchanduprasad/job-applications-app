@@ -1,5 +1,5 @@
 {
- "generated": 1792937720.2439911,
+ "generated": 1792941311.492331,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -448,6 +448,70 @@
    "build": "clinical-info-assistant",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai",
+   "date": "2026-10-25",
+   "prepared_at": 1792941113,
+   "company": "Hamburger Energienetze GmbH",
+   "role": "Azure DevOps Engineer mit Fokus Azure AI (a*)",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481054657",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-rag-starter-kit",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_bestandsfaktor_founding-software-engineer",
+   "date": "2026-10-25",
+   "prepared_at": 1792941148,
+   "company": "Bestandsfaktor",
+   "role": "Founding Software Engineer",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481074834",
+   "apply_url_kind": "posting",
+   "build": "client-occasion-engine",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_cgi_ai-qa-engineer",
+   "date": "2026-10-25",
+   "prepared_at": 1792941268,
+   "company": "CGI",
+   "role": "AI QA Engineer – Conversational AI & GenAI-Automationen (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Eschborn",
+   "ats": 88,
+   "apply_url": "https://www.linkedin.com/jobs/view/4447592166",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_baehrbots_ai-integration-engineer",
+   "date": "2026-10-25",
+   "prepared_at": 1792941283,
+   "company": "BaehrBots GmbH",
+   "role": "AI Integration Engineer / Specialist",
+   "fit": 63,
+   "status": "build-first",
+   "city": "Dresden\\,",
+   "ats": 86,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481080810",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -477,10 +541,12 @@
    "2026-10-24_union-investment_forward-deployed-engineer"
   ],
   "agent-eval-harness": [
-   "2026-10-17_jobgether_ai-evaluation-engineer"
+   "2026-10-17_jobgether_ai-evaluation-engineer",
+   "2026-10-25_cgi_ai-qa-engineer"
   ],
   "ops-mcp-server": [
-   "2026-10-17_cloover_ai-engineering-automation-specialist"
+   "2026-10-17_cloover_ai-engineering-automation-specialist",
+   "2026-10-25_baehrbots_ai-integration-engineer"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager"
@@ -499,6 +565,12 @@
   ],
   "clinical-info-assistant": [
    "2026-10-25_juicylemons_product-engineer"
+  ],
+  "azure-ai-rag-starter-kit": [
+   "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai"
+  ],
+  "client-occasion-engine": [
+   "2026-10-25_bestandsfaktor_founding-software-engineer"
   ]
  }
 }

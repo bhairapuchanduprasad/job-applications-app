@@ -1,0 +1,53 @@
+{
+ "folder": "2026-10-25_bestandsfaktor_founding-software-engineer",
+ "date": "2026-10-25",
+ "prepared_at": 1792941148,
+ "company": "Bestandsfaktor",
+ "role": "Founding Software Engineer",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build client-occasion-engine",
+ "notes": "Found by job-scout; remote (Köln start-up); German posting, English docs, German B1 implicit gap; also needs spec-driven-agent-harness built; no deadline, no salary info",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481074834",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4481074834",
+ "contact": "",
+ "verdict": "Good match on the core of the role: owning a system end to end as the only developer at an early-stage start-up (Kniit, reporting to the CTO), designing pipeline architecture with data, automation and routing logic, Python backends and APIs, and AI-assisted development with Claude Code. Gaps: three years of experience for a role that owns the whole architecture and leads external developers, no hands-on leadership of freelancers, no insurance/CRM or marketing-automation domain, and German (implicit for a German founder team serving German brokers).",
+ "gaps": [
+  "Leading external developers / freelancers",
+  "German",
+  "Seniority",
+  "Domain (insurance brokers, CRM/broker management systems, outreach automation)"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Bestandsfaktor.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Bestandsfaktor.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-client-occasion-engine.md"
+ ],
+ "build": "client-occasion-engine",
+ "found_by_scout": true
+}

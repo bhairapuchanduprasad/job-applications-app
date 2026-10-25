@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-25_baehrbots_ai-integration-engineer",
+ "date": "2026-10-25",
+ "prepared_at": 1792941283,
+ "company": "BaehrBots GmbH",
+ "role": "AI Integration Engineer / Specialist",
+ "fit": 63,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "Found by job-scout; Dresden on-site; energy trader (EPEX SPOT member, own agents Moneypenny/Rockefeller/Columbo); German docs; cover letter optional, work samples welcome; gaps very good German (B1), Linux/systemd ops, Slack/Google Workspace/GitHub integrations (webhooks/OAuth), secrets/DSGVO; no salary given, check Blue Card threshold",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Dresden\\,",
+ "ats": 86,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481080810",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4481080810",
+ "contact": "",
+ "verdict": "The technical core is a close match: LLM APIs, agents with tools, MCP, RAG, evals against ground truth, cost control and Python, all from the Kniit and Covestro work, plus energy-sector context. It is pulled down by the German requirement (\"Sehr gute ... Deutschkenntnisse\", I have B1) and by missing hands-on evidence for Linux server operations (systemd), SaaS integrations (Slack, Google Workspace, GitHub APIs, webhooks, OAuth) and secrets/DSGVO handling.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_BaehrBots.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_BaehrBots.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-ops-mcp-server.md"
+ ],
+ "build": "ops-mcp-server",
+ "found_by_scout": true
+}

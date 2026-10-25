@@ -1,0 +1,73 @@
+{
+ "folder": "2026-10-25_cgi_ai-qa-engineer",
+ "date": "2026-10-25",
+ "prepared_at": 1792941268,
+ "company": "CGI",
+ "role": "AI QA Engineer – Conversational AI & GenAI-Automationen (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Found by job-scout; German docs (posting requires very good German, user has B1, top gap); Eschborn; no deadline stated; ATS 88%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Eschborn",
+ "ats": 88,
+ "apply_url": "https://www.linkedin.com/jobs/view/4447592166",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4447592166",
+ "contact": "",
+ "verdict": "Strong on the AI-specific half of the job (systematic LLM/RAG evaluation against ground truth, RAGAS + PytrecEval in the thesis, precision/recall as quality metrics at Kniit, RAG, tool calling via MCP, Python, API tests with Postman, GitLab CI/CD). Weak on the classic QA half (no QA/test-management role, no Selenium, no ISTQB, no voice/RPA testing, no security testing) and the language: the posting asks for very good German, I have B1.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Warum CGI?",
+   "value": "CGI builds a new team for large conversational/GenAI programmes and brings chat assistants into production with Cognigy (e.g. flight rebooking for a German aviation client); \"Customer Zero\" testing of GenAI use cases internally fits my evaluation background."
+  },
+  {
+   "label": "Gehaltsvorstellung",
+   "value": "€70,000 gross/year (range €60,000–75,000)."
+  },
+  {
+   "label": "Kündigungsfrist / frühester Eintritt",
+   "value": "available from 15 November 2026."
+  },
+  {
+   "label": "Arbeitserlaubnis",
+   "value": "Blaue Karte EU, no sponsorship needed."
+  },
+  {
+   "label": "Standort / Reisen",
+   "value": "will be based in Eschborn; happy to travel to client sites."
+  },
+  {
+   "label": "Deutschkenntnisse",
+   "value": "B1 (no certificate); English business fluent."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_CGI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_CGI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}

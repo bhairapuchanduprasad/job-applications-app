@@ -1,0 +1,86 @@
+{
+ "folder": "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai",
+ "date": "2026-10-25",
+ "prepared_at": 1792941113,
+ "company": "Hamburger Energienetze GmbH",
+ "role": "Azure DevOps Engineer mit Fokus Azure AI (a*)",
+ "fit": 52,
+ "status": "build-first",
+ "next_step": "build azure-ai-rag-starter-kit",
+ "notes": "Found by job-scout; German docs (posting requires very good German, user has B1 - top gap); Azure platform gaps (Terraform/Azure DevOps/Entra ID/Key Vault/Private Endpoints/Landing Zones); no deadline; tariff pay; ATS 79%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481054657",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the LinkedIn posting (https://www.linkedin.com/jobs/view/4481054657) or the Hamburger Energienetze careers page. Build the Azure AI RAG Starter-Kit first (brief in _work/project-brief-azure-ai-rag-starter-kit.md): it is on the CV and is the only evidence for Terraform / Azure DevOps / Key Vault / Private Endpoints.",
+ "source": "https://www.linkedin.com/jobs/view/4481054657",
+ "contact": "none named. Deadline: none stated. Pay: collective agreement",
+ "verdict": "Strong on the AI half (LLMs, RAG, Azure AI Search, deployment on Azure, CI/CD, infrastructure as code with AWS CDK) and a genuine energy-sector hook (Kniit, German energy sector), but the core of the role is Azure platform engineering (Azure DevOps, Terraform, Entra ID, Key Vault, Private Endpoints, Landing Zones) that the profile does not cover, and they ask for very good German (I have B1). Prepared on the user's decision.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Warum Hamburger Energienetze?",
+   "value": "The merger of Stromnetz Hamburg and Gasnetz Hamburg means two grids for about 1.4 million households and a hydrogen network being built; I want to build the shared Azure AI platform that lets good AI use cases spread across teams, and I already know energy-sector data from Kniit."
+  },
+  {
+   "label": "Gehaltsvorstellung",
+   "value": "€70,000 gross/year (range €60,000–75,000); tariff role, so check the pay group. Must meet the EU Blue Card threshold."
+  },
+  {
+   "label": "Frühester Eintritt",
+   "value": "15. November 2026."
+  },
+  {
+   "label": "Arbeitserlaubnis",
+   "value": "Blaue Karte EU (Deutschland)."
+  },
+  {
+   "label": "Standort",
+   "value": "Hamburg (will relocate); hybrid fine."
+  },
+  {
+   "label": "Deutschkenntnisse",
+   "value": "B1 (no certificate)."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Wie würden Sie eine sichere Azure-AI-Zielarchitektur aufbauen?",
+   "a": "Landing zone with hub/spoke VNet, Private Endpoints for Azure OpenAI / AI Search / Key Vault, public access off, managed identities with Entra ID RBAC, diagnostics to Log Analytics, budgets and tags per team. Only speak from the Starter-Kit once it is built; be clear that work experience is AWS CDK + GitLab CI/CD, deployment on Azure at Kniit."
+  },
+  {
+   "q": "Wie bewerten Sie einen konkreten AI-Use-Case mit einem Fachteam?",
+   "a": "Covestro AI consulting: understood the decision workflow, advised where agentic AI helps, turned it into a solution concept, then built it. Add Kniit: success measured against SAP ground truth (33/45 → 93/90 precision/recall), human approval in Expert Interface."
+  },
+  {
+   "q": "Wie steuern Sie Kosten im Plattformbetrieb?",
+   "a": "Kniit: replaced LLM calls with a deterministic pipeline for the high-volume stream, $200,000 projected LLM budget → near-zero recurring cost. Then platform side: tags, budgets, alerts, quotas per deployment, choosing model sizes per use case."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Hamburger_Energienetze.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Hamburger_Energienetze.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-azure-ai-rag-starter-kit.md"
+ ],
+ "build": "azure-ai-rag-starter-kit",
+ "found_by_scout": true
+}
