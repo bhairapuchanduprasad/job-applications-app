@@ -1,0 +1,52 @@
+{
+ "folder": "2026-10-16_snocks_junior-ai-engineer",
+ "date": "2026-10-16",
+ "company": "SNOCKS",
+ "role": "Junior AI Engineer (m/w/d)",
+ "fit": 80,
+ "status": "build-first",
+ "next_step": "build shop-support-agent",
+ "notes": "English documents (team language English C1); German B1 required (have B1); junior level, salary may be below target; LinkedIn says on-site Mannheim but JD says remote standard; posted 2h, 50 applicants: apply fast",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Mannheim",
+ "ats": 96,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Junior%20AI%20Engineer%20%28m/w/d%29%20SNOCKS&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; responses managed off LinkedIn)",
+ "contact": "",
+ "verdict": "Strong match on the core of the job: Python, SQL, REST APIs, Git, LLMs with agents and MCP, Claude Code, AWS + Docker + CI/CD, and measuring AI output on quality and cost. The gaps are on the e-commerce side: no BigQuery or other cloud data warehouse, no Google Cloud, no Shopify/Zendesk/Klaviyo integrations, and no business-process automation (customer service, supply chain, reporting) in your work history. Your German (B1) meets their minimum.",
+ "gaps": [
+  "BigQuery / data warehouse / Google Cloud",
+  "Shopify / Zendesk / Klaviyo integrations, e-commerce automation",
+  "OpenAI API by name",
+  "German B1, no certificate"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_SNOCKS.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_SNOCKS.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-shop-support-agent.md"
+ ],
+ "build": "shop-support-agent",
+ "found_by_scout": false
+}

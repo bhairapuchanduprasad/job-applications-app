@@ -1,0 +1,51 @@
+{
+ "folder": "2026-10-17_cloover_ai-engineering-automation-specialist",
+ "date": "2026-10-17",
+ "company": "Cloover",
+ "role": "AI Engineering & Automation Specialist (on-site)",
+ "fit": 84,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "English documents; on-site Berlin (relocate); PAY benchmarked to Berlin internship market: confirm salary >= Blue Card minimum EUR 45,934.20 in intro call; reports to Florent (Head of Ops & Energy); 37 applicants in 4h: apply fast",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 95,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineering%20%26%20Automation%20Specialist%20%28on-site%29%20Cloover&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; responses managed off LinkedIn)",
+ "contact": "",
+ "verdict": "One of the best matches so far. The JD's core list (agentic systems, RAG, embeddings, retrieval, evaluation, MCP servers, custom Claude Code skills, internal tools that colleagues use) is close to a description of your Kniit job, and Cloover is an energy-transition company. Gaps: TypeScript, third-party SaaS integrations (HubSpot/Slack/Notion/Aircall, webhooks, auth), and GCP/Firebase/Vercel. Big red flag on pay: see below.",
+ "gaps": [
+  "TypeScript",
+  "HubSpot/Slack/Notion/Aircall, webhooks, OAuth",
+  "GCP/Firebase/Vercel"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Cloover.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Cloover.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-ops-mcp-server.md"
+ ],
+ "build": "ops-mcp-server",
+ "found_by_scout": false
+}

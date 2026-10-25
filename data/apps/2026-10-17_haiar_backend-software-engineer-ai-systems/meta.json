@@ -1,0 +1,47 @@
+{
+ "folder": "2026-10-17_haiar_backend-software-engineer-ai-systems",
+ "date": "2026-10-17",
+ "company": "HAIAR GmbH",
+ "role": "Backend Software Engineer - AI Systems (m/w/d)",
+ "fit": 76,
+ "status": "build-first",
+ "next_step": "build autohaus-service-agent + llm-gateway",
+ "notes": "English documents (German posting, no German requirement stated; have B1); remote, occasional Münster meetings; small team (11-50); no salary range; 48 applicants in 4h: apply fast",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Remote (Germany)",
+ "ats": 95,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20-%20AI%20Systems%20%28m/w/d%29%20HAIAR%20GmbH&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn Easy Apply (pasted)",
+ "contact": "",
+ "verdict": "Strong on the AI side (RAG, embeddings, agent workflows, evaluation); the risks are \"mehrjährige\" pure backend experience, explicit monitoring/drift work, and an all-German posting.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_HAIAR.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_HAIAR.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-autohaus-service-agent.md"
+ ],
+ "build": "autohaus-service-agent",
+ "found_by_scout": false
+}

@@ -1,0 +1,52 @@
+{
+ "folder": "2026-10-17_bcg-platinion_ai-associate",
+ "date": "2026-10-17",
+ "company": "BCG Platinion",
+ "role": "AI Associate (all genders)",
+ "fit": 74,
+ "status": "build-first",
+ "next_step": "build spec-driven-agent-harness",
+ "notes": "English documents; fluent German required (have B1); Berlin, travel required; they also want a project list + references (Arbeitszeugnisse); reposted, 100+ applicants: move fast; 2nd-degree contact Joachim Braun (Principal, THWS alum)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 89,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Associate%20%28all%20genders%29%20BCG%20Platinion&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; apply via BCG Platinion online portal)",
+ "contact": "Leonie Kutschera-Gross",
+ "verdict": "The technical core fits very well: hands-on with Claude Code (custom skills, agentic coding workflows), an MCP service you built and wired into Claude Code, LangGraph/LangChain multi-agent orchestration, evaluation against ground truth (Kniit P/R, RAGAS/PytrecEval thesis), and CI/CD delivery with Docker, AWS CDK and GitLab. The big gap is \"fluent in German\" (you have B1). Smaller gaps: no Langfuse/LangSmith, no DevSecOps/security scanning, no consulting or client-facing project experience.",
+ "gaps": [
+  "German fluent (have B1)",
+  "Langfuse / LangSmith / agent observability",
+  "DevSecOps / platform engineering",
+  "Consulting / client work"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_BCG-Platinion.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_BCG-Platinion.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-spec-driven-agent-harness.md"
+ ],
+ "build": "spec-driven-agent-harness",
+ "found_by_scout": false
+}
