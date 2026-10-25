@@ -1,5 +1,5 @@
 {
- "generated": 1792941311.492331,
+ "generated": 1792941385.9818292,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -512,6 +512,38 @@
    "build": "ops-mcp-server",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_markant_devops-engineer-daten-ki-plattformen",
+   "date": "2026-10-25",
+   "prepared_at": 1792941312,
+   "company": "Markant Gruppe",
+   "role": "DevOps Engineer (m/w/d) für Daten- und KI-Plattformen",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Offenburg",
+   "ats": 95,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481059896",
+   "apply_url_kind": "posting",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_dr-theiss_solution-consultant-ki-plattformen",
+   "date": "2026-10-25",
+   "prepared_at": 1792941356,
+   "company": "Dr. Theiss Naturwaren GmbH",
+   "role": "Solution Consultant KI-Plattformen (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Homburg (Saar)",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481053663",
+   "apply_url_kind": "posting",
+   "build": "product-qa-assistant",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -520,7 +552,8 @@
   ],
   "llm-gateway": [
    "2026-10-14_accenture_junior-applied-ai-engineer",
-   "2026-10-24_rewe-digital_platform-engineer-ki-platform"
+   "2026-10-24_rewe-digital_platform-engineer-ki-platform",
+   "2026-10-25_markant_devops-engineer-daten-ki-plattformen"
   ],
   "care-note-structurer": [
    "2026-10-14_dexter-health_ai-engineer-llm",
@@ -549,7 +582,8 @@
    "2026-10-25_baehrbots_ai-integration-engineer"
   ],
   "product-qa-assistant": [
-   "2026-10-17_hotrega_ki-und-prozessmanager"
+   "2026-10-17_hotrega_ki-und-prozessmanager",
+   "2026-10-25_dr-theiss_solution-consultant-ki-plattformen"
   ],
   "plant-maintenance-agent": [
    "2026-10-21_siemens-advanta_consultant-ai-new-technologies"

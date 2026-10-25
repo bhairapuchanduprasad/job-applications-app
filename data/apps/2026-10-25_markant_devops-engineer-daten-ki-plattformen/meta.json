@@ -1,0 +1,91 @@
+{
+ "folder": "2026-10-25_markant_devops-engineer-daten-ki-plattformen",
+ "date": "2026-10-25",
+ "prepared_at": 1792941312,
+ "company": "Markant Gruppe",
+ "role": "DevOps Engineer (m/w/d) für Daten- und KI-Plattformen",
+ "fit": 52,
+ "status": "build-first",
+ "next_step": "build llm-gateway",
+ "notes": "Found by job-scout; German docs (posting requires German, B1 flagged as gap); gaps: Cloud Security/IAM/Governance, Kubernetes ops, Terraform; LLM Gateway Azure/AKS track to build; no deadline, no contact",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Offenburg",
+ "ats": 95,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481059896",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the LinkedIn posting (https://www.linkedin.com/jobs/view/4481059896) or Markant's career page. Build first: the LLM Gateway Azure track (_work/project-brief-llm-gateway.md) is on the CV and not built yet.",
+ "source": "https://www.linkedin.com/jobs/view/4481059896",
+ "contact": "",
+ "verdict": "Stretch application. Strong on the \"Daten- und KI-Lösungen\" side (you build exactly the workloads this platform hosts) and solid on containerised deployment (Docker, AWS CDK as Infrastructure as Code, GitLab CI/CD, an Azure-hosted app at Kniit). Weak on the core of a DevOps role: no hands-on Kubernetes operations beyond listing it in the Kniit stack, no Terraform/Bicep, nothing on Cloud Security, IAM or governance, and the posting asks for sufficient German.",
+ "gaps": [
+  "German (biggest risk)",
+  "Kubernetes operations",
+  "Cloud Security, IAM, Governance",
+  "Terraform / Bicep"
+ ],
+ "form_fields": [
+  {
+   "label": "Warum Markant?",
+   "value": "Markant sits between ~15,000 suppliers and ~200 retailers and processes invoices, master data and payments centrally; a data and AI platform for that must be secure and reliable, and AI is already in products like m.ProductWizard. I want to build that platform with the people who use it."
+  },
+  {
+   "label": "Gehaltsvorstellung",
+   "value": "€70,000 gross/year (range €60,000–75,000). Must clear the EU Blue Card threshold."
+  },
+  {
+   "label": "Kündigungsfrist / frühester Eintritt",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Arbeitserlaubnis",
+   "value": "Blaue Karte EU (Germany)."
+  },
+  {
+   "label": "Standort",
+   "value": "will relocate to Offenburg; mobile work welcome."
+  },
+  {
+   "label": "Deutschkenntnisse",
+   "value": "B1 (no certificate), improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Wie würden Sie einen containerisierten KI-Service auf Kubernetes betreiben?",
+   "a": "Be honest that Kubernetes ops is new from your side (only in the Kniit stack). Walk through the LLM Gateway once built: Helm chart, probes, requests/limits, HPA, rolling updates, rollback with helm rollback, logs in Log Analytics."
+  },
+  {
+   "q": "Wie setzen Sie Infrastructure as Code und CI/CD ein?",
+   "a": "Covestro: AWS CDK for the agentic app and for the thesis evaluation infrastructure (Lambda, SQS, DynamoDB), GitLab CI/CD. Then Terraform from the gateway project (plan on PR, apply on main, OIDC login, no stored secrets)."
+  },
+  {
+   "q": "Was verstehen Sie unter Cloud Security, IAM und Governance auf Azure?",
+   "a": "Managed identities / workload identity instead of keys, Key Vault, least-privilege RBAC on resource-group scope, Azure Policy for allowed locations and required tags, tagging for cost (FinOps). Say clearly what you have built yourself (the project) vs. read about."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Markant.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Markant.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-llm-gateway.md"
+ ],
+ "build": "llm-gateway",
+ "found_by_scout": true
+}

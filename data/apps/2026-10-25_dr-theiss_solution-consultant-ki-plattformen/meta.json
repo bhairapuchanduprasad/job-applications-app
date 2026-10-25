@@ -1,0 +1,53 @@
+{
+ "folder": "2026-10-25_dr-theiss_solution-consultant-ki-plattformen",
+ "date": "2026-10-25",
+ "prepared_at": 1792941356,
+ "company": "Dr. Theiss Naturwaren GmbH",
+ "role": "Solution Consultant KI-Plattformen (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build product-qa-assistant",
+ "notes": "Found by job-scout; Homburg (Saar), on-site; German documents; German B1 vs required good German (top gap); gaps DSGVO/EU AI Act/NIS2, on-prem; check Blue Card salary threshold",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Homburg (Saar)",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481053663",
+ "apply_url_kind": "posting",
+ "apply_hint": "Status: build-first (build product-qa-assistant before submitting). Apply via LinkedIn: https://www.linkedin.com/jobs/view/4481053663",
+ "source": "https://www.linkedin.com/jobs/view/4481053663",
+ "contact": "",
+ "verdict": "Technically a close match (Data Science, Machine Learning and Generative AI all covered by real work; LLM implementation on AWS and Azure; Python; stakeholder advisory on agentic AI at Covestro as an AI Consulting Intern). Held back by German: the role is the central interface between business departments and IT in a German Mittelstand company, and the posting says applications without sufficient German may not be considered. Second gap: hands-on regulatory work (DSGVO, EU AI Act, NIS2).",
+ "gaps": [
+  "German (B1)",
+  "DSGVO / EU AI Act / NIS2",
+  "External service providers / rollout management",
+  "On-premise LLMs"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Dr_Theiss.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Dr_Theiss.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-product-qa-assistant.md"
+ ],
+ "build": "product-qa-assistant",
+ "found_by_scout": true
+}
