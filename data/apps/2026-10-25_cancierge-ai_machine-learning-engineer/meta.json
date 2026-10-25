@@ -1,0 +1,91 @@
+{
+ "folder": "2026-10-25_cancierge-ai_machine-learning-engineer",
+ "date": "2026-10-25",
+ "company": "cancierge.ai",
+ "role": "Machine Learning Engineer",
+ "fit": 72,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; Aachen, home-office first with monthly team days; €80-90k; no cover letter needed (send CV + GitHub project); gaps PyTorch training depth (hyperparameters/overfitting), text data augmentation, Linux, GPU/Rust; ATS 60%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Aachen",
+ "ats": 60,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483193748",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the LinkedIn posting (https://www.linkedin.com/jobs/view/4483193748). They say no cover letter is needed: send the CV (or LinkedIn) plus \"anything you are proud of\".",
+ "source": "https://www.linkedin.com/jobs/view/4483193748",
+ "contact": "",
+ "verdict": "Good match on Python, PyTorch, evaluation harnesses (RAGAS/PytrecEval, ground-truth evaluation), text data pipelines (document ingestion, chunking), Docker, NLP and LLM fine-tuning (QLoRA). Gaps: deep PyTorch theory and hands-on training/tuning of neural networks in production, text data augmentation, GPU programming, Rust, Linux server administration (not explicit), medical/EU MDR domain.",
+ "gaps": [
+  "PyTorch depth",
+  "Production model training",
+  "Medical domain / EU MDR"
+ ],
+ "form_fields": [
+  {
+   "label": "Why Cancierge?",
+   "value": "You give cancer patients a second opinion in minutes instead of weeks, built with oncologists and heading for MDR Class IIa. I want to build an AI core where every change is measured against what clinicians expect, which is how I already work."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€80,000 gross/year (posting range €80,000–90,000; profile range €60,000–75,000 is below their band, so quote the bottom of theirs)."
+  },
+  {
+   "label": "Earliest start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Notice period",
+   "value": "none beyond 13 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "Remote within Germany; happy to come to the monthly team days near Aachen."
+  },
+  {
+   "label": "German level",
+   "value": "B1 (English is their working language)."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Walk us through how you'd design an evaluation harness for a model that gives treatment guidance.",
+   "a": "Fix a labelled ground-truth set with clinical experts, pick metrics per task (precision/recall for extraction, retrieval metrics, answer correctness), version data + configs + seeds so every run is repeatable, compare setups side by side. Evidence: thesis RAGAS + PytrecEval harness against chemist ground truth; Kniit loop against SAP-derived ground truth (33/45 → 93/90 precision/recall)."
+  },
+  {
+   "q": "How do you control overfitting and pick learning rates / hyperparameters in PyTorch?",
+   "a": "Train/validation/test splits (time-based for time series), early stopping, weight decay, dropout, learning-rate schedules, small search over key hyperparameters. Evidence: LSTM at Cognizant (96% test accuracy, held up on unseen data), RF/XGBoost/LSTM comparison at Covestro, QLoRA fine-tuning. Revise PyTorch internals (autograd, optimizers, schedulers, DataLoader) before the CTO round: this is the main gap."
+  },
+  {
+   "q": "How would you turn prototype logic from our Head of AI into production code?",
+   "a": "Small modules with clear interfaces, typed configs, tests around each step, evaluation in CI so every change is measured. Evidence: sole developer at Kniit reporting to the CTO; domain experts approve changes via Expert Interface."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_cancierge.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_cancierge.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

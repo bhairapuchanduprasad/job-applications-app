@@ -1,5 +1,5 @@
 {
- "generated": 1792896080.167953,
+ "generated": 1792930284.980452,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -386,6 +386,21 @@
    "city": "Berlin",
    "ats": 73,
    "apply_url": "https://www.linkedin.com/jobs/view/4418823251",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_cancierge-ai_machine-learning-engineer",
+   "date": "2026-10-25",
+   "company": "cancierge.ai",
+   "role": "Machine Learning Engineer",
+   "fit": 72,
+   "status": "ready",
+   "city": "Aachen",
+   "ats": 60,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483193748",
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
