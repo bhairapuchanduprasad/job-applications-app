@@ -1,0 +1,90 @@
+{
+ "folder": "2026-10-25_juicylemons_product-engineer",
+ "date": "2026-10-25",
+ "company": "JuicyLemons",
+ "role": "Product Engineer (m/f/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build clinical-info-assistant",
+ "notes": "Found by job-scout; Berlin hybrid ~70% on-site; recruiter posting, client unnamed (VC-backed AI healthcare/medical info startup), ask name + salary vs Blue Card; gaps frontend depth/TypeScript, product analytics/user-behaviour data; Mid-Senior",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483366465",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the LinkedIn posting (https://www.linkedin.com/jobs/view/4483366465). JuicyLemons is a recruiter; the client is an unnamed, VC-backed Berlin start-up using AI for medical and clinical information for healthcare professionals and patients.",
+ "source": "https://www.linkedin.com/jobs/view/4483366465",
+ "contact": "",
+ "verdict": "Solid on the AI side and on \"build the whole thing\": full web apps with a React frontend and Python/FastAPI backend (Expert Interface on Azure, Covestro agentic app on AWS), AI/ML-driven products, cloud on AWS and Azure, close work with the people who use the tool (SAP experts, chemists, business stakeholders), and small-team start-up experience reporting to a CTO. Weaker on what makes this a *product* engineer role: frontend depth (React is listed as beginner in the base CV, no TypeScript/Next.js), data-informed prioritisation from user behaviour (no product analytics in the profile), formal testing, and the \"Mid-Senior\" level. No healthcare work experience.",
+ "gaps": [
+  "Frontend depth / TypeScript",
+  "Product analytics / data-informed prioritisation",
+  "Testing",
+  "Healthcare"
+ ],
+ "form_fields": [
+  {
+   "label": "Why this company?",
+   "value": "Medical information is a field where an unclear answer has a real cost, and the same fact has to read differently for a doctor and a patient. I want to work on that product problem in a small team, close to the founders and the users."
+  },
+  {
+   "label": "Salary expectation",
+   "value": "€70,000 gross/year (range €60,000–75,000). Must be above the EU Blue Card threshold."
+  },
+  {
+   "label": "Earliest start / notice period",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work authorisation",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "Location",
+   "value": "will be based in Berlin; hybrid ~70% on-site is fine."
+  },
+  {
+   "label": "German level",
+   "value": "B1, improving."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Tell us about a time you spotted friction for users and changed the product.",
+   "a": "Expert Interface at Kniit: the knowledge graph was only useful if SAP experts could check it, so you built one place to review, validate and approve changes. Covestro data science internship: chemists could try parameter changes in the Streamlit dashboard before running a physical batch. After building the project: the one UX change the funnel data prompted."
+  },
+  {
+   "q": "How do you decide what to build next / how do you use data?",
+   "a": "Ground-truth evaluation at Kniit: measure, find the biggest error class, fix it (33/45 → 93/90 precision/recall). Choosing a deterministic pipeline for the high-volume source because the cost data said so ($200k projected LLM budget → near zero). Be honest that you have not run product analytics or A/B tests in a job; the project shows the basics."
+  },
+  {
+   "q": "Walk us through the architecture of a web app you built, frontend to backend, and how you tested it.",
+   "a": "Covestro: React frontend, FastAPI backend, Postman API tests, Docker, AWS CDK, GitLab CI/CD. Kniit Expert Interface: React + Python microservices on Azure. Be honest about React depth (two internal apps, no TypeScript in a job)."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_JuicyLemons.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_JuicyLemons.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-clinical-info-assistant.md"
+ ],
+ "build": "clinical-info-assistant",
+ "found_by_scout": true
+}

@@ -1,5 +1,5 @@
 {
- "generated": 1792930284.980452,
+ "generated": 1792930418.126001,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -405,6 +405,21 @@
    "build": "",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_juicylemons_product-engineer",
+   "date": "2026-10-25",
+   "company": "JuicyLemons",
+   "role": "Product Engineer (m/f/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483366465",
+   "apply_url_kind": "posting",
+   "build": "clinical-info-assistant",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -453,6 +468,9 @@
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer"
+  ],
+  "clinical-info-assistant": [
+   "2026-10-25_juicylemons_product-engineer"
   ]
  }
 }
