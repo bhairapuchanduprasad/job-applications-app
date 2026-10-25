@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-21_aily-labs_decision-intelligence-analyst",
+ "date": "2026-10-21",
+ "company": "Aily Labs",
+ "role": "Decision Intelligence Analyst",
+ "fit": 86,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; remote-first (Munich/Lisbon offices); analyst level: check salary vs target and Blue Card minimum; projects are built repos (no build needed)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 85,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Decision%20Intelligence%20Analyst%20Aily%20Labs&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted)",
+ "contact": "",
+ "verdict": "A very good match, and probably below your level. Every core task maps to something you've done: preparing and structuring data (Kniit ingestion/chunking, Covestro sensor features), data modelling (Neo4j knowledge graph), running and validating AI models against ground truth (P/R 33%/45% → 93%/90%, RAGAS), fine-tuning (QLoRA Open Llama 3B, retrieval fine-tuning in the thesis), business decision workflows with stakeholders (Covestro AI consulting internship), Python, SQL, scikit-learn, PyTorch, AWS and Azure. Gaps are small: no multi-tenant client delivery, little explicit SQL evidence beyond Postgres in stacks, no GCP.",
+ "gaps": [
+  "Multi-tenant client delivery",
+  "SQL depth"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false
+}

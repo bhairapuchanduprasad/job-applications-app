@@ -1,0 +1,47 @@
+{
+ "folder": "2026-10-21_bedrock-projekt_python-genai-developer",
+ "date": "2026-10-21",
+ "company": "Recruiter (end client unnamed)",
+ "role": "Python & GenAI Developer (m/w/d) – AWS Bedrock / Remote",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "ask recruiter re contract type",
+ "notes": "German documents; 100% remote; project 03.11.–31.12.2026 (likely extended): ASK if Festanstellung vs freelance and contract length (Blue Card needs employment, usually >= 6 months); start 16.11. due to Kniit; Bedrock is a must-have gap (project)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 94,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Python%20%26%20GenAI%20Developer%20%28m/w/d%29%20%E2%80%93%20AWS%20Bedrock%20/%20Remote%20Recruiter&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn (pasted; recruiter posting)",
+ "contact": "",
+ "verdict": "Technically solid: Python since 2021 (Cognizant, MSc, Covestro, Kniit; just over 3 years of professional use), AWS (CDK, Lambda, SQS, DynamoDB), prompt engineering, LangChain/LangGraph agents, unit/integration-style testing of AI output, German A2+ (you have B1). The hard gap is the first must-have: no Amazon Bedrock experience. Data protection for high-protection AI systems isn't documented either.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Bedrock-Projekt.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Bedrock-Projekt.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-it-ticket-assistant-bedrock.md"
+ ],
+ "build": "",
+ "found_by_scout": false
+}

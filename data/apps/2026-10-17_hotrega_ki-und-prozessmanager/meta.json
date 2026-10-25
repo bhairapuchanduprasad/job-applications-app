@@ -1,0 +1,51 @@
+{
+ "folder": "2026-10-17_hotrega_ki-und-prozessmanager",
+ "date": "2026-10-17",
+ "company": "HOTREGA GmbH",
+ "role": "KI- und Prozessmanager (m/w/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build product-qa-assistant",
+ "notes": "English documents (no stated German requirement; consider German letter: rural Mittelstand); on-site Bad Salzschlirf (relocate), mobile work possible; check salary vs Blue Card minimum; 30 applicants in 23h",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bad Salzschlirf, Hessen",
+ "ats": 88,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=KI-%20und%20Prozessmanager%20%28m/w/d%29%20HOTREGA%20GmbH&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn Easy Apply (pasted)",
+ "contact": "",
+ "verdict": "You can do the AI part with ease: assistants and agents, prompts and decision logic, testing AI output, data analysis, and you know the chemical industry from three Covestro roles working with chemists and lab data. Gaps are the tooling and the business side: no n8n, no Microsoft Copilot, no formal process management, no EU AI Act / GDPR work, and a German mid-sized company in a small town will likely run in German day to day.",
+ "gaps": [
+  "n8n / Copilot",
+  "EU AI Act / GDPR",
+  "Process management"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_HOTREGA.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_HOTREGA.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-product-qa-assistant.md"
+ ],
+ "build": "product-qa-assistant",
+ "found_by_scout": false
+}

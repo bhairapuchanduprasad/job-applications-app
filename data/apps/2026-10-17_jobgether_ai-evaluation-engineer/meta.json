@@ -1,0 +1,81 @@
+{
+ "folder": "2026-10-17_jobgether_ai-evaluation-engineer",
+ "date": "2026-10-17",
+ "company": "Jobgether (undisclosed partner)",
+ "role": "AI Evaluation Engineer",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "English documents; INDEPENDENT CONTRACTOR (hourly) - check Blue Card compatibility / ask for EOR employment before signing; company undisclosed; 3h US Central overlap; posted 5h, 12 applicants: apply fast",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 100,
+ "apply_url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Evaluation%20Engineer%20Jobgether&location=Germany",
+ "apply_url_kind": "search",
+ "apply_hint": "",
+ "source": "LinkedIn Easy Apply via Jobgether (pasted)",
+ "contact": "",
+ "verdict": "The core of the role fits well: I have built LLM evaluation against ground truth twice (Kniit, Covestro thesis), and the \"deterministic checks before LLM-as-a-judge\" philosophy is exactly what I did at Kniit ($200k → near zero). The gaps are around the edges: GitHub Actions specifically, tracing tools, adversarial/prompt-injection testing, multi-run statistics and load testing. The biggest risk isn't skills. It's the independent-contractor arrangement versus my EU Blue Card (see red flags).",
+ "gaps": [
+  "GitHub Actions",
+  "Tracing tools (OpenTelemetry / Phoenix / LangSmith)",
+  "Adversarial / prompt-injection testing, load testing, multi-run CIs",
+  "JSON schema / OpenAPI / function-calling validation"
+ ],
+ "form_fields": [
+  {
+   "label": "Why this role",
+   "value": "\"Evaluation is the part of AI engineering I've owned in my last role and my Master's thesis: building ground truth, measuring every iteration, choosing deterministic checks where they're enough. A founding role where I design the evaluation architecture is the next step.\""
+  },
+  {
+   "label": "Why are you leaving Kniit",
+   "value": "\"Kniit is an early-stage startup that restructured around a senior SAP-focused hire before its funding round; my position ended after I had built and handed over its knowledge-extraction pipeline end-to-end.\""
+  },
+  {
+   "label": "Salary / rate",
+   "value": "employment: €70,000 gross/year (range €60–75k). Contractor: €50/h (only after the Blue Card question is answered)."
+  },
+  {
+   "label": "Notice period / start",
+   "value": "last day at Kniit 13 Nov 2026; available from 15 November 2026."
+  },
+  {
+   "label": "Location / time zone",
+   "value": "Essen, Germany (CET); can overlap 3+ hours with US Central (15:00–18:00 CET = 08:00–11:00 CT)."
+  },
+  {
+   "label": "Work authorization",
+   "value": "EU Blue Card (Germany)."
+  },
+  {
+   "label": "English",
+   "value": "business fluent. German: B1."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Jobgether.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Jobgether.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": false
+}
