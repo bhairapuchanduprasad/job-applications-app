@@ -1,0 +1,69 @@
+{
+ "folder": "2026-10-26_elunic_ai-tech-consultant",
+ "date": "2026-10-26",
+ "prepared_at": 1793033280,
+ "company": "elunic",
+ "role": "AI Tech Consultant (m/w/d)",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "Found by job-scout; Munich, remote/hybrid + customer visits; English docs (German posting, no German requirement stated; German SME customers = implicit gap); no cover letter required, send link to built project; gaps: client-facing consulting seniority, steering teams, German; ATS 71%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483552245",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4483552245",
+ "contact": "",
+ "verdict": "Strong on the build side (agentic AI with LangGraph, fast first versions with Claude Code and agentic coding workflows, MCP) and has real consulting framing (Covestro AI consulting internship: stakeholder workflows → agentic solution approach). Gaps: client-facing consulting at the level of a \"trusted advisor\" in industrial SMEs, steering delivery teams, ROI/business-case work, entrepreneurial track record (\"etwas angestoßen und gegen Widerstand fertig gemacht\"), and German: not stated in the posting, but the customers are German industrial SMEs and you'd moderate workshops on site. Treat German (B1) as an implicit but serious gap.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why elunic",
+   "value": "consulting that ends with something that runs; eluna agents for industrial SMEs; build-first culture with AI coding agents."
+  },
+  {
+   "label": "Salary",
+   "value": "€70,000 gross/year (range 60–75k), only if asked."
+  },
+  {
+   "label": "Start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work permit",
+   "value": "EU Blue Card."
+  },
+  {
+   "label": "Travel",
+   "value": "fully willing to travel to customer sites."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_elunic.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_elunic.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}

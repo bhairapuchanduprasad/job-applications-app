@@ -1,0 +1,69 @@
+{
+ "folder": "2026-10-26_idm_product-ai-engineer",
+ "date": "2026-10-26",
+ "prepared_at": 1793033471,
+ "company": "IDM Innovative Digitale Medizin gGmbH",
+ "role": "Product AI Engineer",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build care-note-structurer",
+ "notes": "Found by job-scout; Hamburg hybrid; UKE-owned non-profit (ORPHEUS); EUR 75-100k posted; English docs (German helpful only); stretch: research-heavy small senior team; gaps: training clinical NLP models, MLflow/W&B, top-venue publications, research leadership; ATS 95%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 95,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483569603",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4483569603",
+ "contact": "",
+ "verdict": "Matches the tooling (Python, PyTorch, Hugging Face Transformers, LLMs, fine-tuning with QLoRA/LoRA and for retrieval, embedding benchmarking on 1M+ chunks, evaluation pipelines, Docker, Kubernetes, GitLab CI) and NLP-adjacent production work (LLM extraction from documents). Gaps: training and owning clinical NLP models end-to-end (your NLP work is mostly LLM/RAG-based, not trained task models), MLflow/W&B experiment tracking, GPU/CUDA work, publications at top ML/NLP venues, research leadership (research agenda, mentoring students, grant writing), healthcare data / anonymisation. The posting is research-heavy and the team is \"small senior\"; risk that 3 years reads junior for them.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why IDM",
+   "value": "production clinical AI (ORPHEUS at UKE since early 2025, 40+ hospitals per IDM), non-profit owned by UKE, real German clinical documentation."
+  },
+  {
+   "label": "Salary",
+   "value": "posted band €75–100k; ask within the band (e.g. €75–80k). Profile default €70k is below the band."
+  },
+  {
+   "label": "Start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work permit",
+   "value": "EU Blue Card."
+  },
+  {
+   "label": "German",
+   "value": "B1 (helpful, not required)."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_IDM.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_IDM.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-care-note-structurer.md"
+ ],
+ "build": "care-note-structurer",
+ "found_by_scout": true
+}

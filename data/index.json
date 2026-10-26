@@ -1,5 +1,5 @@
 {
- "generated": 1792989257.012952,
+ "generated": 1793033494.412628,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -576,6 +576,118 @@
    "build": "plant-maintenance-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-26_rohde-schwarz_ai-ml-engineer-agentic-ai",
+   "date": "2026-10-26",
+   "prepared_at": 1793032307,
+   "company": "Rohde & Schwarz",
+   "role": "AI / ML Engineer - Agentic AI (m/w/d)",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Dresden",
+   "ats": 84,
+   "apply_url": "https://www.linkedin.com/jobs/view/4478472349",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-26_scalable-capital_ai-software-engineer-python",
+   "date": "2026-10-26",
+   "prepared_at": 1793032495,
+   "company": "Scalable Capital",
+   "role": "AI Software Engineer – Python (m/f/x)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 78,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482981150",
+   "apply_url_kind": "posting",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-26_feri_junior-ki-entwickler",
+   "date": "2026-10-26",
+   "prepared_at": 1793032708,
+   "company": "FERI AG",
+   "role": "Junior KI-Entwickler / AI Developer (m/w/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Bad Homburg",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481455875",
+   "apply_url_kind": "posting",
+   "build": "quality-process-copilot",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-26_rewe-group_agentic-bi-developer",
+   "date": "2026-10-26",
+   "prepared_at": 1793032906,
+   "company": "REWE Group",
+   "role": "Agentic BI Developer - Semantic Layer & AI Analytics (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Köln",
+   "ats": 70,
+   "apply_url": "https://www.linkedin.com/jobs/view/4475517466",
+   "apply_url_kind": "posting",
+   "build": "semantic-analytics-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-26_daw_ai-data-engineer",
+   "date": "2026-10-26",
+   "prepared_at": 1793033111,
+   "company": "DAW SE",
+   "role": "AI Data Engineer*",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Ober-Ramstadt",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4441072132",
+   "apply_url_kind": "posting",
+   "build": "quality-process-copilot",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-26_elunic_ai-tech-consultant",
+   "date": "2026-10-26",
+   "prepared_at": 1793033280,
+   "company": "elunic",
+   "role": "AI Tech Consultant (m/w/d)",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483552245",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-26_idm_product-ai-engineer",
+   "date": "2026-10-26",
+   "prepared_at": 1793033471,
+   "company": "IDM Innovative Digitale Medizin gGmbH",
+   "role": "Product AI Engineer",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 95,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483569603",
+   "apply_url_kind": "posting",
+   "build": "care-note-structurer",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -585,11 +697,13 @@
   "llm-gateway": [
    "2026-10-14_accenture_junior-applied-ai-engineer",
    "2026-10-24_rewe-digital_platform-engineer-ki-platform",
-   "2026-10-25_markant_devops-engineer-daten-ki-plattformen"
+   "2026-10-25_markant_devops-engineer-daten-ki-plattformen",
+   "2026-10-26_scalable-capital_ai-software-engineer-python"
   ],
   "care-note-structurer": [
    "2026-10-14_dexter-health_ai-engineer-llm",
-   "2026-10-23_dexter-health_ai-developer-llm-products"
+   "2026-10-23_dexter-health_ai-developer-llm-products",
+   "2026-10-26_idm_product-ai-engineer"
   ],
   "shop-support-agent": [
    "2026-10-16_snocks_junior-ai-engineer"
@@ -607,7 +721,8 @@
   ],
   "agent-eval-harness": [
    "2026-10-17_jobgether_ai-evaluation-engineer",
-   "2026-10-25_cgi_ai-qa-engineer"
+   "2026-10-25_cgi_ai-qa-engineer",
+   "2026-10-26_rohde-schwarz_ai-ml-engineer-agentic-ai"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -626,10 +741,13 @@
    "2026-10-22_kraken_software-engineer-autonomous-agents"
   ],
   "order-inbox-agent": [
-   "2026-10-22_comena_forward-deployed-engineer"
+   "2026-10-22_comena_forward-deployed-engineer",
+   "2026-10-26_elunic_ai-tech-consultant"
   ],
   "quality-process-copilot": [
-   "2026-10-23_hermes-group_ai-engineer"
+   "2026-10-23_hermes-group_ai-engineer",
+   "2026-10-26_feri_junior-ki-entwickler",
+   "2026-10-26_daw_ai-data-engineer"
   ],
   "clinical-info-assistant": [
    "2026-10-25_juicylemons_product-engineer"
@@ -639,6 +757,9 @@
   ],
   "client-occasion-engine": [
    "2026-10-25_bestandsfaktor_founding-software-engineer"
+  ],
+  "semantic-analytics-agent": [
+   "2026-10-26_rewe-group_agentic-bi-developer"
   ]
  }
 }

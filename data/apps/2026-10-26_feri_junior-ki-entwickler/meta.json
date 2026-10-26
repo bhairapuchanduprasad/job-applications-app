@@ -1,0 +1,69 @@
+{
+ "folder": "2026-10-26_feri_junior-ki-entwickler",
+ "date": "2026-10-26",
+ "prepared_at": 1793032708,
+ "company": "FERI AG",
+ "role": "Junior KI-Entwickler / AI Developer (m/w/d)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build quality-process-copilot",
+ "notes": "Found by job-scout; Bad Homburg; contact Christian Schade; German docs (very good German required, user B1, top gap); salary 70k + start 15 Nov in Anschreiben (junior band, decide on number); gaps Power Automate, C#, finance domain; ATS 81%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bad Homburg",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481455875",
+ "apply_url_kind": "posting",
+ "apply_hint": "Submit via the LinkedIn posting / FERI Bewerbertool: https://www.linkedin.com/jobs/view/4481455875 (German documents; posting requires very good German, you have B1). Contact: Christian Schade (fachlicher Ansprechpartner).",
+ "source": "https://www.linkedin.com/jobs/view/4481455875",
+ "contact": "Christian Schade",
+ "verdict": "Technically well above the junior bar (AI agents, API integration, prototype → production, Python, SQL, cloud, Git, CI/CD). Gaps: \"sehr gute Deutschkenntnisse\" (you have B1), Microsoft Power Automate (none), C# (none; Python is accepted), financial services domain. Overqualification risk is real: a junior band may sit below your €60–75k range and must meet the Blue Card threshold.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why FERI",
+   "value": "bank-independent asset manager expanding its family office and Private Markets (2026) → more processes in reporting/advisory; AI agents in a team with experienced colleagues."
+  },
+  {
+   "label": "Gehaltsvorstellung",
+   "value": "70.000 € brutto/Jahr (see decision above)."
+  },
+  {
+   "label": "Verfügbarkeit",
+   "value": "15. November 2026."
+  },
+  {
+   "label": "Arbeitserlaubnis",
+   "value": "Blaue Karte EU."
+  },
+  {
+   "label": "Deutsch",
+   "value": "B1 (no certificate)."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_FERI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_FERI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-quality-process-copilot.md"
+ ],
+ "build": "quality-process-copilot",
+ "found_by_scout": true
+}

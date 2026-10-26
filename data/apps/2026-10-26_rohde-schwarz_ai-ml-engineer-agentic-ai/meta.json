@@ -1,0 +1,73 @@
+{
+ "folder": "2026-10-26_rohde-schwarz_ai-ml-engineer-agentic-ai",
+ "date": "2026-10-26",
+ "prepared_at": 1793032307,
+ "company": "Rohde & Schwarz",
+ "role": "AI / ML Engineer - Agentic AI (m/w/d)",
+ "fit": 74,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Found by job-scout; Dresden; German docs (posting requires very good German, user has B1, top gap); gaps: safety/responsible-AI evaluation, tracing, MLOps monitoring; ATS 84%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Dresden",
+ "ats": 84,
+ "apply_url": "https://www.linkedin.com/jobs/view/4478472349",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4478472349",
+ "contact": "",
+ "verdict": "Very close match on the technical core (agent architectures, RAG, vector search, tool calling, MCP, LiteLLM/LangChain/Hugging Face, evaluation pipelines). Main gaps: \"sehr gute Deutschkenntnisse\" (you have B1), limited production MLOps/monitoring and no formal safety / responsible-AI evaluation work.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why Rohde & Schwarz",
+   "value": "agentic AI on a measurement-driven platform; R&S already quantifies GenAI user experience (CMX500 testbed with China Mobile Research Institute, Jul 2026); evaluation is my strongest area."
+  },
+  {
+   "label": "Gehaltsvorstellung",
+   "value": "70.000 € brutto/Jahr (range 60–75k), only if asked."
+  },
+  {
+   "label": "Frühester Eintritt",
+   "value": "15. November 2026."
+  },
+  {
+   "label": "Arbeitserlaubnis",
+   "value": "Blaue Karte EU, no sponsorship needed."
+  },
+  {
+   "label": "Wohnort",
+   "value": "will be based in Dresden."
+  },
+  {
+   "label": "Deutsch",
+   "value": "B1 (no certificate)."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Rohde-Schwarz.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Rohde-Schwarz.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}

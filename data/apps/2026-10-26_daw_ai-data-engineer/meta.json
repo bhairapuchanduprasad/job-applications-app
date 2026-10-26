@@ -1,0 +1,69 @@
+{
+ "folder": "2026-10-26_daw_ai-data-engineer",
+ "date": "2026-10-26",
+ "prepared_at": 1793033111,
+ "company": "DAW SE",
+ "role": "AI Data Engineer*",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build quality-process-copilot",
+ "notes": "Found by job-scout; Ober-Ramstadt (home office max 9 days/month); German docs (very good German required, user B1, top gap); gaps: Copilot Studio/Power Platform/Azure AI Foundry, SAP Joule/Build, enterprise ETL + data governance; ATS 79%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Ober-Ramstadt",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4441072132",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4441072132",
+ "contact": "",
+ "verdict": "Solid on Python, SQL, API integrations, data pipelines for AI (ingestion, chunking, indexing at Kniit), RAG, vector databases, AI agents, Azure + AWS. Gaps: classic enterprise ETL/ELT and data architecture across business systems, data governance, the Microsoft Power Platform/Copilot Studio stack and Azure AI Foundry (none hands-on), SAP Joule / SAP Build (none; you worked with SAP domain experts and SAP-derived data only), very good German (B1).",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why DAW",
+   "value": "group-wide AI team; connecting data sources across many business units and brands so agents/copilots can rely on them."
+  },
+  {
+   "label": "Gehaltsvorstellung",
+   "value": "70.000 € brutto/Jahr (range 60–75k), only if asked."
+  },
+  {
+   "label": "Frühester Eintritt",
+   "value": "15. November 2026."
+  },
+  {
+   "label": "Arbeitserlaubnis",
+   "value": "Blaue Karte EU."
+  },
+  {
+   "label": "Deutsch",
+   "value": "B1 (no certificate)."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_DAW.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_DAW.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-quality-process-copilot.md"
+ ],
+ "build": "quality-process-copilot",
+ "found_by_scout": true
+}

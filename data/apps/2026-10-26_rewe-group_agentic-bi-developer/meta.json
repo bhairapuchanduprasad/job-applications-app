@@ -1,0 +1,69 @@
+{
+ "folder": "2026-10-26_rewe-group_agentic-bi-developer",
+ "date": "2026-10-26",
+ "prepared_at": 1793032906,
+ "company": "REWE Group",
+ "role": "Agentic BI Developer - Semantic Layer & AI Analytics (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build semantic-analytics-agent",
+ "notes": "Found by job-scout; Köln; Analytics (not REWE digital); German docs (confident German required, user B1, top gap); gaps: Snowflake/dbt/semantic layer, RLS/CLS, KPI catalogs; no salary info; ATS 70%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Köln",
+ "ats": 70,
+ "apply_url": "https://www.linkedin.com/jobs/view/4475517466",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4475517466",
+ "contact": "",
+ "verdict": "Good match on agentic AI, knowledge graphs (Neo4j, GraphRAG, plus a hands-on RDF/OWL/SPARQL/Protégé project), Python, SQL, GitLab CI/CD and evaluation. Gaps: Snowflake + dbt and semantic-layer tooling (none), KPI definitions / data catalogs / metadata management (none), row-/column-level security and access models (none), \"sicher in Deutsch\" for stakeholder communication (B1), platform/framework thinking at group level.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why REWE Group",
+   "value": "Analytics serves 40+ business units with ~8M receipts/day from 6,500 stores; building the semantic foundation for agents in a new team from day one."
+  },
+  {
+   "label": "Gehaltsvorstellung",
+   "value": "70.000 € brutto/Jahr (range 60–75k), only if asked."
+  },
+  {
+   "label": "Frühester Eintritt",
+   "value": "15. November 2026."
+  },
+  {
+   "label": "Arbeitserlaubnis",
+   "value": "Blaue Karte EU."
+  },
+  {
+   "label": "Deutsch",
+   "value": "B1 (no certificate)."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_REWE-Group.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_REWE-Group.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-semantic-analytics-agent.md"
+ ],
+ "build": "semantic-analytics-agent",
+ "found_by_scout": true
+}

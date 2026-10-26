@@ -1,0 +1,69 @@
+{
+ "folder": "2026-10-26_scalable-capital_ai-software-engineer-python",
+ "date": "2026-10-26",
+ "prepared_at": 1793032495,
+ "company": "Scalable Capital",
+ "role": "AI Software Engineer – Python (m/f/x)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build llm-gateway",
+ "notes": "Found by job-scout; Berlin (also Munich listing 4483546505, same JD); English docs; gaps: Terraform (has AWS CDK), production monitoring, several years Python vs 3, fintech; Mid-Senior label; ATS 78%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482981150",
+ "apply_url_kind": "posting",
+ "apply_hint": "Two listings, same JD: Berlin https://www.linkedin.com/jobs/view/4482981150 · Munich https://www.linkedin.com/jobs/view/4483546505. Documents say Berlin; switch \\location + letter line to Munich if you apply there (scripts/rebuild.sh).",
+ "source": "https://www.linkedin.com/jobs/view/4482981150",
+ "contact": "",
+ "verdict": "Strong on the core of the role (Python AI/LLM services, LangGraph agentic workflows, AWS with IaC via CDK, Docker, CI/CD, evaluation/testing of LLM outputs). Gaps: Terraform (you have AWS CDK, not Terraform), \"several years\" of professional Python (3 years incl. internships/thesis), production monitoring of AI systems, fintech domain.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why Scalable",
+   "value": "AI inside a regulated product with clear limits (Aug 2026: ChatGPT/Claude/Grok connected to accounts, trades still need confirmation); new AI work stream = chance to set the foundations."
+  },
+  {
+   "label": "Salary",
+   "value": "€70,000 gross/year (range 60–75k)."
+  },
+  {
+   "label": "Notice / start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Work permit",
+   "value": "EU Blue Card, no sponsorship needed."
+  },
+  {
+   "label": "Location",
+   "value": "Berlin or Munich."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Scalable-Capital.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Scalable-Capital.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-llm-gateway.md"
+ ],
+ "build": "llm-gateway",
+ "found_by_scout": true
+}
