@@ -9,3 +9,4 @@
 2026-10-25 20:27 manual 24h sweep incl. remote EU: 32 queries, 201 jobs, 28 new, 0 matches (remote-EU listings country-bound); re-queued 6 'sehr gute Deutschkenntnisse' jobs under the new German rule
 2026-10-25 22:04 found 174, new 40, prepared 1, skipped 39 (Chrono24 AI Solution Engineer 60 build-first; skips: 1 German C1, 1 Deloitte repost, 3 outside DE/not remote, 1 PhD, 33 not AI/ML)
   note: sync_cloud.sh hung >10 min on cp tracker.csv to iCloud Drive (killed); Chrono24 PDFs + job.md did sync; publish.sh run separately OK
+2026-10-26 10:04 found 113, new 40, prepared 1, skipped 39 (INSTATIQ Applied AI Engineer 62 build-first, German docs; skips: 3 German C1, 1 Haystack senior, 1 Finanz Informatik repost, 1 student, 2 Alignerr gigs, 31 not AI/ML)
