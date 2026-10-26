@@ -1,5 +1,5 @@
 {
- "generated": 1792977775.161537,
+ "generated": 1792989257.012952,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -560,6 +560,22 @@
    "build": "ops-mcp-server",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-26_instatiq_applied-ai-engineer",
+   "date": "2026-10-26",
+   "prepared_at": 1792989242,
+   "company": "INSTATIQ GmbH",
+   "role": "Applied AI Engineer (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481098986",
+   "apply_url_kind": "posting",
+   "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -603,7 +619,8 @@
    "2026-10-25_dr-theiss_solution-consultant-ki-plattformen"
   ],
   "plant-maintenance-agent": [
-   "2026-10-21_siemens-advanta_consultant-ai-new-technologies"
+   "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
+   "2026-10-26_instatiq_applied-ai-engineer"
   ],
   "energy-service-agent": [
    "2026-10-22_kraken_software-engineer-autonomous-agents"

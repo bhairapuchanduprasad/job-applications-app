@@ -1,0 +1,73 @@
+{
+ "folder": "2026-10-26_instatiq_applied-ai-engineer",
+ "date": "2026-10-26",
+ "prepared_at": 1792989242,
+ "company": "INSTATIQ GmbH",
+ "role": "Applied AI Engineer (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "Found by job-scout; Stuttgart, Mobile Office possible; Putzmeister 3D-concrete-printing spin-off; German docs (posting requires verhandlungssichere Deutschkenntnisse, user has B1, top gap); salary 70k + start 15 Nov in Anschreiben; gaps: predictive maintenance/OT integration, steering external partners; ATS 81%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481098986",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4481098986",
+ "contact": "",
+ "verdict": "Strong on GenAI (RAG, assistants, agents), Python, training/evaluating ML models and taking prototypes to deployed services. Main gaps: \"verhandlungssichere\" German (you have B1), no hands-on predictive maintenance / OT integration, no experience steering external development partners.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why INSTATIQ",
+   "value": "AI on a real machine on the construction site; the P1 (truck-mounted concrete pump base, bauma 2025) produces sensor data that suits anomaly detection and operator assistance; Mechanical Engineering bachelor + AI master fits that mix."
+  },
+  {
+   "label": "Gehaltsvorstellung",
+   "value": "70.000 € brutto/Jahr (range 60–75k)."
+  },
+  {
+   "label": "Frühester Eintritt / Kündigungsfrist",
+   "value": "15. November 2026 (current role ends 13 Nov 2026)."
+  },
+  {
+   "label": "Arbeitserlaubnis",
+   "value": "Blaue Karte EU, no sponsorship needed."
+  },
+  {
+   "label": "Wohnort",
+   "value": "will be based in Stuttgart; open to Mobile Office."
+  },
+  {
+   "label": "Deutsch",
+   "value": "B1 (no certificate)."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_INSTATIQ.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_INSTATIQ.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-plant-maintenance-agent.md"
+ ],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": true
+}
