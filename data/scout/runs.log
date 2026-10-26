@@ -7,3 +7,4 @@
 2026-10-25 17:52 found 125, new 19, prepared 0, skipped 19 (all fail triage: 4 German B2+/C1+, 15 not AI/ML)
 2026-10-25 20:08 manual 24h sweep: 24 queries, 144 jobs, 30 new, 0 matches (3 AI roles all need C1/very good German)
 2026-10-25 20:27 manual 24h sweep incl. remote EU: 32 queries, 201 jobs, 28 new, 0 matches (remote-EU listings country-bound); re-queued 6 'sehr gute Deutschkenntnisse' jobs under the new German rule
+2026-10-25 22:04 found 174, new 40, prepared 1, skipped 39 (Chrono24 AI Solution Engineer 60 build-first; skips: 1 German C1, 1 Deloitte repost, 3 outside DE/not remote, 1 PhD, 33 not AI/ML)

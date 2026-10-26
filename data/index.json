@@ -1,5 +1,5 @@
 {
- "generated": 1792941385.9818292,
+ "generated": 1792977775.161537,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -544,6 +544,22 @@
    "build": "product-qa-assistant",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-25_chrono24_ai-solution-engineer",
+   "date": "2026-10-25",
+   "prepared_at": 1792945706,
+   "company": "Chrono24",
+   "role": "AI Solution Engineer (m/f/d)",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Karlsruhe\\,",
+   "ats": 72,
+   "apply_url": "https://www.linkedin.com/jobs/view/4446902091",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -579,7 +595,8 @@
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
-   "2026-10-25_baehrbots_ai-integration-engineer"
+   "2026-10-25_baehrbots_ai-integration-engineer",
+   "2026-10-25_chrono24_ai-solution-engineer"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",

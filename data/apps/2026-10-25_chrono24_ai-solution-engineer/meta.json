@@ -1,0 +1,53 @@
+{
+ "folder": "2026-10-25_chrono24_ai-solution-engineer",
+ "date": "2026-10-25",
+ "prepared_at": 1792945706,
+ "company": "Chrono24",
+ "role": "AI Solution Engineer (m/f/d)",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "Found by job-scout; Karlsruhe, hybrid; English docs; gaps: very good German required (B1), min. 5 years experience (3); Ops MCP Server Chrono24 variant to build; no deadline, no contact",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Karlsruhe\\,",
+ "ats": 72,
+ "apply_url": "https://www.linkedin.com/jobs/view/4446902091",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4446902091 (or Chrono24 careers page).",
+ "source": "https://www.linkedin.com/jobs/view/4446902091",
+ "contact": "",
+ "verdict": "Strong match on the work itself: building LLM-powered automations and POCs with existing models, prompt engineering in real use cases, APIs/HTTP/JSON and MCP, and sitting with business stakeholders to find where AI helps (Covestro AI consulting internship). Two real gaps hold the score down: the posting asks for a minimum of 5 years of relevant experience (I have 3, including internships and thesis) and very good German (I have B1, no certificate).",
+ "gaps": [
+  "German (very good required)",
+  "5 years minimum",
+  "Commercial departments (Growth, Marketing, Finance, People & Culture)",
+  "No-code / iPaaS tools (Zapier, n8n, Make)"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Chrono24.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Chrono24.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-ops-mcp-server.md"
+ ],
+ "build": "ops-mcp-server",
+ "found_by_scout": true
+}
