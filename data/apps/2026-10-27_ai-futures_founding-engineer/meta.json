@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_ai-futures_founding-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793061366,
+ "company": "AI Futures (confidential AI startup)",
+ "role": "Founding Engineer",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent + llm-gateway",
+ "notes": "Found by job-scout; Berlin; recruiter post, employer unnamed; LinkedIn level Mid-Senior; English docs; gaps: founding/hiring experience, production-scale backend ownership; ATS 75%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481473850",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4481473850 (recruiter, confidential employer). Ask the recruiter for the company name, stage, funding, salary + equity range, and team size.",
+ "source": "https://www.linkedin.com/jobs/view/4481473850",
+ "contact": "",
+ "verdict": "Solid on \"build AI-native applications 0→1 end-to-end\": sole developer of Kniit's agentic pipeline at an early-stage startup, reporting to the CTO; full-stack (FastAPI + React) and cloud (Azure, AWS CDK, Docker, K8s); LLMs/Agentic AI is \"highly desirable\" and is the core of the profile. Weaker: LinkedIn level is Mid-Senior, the role wants strong backend/system-architecture fundamentals and shipping production software as a founding engineer, plus building the wider engineering team later. Three years of experience is at the low end.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_AI-Futures.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_AI-Futures.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}

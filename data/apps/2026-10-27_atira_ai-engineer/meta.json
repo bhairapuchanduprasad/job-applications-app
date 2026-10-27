@@ -1,0 +1,49 @@
+{
+ "folder": "2026-10-27_atira_ai-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793060992,
+ "company": "Atira",
+ "role": "AI Engineer",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness + order-inbox-agent",
+ "notes": "Found by job-scout; Munich; English docs (German not required); seed $17.5M (Accel), team of 12; gaps: millions of LLM calls/day, sandboxing, TypeScript, strong-TU signal, ontology layer, deterministic guardrails (no profile evidence); ATS 58%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 58,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483596232",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4483596232 (or Atira careers page).",
+ "source": "https://www.linkedin.com/jobs/view/4483596232",
+ "contact": "",
+ "verdict": "Strong match on the core: agent harnesses/orchestration (LangGraph multi-agent at Kniit), evals against ground truth, deterministic guardrails vs. LLM (the $200k deterministic pipeline), ontology/context layer (Neo4j knowledge graph + MCP), heavy Claude Code use with skills. Gaps: scale (millions of LLM calls/day), sandboxing, TypeScript, \"strong technical university\" signal, multi-modal CAD/drawings.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Atira.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Atira.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md",
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}

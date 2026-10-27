@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_uni-hamburg_research-software-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793061832,
+ "company": "Universität Hamburg (HCDS)",
+ "role": "Research Associate as Research Software Engineer",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-mcp (or remove it)",
+ "notes": "Found by job-scout; DEADLINE 05.11.2026 (online form, ref 261); fixed-term 01.01.2027-31.12.2028, TV-L E13 (likely below salary target); English docs; contacts Prof. Biemann, Dr. Semmann; gaps: Elasticsearch, research track record, MLOps; ATS 76%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483210969",
+ "apply_url_kind": "posting",
+ "apply_hint": "Deadline: 05.11.2026. Apply only via the UHH online application form: cover letter, CV, copies of degree certificates. Reference number 261 (use in the form, not in the letter).",
+ "source": "https://www.linkedin.com/jobs/view/4483210969",
+ "contact": "",
+ "verdict": "Good match for an RSE building data science software for researchers: RAG and multi-agent systems (Kniit, Covestro), transformer models (Hugging Face, embedding benchmark on 1M+ chunks, QLoRA fine-tuning project), knowledge-based systems (Neo4j knowledge graph at Kniit; RDF/SPARQL/OWL knowledge-graph project), evaluation (RAGAS/PytrecEval thesis, ground-truth P/R), user interfaces for domain experts (Expert Interface, Streamlit dashboard for chemists), Docker/Postgres/cloud. Gaps: Elasticsearch, consulting researchers across faculties, academic research track record beyond one publication, MLOps formally.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Uni-Hamburg.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Uni-Hamburg.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "knowledge-assistant-mcp",
+ "found_by_scout": true
+}

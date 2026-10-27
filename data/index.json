@@ -1,5 +1,5 @@
 {
- "generated": 1793033494.412628,
+ "generated": 1793062045.9146829,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -688,6 +688,118 @@
    "build": "care-note-structurer",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_atira_ai-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793060992,
+   "company": "Atira",
+   "role": "AI Engineer",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 58,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483596232",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_atira_forward-deployed-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793061189,
+   "company": "Atira",
+   "role": "Forward Deployed Engineer",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 57,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483587565",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_ai-futures_founding-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793061366,
+   "company": "AI Futures (confidential AI startup)",
+   "role": "Founding Engineer",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481473850",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_summ-ai_ai-engineer-llms-agents",
+   "date": "2026-10-27",
+   "prepared_at": 1793061500,
+   "company": "summ AI",
+   "role": "AI Engineer – LLMs & Agents (m/w/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 65,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481483208",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_vector_devops-engineer-ai-developer-platforms",
+   "date": "2026-10-27",
+   "prepared_at": 1793061665,
+   "company": "Vector Informatik",
+   "role": "DevOps Engineer AI & Developer Platforms (m/w/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482066225",
+   "apply_url_kind": "posting",
+   "build": "ai-gateway-platform",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_uni-hamburg_research-software-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793061832,
+   "company": "Universität Hamburg (HCDS)",
+   "role": "Research Associate as Research Software Engineer",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483210969",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_tomorrow-bird_ai-solutions-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793062023,
+   "company": "tomorrow bird GmbH (via Pioneers Club)",
+   "role": "AI Solutions Engineer (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Bielefeld",
+   "ats": 72,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483768356",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -722,7 +834,8 @@
   "agent-eval-harness": [
    "2026-10-17_jobgether_ai-evaluation-engineer",
    "2026-10-25_cgi_ai-qa-engineer",
-   "2026-10-26_rohde-schwarz_ai-ml-engineer-agentic-ai"
+   "2026-10-26_rohde-schwarz_ai-ml-engineer-agentic-ai",
+   "2026-10-27_atira_ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -742,7 +855,10 @@
   ],
   "order-inbox-agent": [
    "2026-10-22_comena_forward-deployed-engineer",
-   "2026-10-26_elunic_ai-tech-consultant"
+   "2026-10-26_elunic_ai-tech-consultant",
+   "2026-10-27_atira_forward-deployed-engineer",
+   "2026-10-27_ai-futures_founding-engineer",
+   "2026-10-27_tomorrow-bird_ai-solutions-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -760,6 +876,13 @@
   ],
   "semantic-analytics-agent": [
    "2026-10-26_rewe-group_agentic-bi-developer"
+  ],
+  "knowledge-assistant-mcp": [
+   "2026-10-27_summ-ai_ai-engineer-llms-agents",
+   "2026-10-27_uni-hamburg_research-software-engineer"
+  ],
+  "ai-gateway-platform": [
+   "2026-10-27_vector_devops-engineer-ai-developer-platforms"
   ]
  }
 }

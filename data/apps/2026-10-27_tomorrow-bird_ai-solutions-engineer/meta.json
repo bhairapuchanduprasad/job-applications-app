@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_tomorrow-bird_ai-solutions-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793062023,
+ "company": "tomorrow bird GmbH (via Pioneers Club)",
+ "role": "AI Solutions Engineer (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent + ops-mcp-server",
+ "notes": "Found by job-scout; Bielefeld; consulting for family-owned companies (Langdock partner); JD TRUNCATED: read full ad first (German requirement? travel?); English docs for now; gaps: workshops, external client work, on-prem, German (implicit); ATS 72%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bielefeld",
+ "ats": 72,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483768356",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4483768356 → \"Zur Stellenanzeige\" (Pioneers Club repost). Before submitting: open the full ad; the LinkedIn text is truncated.",
+ "source": "https://www.linkedin.com/jobs/view/4483768356",
+ "contact": "",
+ "verdict": "Matches the visible requirements well: two years building AI solutions (three years), MCP servers (MCP service at Kniit), prototypes via agentic coding (Claude Code with custom skills), APIs and data models (FastAPI, Neo4j, Postgres, MongoDB), cloud (Azure, AWS), \"not only generative AI\" (XGBoost, LSTM, time-series forecasting at Covestro and Cognizant), requirements with business stakeholders (Covestro AI consulting internship). Gaps: running workshops, direct client work with Mittelstand customers, on-prem environments, and likely German.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_tomorrow-bird.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_tomorrow-bird.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}
