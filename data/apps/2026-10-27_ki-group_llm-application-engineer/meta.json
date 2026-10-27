@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-27_ki-group_llm-application-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793105291,
+ "company": "KI Group (via TaskVerse)",
+ "role": "(Senior) LLM Application Engineer (posted as Application Engineer)",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build price-intelligence-copilot",
+ "notes": "Found by job-scout via aggregator TaskVerse: apply at KI Group directly if listed; Bad Homburg hybrid; pricenxt; EUR 55-85k + bonus; English docs; 'very good German' (B1) = gap; gaps: TypeScript/Node, external-customer LLM feature in prod; ATS 68%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bad Homburg",
+ "ats": 68,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484027654",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: KI Group careers directly if listed (kiweb.de), otherwise https://www.linkedin.com/jobs/view/4484027654 (TaskVerse).",
+ "source": "https://www.linkedin.com/jobs/view/4484027654",
+ "contact": "",
+ "verdict": "Strong on RAG (chunking, vector DBs, retrieval strategies, evaluation, grounding: Kniit + thesis), Python backend/API design, function calling/tool use, MCP, prompt + context engineering, agent architectures, model/cost trade-offs, React (beginner). Gaps: \"several years\" incl. an LLM feature delivered to production and real users (Kniit system used by internal domain experts; not public customers), TypeScript/Node.js (none), very good German (B1), asynchronous workflows/monitoring in production. Title says \"(Senior)\": it's posted as \"Associate\"; salary €55,000–85,000 + bonus, so the junior-mid end fits.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_KI-Group.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_KI-Group.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-price-intelligence-copilot.md"
+ ],
+ "build": "price-intelligence-copilot",
+ "found_by_scout": true
+}

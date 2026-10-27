@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_bits_forward-deployed-ai-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793104675,
+ "company": "BITS GmbH",
+ "role": "Forward Deployed AI Engineer (m/w/d)",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build llm-gateway",
+ "notes": "Found by job-scout; Munich hybrid; German docs; 'sicher auf Deutsch' must-have (B1) = top gap; gaps: guardrails/monitoring in prod, client workshops, Databricks; variable pay share; ATS 76%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "München",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481856167",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4481856167 (or mybits.de careers).",
+ "source": "https://www.linkedin.com/jobs/view/4481856167",
+ "contact": "",
+ "verdict": "Close on the core: LLM orchestration, tool calling (MCP), agentic + multi-agent systems, structured outputs, Python backends/APIs, Git + CI/CD, cloud (Azure, AWS), quality vs cost trade-offs ($200k LLM budget → near zero), translating business requirements (Covestro AI consulting). Weaker: \"mehrjährige, fundierte Erfahrung in der Softwareentwicklung\" (3 years), production guardrails/monitoring/fallbacks (only in planned project), direct external customer work/workshops, Databricks (nice-to-have). German: \"Du kommunizierst sicher auf Deutsch\" is a must-have → top gap (B1).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_BITS.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_BITS.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "llm-gateway",
+ "found_by_scout": true
+}

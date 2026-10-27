@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_bayer_ai-application-expert",
+ "date": "2026-10-27",
+ "prepared_at": 1793104507,
+ "company": "Bayer (Crop Science)",
+ "role": "AI Application Expert (all genders), Dormagen",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "Found by job-scout; Dormagen; ref 880410; English docs (English posting exists); German 'proficient/sehr gut' required (B1) = top gap; salary band 88.9-108k (more senior); gaps: project/change leadership, data governance; ATS 71%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Dormagen",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484021570",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: Bayer careers, reference code 880410 (LinkedIn https://www.linkedin.com/jobs/view/4484021570).",
+ "source": "https://www.linkedin.com/jobs/view/4484021570",
+ "contact": "",
+ "verdict": "Good technical overlap: ML on chemical production process data (Covestro DS intern, Leverkusen), AI consulting with business stakeholders (Covestro), data pipelines + data integrity (Kniit), AWS/Azure, IaC with AWS CDK, Docker/K8s. Weak on the senior/leadership side: project leadership, stakeholder and change management, Digital Roadmap ownership, data governance, training site personnel. Salary band €88,900–108,000 signals an experienced hire; seniority level not stated, no years required.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Bayer.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Bayer.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": true
+}

@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_check24_junior-data-scientist-generative-ai",
+ "date": "2026-10-27",
+ "prepared_at": 1793105050,
+ "company": "CHECK24 Vergleichsportal Mietwagen",
+ "role": "(Junior) Data Scientist (m/w/d) - Generative AI Mietwagen International",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Found by job-scout; Munich office-first; German docs; 'verhandlungssichere Deutschkenntnisse' (B1) = top gap; gaps: live monitoring, multilingual rollout; ATS 71%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "München",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484028781",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: CHECK24 careers (LinkedIn https://www.linkedin.com/jobs/view/4484028781).",
+ "source": "https://www.linkedin.com/jobs/view/4484028781",
+ "contact": "",
+ "verdict": "Technically a strong match for a junior GenAI role: LLM applications built in production-like settings (Kniit, Covestro), context/prompt engineering, connecting external data/systems, systematic evaluation of multi-step pipelines (ground truth P/R, RAGAS/PytrecEval), model comparison (embedding benchmark), cost trade-offs, Python/Git/APIs/Docker/Azure/AWS. Main gap: \"verhandlungssichere Deutschkenntnisse\" (B1). Other gaps: multilingual/multi-market LLM apps in production, latency/cost monitoring of live features, product-management collaboration in a consumer product.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_CHECK24.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_CHECK24.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}

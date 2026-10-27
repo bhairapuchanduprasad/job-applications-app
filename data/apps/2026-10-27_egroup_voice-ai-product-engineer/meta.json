@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-27_egroup_voice-ai-product-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793105205,
+ "company": "eGroup",
+ "role": "Voice AI Product Engineer (f/m/d)",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build voice-receptionist-agent",
+ "notes": "Found by job-scout; Berlin; English docs; gaps: voice stack (LiveKit/Deepgram/ElevenLabs), Java, Angular; Audelia voice agent platform; ATS 81%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484041104",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4484041104 (eGroup careers).",
+ "source": "https://www.linkedin.com/jobs/view/4484041104",
+ "contact": "",
+ "verdict": "Strong on the AI layer: prompts, tool calls (MCP), RAG, agent logic (LangGraph), evals (ground truth, RAGAS), AI-first development with Claude Code, owning a product end-to-end alone (Kniit), React + Python full stack (React beginner). Gaps: voice stack (LiveKit, Deepgram, ElevenLabs, real-time speech: none), Java and Angular (none; JD requires full-stack Angular/React + Java/Python), shipping voicebot conversation flows, post-launch monitoring. English-only posting, no German requirement.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_eGroup.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_eGroup.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-voice-receptionist-agent.md"
+ ],
+ "build": "voice-receptionist-agent",
+ "found_by_scout": true
+}

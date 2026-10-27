@@ -1,5 +1,5 @@
 {
- "generated": 1793062045.9146829,
+ "generated": 1793105305.031923,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -800,6 +800,150 @@
    "build": "order-inbox-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_sap-fioneer_graduate-ai-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793104238,
+   "company": "SAP Fioneer",
+   "role": "Graduate AI Engineer (m/f/d) - Banking Solutions",
+   "fit": 76,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 83,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483601982",
+   "apply_url_kind": "posting",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_hochtief-edgital_applied-ai-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793104304,
+   "company": "HOCHTIEF (EDGITAL)",
+   "role": "Applied AI Engineer / Machine Learning Engineer (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Essen",
+   "ats": 83,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484012786",
+   "apply_url_kind": "posting",
+   "build": "road-damage-inference",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_bayer_ai-application-expert",
+   "date": "2026-10-27",
+   "prepared_at": 1793104507,
+   "company": "Bayer (Crop Science)",
+   "role": "AI Application Expert (all genders), Dormagen",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Dormagen",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484021570",
+   "apply_url_kind": "posting",
+   "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_bits_forward-deployed-ai-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793104675,
+   "company": "BITS GmbH",
+   "role": "Forward Deployed AI Engineer (m/w/d)",
+   "fit": 68,
+   "status": "build-first",
+   "city": "München",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481856167",
+   "apply_url_kind": "posting",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_capgemini-engineering_ai-application-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793104795,
+   "company": "Capgemini Engineering",
+   "role": "AI Application Engineer (w/m/d) in Erlangen",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Erlangen",
+   "ats": 72,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483635336",
+   "apply_url_kind": "posting",
+   "build": "autohaus-service-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_wefra-life_data-scientist",
+   "date": "2026-10-27",
+   "prepared_at": 1793104850,
+   "company": "WEFRA LIFE",
+   "role": "Data Scientist (w/m/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Neu-Isenburg",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481854863",
+   "apply_url_kind": "posting",
+   "build": "clinical-info-assistant",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_check24_junior-data-scientist-generative-ai",
+   "date": "2026-10-27",
+   "prepared_at": 1793105050,
+   "company": "CHECK24 Vergleichsportal Mietwagen",
+   "role": "(Junior) Data Scientist (m/w/d) - Generative AI Mietwagen International",
+   "fit": 66,
+   "status": "build-first",
+   "city": "München",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484028781",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_egroup_voice-ai-product-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793105205,
+   "company": "eGroup",
+   "role": "Voice AI Product Engineer (f/m/d)",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484041104",
+   "apply_url_kind": "posting",
+   "build": "voice-receptionist-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_ki-group_llm-application-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793105291,
+   "company": "KI Group (via TaskVerse)",
+   "role": "(Senior) LLM Application Engineer (posted as Application Engineer)",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Bad Homburg",
+   "ats": 68,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484027654",
+   "apply_url_kind": "posting",
+   "build": "price-intelligence-copilot",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -810,7 +954,9 @@
    "2026-10-14_accenture_junior-applied-ai-engineer",
    "2026-10-24_rewe-digital_platform-engineer-ki-platform",
    "2026-10-25_markant_devops-engineer-daten-ki-plattformen",
-   "2026-10-26_scalable-capital_ai-software-engineer-python"
+   "2026-10-26_scalable-capital_ai-software-engineer-python",
+   "2026-10-27_sap-fioneer_graduate-ai-engineer",
+   "2026-10-27_bits_forward-deployed-ai-engineer"
   ],
   "care-note-structurer": [
    "2026-10-14_dexter-health_ai-engineer-llm",
@@ -824,7 +970,8 @@
    "2026-10-16_sap_ai-engineer-development-expert"
   ],
   "autohaus-service-agent": [
-   "2026-10-17_haiar_backend-software-engineer-ai-systems"
+   "2026-10-17_haiar_backend-software-engineer-ai-systems",
+   "2026-10-27_capgemini-engineering_ai-application-engineer"
   ],
   "spec-driven-agent-harness": [
    "2026-10-17_bcg-platinion_ai-associate",
@@ -835,7 +982,8 @@
    "2026-10-17_jobgether_ai-evaluation-engineer",
    "2026-10-25_cgi_ai-qa-engineer",
    "2026-10-26_rohde-schwarz_ai-ml-engineer-agentic-ai",
-   "2026-10-27_atira_ai-engineer"
+   "2026-10-27_atira_ai-engineer",
+   "2026-10-27_check24_junior-data-scientist-generative-ai"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -848,7 +996,8 @@
   ],
   "plant-maintenance-agent": [
    "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
-   "2026-10-26_instatiq_applied-ai-engineer"
+   "2026-10-26_instatiq_applied-ai-engineer",
+   "2026-10-27_bayer_ai-application-expert"
   ],
   "energy-service-agent": [
    "2026-10-22_kraken_software-engineer-autonomous-agents"
@@ -866,7 +1015,8 @@
    "2026-10-26_daw_ai-data-engineer"
   ],
   "clinical-info-assistant": [
-   "2026-10-25_juicylemons_product-engineer"
+   "2026-10-25_juicylemons_product-engineer",
+   "2026-10-27_wefra-life_data-scientist"
   ],
   "azure-ai-rag-starter-kit": [
    "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai"
@@ -883,6 +1033,15 @@
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms"
+  ],
+  "road-damage-inference": [
+   "2026-10-27_hochtief-edgital_applied-ai-engineer"
+  ],
+  "voice-receptionist-agent": [
+   "2026-10-27_egroup_voice-ai-product-engineer"
+  ],
+  "price-intelligence-copilot": [
+   "2026-10-27_ki-group_llm-application-engineer"
   ]
  }
 }

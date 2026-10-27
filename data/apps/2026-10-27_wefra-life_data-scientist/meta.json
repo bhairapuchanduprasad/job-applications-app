@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_wefra-life_data-scientist",
+ "date": "2026-10-27",
+ "prepared_at": 1793104850,
+ "company": "WEFRA LIFE",
+ "role": "Data Scientist (w/m/d)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build clinical-info-assistant (or drop it)",
+ "notes": "Found by job-scout; Neu-Isenburg; English docs (English C1 req, German B1 desirable); upload Arbeitsprobe _work/work-sample-arbeitsprobe.md; salary from 51k; gaps: segmentation, recommender, marketing analytics, SQL evidence; ATS 79%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Neu-Isenburg",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481854863",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: WEFRA LIFE careers (LinkedIn https://www.linkedin.com/jobs/view/4481854863). Upload CV, certificates/degree, up to two Arbeitszeugnisse, and the Arbeitsprobe: _work/work-sample-arbeitsprobe.md (export to PDF or paste).",
+ "source": "https://www.linkedin.com/jobs/view/4481854863",
+ "contact": "",
+ "verdict": "Good match: Python, ML models end-to-end (Covestro DS intern: problem → features → RF/XGBoost/LSTM → evaluation → Streamlit dashboard), forecasting (Cognizant), systematic evaluation (Kniit ground truth, thesis RAGAS/PytrecEval), GenAI/LLMs/RAG/agents (plus), stakeholder translation (Covestro consulting), ~3 years (\"idealerweise mindestens 3 Jahre\"). Gaps: SQL only listed as a skill (no project evidence), statistics depth, segmentation and recommendation systems, marketing analytics/healthcare. Language fits: English C1 required, German B1 desirable (exactly the profile).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_WEFRA-LIFE.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_WEFRA-LIFE.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "clinical-info-assistant",
+ "found_by_scout": true
+}
