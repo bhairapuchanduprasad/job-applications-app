@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_revolut_applied-ai-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793118975,
+ "company": "Revolut",
+ "role": "Applied AI Engineer",
+ "fit": 62,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; Berlin; English docs; role reads half product-owner (roadmap, leading teams): ask which; gaps: product ownership, math/stats depth, fintech; only built projects; ATS 76%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4474604819",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4474604819 (Revolut only recruits through official channels: apply on revolut.com/careers if listed; beware @revolut.com-only emails).",
+ "source": "https://www.linkedin.com/jobs/view/4474604819",
+ "contact": "",
+ "verdict": "Technical side fits (ML + deep learning + LLM/NLP, Python, SQL, version control, model deployment, owning ML projects from design to iteration, launching an AI product from scratch at Kniit). The role, however, reads half product-owner: own vision/strategy/roadmap, lead cross-functional teams, set team goals, communicate with senior management. No people/team leadership or formal product ownership in the profile. Revolut is known for a demanding, fast hiring bar (online tests).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Revolut.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Revolut.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_sportradar_forward-deployed-ai-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793118549,
+ "company": "Sportradar",
+ "role": "Forward Deployed AI Engineer (m/f/d)",
+ "fit": 82,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Found by job-scout; Leipzig fully on-site; English docs; duplicate posting 4481885941 (apply once); take-home task in process; gaps: LLM quality dashboards, sports domain; ATS 91%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Leipzig",
+ "ats": 91,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484093079",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4484093079 (identical posting 4481885941: apply once).",
+ "source": "https://www.linkedin.com/jobs/view/4484093079",
+ "contact": "",
+ "verdict": "Very close match: internal-consultant style role (talk to departments, find problems, build LLM/agent solutions, evaluate). Covestro AI consulting + Kniit sole-developer agentic system + RAG evaluation thesis cover nearly every point. Gaps: quality dashboards for LLM evals (not shown in work), SQL/data pipelines only moderate, no sports/betting domain.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Sportradar.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Sportradar.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}

@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-27_heinrich-schmid_ki-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793119158,
+ "company": "Heinrich Schmid",
+ "role": "KI - Engineer (m/w/d)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build product-qa-assistant",
+ "notes": "Found by job-scout; Reutlingen; apply by email (salary EUR 70k + start date in letter); English docs, German posting with no German level stated (German Anschreiben? user decision); gaps: n8n/Make, legacy integration; ATS 90%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Reutlingen",
+ "ats": 90,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483644272",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4483644272; employer prefers applications by email with salary expectation and start date (both in the letter).",
+ "source": "https://www.linkedin.com/jobs/view/4483644272",
+ "contact": "",
+ "verdict": "Strong on the core tasks: AI solutions for digitalization/automation, ML/LLM workflows as services, RAG pipelines incl. data preparation, LLM training (QLoRA fine-tuning, confirmed hands-on), evaluating and selecting AI services, Python + PyTorch/TensorFlow/LangChain, Azure/AWS. Gaps: n8n/Make (low-code automation tools named in the JD), integrating into legacy applications (no explicit evidence), construction/trades domain, and German (not stated as a requirement, but the whole posting is German and the company is a German family-run trades group).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Heinrich-Schmid.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Heinrich-Schmid.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "product-qa-assistant",
+ "found_by_scout": true
+}

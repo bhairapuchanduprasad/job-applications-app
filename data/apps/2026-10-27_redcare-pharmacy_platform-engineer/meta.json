@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-27_redcare-pharmacy_platform-engineer",
+ "date": "2026-10-27",
+ "prepared_at": 1793119266,
+ "company": "Redcare Pharmacy",
+ "role": "Platform Engineer (m/f/d)",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build llm-gateway",
+ "notes": "Found by job-scout; Cologne; Data & AI platform role (Azure, Terraform, AKS, GitOps, Databricks), not AI engineering; English docs; gaps: Terraform, AKS ops, GitOps, Databricks; ATS 79%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Cologne",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481883882",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: https://www.linkedin.com/jobs/view/4481883882",
+ "source": "https://www.linkedin.com/jobs/view/4481883882",
+ "contact": "",
+ "verdict": "Stretch but plausible: the posting is written for a junior-to-mid platform engineer (\"with support from more experienced engineers\", \"basic understanding of Data/ML/AI workloads\", \"strong motivation\" accepted for Databricks). Strong on the AI-workload side, Azure exposure, containers/Docker, AWS CDK as IaC, GitLab CI/CD. Weak on the core: Terraform, AKS operations, GitOps, Databricks, cloud networking/identity.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Redcare-Pharmacy.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Redcare-Pharmacy.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-llm-gateway.md"
+ ],
+ "build": "llm-gateway",
+ "found_by_scout": true
+}

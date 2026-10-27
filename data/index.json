@@ -1,5 +1,5 @@
 {
- "generated": 1793105305.031923,
+ "generated": 1793119306.5807948,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -944,6 +944,102 @@
    "build": "price-intelligence-copilot",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_sportradar_forward-deployed-ai-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793118549,
+   "company": "Sportradar",
+   "role": "Forward Deployed AI Engineer (m/f/d)",
+   "fit": 82,
+   "status": "build-first",
+   "city": "Leipzig",
+   "ats": 91,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484093079",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_olm-consultants_founding-ai-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793118685,
+   "company": "OLM Consultants (client: AI recruitment start-up)",
+   "role": "Founding AI Engineer – LLMs & AI Agents",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483648343",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_safetec_ai-specialist",
+   "date": "2026-10-27",
+   "prepared_at": 1793118866,
+   "company": "Safetec GmbH (E.ON)",
+   "role": "AI Specialist (m/w/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Heidelberg",
+   "ats": 83,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481896464",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_revolut_applied-ai-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793118975,
+   "company": "Revolut",
+   "role": "Applied AI Engineer",
+   "fit": 62,
+   "status": "ready",
+   "city": "Berlin",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4474604819",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_heinrich-schmid_ki-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793119158,
+   "company": "Heinrich Schmid",
+   "role": "KI - Engineer (m/w/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Reutlingen",
+   "ats": 90,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483644272",
+   "apply_url_kind": "posting",
+   "build": "product-qa-assistant",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-27_redcare-pharmacy_platform-engineer",
+   "date": "2026-10-27",
+   "prepared_at": 1793119266,
+   "company": "Redcare Pharmacy",
+   "role": "Platform Engineer (m/f/d)",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Cologne",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481883882",
+   "apply_url_kind": "posting",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -956,7 +1052,8 @@
    "2026-10-25_markant_devops-engineer-daten-ki-plattformen",
    "2026-10-26_scalable-capital_ai-software-engineer-python",
    "2026-10-27_sap-fioneer_graduate-ai-engineer",
-   "2026-10-27_bits_forward-deployed-ai-engineer"
+   "2026-10-27_bits_forward-deployed-ai-engineer",
+   "2026-10-27_redcare-pharmacy_platform-engineer"
   ],
   "care-note-structurer": [
    "2026-10-14_dexter-health_ai-engineer-llm",
@@ -983,7 +1080,8 @@
    "2026-10-25_cgi_ai-qa-engineer",
    "2026-10-26_rohde-schwarz_ai-ml-engineer-agentic-ai",
    "2026-10-27_atira_ai-engineer",
-   "2026-10-27_check24_junior-data-scientist-generative-ai"
+   "2026-10-27_check24_junior-data-scientist-generative-ai",
+   "2026-10-27_sportradar_forward-deployed-ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -992,7 +1090,8 @@
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",
-   "2026-10-25_dr-theiss_solution-consultant-ki-plattformen"
+   "2026-10-25_dr-theiss_solution-consultant-ki-plattformen",
+   "2026-10-27_heinrich-schmid_ki-engineer"
   ],
   "plant-maintenance-agent": [
    "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
@@ -1007,7 +1106,8 @@
    "2026-10-26_elunic_ai-tech-consultant",
    "2026-10-27_atira_forward-deployed-engineer",
    "2026-10-27_ai-futures_founding-engineer",
-   "2026-10-27_tomorrow-bird_ai-solutions-engineer"
+   "2026-10-27_tomorrow-bird_ai-solutions-engineer",
+   "2026-10-27_olm-consultants_founding-ai-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -1029,7 +1129,8 @@
   ],
   "knowledge-assistant-mcp": [
    "2026-10-27_summ-ai_ai-engineer-llms-agents",
-   "2026-10-27_uni-hamburg_research-software-engineer"
+   "2026-10-27_uni-hamburg_research-software-engineer",
+   "2026-10-27_safetec_ai-specialist"
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms"
