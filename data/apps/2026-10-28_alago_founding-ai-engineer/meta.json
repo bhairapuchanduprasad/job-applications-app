@@ -1,0 +1,51 @@
+{
+ "folder": "2026-10-28_alago_founding-ai-engineer",
+ "date": "2026-10-28",
+ "prepared_at": 1793174437,
+ "company": "Alago",
+ "role": "Founding AI Engineer",
+ "fit": 76,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent + spec-driven-agent-harness",
+ "notes": "Found by job-scout; Munich hybrid 3 days; pre-seed, equity 0.5-1.5% (1.5y cliff), salary not stated; gaps: TypeScript/Next.js/Supabase/Vercel; onsite case study; ATS 75%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482287193",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via join.com (alagoai) or LinkedIn: https://www.linkedin.com/jobs/view/4482287193",
+ "source": "https://www.linkedin.com/jobs/view/4482287193",
+ "contact": "",
+ "verdict": "Strong match on the core problem (multi-agent extraction/reasoning/evaluation over long technical documents, graph memory, production reliability); the gap is the TypeScript/Next.js frontend stack.",
+ "gaps": [
+  "Both CV projects (Order Inbox Agent, Spec-Driven Coding Agent Harness) are statu",
+  "TypeScript/Next.js: say React frontends shipped at Kniit and Covestro; TypeScrip",
+  "Vercel/Supabase/Vercel AI SDK/LangFuse: leave out of CV; LangFuse via the planne",
+  "Messy German protocols: B1 German is enough to read structure, but not to claim "
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Alago.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Alago.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}

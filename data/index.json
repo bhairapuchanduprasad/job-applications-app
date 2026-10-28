@@ -1,5 +1,5 @@
 {
- "generated": 1793148552.553119,
+ "generated": 1793174439.312188,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1120,6 +1120,22 @@
    "build": "agent-eval-harness",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_alago_founding-ai-engineer",
+   "date": "2026-10-28",
+   "prepared_at": 1793174437,
+   "company": "Alago",
+   "role": "Founding AI Engineer",
+   "fit": 76,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482287193",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1190,7 +1206,8 @@
    "2026-10-27_ai-futures_founding-engineer",
    "2026-10-27_tomorrow-bird_ai-solutions-engineer",
    "2026-10-27_olm-consultants_founding-ai-engineer",
-   "2026-10-28_all-for-one_sap-cloud-ai-developer"
+   "2026-10-28_all-for-one_sap-cloud-ai-developer",
+   "2026-10-28_alago_founding-ai-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
