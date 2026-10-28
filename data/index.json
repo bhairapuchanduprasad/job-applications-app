@@ -1,5 +1,5 @@
 {
- "generated": 1793218496.4450839,
+ "generated": 1793218600.8428748,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1408,6 +1408,22 @@
    "build": "spec-driven-agent-harness",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-29_amadeus-fire_ai-solutions-engineer",
+   "date": "2026-10-29",
+   "prepared_at": 1793218599,
+   "company": "Amadeus Fire (client unnamed)",
+   "role": "AI Solutions Engineer (m/w/d) LLM, RAG & Automation",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Saarbrücken",
+   "ats": 82,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484493775",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1490,7 +1506,8 @@
    "2026-10-28_alago_founding-ai-engineer",
    "2026-10-28_flaconi_business-automation-developer",
    "2026-10-28_4flow_ai-engineer-consulting",
-   "2026-10-29_getpress_backend-engineer-agentic-ai"
+   "2026-10-29_getpress_backend-engineer-agentic-ai",
+   "2026-10-29_amadeus-fire_ai-solutions-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
