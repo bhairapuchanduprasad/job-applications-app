@@ -1,5 +1,5 @@
 {
- "generated": 1793174818.1099021,
+ "generated": 1793175136.053029,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1152,6 +1152,22 @@
    "build": "agent-eval-harness",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_flow-factor_ki-entwickler-ai-engineer",
+   "date": "2026-10-28",
+   "prepared_at": 1793175134,
+   "company": "FLOW FACTOR",
+   "role": "KI-Entwickler / AI Engineer (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Grevenbroich",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484436266",
+   "apply_url_kind": "posting",
+   "build": "product-qa-assistant",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1206,7 +1222,8 @@
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",
    "2026-10-25_dr-theiss_solution-consultant-ki-plattformen",
-   "2026-10-27_heinrich-schmid_ki-engineer"
+   "2026-10-27_heinrich-schmid_ki-engineer",
+   "2026-10-28_flow-factor_ki-entwickler-ai-engineer"
   ],
   "plant-maintenance-agent": [
    "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
