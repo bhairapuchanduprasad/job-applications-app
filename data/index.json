@@ -1,5 +1,5 @@
 {
- "generated": 1793148273.226778,
+ "generated": 1793148514.50694,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1088,6 +1088,22 @@
    "build": "order-inbox-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_finanz-informatik_data-scientist-compliance",
+   "date": "2026-10-28",
+   "prepared_at": 1793148271,
+   "company": "Finanz Informatik",
+   "role": "Data Scientist für Compliance (m/w/d)",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Frankfurt am Main",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484272559",
+   "apply_url_kind": "posting",
+   "build": "payment-fraud-detection",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1194,6 +1210,9 @@
   ],
   "price-intelligence-copilot": [
    "2026-10-27_ki-group_llm-application-engineer"
+  ],
+  "payment-fraud-detection": [
+   "2026-10-28_finanz-informatik_data-scientist-compliance"
   ]
  }
 }

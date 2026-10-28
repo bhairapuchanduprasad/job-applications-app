@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-28_finanz-informatik_data-scientist-compliance",
+ "date": "2026-10-28",
+ "prepared_at": 1793148271,
+ "company": "Finanz Informatik",
+ "role": "Data Scientist für Compliance (m/w/d)",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build payment-fraud-detection",
+ "notes": "Found by job-scout; Frankfurt/Münster/Hannover; fraud-detection unit; English docs (German posting, no German level stated: German Anschreiben? user decision); quote Kennziffer 650/B in the form; gaps: PySpark, fraud/compliance domain; ATS 76%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484272559",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: FI career portal, quote Kennziffer 650/B in the form (LinkedIn https://www.linkedin.com/jobs/view/4484272559). Contact: Julia Werner, +49 511 51022 4343, karriere@f-i.de.",
+ "source": "https://www.linkedin.com/jobs/view/4484272559",
+ "contact": "Julia Werner",
+ "verdict": "Solid on Python ML (Random Forest, XGBoost, LSTM, time series), feature engineering, model validation against ground truth, SQL/databases, analysis pipelines; 3 years experience fits \"mindestens 2–3 Jahre\". Gaps: PySpark (named must-have, none in profile), payments/fraud/compliance domain, no production ML-model operations in a bank. The recent work is GenAI, not classic DS, so the DS story rests on the Covestro intern + Cognizant roles.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Finanz-Informatik.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Finanz-Informatik.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-payment-fraud-detection.md"
+ ],
+ "build": "payment-fraud-detection",
+ "found_by_scout": true
+}
