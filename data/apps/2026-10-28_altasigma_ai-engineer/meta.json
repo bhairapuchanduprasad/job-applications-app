@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-28_altasigma_ai-engineer",
+ "date": "2026-10-28",
+ "prepared_at": 1793217262,
+ "company": "AltaSigma",
+ "role": "AI Engineer (m/w/d)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build semantic-analytics-agent (PySpark/Delta variant)",
+ "notes": "Found by job-scout; German docs (fließend Deutsch required, B1 = top gap); Ulm on-site focus; gaps: PySpark/Delta/Iceberg; ATS 95%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Ulm",
+ "ats": 95,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484460384",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via LinkedIn: https://www.linkedin.com/jobs/view/4484460384 or altasigma.com careers.",
+ "source": "https://www.linkedin.com/jobs/view/4484460384",
+ "contact": "",
+ "verdict": "Strong on the core: LLM + agent systems (LangGraph multi-agent), own MCP server (Kniit MCP query service), knowledge graphs (Neo4j, GraphRAG), RAG + vector DBs, systematic evaluation/benchmarking (RAGAS, embedding benchmark on 1M+ chunks), classic ML/DL + time series. Gaps: fluent German (top gap), PySpark + Delta/Iceberg lakehouse, Kubernetes only as part of a stack.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_AltaSigma.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_AltaSigma.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-semantic-analytics-agent.md"
+ ],
+ "build": "semantic-analytics-agent",
+ "found_by_scout": true
+}

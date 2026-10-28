@@ -1,5 +1,5 @@
 {
- "generated": 1793189699.07649,
+ "generated": 1793217271.6352792,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1264,6 +1264,38 @@
    "build": "plant-maintenance-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_4flow_ai-engineer-consulting",
+   "date": "2026-10-28",
+   "prepared_at": 1793217262,
+   "company": "4flow",
+   "role": "AI Engineer (d/w/m) - im Bereich Consulting",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4440009258",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_altasigma_ai-engineer",
+   "date": "2026-10-28",
+   "prepared_at": 1793217262,
+   "company": "AltaSigma",
+   "role": "AI Engineer (m/w/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Ulm",
+   "ats": 95,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484460384",
+   "apply_url_kind": "posting",
+   "build": "semantic-analytics-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1340,7 +1372,8 @@
    "2026-10-27_olm-consultants_founding-ai-engineer",
    "2026-10-28_all-for-one_sap-cloud-ai-developer",
    "2026-10-28_alago_founding-ai-engineer",
-   "2026-10-28_flaconi_business-automation-developer"
+   "2026-10-28_flaconi_business-automation-developer",
+   "2026-10-28_4flow_ai-engineer-consulting"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -1361,7 +1394,8 @@
    "2026-10-28_zurich_data-scientist-ai-solution-expert"
   ],
   "semantic-analytics-agent": [
-   "2026-10-26_rewe-group_agentic-bi-developer"
+   "2026-10-26_rewe-group_agentic-bi-developer",
+   "2026-10-28_altasigma_ai-engineer"
   ],
   "knowledge-assistant-mcp": [
    "2026-10-27_summ-ai_ai-engineer-llms-agents",

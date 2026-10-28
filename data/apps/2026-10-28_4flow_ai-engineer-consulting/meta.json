@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-28_4flow_ai-engineer-consulting",
+ "date": "2026-10-28",
+ "prepared_at": 1793217262,
+ "company": "4flow",
+ "role": "AI Engineer (d/w/m) - im Bereich Consulting",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent (n8n + Teams variant)",
+ "notes": "Found by job-scout; German docs (sehr gute Deutsch required, B1 = top gap); Hamburg, free location in DE; gaps: Power Platform/M365, n8n/Make, supply chain; ATS 75%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4440009258",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply online (4flow careers) or via LinkedIn: https://www.linkedin.com/jobs/view/4440009258 (Heidelberg/Berlin twins exist; one application is enough, free choice of location in Germany).",
+ "source": "https://www.linkedin.com/jobs/view/4440009258",
+ "contact": "",
+ "verdict": "Strong on Python, LangChain/LangGraph agents, RAG, prompt engineering, evaluation (LLMOps-adjacent), Docker/Kubernetes, AWS/Azure, APIs, and consulting-style work (Covestro AI consulting internship). Gaps: sehr gute Deutschkenntnisse (top gap, B1), Microsoft 365/Teams/Power Platform integration, n8n/Make, supply chain domain, presales.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_4flow.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_4flow.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}
