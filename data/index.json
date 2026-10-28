@@ -1,5 +1,5 @@
 {
- "generated": 1793175136.053029,
+ "generated": 1793175444.084169,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1168,6 +1168,22 @@
    "build": "product-qa-assistant",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_affinis_microsoft-copilot-consultant",
+   "date": "2026-10-28",
+   "prepared_at": 1793175442,
+   "company": "affinis",
+   "role": "Microsoft Copilot Consultant (w/m/d)",
+   "fit": 53,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482274876",
+   "apply_url_kind": "posting",
+   "build": "quality-process-copilot",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1246,7 +1262,8 @@
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
    "2026-10-26_feri_junior-ki-entwickler",
-   "2026-10-26_daw_ai-data-engineer"
+   "2026-10-26_daw_ai-data-engineer",
+   "2026-10-28_affinis_microsoft-copilot-consultant"
   ],
   "clinical-info-assistant": [
    "2026-10-25_juicylemons_product-engineer",

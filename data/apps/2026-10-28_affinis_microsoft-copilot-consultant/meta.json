@@ -1,0 +1,50 @@
+{
+ "folder": "2026-10-28_affinis_microsoft-copilot-consultant",
+ "date": "2026-10-28",
+ "prepared_at": 1793175442,
+ "company": "affinis",
+ "role": "Microsoft Copilot Consultant (w/m/d)",
+ "fit": 53,
+ "status": "build-first",
+ "next_step": "build quality-process-copilot",
+ "notes": "Found by job-scout; Germany (4 offices or home office), associate; German docs; 'sehr gute Deutschkenntnisse' (B1) top gap; gaps: Copilot Studio/Power Platform/low-code, workshop moderation; commission-based variable pay; office unspecified; ATS 75%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482274876",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via affinis online form. LinkedIn: https://www.linkedin.com/jobs/view/4482274876",
+ "source": "https://www.linkedin.com/jobs/view/4482274876",
+ "contact": "",
+ "verdict": "Strong on GenAI, RAG, LLMs, prompt engineering, agents and AI consulting (Covestro); weak on the Microsoft low-code stack (Copilot Studio, Power Platform), workshop moderation, and \"sehr gute Deutschkenntnisse\".",
+ "gaps": [
+  "German: B1, stated honestly. German documents (German posting requiring German).",
+  "Copilot Studio / Power Platform / low-code: frame as \"the pro-code side of the s",
+  "Workshops: not claimed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_affinis.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_affinis.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "quality-process-copilot",
+ "found_by_scout": true
+}
