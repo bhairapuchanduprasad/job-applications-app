@@ -1,5 +1,5 @@
 {
- "generated": 1793174439.312188,
+ "generated": 1793174818.1099021,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1136,6 +1136,22 @@
    "build": "order-inbox-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_airbus-defence-and-space_software-engineer-ivv-agentic-ai",
+   "date": "2026-10-28",
+   "prepared_at": 1793174816,
+   "company": "Airbus Defence and Space",
+   "role": "Software Engineer IV&V | Agentic AI & Complex Systems IV&V (d/m/w)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Ulm",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482275713",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1179,7 +1195,8 @@
    "2026-10-27_check24_junior-data-scientist-generative-ai",
    "2026-10-27_sportradar_forward-deployed-ai-engineer",
    "2026-10-28_wolters-kluwer_ai-agent-engineer",
-   "2026-10-28_signal-iduna_ai-governance-engineer"
+   "2026-10-28_signal-iduna_ai-governance-engineer",
+   "2026-10-28_airbus-defence-and-space_software-engineer-ivv-agentic-ai"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",

@@ -1,0 +1,51 @@
+{
+ "folder": "2026-10-28_airbus-defence-and-space_software-engineer-ivv-agentic-ai",
+ "date": "2026-10-28",
+ "prepared_at": 1793174816,
+ "company": "Airbus Defence and Space",
+ "role": "Software Engineer IV&V | Agentic AI & Complex Systems IV&V (d/m/w)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Found by job-scout; Ulm, entry level; German docs; 'Fließende Deutsch' (B1) top gap; security clearance (Ü-Verfahren) as non-German citizen: user decision; defence/military; gaps: integration/system tests, V&V; ATS 75%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Ulm",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482275713",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via Airbus careers (LinkedIn: https://www.linkedin.com/jobs/view/4482275713). Entry level, 35h tariff, part-time possible.",
+ "source": "https://www.linkedin.com/jobs/view/4482275713",
+ "contact": "",
+ "verdict": "Good on agentic AI tooling, evaluation against ground truth, CI/CD and containers; weak on classic software test engineering (integration/system tests, V&V process) and the top gap is fluent German plus a military security clearance.",
+ "gaps": [
+  "German: B1. Stated honestly in the Anschreiben; documents in German since the po",
+  "Classic test engineering (integration/system/acceptance tests, V&V): frame evalu",
+  "Agent Eval Harness (planned project) covers automated tests, test framework and ",
+  "Security clearance: Ü-Verfahren for non-German nationals can take long or be ref"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Airbus.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Airbus.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}
