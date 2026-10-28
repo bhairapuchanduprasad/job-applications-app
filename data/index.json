@@ -1,5 +1,5 @@
 {
- "generated": 1793218600.8428748,
+ "generated": 1793218785.28546,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1424,6 +1424,22 @@
    "build": "order-inbox-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-29_fusion-consulting_knowledge-engineer",
+   "date": "2026-10-29",
+   "prepared_at": 1793218783,
+   "company": "Fusion Consulting",
+   "role": "Knowledge Engineer",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Düsseldorf",
+   "ats": 78,
+   "apply_url": "https://www.linkedin.com/jobs/view/4467085185",
+   "apply_url_kind": "posting",
+   "build": "semantic-analytics-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1530,7 +1546,8 @@
   ],
   "semantic-analytics-agent": [
    "2026-10-26_rewe-group_agentic-bi-developer",
-   "2026-10-28_altasigma_ai-engineer"
+   "2026-10-28_altasigma_ai-engineer",
+   "2026-10-29_fusion-consulting_knowledge-engineer"
   ],
   "knowledge-assistant-mcp": [
    "2026-10-27_summ-ai_ai-engineer-llms-agents",

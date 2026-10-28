@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-29_fusion-consulting_knowledge-engineer",
+ "date": "2026-10-29",
+ "prepared_at": 1793218783,
+ "company": "Fusion Consulting",
+ "role": "Knowledge Engineer",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build semantic-analytics-agent (Fusion OWL/SKOS variant)",
+ "notes": "Found by job-scout; English; Düsseldorf (Stuttgart twin skipped); gaps: 3-5 yrs formal semantic modeling, Stardog/Neptune, life sciences; built KG notebook linked; ATS 78%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Düsseldorf",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4467085185",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via LinkedIn: https://www.linkedin.com/jobs/view/4467085185 (Stuttgart twin 4467089176 is the same role; apply once, mention both locations are fine). Process: CV upload, ~2 weeks review, TA call, 30-min technical interview, possibly a client interview.",
+ "source": "https://www.linkedin.com/jobs/view/4467085185",
+ "contact": "",
+ "verdict": "Strong: building an enterprise knowledge graph from regulatory/technical documents with entity and relationship types (Kniit, Neo4j, GraphRAG), capturing domain logic with SMEs (SAP domain experts, Expert Interface curation and approval of graph changes), exposing the graph to AI agents (MCP query service), knowledge graph project with Protégé, rdflib, RDF, SPARQL and OWL (built, real link), consulting with business stakeholders (Covestro). Gaps: 3–5 years of semantic modeling / formal ontology work (OWL/SKOS only in a study project), enterprise triple stores (Stardog, AWS Neptune), semantic web governance/standards, life-sciences regulatory knowledge.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Fusion-Consulting.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Fusion-Consulting.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-semantic-analytics-agent.md"
+ ],
+ "build": "semantic-analytics-agent",
+ "found_by_scout": true
+}
