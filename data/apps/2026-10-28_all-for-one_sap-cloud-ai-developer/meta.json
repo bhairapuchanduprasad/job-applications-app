@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-28_all-for-one_sap-cloud-ai-developer",
+ "date": "2026-10-28",
+ "prepared_at": 1793148030,
+ "company": "All for One Group",
+ "role": "SAP Cloud & AI Developer (human)",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent (SAP CAP/BTP track)",
+ "notes": "Found by job-scout; Filderstadt (+9 offices, mostly remote/hybrid); German docs; 'sehr gut Deutsch' (B1); gaps: hands-on SAP dev (BTP/CAP/RAP/ABAP, Joule), TypeScript/JS, low-code; ATS 64% (remaining keywords are honest SAP gaps)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Filderstadt",
+ "ats": 64,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483818128",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: All for One career site (LinkedIn https://www.linkedin.com/jobs/view/4483818128). No contact named.",
+ "source": "https://www.linkedin.com/jobs/view/4483818128",
+ "contact": "",
+ "verdict": "Strong on the AI side (AI agents, LLM integration via APIs, Python, REST, databases, cloud apps). Main gap: hands-on SAP development (BTP, CAP, RAP, ABAP, Joule Studio): the posting wants SAP \"aus der Praxis\"; the profile only has collaboration with SAP domain experts and SAP-derived ground truth at Kniit. Entry level is flexible (\"Rolle, die wir an deine Erfahrung anpassen\", BTP/CAP not required). German \"sehr gut\" required (B1).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_All-for-One.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_All-for-One.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}

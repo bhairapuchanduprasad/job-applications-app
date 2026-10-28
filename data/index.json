@@ -1,5 +1,5 @@
 {
- "generated": 1793148031.741972,
+ "generated": 1793148273.226778,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1072,6 +1072,22 @@
    "build": "ai-gateway-platform",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_all-for-one_sap-cloud-ai-developer",
+   "date": "2026-10-28",
+   "prepared_at": 1793148030,
+   "company": "All for One Group",
+   "role": "SAP Cloud & AI Developer (human)",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Filderstadt",
+   "ats": 64,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483818128",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1140,7 +1156,8 @@
    "2026-10-27_atira_forward-deployed-engineer",
    "2026-10-27_ai-futures_founding-engineer",
    "2026-10-27_tomorrow-bird_ai-solutions-engineer",
-   "2026-10-27_olm-consultants_founding-ai-engineer"
+   "2026-10-27_olm-consultants_founding-ai-engineer",
+   "2026-10-28_all-for-one_sap-cloud-ai-developer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
