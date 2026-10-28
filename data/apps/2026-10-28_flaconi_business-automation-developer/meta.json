@@ -1,0 +1,65 @@
+{
+ "folder": "2026-10-28_flaconi_business-automation-developer",
+ "date": "2026-10-28",
+ "prepared_at": 1793189097,
+ "company": "flaconi",
+ "role": "Business Automation Developer (all genders)",
+ "fit": 57,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "Found by job-scout; Berlin hybrid, LinkedIn Mid-Senior (no years stated); €56.5-75k, €70k stated in letter; English; gaps: Google Apps Script/JS, Make, GitHub Actions; more automation than ML; ATS 100%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 100,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481596052",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4481596052",
+ "contact": "",
+ "verdict": "Strong on AI coding assistants (Claude Code as coding assistant, custom skills), LLM agents and automated pipelines, Git, stakeholder work (Covestro consulting). Gaps: Google Apps Script / JavaScript / Go, Make (low-code), GitHub Actions (GitLab CI/CD only), G-Suite scripting. Role is more automation/ops than ML, but in the user's target list (\"AI Automation Engineer\").",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why flaconi",
+   "value": "brand-new AI & Workflow Automation team with freedom to pick the stack; expansion into UK, Spain and 5 more countries means more ops work to automate."
+  },
+  {
+   "label": "Salary",
+   "value": "€70,000 gross/year (in letter; posted range €56,500–75,000)."
+  },
+  {
+   "label": "Earliest start",
+   "value": "15 November 2026."
+  },
+  {
+   "label": "Location",
+   "value": "will be based in Berlin; up to 3 home-office days."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_flaconi.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_flaconi.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}

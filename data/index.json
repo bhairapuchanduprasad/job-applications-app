@@ -1,5 +1,5 @@
 {
- "generated": 1793188839.566863,
+ "generated": 1793189098.78065,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1200,6 +1200,22 @@
    "build": "care-note-structurer",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_flaconi_business-automation-developer",
+   "date": "2026-10-28",
+   "prepared_at": 1793189097,
+   "company": "flaconi",
+   "role": "Business Automation Developer (all genders)",
+   "fit": 57,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 100,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481596052",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1274,7 +1290,8 @@
    "2026-10-27_tomorrow-bird_ai-solutions-engineer",
    "2026-10-27_olm-consultants_founding-ai-engineer",
    "2026-10-28_all-for-one_sap-cloud-ai-developer",
-   "2026-10-28_alago_founding-ai-engineer"
+   "2026-10-28_alago_founding-ai-engineer",
+   "2026-10-28_flaconi_business-automation-developer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
