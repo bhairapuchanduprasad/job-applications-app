@@ -1,5 +1,5 @@
 {
- "generated": 1793189560.427511,
+ "generated": 1793189699.07649,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1248,6 +1248,22 @@
    "build": "client-occasion-engine",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_iabg_junior-data-analyst",
+   "date": "2026-10-28",
+   "prepared_at": 1793189697,
+   "company": "IABG",
+   "role": "(Junior) Data Analyst mit Schwerpunkt militärische Luftfahrzeuge (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Dresden",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483867419",
+   "apply_url_kind": "posting",
+   "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1309,7 +1325,8 @@
   "plant-maintenance-agent": [
    "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
    "2026-10-26_instatiq_applied-ai-engineer",
-   "2026-10-27_bayer_ai-application-expert"
+   "2026-10-27_bayer_ai-application-expert",
+   "2026-10-28_iabg_junior-data-analyst"
   ],
   "energy-service-agent": [
    "2026-10-22_kraken_software-engineer-autonomous-agents"

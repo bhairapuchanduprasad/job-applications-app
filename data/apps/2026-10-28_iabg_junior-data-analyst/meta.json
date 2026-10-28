@@ -1,0 +1,65 @@
+{
+ "folder": "2026-10-28_iabg_junior-data-analyst",
+ "date": "2026-10-28",
+ "prepared_at": 1793189697,
+ "company": "IABG",
+ "role": "(Junior) Data Analyst mit Schwerpunkt militärische Luftfahrzeuge (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "Found by job-scout; Dresden, junior; German docs, proofread by native speaker; 'Sehr gute Deutschkenntnisse in Wort und Schrift' (B1) top gap; defence/weapon-system data + likely security clearance as non-German citizen: user decision; gaps: code reviews, data cleaning evidence; ATS 71%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Dresden",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483867419",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4483867419",
+ "contact": "",
+ "verdict": "Strong on Python-based data science, advanced analytics (RF/XGBoost/LSTM), feature engineering on sensor and operating time-series (Covestro), integrating data sources into pipelines (Kniit), visualisation (Streamlit, Matplotlib), turning requirements into solutions. Gaps: German (\"Sehr gute Deutschkenntnisse in Wort und Schrift\", you: B1) = top gap; defence / weapon-system data domain; likely security clearance (Sicherheitsüberprüfung, not stated in the JD but standard for Bundeswehr weapon-system data; as a non-German citizen this can be slow or impossible); code reviews not explicit in profile; logistics/maintenance data.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Warum IABG",
+   "value": "analysis of operating, sensor and logistics data of complex technical systems; structured onboarding into the data landscape."
+  },
+  {
+   "label": "Gehalt",
+   "value": "€60,000–65,000 for a junior title (single number: €65,000 suggested; profile default €70,000)."
+  },
+  {
+   "label": "Eintritt",
+   "value": "15.11.2026. Standort: Dresden (relocation)."
+  },
+  {
+   "label": "Deutsch",
+   "value": "B1, no certificate. Staatsangehörigkeit / Sicherheitsüberprüfung: answer truthfully; may be a blocker."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_IABG.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_IABG.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-plant-maintenance-agent.md"
+ ],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": true
+}
