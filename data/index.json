@@ -1,5 +1,5 @@
 {
- "generated": 1793127213.924212,
+ "generated": 1793147777.6725051,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1040,6 +1040,22 @@
    "build": "llm-gateway",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_wolters-kluwer_ai-agent-engineer",
+   "date": "2026-10-28",
+   "prepared_at": 1793147478,
+   "company": "Wolters Kluwer Tax & Accounting",
+   "role": "AI-Agent Engineer (m/w/d)",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Ludwigsburg",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4419309422",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1081,7 +1097,8 @@
    "2026-10-26_rohde-schwarz_ai-ml-engineer-agentic-ai",
    "2026-10-27_atira_ai-engineer",
    "2026-10-27_check24_junior-data-scientist-generative-ai",
-   "2026-10-27_sportradar_forward-deployed-ai-engineer"
+   "2026-10-27_sportradar_forward-deployed-ai-engineer",
+   "2026-10-28_wolters-kluwer_ai-agent-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",

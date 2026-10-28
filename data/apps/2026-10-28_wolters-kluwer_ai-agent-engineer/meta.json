@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-28_wolters-kluwer_ai-agent-engineer",
+ "date": "2026-10-28",
+ "prepared_at": 1793147478,
+ "company": "Wolters Kluwer Tax & Accounting",
+ "role": "AI-Agent Engineer (m/w/d)",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Found by job-scout; Ludwigsburg; German docs; 'hervorragend Deutsch' required (B1; reviewer reads it as ~C1: user decision); gaps: Java/Kotlin JVM, distributed systems; on-site interviews, no AI tools in interviews; ATS 74%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Ludwigsburg",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4419309422",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: LinkedIn https://www.linkedin.com/jobs/view/4419309422 (one-click on the posting). Contact: Michele Kenmogne, Senior Recruiter.",
+ "source": "https://www.linkedin.com/jobs/view/4419309422",
+ "contact": "Michele Kenmogne, Senior Recruiter.",
+ "verdict": "Strong on the core of the role (agentic workflows with LangGraph, orchestration, tool integration via MCP, evaluation against ground truth, human-in-the-loop review, Python, Azure, AI coding agents). Main gaps: Java/Kotlin on production JVM systems (a stated must-have, none in the profile) and German \"hervorragend\" (B1). Seniority reads mid-level (\"architectural responsibility\"), not senior-titled.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Wolters-Kluwer.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Wolters-Kluwer.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}
