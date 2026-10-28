@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-29_union-investment_data-scientist-ki-kompetenzzentrum",
+ "date": "2026-10-29",
+ "prepared_at": 1793218087,
+ "company": "Union Investment",
+ "role": "Data Scientist (m/w/d) im KI-Kompetenzzentrum",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build payment-fraud-detection (Databricks variant)",
+ "notes": "Found by job-scout; German docs (sehr gute Deutsch required, B1 = top gap); Frankfurt majority on-site; contact Ji Hyun Kwon; gaps: Databricks/Spark, finance; second Union Investment application (FDE 2026-10-24); ATS 87%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4475183538",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the Union Investment online form (\"lediglich Kontaktdaten und Lebenslauf\") or LinkedIn: https://www.linkedin.com/jobs/view/4475183538. Contact: Ji Hyun Kwon, +49 69 2567-7695.",
+ "source": "https://www.linkedin.com/jobs/view/4475183538",
+ "contact": "Ji Hyun Kwon",
+ "verdict": "Strong: LLM-based solutions (RAG, embeddings, vector search, prompt engineering, agent systems: Kniit, Covestro thesis), ML + predictive modelling on real data (Covestro RF/XGBoost/LSTM, Cognizant forecasting), Python, Git + GitLab CI/CD, Azure, bringing prototypes into production, working with business units. Gaps: sehr gute Deutschkenntnisse (B1, top gap), Databricks/Spark (none), statistics depth beyond ML practice, finance domain, \"mehrjährige Erfahrung als Data Scientist\" (data-science-titled work is 1 internship + Cognizant; rest is AI engineering).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Union-Investment.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Union-Investment.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-payment-fraud-detection.md"
+ ],
+ "build": "payment-fraud-detection",
+ "found_by_scout": true
+}
