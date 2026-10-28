@@ -1,5 +1,5 @@
 {
- "generated": 1793217760.528073,
+ "generated": 1793217956.5759912,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1328,6 +1328,22 @@
    "build": "agent-eval-harness",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-29_amprion_experte-methodenentwicklung-ki",
+   "date": "2026-10-29",
+   "prepared_at": 1793217955,
+   "company": "Amprion GmbH",
+   "role": "Experte Methodenentwicklung mit Schwerpunkt auf Künstliche Intelligenz (m/w/d)",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Dortmund",
+   "ats": 78,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482522753",
+   "apply_url_kind": "posting",
+   "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1391,7 +1407,8 @@
    "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
    "2026-10-26_instatiq_applied-ai-engineer",
    "2026-10-27_bayer_ai-application-expert",
-   "2026-10-28_iabg_junior-data-analyst"
+   "2026-10-28_iabg_junior-data-analyst",
+   "2026-10-29_amprion_experte-methodenentwicklung-ki"
   ],
   "energy-service-agent": [
    "2026-10-22_kraken_software-engineer-autonomous-agents"

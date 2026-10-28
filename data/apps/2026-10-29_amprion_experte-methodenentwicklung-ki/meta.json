@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-29_amprion_experte-methodenentwicklung-ki",
+ "date": "2026-10-29",
+ "prepared_at": 1793217955,
+ "company": "Amprion GmbH",
+ "role": "Experte Methodenentwicklung mit Schwerpunkt auf Künstliche Intelligenz (m/w/d)",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent (Amprion Azure Foundry variant)",
+ "notes": "Found by job-scout; German docs (sehr gute Deutsch required, B1 = top gap); Dortmund; gaps: Azure AI Foundry/Copilot Studio, energy system modelling, optimization; ATS 78%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Dortmund",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482522753",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via Amprion careers (Stellen-ID 8642) or LinkedIn: https://www.linkedin.com/jobs/view/4482522753",
+ "source": "https://www.linkedin.com/jobs/view/4482522753",
+ "contact": "",
+ "verdict": "Strong: ML + LLM + RAG + agent systems hands-on (Kniit multi-agent LangGraph, Covestro RAG thesis, Covestro/Cognizant ML and time series), Python, PyTorch, LangChain, model selection by benchmarking, data quality work against ground truth, German energy sector context (Kniit), taking prototypes to production, working with domain experts, a conference publication. Gaps: sehr gute Deutschkenntnisse (B1, top gap), Azure AI Foundry / Azure OpenAI / Copilot Studio specifically (Azure used for app deployment and Azure AI Search only), energy system modelling, optimization / probabilistic methods.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Amprion.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Amprion.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-plant-maintenance-agent.md"
+ ],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": true
+}
