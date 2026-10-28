@@ -1,0 +1,67 @@
+{
+ "folder": "2026-10-28_taod_data-engineer-scientist",
+ "date": "2026-10-28",
+ "prepared_at": 1793189403,
+ "company": "taod Consulting",
+ "role": "Data Engineer / Scientist (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build azure-ai-rag-starter-kit",
+ "notes": "Found by job-scout; Köln (also Stuttgart, twin skipped), associate, consulting; German docs, proofread by native speaker; 'Sehr gute Kommunikationsfähigkeiten in Deutsch' (B1) top gap; gaps: Snowflake, Databricks, Azure OpenAI, workshops; verify address in Impressum; ATS 70%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Köln",
+ "ats": 70,
+ "apply_url": "https://www.linkedin.com/jobs/view/4467703881",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4467703881",
+ "contact": "",
+ "verdict": "Strong on Python, ML/predictive analytics, data-driven applications with APIs and services, cloud deployment with Infrastructure as Code (AWS CDK), Azure, relational + non-relational data (Postgres, MongoDB, Neo4j), requirements analysis with business users (Covestro consulting). Gaps: German (\"Sehr gute Kommunikationsfähigkeiten in Deutsch\", you: B1) = top gap; Snowflake / Databricks / dbt; Azure OpenAI specifically (used Azure + LLM APIs, not Azure OpenAI by name); client workshops; big data tooling.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Warum taod",
+   "value": "Snowflake partner with Azure/Snowflake/dbt focus; role combines engineering and analytics; Cologne."
+  },
+  {
+   "label": "Gehalt",
+   "value": "€65,000–70,000 (single number €70,000)."
+  },
+  {
+   "label": "Eintritt",
+   "value": "15.11.2026."
+  },
+  {
+   "label": "Deutsch",
+   "value": "B1 (kein Zertifikat), wird aktiv ausgebaut."
+  },
+  {
+   "label": "Reisebereitschaft",
+   "value": "ja."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_taod.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_taod.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "azure-ai-rag-starter-kit",
+ "found_by_scout": true
+}

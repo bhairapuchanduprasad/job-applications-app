@@ -1,5 +1,5 @@
 {
- "generated": 1793189098.78065,
+ "generated": 1793189404.745149,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1216,6 +1216,22 @@
    "build": "order-inbox-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_taod_data-engineer-scientist",
+   "date": "2026-10-28",
+   "prepared_at": 1793189403,
+   "company": "taod Consulting",
+   "role": "Data Engineer / Scientist (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Köln",
+   "ats": 70,
+   "apply_url": "https://www.linkedin.com/jobs/view/4467703881",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-rag-starter-kit",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1304,7 +1320,8 @@
    "2026-10-27_wefra-life_data-scientist"
   ],
   "azure-ai-rag-starter-kit": [
-   "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai"
+   "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai",
+   "2026-10-28_taod_data-engineer-scientist"
   ],
   "client-occasion-engine": [
    "2026-10-25_bestandsfaktor_founding-software-engineer"
