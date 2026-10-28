@@ -1,5 +1,5 @@
 {
- "generated": 1793217572.734196,
+ "generated": 1793217760.528073,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1312,6 +1312,22 @@
    "build": "order-inbox-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-29_kuehne-nagel_agentic-ai-engineer",
+   "date": "2026-10-29",
+   "prepared_at": 1793217759,
+   "company": "Kuehne+Nagel",
+   "role": "Agentic AI Engineer (m/f/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Bremen",
+   "ats": 96,
+   "apply_url": "https://www.linkedin.com/jobs/view/4476769937",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1357,7 +1373,8 @@
    "2026-10-27_sportradar_forward-deployed-ai-engineer",
    "2026-10-28_wolters-kluwer_ai-agent-engineer",
    "2026-10-28_signal-iduna_ai-governance-engineer",
-   "2026-10-28_airbus-defence-and-space_software-engineer-ivv-agentic-ai"
+   "2026-10-28_airbus-defence-and-space_software-engineer-ivv-agentic-ai",
+   "2026-10-29_kuehne-nagel_agentic-ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
