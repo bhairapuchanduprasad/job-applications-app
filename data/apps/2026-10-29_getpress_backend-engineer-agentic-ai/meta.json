@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-29_getpress_backend-engineer-agentic-ai",
+ "date": "2026-10-29",
+ "prepared_at": 1793217571,
+ "company": "getpress",
+ "role": "Backend Engineer - Agentic AI (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent (getpress Next.js variant)",
+ "notes": "Found by job-scout; German docs (B2 required, B1 = top gap); Berlin or remote DE; gaps: TypeScript/Next.js, event-driven; ATS 90%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 90,
+ "apply_url": "https://www.linkedin.com/jobs/view/4466577354",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply: \"sende uns einfach deinen Lebenslauf\" (LinkedIn: https://www.linkedin.com/jobs/view/4466577354). German documents: proofread by a native speaker.",
+ "source": "https://www.linkedin.com/jobs/view/4466577354",
+ "contact": "",
+ "verdict": "Strong on the agent core: >1 year building agents (Kniit multi-agent LangGraph, Covestro LangGraph routing agent), retrieval/indexing, context/prompt engineering, Postgres, Docker, FastAPI backends, Kubernetes/AWS, Claude Code. Gaps: TypeScript (must-have, none professionally), Next.js, German (B2 required, B1 now; top gap), event-driven architecture.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_getpress.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_getpress.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}

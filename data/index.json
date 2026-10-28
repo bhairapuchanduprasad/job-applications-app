@@ -1,5 +1,5 @@
 {
- "generated": 1793217271.6352792,
+ "generated": 1793217572.734196,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1296,6 +1296,22 @@
    "build": "semantic-analytics-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-29_getpress_backend-engineer-agentic-ai",
+   "date": "2026-10-29",
+   "prepared_at": 1793217571,
+   "company": "getpress",
+   "role": "Backend Engineer - Agentic AI (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 90,
+   "apply_url": "https://www.linkedin.com/jobs/view/4466577354",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1373,7 +1389,8 @@
    "2026-10-28_all-for-one_sap-cloud-ai-developer",
    "2026-10-28_alago_founding-ai-engineer",
    "2026-10-28_flaconi_business-automation-developer",
-   "2026-10-28_4flow_ai-engineer-consulting"
+   "2026-10-28_4flow_ai-engineer-consulting",
+   "2026-10-29_getpress_backend-engineer-agentic-ai"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
