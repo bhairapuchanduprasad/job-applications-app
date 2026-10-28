@@ -1,5 +1,5 @@
 {
- "generated": 1793218331.653522,
+ "generated": 1793218496.4450839,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1392,6 +1392,22 @@
    "build": "energy-service-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-29_event-inc_ai-engineer",
+   "date": "2026-10-29",
+   "prepared_at": 1793218495,
+   "company": "Event Inc Group",
+   "role": "AI Engineer (Mensch)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482512956",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-agent-harness",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1426,7 +1442,8 @@
   "spec-driven-agent-harness": [
    "2026-10-17_bcg-platinion_ai-associate",
    "2026-10-23_opta-data_ai-engineer",
-   "2026-10-24_union-investment_forward-deployed-engineer"
+   "2026-10-24_union-investment_forward-deployed-engineer",
+   "2026-10-29_event-inc_ai-engineer"
   ],
   "agent-eval-harness": [
    "2026-10-17_jobgether_ai-evaluation-engineer",

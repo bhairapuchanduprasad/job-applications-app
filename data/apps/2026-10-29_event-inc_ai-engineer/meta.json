@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-29_event-inc_ai-engineer",
+ "date": "2026-10-29",
+ "prepared_at": 1793218495,
+ "company": "Event Inc Group",
+ "role": "AI Engineer (Mensch)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build spec-driven-agent-harness (Event Inc variant)",
+ "notes": "Found by job-scout; English (German plus); Hamburg; contact Hellen (TA); gaps: production reliability (monitoring, feature flags, rollbacks), secrets mgmt; English twin 4482523366 skipped; ATS 71%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482512956",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via LinkedIn: https://www.linkedin.com/jobs/view/4482512956 (English twin \"AI-Native Software Engineer (Human)\" 4482523366 is the same role; apply once). Contact: Hellen, Talent Acquisition.",
+ "source": "https://www.linkedin.com/jobs/view/4482512956",
+ "contact": "Hellen, Talent Acquisition.",
+ "verdict": "Strong: daily AI-coding-agent work with a critical eye (Claude Code, custom skills, agentic coding workflows at Kniit), clean code, API and cloud integration (FastAPI, Postman, AWS CDK, Azure), working with non-technical stakeholders (CTO, SAP domain experts, Covestro business users), getting productive in a new domain fast. Gaps: \"mehrere Jahre als Software Engineer\" in product teams (~3 years total, AI-focused), production reliability practices (monitoring, feature flags, rollbacks: not in profile), secrets/access management, multi-repo refactoring in unfamiliar languages (Python + some React only).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Event-Inc.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Event-Inc.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-spec-driven-agent-harness.md"
+ ],
+ "build": "spec-driven-agent-harness",
+ "found_by_scout": true
+}
