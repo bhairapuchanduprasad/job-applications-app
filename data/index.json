@@ -1,5 +1,5 @@
 {
- "generated": 1793218785.28546,
+ "generated": 1793218922.655324,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1438,6 +1438,22 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4467085185",
    "apply_url_kind": "posting",
    "build": "semantic-analytics-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-29_eclear_python-developer-data-scientist",
+   "date": "2026-10-29",
+   "prepared_at": 1793218921,
+   "company": "eClear AG (borderfree)",
+   "role": "Python Developer / Data Scientist (m/w/d) – Graphdaten mit Neo4j nutzbar machen",
+   "fit": 55,
+   "status": "ready",
+   "city": "Berlin",
+   "ats": 68,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482552320",
+   "apply_url_kind": "posting",
+   "build": "",
    "applied_date": "",
    "found_by_scout": true
   }

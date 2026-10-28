@@ -1,0 +1,46 @@
+{
+ "folder": "2026-10-29_eclear_python-developer-data-scientist",
+ "date": "2026-10-29",
+ "prepared_at": 1793218921,
+ "company": "eClear AG (borderfree)",
+ "role": "Python Developer / Data Scientist (m/w/d) – Graphdaten mit Neo4j nutzbar machen",
+ "fit": 55,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; German docs (B2 required, B1); Berlin hybrid; asks min 5 yrs (have 3) = main risk; strong Neo4j/Python/pipeline match; no project needed; ATS 68%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 68,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482552320",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via LinkedIn: https://www.linkedin.com/jobs/view/4482552320. Process: 15–20 min call, Teams video call, on-site meeting with a small case study.",
+ "source": "https://www.linkedin.com/jobs/view/4482552320",
+ "contact": "",
+ "verdict": "Strong technical match: Python backend services and microservices (Kniit Expert Interface backend, Covestro FastAPI backend), REST APIs, data pipelines at scale (Kniit ingestion/extraction pipelines, 1M+ chunk benchmark), Neo4j knowledge graph made usable via an MCP query service, Postgres, AWS (CDK, Lambda, SQS, DynamoDB), complex datasets turned into usable structure. Gaps: \"mindestens 5 Jahre praktische Berufserfahrung\" (3 years: hard requirement, main risk), Deutsch B2 erforderlich (B1), \"Leite das Design\" suggests a lead-ish role, code reviews/testing practices not explicit in profile, VAT/customs domain.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_eClear.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_eClear.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}
