@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-29_paddy_ai-product-engineer",
+ "date": "2026-10-29",
+ "prepared_at": 1793218209,
+ "company": "paddy",
+ "role": "AI Product Engineer",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build clinical-info-assistant (paddy Next.js variant)",
+ "notes": "Found by job-scout; German docs (fließend Deutsch required, B1 = top gap); 100% remote; €70-100k + VSOP; gaps: TypeScript/Next.js/Vercel AI SDK; 5-day process with trial day; ATS 83%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482509932",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via LinkedIn: https://www.linkedin.com/jobs/view/4482509932 (or join.com/companies/paddy). Process: 5 days incl. a trial day with case study on day 4.",
+ "source": "https://www.linkedin.com/jobs/view/4482509932",
+ "contact": "",
+ "verdict": "Strong: agentic systems built and handed over (Kniit multi-agent LangGraph), evals against ground truth (Kniit, RAGAS thesis), cost control (deterministic pipeline), RAG + vector DBs, LiteLLM, Postgres, backend + frontend (FastAPI + React, Expert Interface), Claude Code daily, working with domain users (SAP experts, chemists). Gaps: fließend Deutsch (B1, top gap), full-stack TypeScript/Next.js (React only, no TypeScript), Vercel AI SDK, promptfoo, Arize Phoenix, mobile (React Native), \"mindestens drei Jahre mit digitalen Produkten und echten Nutzern\" (3 yrs total; product-facing work is internal tools).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_paddy.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_paddy.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-clinical-info-assistant.md"
+ ],
+ "build": "clinical-info-assistant",
+ "found_by_scout": true
+}
