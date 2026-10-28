@@ -11,7 +11,7 @@ German documents: proofread by a native speaker. "Fließend Deutsch" required, B
 
 ## Form fields
 - Why paddy: thousands of teachers already use it; agents that save teachers time must be reliable, fast, cheap.
-- Salary: JD range €70–100k + VSOP; ask €75,000 (fits range; profile says aim €70k, range €60–75k).
+- Salary: €70,000 (bottom of the JD range €70–100k + VSOP; profile range €60–75k).
 - Notice / start: 15 November 2026.
 - Location: remote in Germany, Bielefeld office possible.
 - Work permit: EU Blue Card. German: B1.

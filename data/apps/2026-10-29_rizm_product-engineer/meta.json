@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-29_rizm_product-engineer",
+ "date": "2026-10-29",
+ "prepared_at": 1793218330,
+ "company": "RIZM",
+ "role": "Product Engineer (m/f/x)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build energy-service-agent (RIZM TypeScript/Vue variant)",
+ "notes": "Found by job-scout; English; Munich or Münster; letter = answers to their 2 questions; gaps: TypeScript/Vue/Node, GCP, customer-facing product; equity, salary not stated; ATS 83%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 83,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482512593",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via join.com/companies/rizm or LinkedIn: https://www.linkedin.com/jobs/view/4482512593. They want CV + honest answers to two questions instead of a cover letter: the \"cover letter\" PDF contains those answers; you can also paste them into the form.",
+ "source": "https://www.linkedin.com/jobs/view/4482512593",
+ "contact": "",
+ "verdict": "Strong: LLM agents shipped to real users with grounding/evals (Kniit multi-agent LangGraph evaluated against ground truth; Expert Interface for domain experts), knows LLM cost and failure modes ($200k projected LLM budget → near zero via deterministic pipeline), LangGraph + Python, Postgres, Docker/Kubernetes, GitLab CI/CD, React frontends, time-series forecasting (EV load, sensor data), German energy sector context, Claude Code + custom skills daily. Gaps: strong TypeScript with Vue/React + Node (React only, no TypeScript/Node/Vue: main gap), \"2–5 years building customer-facing products\" (internal tools mostly), Google Cloud, Julia/optimisation.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_RIZM.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_RIZM.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-energy-service-agent.md"
+ ],
+ "build": "energy-service-agent",
+ "found_by_scout": true
+}

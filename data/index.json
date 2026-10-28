@@ -1,5 +1,5 @@
 {
- "generated": 1793218210.357101,
+ "generated": 1793218331.653522,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1376,6 +1376,22 @@
    "build": "clinical-info-assistant",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-29_rizm_product-engineer",
+   "date": "2026-10-29",
+   "prepared_at": 1793218330,
+   "company": "RIZM",
+   "role": "Product Engineer (m/f/x)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 83,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482512593",
+   "apply_url_kind": "posting",
+   "build": "energy-service-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1443,7 +1459,8 @@
    "2026-10-29_amprion_experte-methodenentwicklung-ki"
   ],
   "energy-service-agent": [
-   "2026-10-22_kraken_software-engineer-autonomous-agents"
+   "2026-10-22_kraken_software-engineer-autonomous-agents",
+   "2026-10-29_rizm_product-engineer"
   ],
   "order-inbox-agent": [
    "2026-10-22_comena_forward-deployed-engineer",
