@@ -1,5 +1,5 @@
 {
- "generated": 1793148514.50694,
+ "generated": 1793148552.553119,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1104,6 +1104,22 @@
    "build": "payment-fraud-detection",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_signal-iduna_ai-governance-engineer",
+   "date": "2026-10-28",
+   "prepared_at": 1793148513,
+   "company": "SIGNAL IDUNA Gruppe",
+   "role": "AI Governance Engineer (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 66,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482233129",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1146,7 +1162,8 @@
    "2026-10-27_atira_ai-engineer",
    "2026-10-27_check24_junior-data-scientist-generative-ai",
    "2026-10-27_sportradar_forward-deployed-ai-engineer",
-   "2026-10-28_wolters-kluwer_ai-agent-engineer"
+   "2026-10-28_wolters-kluwer_ai-agent-engineer",
+   "2026-10-28_signal-iduna_ai-governance-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",

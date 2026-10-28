@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-28_signal-iduna_ai-governance-engineer",
+ "date": "2026-10-28",
+ "prepared_at": 1793148513,
+ "company": "SIGNAL IDUNA Gruppe",
+ "role": "AI Governance Engineer (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Found by job-scout; Hamburg (or Dortmund), 2 days remote; German docs; 'sehr gute Deutsch' (B1); gaps: GRC/EU AI Act, governance tools, auth/permissions evidence; role may lean advisory; ATS 66% (remaining: governance/compliance terms, honest gaps)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 66,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482233129",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: SIGNAL IDUNA career portal (LinkedIn https://www.linkedin.com/jobs/view/4482233129). Contact: Lara Kubiak. Locations Hamburg or Dortmund.",
+ "source": "https://www.linkedin.com/jobs/view/4482233129",
+ "contact": "Lara Kubiak. Locations Hamburg or Dortmund.",
+ "verdict": "Strong technical side: has built GenAI and agent solutions (LangGraph multi-agent, MCP tools, RAG), understands models, data flows, APIs, tools, cloud deployment; human-in-the-loop approval; evaluation discipline; advising business units (Covestro). Gaps: no formal governance/risk/compliance work, no EU AI Act experience, authentication/permissions and logging/operations only lightly evidenced, regulated-industry context only via energy-sector documents. The JD explicitly welcomes engineers who want to move toward governance. German \"sehr gut\" required (B1, top gap).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_SIGNAL-IDUNA.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_SIGNAL-IDUNA.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}
