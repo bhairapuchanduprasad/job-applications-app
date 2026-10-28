@@ -1,0 +1,69 @@
+{
+ "folder": "2026-10-28_hdp_machine-learning-engineer",
+ "date": "2026-10-28",
+ "prepared_at": 1793188832,
+ "company": "HDP",
+ "role": "Machine Learning Engineer (m/w/d)",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build care-note-structurer",
+ "notes": "Found by job-scout; Alzey (hybrid, Frankfurt branch), associate; English docs (German posting, no German level stated; consider German version); gaps: Java, German, insurance legal framework, secure dev; salary not stated; ATS 94%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Alzey",
+ "ats": 94,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482505043",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4482505043",
+ "contact": "",
+ "verdict": "Strong on Python ML/DL, AI products from prototype to production, REST APIs and Python microservices, Docker + Kubernetes, Git. Gaps: Java (\"kein Fremdwort\"), German (posting is German, level not stated), statutory accident insurance domain and its legal framework.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Why HDP",
+   "value": "BesA (dictated site-visit notes → defect-report text) and the planned shared AI platform with anonymisation and container delivery; ML inside software that handles about 30% of German reportable workplace accidents."
+  },
+  {
+   "label": "Salary",
+   "value": "€65,000–70,000 (single number: €70,000). Blue Card threshold must be met."
+  },
+  {
+   "label": "Notice period / start",
+   "value": "available from 15 November 2026."
+  },
+  {
+   "label": "German",
+   "value": "B1, no certificate, improving."
+  },
+  {
+   "label": "Location",
+   "value": "willing to relocate to Alzey area; hybrid fine (also Frankfurt branch)."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_HDP.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_HDP.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-care-note-structurer.md"
+ ],
+ "build": "care-note-structurer",
+ "found_by_scout": true
+}

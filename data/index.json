@@ -1,5 +1,5 @@
 {
- "generated": 1793175444.084169,
+ "generated": 1793188839.566863,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1184,6 +1184,22 @@
    "build": "quality-process-copilot",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_hdp_machine-learning-engineer",
+   "date": "2026-10-28",
+   "prepared_at": 1793188832,
+   "company": "HDP",
+   "role": "Machine Learning Engineer (m/w/d)",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Alzey",
+   "ats": 94,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482505043",
+   "apply_url_kind": "posting",
+   "build": "care-note-structurer",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1202,7 +1218,8 @@
   "care-note-structurer": [
    "2026-10-14_dexter-health_ai-engineer-llm",
    "2026-10-23_dexter-health_ai-developer-llm-products",
-   "2026-10-26_idm_product-ai-engineer"
+   "2026-10-26_idm_product-ai-engineer",
+   "2026-10-28_hdp_machine-learning-engineer"
   ],
   "shop-support-agent": [
    "2026-10-16_snocks_junior-ai-engineer"
