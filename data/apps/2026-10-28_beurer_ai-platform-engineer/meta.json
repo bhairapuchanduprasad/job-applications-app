@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-28_beurer_ai-platform-engineer",
+ "date": "2026-10-28",
+ "prepared_at": 1793147776,
+ "company": "Beurer GmbH",
+ "role": "AI Platform Engineer (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build ai-gateway-platform",
+ "notes": "Found by job-scout; Ulm; German docs; 'sehr gute Deutsch' (B1); gaps: Open WebUI, Microsoft AI Foundry, Linux admin, SharePoint; apply via Beurer career portal; ATS 84%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Ulm",
+ "ats": 84,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484249391",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via: Beurer career portal (LinkedIn https://www.linkedin.com/jobs/view/4484249391). Contact: Isnije Veli, Recruiting, (0731) 3989-0, recruiting@beurer.de.",
+ "source": "https://www.linkedin.com/jobs/view/4484249391",
+ "contact": "Isnije Veli",
+ "verdict": "Good match on the LLM side (RAG, agents, tools, model APIs via LiteLLM, MCP, Python, REST APIs, Docker, Azure, advising business teams). Gaps: Open WebUI and Microsoft AI Foundry in operation, Linux administration (only container work), SharePoint integration. German \"sehr gute Deutschkenntnisse\" required (B1, top gap).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Beurer.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Beurer.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-ai-gateway-platform.md"
+ ],
+ "build": "ai-gateway-platform",
+ "found_by_scout": true
+}

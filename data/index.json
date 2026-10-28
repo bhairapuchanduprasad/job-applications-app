@@ -1,5 +1,5 @@
 {
- "generated": 1793147777.6725051,
+ "generated": 1793148031.741972,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1056,6 +1056,22 @@
    "build": "agent-eval-harness",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_beurer_ai-platform-engineer",
+   "date": "2026-10-28",
+   "prepared_at": 1793147776,
+   "company": "Beurer GmbH",
+   "role": "AI Platform Engineer (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Ulm",
+   "ats": 84,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484249391",
+   "apply_url_kind": "posting",
+   "build": "ai-gateway-platform",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1150,7 +1166,8 @@
    "2026-10-27_safetec_ai-specialist"
   ],
   "ai-gateway-platform": [
-   "2026-10-27_vector_devops-engineer-ai-developer-platforms"
+   "2026-10-27_vector_devops-engineer-ai-developer-platforms",
+   "2026-10-28_beurer_ai-platform-engineer"
   ],
   "road-damage-inference": [
    "2026-10-27_hochtief-edgital_applied-ai-engineer"
