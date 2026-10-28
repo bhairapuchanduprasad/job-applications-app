@@ -1,5 +1,5 @@
 {
- "generated": 1793189404.745149,
+ "generated": 1793189560.427511,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1232,6 +1232,22 @@
    "build": "azure-ai-rag-starter-kit",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-28_zurich_data-scientist-ai-solution-expert",
+   "date": "2026-10-28",
+   "prepared_at": 1793189559,
+   "company": "Zurich Gruppe Deutschland",
+   "role": "Data Scientist & AI Solution Expert (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Köln",
+   "ats": 95,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483869203",
+   "apply_url_kind": "posting",
+   "build": "client-occasion-engine",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1324,7 +1340,8 @@
    "2026-10-28_taod_data-engineer-scientist"
   ],
   "client-occasion-engine": [
-   "2026-10-25_bestandsfaktor_founding-software-engineer"
+   "2026-10-25_bestandsfaktor_founding-software-engineer",
+   "2026-10-28_zurich_data-scientist-ai-solution-expert"
   ],
   "semantic-analytics-agent": [
    "2026-10-26_rewe-group_agentic-bi-developer"

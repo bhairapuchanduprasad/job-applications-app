@@ -1,0 +1,69 @@
+{
+ "folder": "2026-10-28_zurich_data-scientist-ai-solution-expert",
+ "date": "2026-10-28",
+ "prepared_at": 1793189559,
+ "company": "Zurich Gruppe Deutschland",
+ "role": "Data Scientist & AI Solution Expert (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build client-occasion-engine",
+ "notes": "Found by job-scout; Köln or Frankfurt (Cologne twin skipped), LinkedIn Mid-Senior, 'mehrjährige Berufserfahrung'; German docs, proofread by native speaker; 'Sehr gute Deutsch' (B1) top gap; gaps: insurance, senior-mgmt consulting; salary 70k in letter; portal only, contact Kim Schmidt; ATS 95%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Köln",
+ "ats": 95,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483869203",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4483869203",
+ "contact": "Kim Schmidt",
+ "verdict": "Strong on Python, ML frameworks, SQL basics, GenAI/LLMs, prototyping ML/AI models, document understanding (Kniit extraction), deployment, use-case ideation with business users (Covestro consulting). Gaps: German (\"Sehr gute Deutsch‑ und gute Englischkenntnisse\", you: B1) = top gap; insurance domain; \"Strategic Consultant\" up to senior management (LinkedIn: Mid-Senior, \"mehrjährige Berufserfahrung\"); full ML lifecycle in production; business-impact assessment.",
+ "gaps": [],
+ "form_fields": [
+  {
+   "label": "Warum Zurich",
+   "value": "agentic AI already used in commercial underwriting (Cytora partnership, manual triage much shorter); Commercial Insurance Germany wants ideation → prototype → deployment in one role."
+  },
+  {
+   "label": "Gehalt",
+   "value": "70.000 € brutto/Jahr (in letter, JD asks for it)."
+  },
+  {
+   "label": "Eintritt",
+   "value": "15.11.2026."
+  },
+  {
+   "label": "Standort",
+   "value": "Köln oder Frankfurt."
+  },
+  {
+   "label": "Deutsch",
+   "value": "B1, kein Zertifikat."
+  }
+ ],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Zurich.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Zurich.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-client-occasion-engine.md"
+ ],
+ "build": "client-occasion-engine",
+ "found_by_scout": true
+}
