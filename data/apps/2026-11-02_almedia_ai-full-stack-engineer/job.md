@@ -1,0 +1,66 @@
+Source: https://www.linkedin.com/jobs/view/4365162691
+Title: AI Full Stack Engineer
+Company: Almedia
+Location: Berlin, Germany
+Search: Germany
+First seen: 2026-11-02
+
+- Seniority level: Not Applicable
+- Employment type: Full-time
+- Industries: Advertising Services
+
+This isn’t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We’re aiming to become Germany’s second bootstrapped unicorn. Almedia is already Europe’s #3 fastest-growing company in 2025 (FT1000).
+
+We are building the future of marketing by rewarding our community of over 95 million users for engaging with our advertisers’ products. We are offering a new way to acquire users for the biggest companies in the world.
+
+AI Full Stack Engineer
+
+(€60K – €130K)
+
+About The Role
+
+You will build and iterate on internal tools and products, integrating AI capabilities into our systems. The focus is on strong engineering with a clear AI angle: working across the stack, connecting to AI APIs, and collaborating with business stakeholders to improve their workflows.
+
+What You’ll Do
+
+- Develop and maintain full stack applications (front end, back end, databases)
+- Architect durable AI workflows that adapt as the LLM landscape evolves, not brittle prompt chains
+- Build and maintain back-end services in Node.js or Python
+- Integrate and orchestrate AI APIs into existing and new systems
+- Work across multiple systems and data sources, making sense of fragmented data
+- Collaborate with business teams (e.g. marketing, UA, operations) to:
+
+- Understand their work and tools
+- Identify where AI can improve their workflows
+- Translate needs into technical solutions and iterate on them
+Must-Haves
+
+- Ability to communicate clearly with non-technical stakeholders
+- Experience building complex agentic systems
+- Experience integrating and working with AI APIs
+- Strong coding skills and solid engineering fundamentals
+- Full stack capabilities: front end, back end, databases
+- Good prompting skills and ability to use current AI tools effectively
+- Production experience with Node.js or Python
+- Curiosity, initiative, and strong learning mindset (especially around AI)
+
+Nice-to-Haves
+
+- Experience with TypeScript
+- Familiarity with agentic/system-thinking approaches for AI solutions
+- Experience partnering closely with marketing, UA, or other business/ops teams
+
+What We Value
+
+- Engineering-first mindset, with the ability to understand business context
+- Proactive approach: going to people, understanding their work, and suggesting improvements
+- Comfort with ambiguity and evolving requirements
+- Strong communication and collaboration across teams
+
+Why Almedia?
+
+- Scale With Almedia: Grow alongside a startup that has been profitable from day one.
+- Central Berlin Office: Work from a fully-stocked modern office built for collaboration, accessible from all around Berlin.
+- Other Benefits: Transport subsidy, breakfasts and lunches, language learning, Urban Sports Club, and more.
+
+We believe in fostering talent, evaluating all skill levels during the hiring process, and providing a clear path for growth. Almedia is an equal opportunity employer. We embrace and celebrate diversity, and encourage individuals from all backgrounds to apply.

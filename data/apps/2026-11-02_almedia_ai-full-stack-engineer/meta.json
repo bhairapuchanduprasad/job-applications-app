@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-02_almedia_ai-full-stack-engineer",
+ "date": "2026-11-02",
+ "prepared_at": 1793563215,
+ "company": "Almedia",
+ "role": "AI Full Stack Engineer",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server (Almedia Growth Ops Assistant variant)",
+ "notes": "Found by job-scout; English; Berlin office; €60K-130K; gaps: Node.js/TypeScript, frontend depth (React beginner), marketing/UA domain; ATS 87%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4365162691",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via LinkedIn: https://www.linkedin.com/jobs/view/4365162691 (or Almedia's careers page). Salary band in the posting: €60K – €130K.",
+ "source": "https://www.linkedin.com/jobs/view/4365162691",
+ "contact": "",
+ "verdict": "Strong match on the AI side: complex agentic systems (Kniit multi-agent LangGraph pipeline, Covestro agentic app), AI API integration (LiteLLM, LangChain, MCP), Python production backends (FastAPI, Python microservices), working with business stakeholders on their workflows (Covestro AI consulting internship, Kniit SAP domain experts, chemists). Full-stack is real but frontend is React at beginner level; no Node.js or TypeScript in a job. No marketing / user-acquisition domain experience.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Almedia.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Almedia.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-ops-mcp-server.md"
+ ],
+ "build": "ops-mcp-server",
+ "found_by_scout": true
+}

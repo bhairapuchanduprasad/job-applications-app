@@ -1,5 +1,5 @@
 {
- "generated": 1793549174.511806,
+ "generated": 1793563230.907219,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1552,6 +1552,22 @@
    "build": "payment-fraud-detection",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-02_almedia_ai-full-stack-engineer",
+   "date": "2026-11-02",
+   "prepared_at": 1793563215,
+   "company": "Almedia",
+   "role": "AI Full Stack Engineer",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4365162691",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1604,7 +1620,8 @@
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
    "2026-10-25_baehrbots_ai-integration-engineer",
-   "2026-10-25_chrono24_ai-solution-engineer"
+   "2026-10-25_chrono24_ai-solution-engineer",
+   "2026-11-02_almedia_ai-full-stack-engineer"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",
