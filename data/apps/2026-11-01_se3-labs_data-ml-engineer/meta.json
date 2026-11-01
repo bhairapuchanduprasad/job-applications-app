@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-01_se3-labs_data-ml-engineer",
+ "date": "2026-11-01",
+ "prepared_at": 1793518965,
+ "company": "SE3 Labs",
+ "role": "Data and ML Engineer",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build road-damage-inference",
+ "notes": "Munich; defence (ask about security clearance as non-German); no German requirement; gaps: computer vision/3D, robotics/UAV sensor data, C++; sibling SE3 FDE application prepared same day; ATS 79%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484468104",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via LinkedIn: https://www.linkedin.com/jobs/view/4484468104 (or SE3 careers page).",
+ "source": "https://www.linkedin.com/jobs/view/4484468104",
+ "contact": "",
+ "verdict": "Solid on the ML half: models trained and evaluated on real sensor time-series (Covestro prepolymer data: lag/rolling features, RF/XGBoost/LSTM, benchmark vs curve fitting), data pipelines and evaluation datasets (Kniit ingestion/chunking/indexing, ground truth from SAP data; thesis eval pipeline on AWS SQS/Lambda/DynamoDB, 1M+ chunks), fine-tuning (QLoRA, retrieval fine-tuning), PyTorch, MSc AI, coordination with chemists/SAP experts. Weak on the domain half: no 3D computer vision, robotics/UAV sensor data, field data collection or labelling tooling; no C++.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_SE3-Labs.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_SE3-Labs.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-road-damage-inference.md"
+ ],
+ "build": "road-damage-inference",
+ "found_by_scout": false
+}

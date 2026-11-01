@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-01_se3-labs_forward-deployed-engineer-applied-ai",
+ "date": "2026-11-01",
+ "prepared_at": 1793519088,
+ "company": "SE3 Labs",
+ "role": "Forward Deployed Engineer, Applied AI",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-mcp",
+ "notes": "Munich on-site + travel; defence, field tests with armed forces (ask about clearance); German fluent/professional asked, have B1 (top gap); sibling SE3 Data and ML Engineer application same day; ATS 76%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484731012",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via LinkedIn: https://www.linkedin.com/jobs/view/4484731012",
+ "source": "https://www.linkedin.com/jobs/view/4484731012",
+ "contact": "",
+ "verdict": "Strong on the build side: LLM-powered applications taken end-to-end (Kniit sole developer, multi-agent LangGraph, MCP, Azure web app; Covestro agentic app on AWS), Python, debugging against ground truth, and some client-facing work (Covestro AI consulting internship: stakeholders' workflows → solution; Kniit work with SAP domain experts, reporting to CTO). Weak on the customer and domain side: German is B1 while the JD wants \"fluent or professional level\" German with customers; no defence experience; limited years in a client-facing role.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_SE3-Labs.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_SE3-Labs.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-knowledge-assistant-mcp.md"
+ ],
+ "build": "knowledge-assistant-mcp",
+ "found_by_scout": false
+}

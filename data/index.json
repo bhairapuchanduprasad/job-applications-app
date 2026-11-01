@@ -1,5 +1,5 @@
 {
- "generated": 1793218922.655324,
+ "generated": 1793519095.50779,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1456,6 +1456,54 @@
    "build": "",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-10-29_jobgether_data-scientist-ai-experimentation",
+   "date": "2026-10-29",
+   "prepared_at": 1793518286,
+   "company": "Jobgether (undisclosed partner)",
+   "role": "Data Scientist - AI & Experimentation",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 88,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484111092",
+   "apply_url_kind": "posting",
+   "build": "matching-experiment-lab",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-01_se3-labs_data-ml-engineer",
+   "date": "2026-11-01",
+   "prepared_at": 1793518965,
+   "company": "SE3 Labs",
+   "role": "Data and ML Engineer",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484468104",
+   "apply_url_kind": "posting",
+   "build": "road-damage-inference",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-01_se3-labs_forward-deployed-engineer-applied-ai",
+   "date": "2026-11-01",
+   "prepared_at": 1793519088,
+   "company": "SE3 Labs",
+   "role": "Forward Deployed Engineer, Applied AI",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484731012",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -1568,14 +1616,16 @@
   "knowledge-assistant-mcp": [
    "2026-10-27_summ-ai_ai-engineer-llms-agents",
    "2026-10-27_uni-hamburg_research-software-engineer",
-   "2026-10-27_safetec_ai-specialist"
+   "2026-10-27_safetec_ai-specialist",
+   "2026-11-01_se3-labs_forward-deployed-engineer-applied-ai"
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms",
    "2026-10-28_beurer_ai-platform-engineer"
   ],
   "road-damage-inference": [
-   "2026-10-27_hochtief-edgital_applied-ai-engineer"
+   "2026-10-27_hochtief-edgital_applied-ai-engineer",
+   "2026-11-01_se3-labs_data-ml-engineer"
   ],
   "voice-receptionist-agent": [
    "2026-10-27_egroup_voice-ai-product-engineer"
@@ -1586,6 +1636,9 @@
   "payment-fraud-detection": [
    "2026-10-28_finanz-informatik_data-scientist-compliance",
    "2026-10-29_union-investment_data-scientist-ki-kompetenzzentrum"
+  ],
+  "matching-experiment-lab": [
+   "2026-10-29_jobgether_data-scientist-ai-experimentation"
   ]
  }
 }

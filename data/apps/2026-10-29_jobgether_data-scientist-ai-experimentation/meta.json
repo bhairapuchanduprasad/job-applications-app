@@ -1,0 +1,48 @@
+{
+ "folder": "2026-10-29_jobgether_data-scientist-ai-experimentation",
+ "date": "2026-10-29",
+ "prepared_at": 1793518286,
+ "company": "Jobgether (undisclosed partner)",
+ "role": "Data Scientist - AI & Experimentation",
+ "fit": 52,
+ "status": "build-first",
+ "next_step": "build matching-experiment-lab",
+ "notes": "Remote Germany (Berlin-Mitte office); salary €42-75k; partner undisclosed, Jobgether AI screen first; gaps: A/B testing, performance-marketing metrics; ATS 88%; finished 2026-11-01 after interrupted run",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 88,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484111092",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via LinkedIn / Jobgether: https://www.linkedin.com/jobs/view/4484111092 (Jobgether AI screen first, then the partner).",
+ "source": "https://www.linkedin.com/jobs/view/4484111092",
+ "contact": "",
+ "verdict": "Strong: Python (pandas, scikit-learn, NumPy), predictive models taken from concept to use (Covestro RF/XGBoost/LSTM with Streamlit tool for chemists; Cognizant forecasting), LLM + RAG systems with prompt engineering and output evaluation (Kniit P/R vs ground truth, RAGAS thesis), SQL, AWS, stakeholder communication. Gaps: A/B testing / experimentation design (none), performance-marketing metrics (CAC, ROAS, attribution: none), funnel analysis, e-commerce/marketplace domain, statistics depth beyond ML practice, Jira/QuickSight. Anomaly detection/trend analysis only adjacent (batch-deviation prediction, EV load forecasting).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Jobgether.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Jobgether.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-matching-experiment-lab.md"
+ ],
+ "build": "matching-experiment-lab",
+ "found_by_scout": false
+}
