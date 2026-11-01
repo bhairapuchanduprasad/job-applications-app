@@ -1,0 +1,49 @@
+{
+ "folder": "2026-11-01_adesso_ai-automation-developer-sap",
+ "date": "2026-11-01",
+ "prepared_at": 1793549164,
+ "company": "adesso business consulting AG",
+ "role": "AI & Automation Developer SAP",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent (SAP CAP/BTP + n8n), knowledge-assistant-mcp",
+ "notes": "München; German docs; \"sicher auf Deutsch\" asked, have B1; gaps: SAP BTP/CAP/Joule Studio/SAP Build/AI Core; same title in other cities; ATS 80%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "München",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/view/4397212819",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4397212819",
+ "contact": "",
+ "verdict": "Strong on the AI side the JD describes in depth: MCP servers, RAG pipelines (chunking, embeddings, vector DB integration), knowledge graphs, LLM/GenAI, LangChain/Hugging Face, Python, prototypes to deployment, Azure/AWS. Main gaps: SAP BTP / CAP / Joule Studio / SAP Build / SAP AI Core (no hands-on SAP development) and German (\"sicher auf Deutsch\", B1).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_adesso-business-consulting.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_adesso-business-consulting.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-knowledge-assistant-mcp.md",
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": false
+}

@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-01_deloitte_consultant-ai-data-analytics",
+ "date": "2026-11-01",
+ "prepared_at": 1793549164,
+ "company": "Deloitte",
+ "role": "Consultant AI & Data Analytics / Data Science",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build payment-fraud-detection",
+ "notes": "Düsseldorf (also Berlin/Frankfurt/Hamburg/München); Digital Risk; entry level; German docs; \"Deutsch sehr gut\" asked, have B1; gaps: Spark/Hadoop, Qlik/Tableau, GCP, risk domain; verify ROI-of-AI 5% figure in letter; ATS 90%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Düsseldorf",
+ "ats": 90,
+ "apply_url": "https://www.linkedin.com/jobs/view/4243056830",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4243056830",
+ "contact": "",
+ "verdict": "Entry-level consulting role with a broad AI scope (ML, DL, NLP, Computer Vision, Trustworthy AI, data engineering/analytics, AWS/GCP/Azure). Strong match on Python + sklearn/TensorFlow/Keras/PyTorch, statistical modelling, NLP and AWS/Azure. Gaps: German \"sehr gut in Wort und Schrift\" (B1, top gap), Spark/Hadoop, Qlik/Tableau, GCP, risk-management domain, consulting experience limited to the Covestro AI consulting internship.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Deloitte.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Deloitte.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-payment-fraud-detection.md"
+ ],
+ "build": "payment-fraud-detection",
+ "found_by_scout": false
+}

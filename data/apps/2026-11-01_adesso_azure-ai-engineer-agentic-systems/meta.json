@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-01_adesso_azure-ai-engineer-agentic-systems",
+ "date": "2026-11-01",
+ "prepared_at": 1793549164,
+ "company": "adesso SE",
+ "role": "Azure AI Engineer - Agentic Systems",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build azure-ai-rag-starter-kit",
+ "notes": "Bremen (same JD for Dresden, LinkedIn 4458952153); German docs; \"sehr gute Deutsch\" asked, have B1 (top gap); min. 5 yrs asked, have 3; gaps: Azure OpenAI/Foundry, Semantic Kernel/AutoGen/A2A, Terraform on Azure, C#; ATS 85%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bremen",
+ "ats": 85,
+ "apply_url": "https://www.linkedin.com/jobs/view/4458938949",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4458938949",
+ "contact": "",
+ "verdict": "Strong on the technical core: multi-agent systems (LangGraph), RAG, document intelligence, MCP, evaluation and token-cost control, Azure deployment, agentic coding. Gaps: min. 5 years asked (have 3), \"sehr gute Deutschkenntnisse\" (B1, top gap), Azure AI Foundry / Azure OpenAI in production, Semantic Kernel/AutoGen, A2A, Terraform/Bicep on Azure, C#/.NET.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_adesso.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_adesso.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-azure-ai-agent-starter-kit.md"
+ ],
+ "build": "azure-ai-rag-starter-kit",
+ "found_by_scout": false
+}

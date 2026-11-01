@@ -1,5 +1,5 @@
 {
- "generated": 1793519095.50779,
+ "generated": 1793549174.511806,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1504,6 +1504,54 @@
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-01_adesso_azure-ai-engineer-agentic-systems",
+   "date": "2026-11-01",
+   "prepared_at": 1793549164,
+   "company": "adesso SE",
+   "role": "Azure AI Engineer - Agentic Systems",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Bremen",
+   "ats": 85,
+   "apply_url": "https://www.linkedin.com/jobs/view/4458938949",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-rag-starter-kit",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-01_adesso_ai-automation-developer-sap",
+   "date": "2026-11-01",
+   "prepared_at": 1793549164,
+   "company": "adesso business consulting AG",
+   "role": "AI & Automation Developer SAP",
+   "fit": 60,
+   "status": "build-first",
+   "city": "München",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4397212819",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-01_deloitte_consultant-ai-data-analytics",
+   "date": "2026-11-01",
+   "prepared_at": 1793549164,
+   "company": "Deloitte",
+   "role": "Consultant AI & Data Analytics / Data Science",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Düsseldorf",
+   "ats": 90,
+   "apply_url": "https://www.linkedin.com/jobs/view/4243056830",
+   "apply_url_kind": "posting",
+   "build": "payment-fraud-detection",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -1587,7 +1635,8 @@
    "2026-10-28_flaconi_business-automation-developer",
    "2026-10-28_4flow_ai-engineer-consulting",
    "2026-10-29_getpress_backend-engineer-agentic-ai",
-   "2026-10-29_amadeus-fire_ai-solutions-engineer"
+   "2026-10-29_amadeus-fire_ai-solutions-engineer",
+   "2026-11-01_adesso_ai-automation-developer-sap"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -1602,7 +1651,8 @@
   ],
   "azure-ai-rag-starter-kit": [
    "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai",
-   "2026-10-28_taod_data-engineer-scientist"
+   "2026-10-28_taod_data-engineer-scientist",
+   "2026-11-01_adesso_azure-ai-engineer-agentic-systems"
   ],
   "client-occasion-engine": [
    "2026-10-25_bestandsfaktor_founding-software-engineer",
@@ -1635,7 +1685,8 @@
   ],
   "payment-fraud-detection": [
    "2026-10-28_finanz-informatik_data-scientist-compliance",
-   "2026-10-29_union-investment_data-scientist-ki-kompetenzzentrum"
+   "2026-10-29_union-investment_data-scientist-ki-kompetenzzentrum",
+   "2026-11-01_deloitte_consultant-ai-data-analytics"
   ],
   "matching-experiment-lab": [
    "2026-10-29_jobgether_data-scientist-ai-experimentation"
