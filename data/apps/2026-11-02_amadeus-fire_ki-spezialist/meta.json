@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-02_amadeus-fire_ki-spezialist",
+ "date": "2026-11-02",
+ "prepared_at": 1793622119,
+ "company": "Amadeus Fire (real-estate client Köln)",
+ "role": "KI-Spezialist (m/w/d)",
+ "fit": 76,
+ "status": "build-first",
+ "next_step": "build llm-gateway (Amadeus Fire variant)",
+ "notes": "Found by job-scout; German docs; Köln, Homeoffice option; 75-80k; Personalvermittlung (Omid Abdul, Ref. 16-257762); Anschreiben optional; German B1 = top gap; gaps: MLOps monitoring, Java/C++; earlier Amadeus Fire app 2026-10-29; ATS 100%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Köln",
+ "ats": 100,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486156435",
+ "apply_url_kind": "posting",
+ "apply_hint": "Kontakt: Omid Abdul, Amadeus Fire Köln, +49 89 212128-333, it.koeln@amadeus-fire.de (Ref. 16-257762 nur im E-Mail-Betreff, nicht im Anschreiben). Anschreiben ist optional (\"ohne Anschreiben einfach bewerben\").",
+ "source": "https://www.linkedin.com/jobs/view/4486156435",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Amadeus_Fire.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Amadeus_Fire.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-llm-gateway.md"
+ ],
+ "build": "llm-gateway",
+ "found_by_scout": true
+}

@@ -1,5 +1,5 @@
 {
- "generated": 1793621007.618708,
+ "generated": 1793622928.176373,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1616,6 +1616,182 @@
    "build": "",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_hyra_software-engineer-ai",
+   "date": "2026-11-02",
+   "prepared_at": 1793621477,
+   "company": "Hyra (financial services client not named)",
+   "role": "Software Engineer (AI features)",
+   "fit": 80,
+   "status": "ready",
+   "city": "Berlin",
+   "ats": 86,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486137373",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_thryve_generative-ai-engineer",
+   "date": "2026-11-02",
+   "prepared_at": 1793621493,
+   "company": "THRYVE (Sparkassen-KIPilot client; likely Web Computing/FI)",
+   "role": "Generative AI Engineer",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486150640",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_bkk-firmus_ki-entwickler",
+   "date": "2026-11-02",
+   "prepared_at": 1793622252,
+   "company": "BKK firmus",
+   "role": "KI-Entwickler (m/w/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Osnabrück",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484326884",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_amadeus-fire_ki-spezialist",
+   "date": "2026-11-02",
+   "prepared_at": 1793622119,
+   "company": "Amadeus Fire (real-estate client Köln)",
+   "role": "KI-Spezialist (m/w/d)",
+   "fit": 76,
+   "status": "build-first",
+   "city": "Köln",
+   "ats": 100,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486156435",
+   "apply_url_kind": "posting",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_e-regio_ki-entwickler-ai-engineer",
+   "date": "2026-11-02",
+   "prepared_at": 1793622260,
+   "company": "e-regio",
+   "role": "KI-Entwickler / AI Engineer (m/w/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Euskirchen",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4476000783",
+   "apply_url_kind": "posting",
+   "build": "quality-process-copilot",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_senacor_ai-native-software-engineer",
+   "date": "2026-11-02",
+   "prepared_at": 1793622284,
+   "company": "Senacor Technologies",
+   "role": "AI-Native Software Engineer (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484342708",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-agent-harness",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_flex-capital_ai-engineer-dealflow",
+   "date": "2026-11-02",
+   "prepared_at": 1793622449,
+   "company": "FLEX Capital",
+   "role": "AI Engineer - Dealflow (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 88,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485470605",
+   "apply_url_kind": "posting",
+   "build": "dealflow-sourcing-engine",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_ericsson_graduate-ai-ml-data-engineer",
+   "date": "2026-11-02",
+   "prepared_at": 1793622545,
+   "company": "Ericsson",
+   "role": "Graduate AI/ML and Data Engineer (m/f/d)",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Aachen",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485472778",
+   "apply_url_kind": "posting",
+   "build": "cell-kpi-anomaly-pipeline",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_quantumblack_data-engineering-consultant",
+   "date": "2026-11-02",
+   "prepared_at": 1793622675,
+   "company": "QuantumBlack AI by McKinsey",
+   "role": "Data Engineering Consultant",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Düsseldorf",
+   "ats": 92,
+   "apply_url": "https://www.linkedin.com/jobs/view/4423060815",
+   "apply_url_kind": "posting",
+   "build": "agent-ready-data-platform",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_cgi_azure-cloud-ai-engineer",
+   "date": "2026-11-02",
+   "prepared_at": 1793622805,
+   "company": "CGI",
+   "role": "Microsoft Azure Cloud & AI Engineer (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4349344375",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-rag-starter-kit",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_mercedes-benz_ai-solutions-consultant",
+   "date": "2026-11-02",
+   "prepared_at": 1793622892,
+   "company": "Mercedes-Benz AG (MBMC)",
+   "role": "AI Solutions Consultant (d/m/w/x)",
+   "fit": 55,
+   "status": "ready",
+   "city": "Stuttgart",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484323921",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1629,7 +1805,8 @@
    "2026-10-26_scalable-capital_ai-software-engineer-python",
    "2026-10-27_sap-fioneer_graduate-ai-engineer",
    "2026-10-27_bits_forward-deployed-ai-engineer",
-   "2026-10-27_redcare-pharmacy_platform-engineer"
+   "2026-10-27_redcare-pharmacy_platform-engineer",
+   "2026-11-02_amadeus-fire_ki-spezialist"
   ],
   "care-note-structurer": [
    "2026-10-14_dexter-health_ai-engineer-llm",
@@ -1651,7 +1828,8 @@
    "2026-10-17_bcg-platinion_ai-associate",
    "2026-10-23_opta-data_ai-engineer",
    "2026-10-24_union-investment_forward-deployed-engineer",
-   "2026-10-29_event-inc_ai-engineer"
+   "2026-10-29_event-inc_ai-engineer",
+   "2026-11-02_senacor_ai-native-software-engineer"
   ],
   "agent-eval-harness": [
    "2026-10-17_jobgether_ai-evaluation-engineer",
@@ -1708,7 +1886,8 @@
    "2026-10-23_hermes-group_ai-engineer",
    "2026-10-26_feri_junior-ki-entwickler",
    "2026-10-26_daw_ai-data-engineer",
-   "2026-10-28_affinis_microsoft-copilot-consultant"
+   "2026-10-28_affinis_microsoft-copilot-consultant",
+   "2026-11-02_e-regio_ki-entwickler-ai-engineer"
   ],
   "clinical-info-assistant": [
    "2026-10-25_juicylemons_product-engineer",
@@ -1718,7 +1897,8 @@
   "azure-ai-rag-starter-kit": [
    "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai",
    "2026-10-28_taod_data-engineer-scientist",
-   "2026-11-01_adesso_azure-ai-engineer-agentic-systems"
+   "2026-11-01_adesso_azure-ai-engineer-agentic-systems",
+   "2026-11-02_cgi_azure-cloud-ai-engineer"
   ],
   "client-occasion-engine": [
    "2026-10-25_bestandsfaktor_founding-software-engineer",
@@ -1733,7 +1913,9 @@
    "2026-10-27_summ-ai_ai-engineer-llms-agents",
    "2026-10-27_uni-hamburg_research-software-engineer",
    "2026-10-27_safetec_ai-specialist",
-   "2026-11-01_se3-labs_forward-deployed-engineer-applied-ai"
+   "2026-11-01_se3-labs_forward-deployed-engineer-applied-ai",
+   "2026-11-02_thryve_generative-ai-engineer",
+   "2026-11-02_bkk-firmus_ki-entwickler"
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms",
@@ -1759,6 +1941,15 @@
   ],
   "canteen-menu-insights": [
    "2026-11-02_odacova_applied-ai-backend-engineer"
+  ],
+  "dealflow-sourcing-engine": [
+   "2026-11-02_flex-capital_ai-engineer-dealflow"
+  ],
+  "cell-kpi-anomaly-pipeline": [
+   "2026-11-02_ericsson_graduate-ai-ml-data-engineer"
+  ],
+  "agent-ready-data-platform": [
+   "2026-11-02_quantumblack_data-engineering-consultant"
   ]
  }
 }

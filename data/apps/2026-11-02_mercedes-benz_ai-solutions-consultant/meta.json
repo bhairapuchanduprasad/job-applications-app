@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-02_mercedes-benz_ai-solutions-consultant",
+ "date": "2026-11-02",
+ "prepared_at": 1793622892,
+ "company": "Mercedes-Benz AG (MBMC)",
+ "role": "AI Solutions Consultant (d/m/w/x)",
+ "fit": 55,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; German docs; Stuttgart hybrid; internal management consulting; needs CV+Anschreiben+Zeugnisse; verhandlungssicher Deutsch = near knockout (B1); gaps: top-management consulting, Databricks/ADF, Java; ATS 76%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484323921",
+ "apply_url_kind": "posting",
+ "apply_hint": "Unterlagen laut Ausschreibung: Lebenslauf, Anschreiben UND Zeugnisse (Arbeitszeugnisse Covestro/Kniit/Cognizant, Master- und Bachelorzeugnis) als \"relevant für diese Bewerbung\" markieren, max. 5 MB je Datei.",
+ "source": "https://www.linkedin.com/jobs/view/4484323921",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Mercedes-Benz.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Mercedes-Benz.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

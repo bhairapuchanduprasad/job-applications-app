@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-02_quantumblack_data-engineering-consultant",
+ "date": "2026-11-02",
+ "prepared_at": 1793622675,
+ "company": "QuantumBlack AI by McKinsey",
+ "role": "Data Engineering Consultant",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build agent-ready-data-platform (Semantic Analytics Agent variant)",
+ "notes": "Found by job-scout; English; Düsseldorf; entry level, 2+ yrs; German+English communication asked (B1 = gap); gaps: Spark, dbt, Databricks/Snowflake, Terraform, Langfuse, streaming; ATS 92%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Düsseldorf",
+ "ats": 92,
+ "apply_url": "https://www.linkedin.com/jobs/view/4423060815",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4423060815",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_QuantumBlack.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_QuantumBlack.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-ready-data-platform.md"
+ ],
+ "build": "agent-ready-data-platform",
+ "found_by_scout": true
+}

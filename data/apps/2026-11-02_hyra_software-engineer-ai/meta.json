@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-02_hyra_software-engineer-ai",
+ "date": "2026-11-02",
+ "prepared_at": 1793621477,
+ "company": "Hyra (financial services client not named)",
+ "role": "Software Engineer (AI features)",
+ "fit": 80,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; English; Berlin hybrid; recruiter posting, ask client name; LinkedIn Mid-Senior; gaps: financial services domain, enterprise platform integration; ATS 86%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 86,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486137373",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486137373",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Hyra.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Hyra.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

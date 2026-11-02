@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-02_flex-capital_ai-engineer-dealflow",
+ "date": "2026-11-02",
+ "prepared_at": 1793622449,
+ "company": "FLEX Capital",
+ "role": "AI Engineer - Dealflow (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build dealflow-sourcing-engine (Client Occasion Engine variant)",
+ "notes": "Found by job-scout; German docs; Berlin office; verhandlungssicher Deutsch asked = top gap (B1); gaps: CRM/Pipedrive, deal origination, outreach tooling; ATS 88%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 88,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485470605",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485470605",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_FLEX_Capital.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_FLEX_Capital.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-dealflow-sourcing-engine.md"
+ ],
+ "build": "dealflow-sourcing-engine",
+ "found_by_scout": true
+}

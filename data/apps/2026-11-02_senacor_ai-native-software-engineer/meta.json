@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-02_senacor_ai-native-software-engineer",
+ "date": "2026-11-02",
+ "prepared_at": 1793622284,
+ "company": "Senacor Technologies",
+ "role": "AI-Native Software Engineer (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build spec-driven-agent-harness (Senacor variant)",
+ "notes": "Found by job-scout; English docs (German posting, no German requirement stated; consultancy with DACH clients); Hamburg hybrid, client travel; gaps: TypeScript/Java/Go, observability, auth, code reviews; ATS 87%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484342708",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484342708",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Senacor.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Senacor.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-spec-driven-agent-harness.md"
+ ],
+ "build": "spec-driven-agent-harness",
+ "found_by_scout": true
+}

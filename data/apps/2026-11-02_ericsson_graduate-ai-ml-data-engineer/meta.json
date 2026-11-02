@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-02_ericsson_graduate-ai-ml-data-engineer",
+ "date": "2026-11-02",
+ "prepared_at": 1793622545,
+ "company": "Ericsson",
+ "role": "Graduate AI/ML and Data Engineer (m/f/d)",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build cell-kpi-anomaly-pipeline",
+ "notes": "Found by job-scout; English; Aachen; graduate track (may be overqualified / lower pay, check Blue Card threshold); gaps: Java/C++ (must), Kafka, gRPC, PySpark, code reviews; ATS 75%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Aachen",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485472778",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485472778",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Ericsson.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Ericsson.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-cell-kpi-anomaly-pipeline.md"
+ ],
+ "build": "cell-kpi-anomaly-pipeline",
+ "found_by_scout": true
+}

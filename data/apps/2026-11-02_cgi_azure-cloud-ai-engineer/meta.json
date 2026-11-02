@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-02_cgi_azure-cloud-ai-engineer",
+ "date": "2026-11-02",
+ "prepared_at": 1793622805,
+ "company": "CGI",
+ "role": "Microsoft Azure Cloud & AI Engineer (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build azure-ai-rag-starter-kit (CGI variant)",
+ "notes": "Found by job-scout; German docs; Germany (multiple locations, pick in form); entry level, mentoring + Azure certs; German B1 = top gap; gaps: Terraform, Azure OpenAI, networking/Linux ops, MLOps, DevSecOps; earlier CGI app 2026-10-25; ATS 81%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4349344375",
+ "apply_url_kind": "posting",
+ "apply_hint": "Vor dem Absenden: Azure AI RAG Starter-Kit (CGI-Variante) bauen (siehe _work/project-brief-azure-ai-rag-starter-kit.md) oder das Projekt aus dem Lebenslauf nehmen. Standort im Formular wählen (CGI hat mehrere Standorte; Profil: deutschlandweit flexibel).",
+ "source": "https://www.linkedin.com/jobs/view/4349344375",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_CGI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_CGI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-azure-ai-rag-starter-kit.md"
+ ],
+ "build": "azure-ai-rag-starter-kit",
+ "found_by_scout": true
+}

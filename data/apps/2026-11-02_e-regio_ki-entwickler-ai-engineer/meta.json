@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-02_e-regio_ki-entwickler-ai-engineer",
+ "date": "2026-11-02",
+ "prepared_at": 1793622260,
+ "company": "e-regio",
+ "role": "KI-Entwickler / AI Engineer (m/w/d)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build quality-process-copilot (e-regio Netzanschluss variant)",
+ "notes": "Found by job-scout; German docs; Euskirchen; energy utility, new KI Competence Center on Microsoft stack; German B1 = top gap; gaps: AI Foundry/Copilot Studio/Power Platform/Fabric, EU AI Act, KRITIS; twin 4476008537; ATS 75%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Euskirchen",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4476000783",
+ "apply_url_kind": "posting",
+ "apply_hint": "Vor dem Absenden: Netzanschluss-Copilot bauen (siehe _work/project-brief-quality-process-copilot.md) oder das Projekt aus dem Lebenslauf nehmen. Zwillingsanzeige 4476008537 = gleiche Stelle, nur einmal bewerben.",
+ "source": "https://www.linkedin.com/jobs/view/4476000783",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_e-regio.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_e-regio.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-quality-process-copilot.md"
+ ],
+ "build": "quality-process-copilot",
+ "found_by_scout": true
+}
