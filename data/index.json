@@ -1,5 +1,5 @@
 {
- "generated": 1793606622.288448,
+ "generated": 1793621007.618708,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1598,6 +1598,22 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4484323085",
    "apply_url_kind": "posting",
    "build": "canteen-menu-insights",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_coltech_ai-engineer",
+   "date": "2026-11-02",
+   "prepared_at": 1793620985,
+   "company": "Coltech (client not named)",
+   "role": "AI Engineer (Mid-Level)",
+   "fit": 82,
+   "status": "ready",
+   "city": "Augsburg",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484337129",
+   "apply_url_kind": "posting",
+   "build": "",
    "applied_date": "",
    "found_by_scout": true
   }
