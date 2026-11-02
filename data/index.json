@@ -1,5 +1,5 @@
 {
- "generated": 1793563230.907219,
+ "generated": 1793577864.26948,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1568,6 +1568,22 @@
    "build": "ops-mcp-server",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_kausable_agentic-ai-harness-engineer",
+   "date": "2026-11-02",
+   "prepared_at": 1793577862,
+   "company": "kausable",
+   "role": "Agentic-AI Harness Engineer",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Heidelberg",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4483994801",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1615,7 +1631,8 @@
    "2026-10-28_wolters-kluwer_ai-agent-engineer",
    "2026-10-28_signal-iduna_ai-governance-engineer",
    "2026-10-28_airbus-defence-and-space_software-engineer-ivv-agentic-ai",
-   "2026-10-29_kuehne-nagel_agentic-ai-engineer"
+   "2026-10-29_kuehne-nagel_agentic-ai-engineer",
+   "2026-11-02_kausable_agentic-ai-harness-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",

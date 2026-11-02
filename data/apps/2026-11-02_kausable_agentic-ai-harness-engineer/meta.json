@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-02_kausable_agentic-ai-harness-engineer",
+ "date": "2026-11-02",
+ "prepared_at": 1793577862,
+ "company": "kausable",
+ "role": "Agentic-AI Harness Engineer",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness (kausable variant)",
+ "notes": "Found by job-scout; English; Heidelberg hybrid; 'primarily hiring at senior level'; add coffee line (JD asks); gaps: PyTorch depth, ML research, PFNs, W&B; ATS 75%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Heidelberg",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4483994801",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4483994801",
+ "contact": "",
+ "verdict": "Strong on agentic systems, evaluation and production engineering; weaker on the ML-research side (PyTorch depth, in-context learning, PFNs) and the posting says they are \"primarily hiring at senior level\".",
+ "gaps": [
+  "Seniority",
+  "PyTorch / ML research depth",
+  "PFNs, in-context learning theory, W&B"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_kausable.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_kausable.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}
