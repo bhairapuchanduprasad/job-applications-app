@@ -1,5 +1,5 @@
 {
- "generated": 1793622928.176373,
+ "generated": 1793650966.948799,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1792,6 +1792,198 @@
    "build": "",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_vent-io_data-software-engineer-ai-data",
+   "date": "2026-11-03",
+   "prepared_at": 1793649685,
+   "company": "vent.io (Deutsche Leasing)",
+   "role": "Data / Software Engineer - AI & Data (w/m/d)",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Frankfurt am Main",
+   "ats": 96,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486194672",
+   "apply_url_kind": "posting",
+   "build": "leasing-document-extraction",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_navan_backend-software-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793649868,
+   "company": "Navan",
+   "role": "Backend Software Engineer (Expense)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486413519",
+   "apply_url_kind": "posting",
+   "build": "expense-missing-info-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_zapp_ai-platform-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793649948,
+   "company": "Zapp Precision Metals GmbH",
+   "role": "AI Platform Engineer (m/w/d)",
+   "fit": 76,
+   "status": "build-first",
+   "city": "Schwerte",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484373124",
+   "apply_url_kind": "posting",
+   "build": "ai-platform-azure",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_saint-gobain_machine-learning-engineer-industrial-ai",
+   "date": "2026-11-03",
+   "prepared_at": 1793650155,
+   "company": "Saint-Gobain Deutschland",
+   "role": "Machine Learning Engineer (m/w/d) – Industrial AI",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Herzogenrath",
+   "ats": 96,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481578795",
+   "apply_url_kind": "posting",
+   "build": "glass-defect-detection",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_vogel_founding-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793650231,
+   "company": "Vogel (Vogel Beratung)",
+   "role": "Founding Engineer (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486416939",
+   "apply_url_kind": "posting",
+   "build": "advisory-data-layer",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_carbmee_forward-deployed-engineer-north-america",
+   "date": "2026-11-03",
+   "prepared_at": 1793650357,
+   "company": "carbmee",
+   "role": "Forward Deployed Engineer - North America",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 89,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484369426",
+   "apply_url_kind": "posting",
+   "build": "bom-emission-matcher",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_nais-knk_ai-product-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793650462,
+   "company": "NAIS Nordic AI Solutions (knk Gruppe)",
+   "role": "AI Product Engineer (m/w/d)",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484362669",
+   "apply_url_kind": "posting",
+   "build": "quality-process-copilot",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_attempto_genai-engineer-fullstack",
+   "date": "2026-11-03",
+   "prepared_at": 1793650584,
+   "company": "attempto GmbH & Co. KG",
+   "role": "GenAI Engineer mit Fullstack-Hintergrund (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "München",
+   "ats": 96,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484604045",
+   "apply_url_kind": "posting",
+   "build": "genai-service-spring-angular",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_coltech_agentic-ai-coding-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793650653,
+   "company": "Coltech (recruiter, client undisclosed)",
+   "role": "Agentic AI Coding Engineer",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Memmingen",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484373511",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_xitavis_product-engineer-fullstack-ki",
+   "date": "2026-11-03",
+   "prepared_at": 1793650767,
+   "company": "xitavis GmbH",
+   "role": "Product Engineer (m/w/d), Full-Stack und KI-first",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Nürnberg",
+   "ats": 86,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486199345",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-agent-harness",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_maorika_ai-automation-infrastructure-specialist",
+   "date": "2026-11-03",
+   "prepared_at": 1793650850,
+   "company": "maorika / nedura",
+   "role": "AI Automation & Infrastructure Specialist (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 65,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486402654",
+   "apply_url_kind": "posting",
+   "build": "shop-support-agent",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_stark_machine-learning-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793650947,
+   "company": "STARK",
+   "role": "Machine Learning Engineer (All genders)",
+   "fit": 54,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485757108",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1815,7 +2007,8 @@
    "2026-10-28_hdp_machine-learning-engineer"
   ],
   "shop-support-agent": [
-   "2026-10-16_snocks_junior-ai-engineer"
+   "2026-10-16_snocks_junior-ai-engineer",
+   "2026-11-03_maorika_ai-automation-infrastructure-specialist"
   ],
   "meter-read-plausibility-agent": [
    "2026-10-16_sap_ai-engineer-development-expert"
@@ -1829,7 +2022,8 @@
    "2026-10-23_opta-data_ai-engineer",
    "2026-10-24_union-investment_forward-deployed-engineer",
    "2026-10-29_event-inc_ai-engineer",
-   "2026-11-02_senacor_ai-native-software-engineer"
+   "2026-11-02_senacor_ai-native-software-engineer",
+   "2026-11-03_xitavis_product-engineer-fullstack-ki"
   ],
   "agent-eval-harness": [
    "2026-10-17_jobgether_ai-evaluation-engineer",
@@ -1880,14 +2074,16 @@
    "2026-10-28_4flow_ai-engineer-consulting",
    "2026-10-29_getpress_backend-engineer-agentic-ai",
    "2026-10-29_amadeus-fire_ai-solutions-engineer",
-   "2026-11-01_adesso_ai-automation-developer-sap"
+   "2026-11-01_adesso_ai-automation-developer-sap",
+   "2026-11-03_coltech_agentic-ai-coding-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
    "2026-10-26_feri_junior-ki-entwickler",
    "2026-10-26_daw_ai-data-engineer",
    "2026-10-28_affinis_microsoft-copilot-consultant",
-   "2026-11-02_e-regio_ki-entwickler-ai-engineer"
+   "2026-11-02_e-regio_ki-entwickler-ai-engineer",
+   "2026-11-03_nais-knk_ai-product-engineer"
   ],
   "clinical-info-assistant": [
    "2026-10-25_juicylemons_product-engineer",
@@ -1950,6 +2146,27 @@
   ],
   "agent-ready-data-platform": [
    "2026-11-02_quantumblack_data-engineering-consultant"
+  ],
+  "leasing-document-extraction": [
+   "2026-11-03_vent-io_data-software-engineer-ai-data"
+  ],
+  "expense-missing-info-agent": [
+   "2026-11-03_navan_backend-software-engineer"
+  ],
+  "ai-platform-azure": [
+   "2026-11-03_zapp_ai-platform-engineer"
+  ],
+  "glass-defect-detection": [
+   "2026-11-03_saint-gobain_machine-learning-engineer-industrial-ai"
+  ],
+  "advisory-data-layer": [
+   "2026-11-03_vogel_founding-engineer"
+  ],
+  "bom-emission-matcher": [
+   "2026-11-03_carbmee_forward-deployed-engineer-north-america"
+  ],
+  "genai-service-spring-angular": [
+   "2026-11-03_attempto_genai-engineer-fullstack"
   ]
  }
 }

@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-03_xitavis_product-engineer-fullstack-ki",
+ "date": "2026-11-03",
+ "prepared_at": 1793650767,
+ "company": "xitavis GmbH",
+ "role": "Product Engineer (m/w/d), Full-Stack und KI-first",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build spec-driven-agent-harness (link on GitHub)",
+ "notes": "Found by job-scout; German docs; Nuremberg on-site then hybrid; EUR 65-85k; apply by email with CV + one real AI problem story; gutes Deutsch (B1 = gap); gaps: TypeScript/Vue, Kotlin, GraphQL, mobile, hardware; ATS 86%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Nürnberg",
+ "ats": 86,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486199345",
+ "apply_url_kind": "posting",
+ "apply_hint": "Bewerbung per E-Mail an karriere@xitavis.com: kurzer Lebenslauf + ein echtes Problem, das mit KI gelöst wurde (steht im Anschreiben im Format Problem / Vorgehen / Ergebnis) + gern GitHub-Link. Vor dem Absenden: Spec-Driven Coding Agent Harness bauen (Brief: applications/2026-10-17_bcg-platinion_ai-associate/_work/project-brief-spec-driven-agent-harness.md) und verlinken, oder das Projekt aus dem Lebenslauf nehmen.",
+ "source": "https://www.linkedin.com/jobs/view/4486199345",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_xitavis.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_xitavis.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "spec-driven-agent-harness",
+ "found_by_scout": true
+}

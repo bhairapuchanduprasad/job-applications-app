@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_vogel_founding-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793650231,
+ "company": "Vogel (Vogel Beratung)",
+ "role": "Founding Engineer (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build advisory-data-layer (Semantic Analytics Agent variant)",
+ "notes": "Found by job-scout; English; Munich, daily in office; works in German (B1 = top gap); range EUR 60-156K; gaps: TypeScript, DATEV/accounting; written 8-question task first; ATS 79%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486416939",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486416939",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Vogel.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Vogel.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-advisory-data-layer.md"
+ ],
+ "build": "advisory-data-layer",
+ "found_by_scout": true
+}

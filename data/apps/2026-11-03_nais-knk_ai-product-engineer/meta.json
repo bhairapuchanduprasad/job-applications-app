@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-03_nais-knk_ai-product-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793650462,
+ "company": "NAIS Nordic AI Solutions (knk Gruppe)",
+ "role": "AI Product Engineer (m/w/d)",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build quality-process-copilot",
+ "notes": "Found by job-scout; German docs; Hamburg hybrid; associate, 2-3 yrs SW; sehr gutes Deutsch (B1 = gap, customer-facing); gaps: Product Owner/sprint planning, PSPO, Copilot Studio/Power Platform; contact Lara-Sophie Petersen; ATS 74%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484362669",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484362669",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_NAIS.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_NAIS.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "quality-process-copilot",
+ "found_by_scout": true
+}

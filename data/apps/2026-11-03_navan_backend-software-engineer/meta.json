@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_navan_backend-software-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793649868,
+ "company": "Navan",
+ "role": "Backend Software Engineer (Expense)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build expense-missing-info-agent (Agent Eval Harness variant)",
+ "notes": "Found by job-scout; English; Berlin hybrid; 1-3 yrs; gaps: Java/Spring Boot (preferred), TypeScript, Kafka, fintech; ATS 81%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486413519",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486413519",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Navan.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Navan.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-expense-missing-info-agent.md"
+ ],
+ "build": "expense-missing-info-agent",
+ "found_by_scout": true
+}

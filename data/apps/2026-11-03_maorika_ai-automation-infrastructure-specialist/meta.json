@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-03_maorika_ai-automation-infrastructure-specialist",
+ "date": "2026-11-03",
+ "prepared_at": 1793650850,
+ "company": "maorika / nedura",
+ "role": "AI Automation & Infrastructure Specialist (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build shop-support-agent (Gorgias variant) + link in Typeform",
+ "notes": "Found by job-scout; English docs (German posting, no language requirement); Hamburg office; entry level; apply via Typeform, no cover letter wanted, show what you built; gaps: Shopify/Amazon/Klaviyo/Gorgias/DATEV, e-commerce, webhooks; ATS 65% (honest stack gaps)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 65,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486402654",
+ "apply_url_kind": "posting",
+ "apply_hint": "How to apply: Typeform (https://nedura-maorika.typeform.com/to/q3J5Fvt8), \"Kein Anschreiben\". They want: what you built (GitHub, demo or short video) + which process you would automate first.",
+ "source": "https://www.linkedin.com/jobs/view/4486402654",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_maorika.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_maorika.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "shop-support-agent",
+ "found_by_scout": true
+}

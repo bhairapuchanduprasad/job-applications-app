@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_attempto_genai-engineer-fullstack",
+ "date": "2026-11-03",
+ "prepared_at": 1793650584,
+ "company": "attempto GmbH & Co. KG",
+ "role": "GenAI Engineer mit Fullstack-Hintergrund (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build genai-service-spring-angular (Knowledge Assistant variant)",
+ "notes": "Found by job-scout; German docs; Munich, IT consultancy with regional long-term client projects; Deutsch fliessend (B1 = gap); gaps: Java/Spring Boot, Angular/TypeScript, OpenAPI design, Azure OpenAI; ATS 96%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "München",
+ "ats": 96,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484604045",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484604045",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_attempto.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_attempto.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-genai-service-spring-angular.md"
+ ],
+ "build": "genai-service-spring-angular",
+ "found_by_scout": true
+}

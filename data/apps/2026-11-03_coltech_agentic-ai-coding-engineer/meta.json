@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-03_coltech_agentic-ai-coding-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793650653,
+ "company": "Coltech (recruiter, client undisclosed)",
+ "role": "Agentic AI Coding Engineer",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent or spec-driven-agent-harness",
+ "notes": "Found by job-scout; English; on-site Memmingen area; LinkedIn says Contract (confirm employment for Blue Card); ask for client name; gaps: Java, TypeScript, Terraform, ERP platform dev; ATS 76%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Memmingen",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484373511",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484373511",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Coltech.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Coltech.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}

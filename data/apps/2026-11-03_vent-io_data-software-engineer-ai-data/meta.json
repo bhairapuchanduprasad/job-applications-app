@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_vent-io_data-software-engineer-ai-data",
+ "date": "2026-11-03",
+ "prepared_at": 1793649685,
+ "company": "vent.io (Deutsche Leasing)",
+ "role": "Data / Software Engineer - AI & Data (w/m/d)",
+ "fit": 74,
+ "status": "build-first",
+ "next_step": "build leasing-document-extraction (Order Inbox Agent variant)",
+ "notes": "Found by job-scout; German docs; Frankfurt hybrid; associate, first SW experience; sehr gutes Deutsch asked (B1 = gap); gaps: Databricks, Terraform, GitHub Actions, OCR; ATS 96%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 96,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486194672",
+ "apply_url_kind": "posting",
+ "apply_hint": "Vor dem Absenden: Leasing-Dokumentenextraktion bauen (siehe _work/project-brief-leasing-document-extraction.md) oder das Projekt aus dem Lebenslauf nehmen. Bewerbung per jobs@vent.io / Karriereseite.",
+ "source": "https://www.linkedin.com/jobs/view/4486194672",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_vent.io.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_vent.io.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-leasing-document-extraction.md"
+ ],
+ "build": "leasing-document-extraction",
+ "found_by_scout": true
+}

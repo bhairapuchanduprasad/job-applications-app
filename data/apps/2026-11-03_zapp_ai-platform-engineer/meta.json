@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_zapp_ai-platform-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793649948,
+ "company": "Zapp Precision Metals GmbH",
+ "role": "AI Platform Engineer (m/w/d)",
+ "fit": 76,
+ "status": "build-first",
+ "next_step": "build ai-platform-azure (AI Gateway Platform variant)",
+ "notes": "Found by job-scout; English docs for German posting (no language requirement); Schwerte (near Essen); associate; gaps: Entra ID/permissions/AI governance, CI quality gates, monitoring; ATS 81%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Schwerte",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484373124",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484373124",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Zapp.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Zapp.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-ai-platform-azure.md"
+ ],
+ "build": "ai-platform-azure",
+ "found_by_scout": true
+}

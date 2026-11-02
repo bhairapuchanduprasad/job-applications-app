@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_saint-gobain_machine-learning-engineer-industrial-ai",
+ "date": "2026-11-03",
+ "prepared_at": 1793650155,
+ "company": "Saint-Gobain Deutschland",
+ "role": "Machine Learning Engineer (m/w/d) – Industrial AI",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build glass-defect-detection (Road Damage Inference variant)",
+ "notes": "Found by job-scout; German docs; Herzogenrath (near Aachen), Saint-Gobain Research Germany; 1-2 yrs ML; sehr gutes Deutsch (B1 = gap); gaps: computer vision industrial, MLOps; ATS 96%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Herzogenrath",
+ "ats": 96,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481578795",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4481578795",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Saint-Gobain.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Saint-Gobain.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-glass-defect-detection.md"
+ ],
+ "build": "glass-defect-detection",
+ "found_by_scout": true
+}

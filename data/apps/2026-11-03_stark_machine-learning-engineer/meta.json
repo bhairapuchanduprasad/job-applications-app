@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_stark_machine-learning-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793650947,
+ "company": "STARK",
+ "role": "Machine Learning Engineer (All genders)",
+ "fit": 54,
+ "status": "build-first",
+ "next_step": "check clearance eligibility; build production-yield-anomaly (Plant Maintenance variant)",
+ "notes": "Found by job-scout; English; Munich; defence, security clearance eligibility required (non-EU: unclear); asks 4-7 yrs (has 3); gaps: MLOps registry/drift/retraining, Airflow/dbt, MES; ATS ~76%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485757108",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485757108",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_STARK.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_STARK.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-production-yield-anomaly.md"
+ ],
+ "build": "",
+ "found_by_scout": true
+}
