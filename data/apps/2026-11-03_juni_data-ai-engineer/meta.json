@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_juni_data-ai-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793663982,
+ "company": "JUNI",
+ "role": "Data & AI Engineer (m/w/d)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build ecosystem-data-hub",
+ "notes": "Found by job-scout. English docs (German a plus). Asks min 4 yrs (have 3). Berlin Mitte hybrid. Startup Factory (federal funding). ATS 77%.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 77,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486457374",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486457374",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_JUNI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_JUNI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-ecosystem-data-hub.md"
+ ],
+ "build": "ecosystem-data-hub",
+ "found_by_scout": true
+}

@@ -1,5 +1,5 @@
 {
- "generated": 1793650966.948799,
+ "generated": 1793663994.21506,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1984,6 +1984,22 @@
    "build": "",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_juni_data-ai-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793663982,
+   "company": "JUNI",
+   "role": "Data & AI Engineer (m/w/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 77,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486457374",
+   "apply_url_kind": "posting",
+   "build": "ecosystem-data-hub",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2167,6 +2183,9 @@
   ],
   "genai-service-spring-angular": [
    "2026-11-03_attempto_genai-engineer-fullstack"
+  ],
+  "ecosystem-data-hub": [
+   "2026-11-03_juni_data-ai-engineer"
   ]
  }
 }
