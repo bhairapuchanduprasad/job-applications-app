@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-02_odacova_applied-ai-backend-engineer",
+ "date": "2026-11-02",
+ "prepared_at": 1793606606,
+ "company": "odacova",
+ "role": "Applied AI & Backend Engineer (m/w/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build canteen-menu-insights",
+ "notes": "Found by job-scout; German docs (sehr gute Deutschkenntnisse required, B1 = top gap); Dortmund hybrid, 40-60k; MID funding: check MSc Prüfungsdatum <=2y before start (start by 18.12.2026); gaps: Firebase/GCP, Linux, BI; ATS 80%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Dortmund",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484323085",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484323085",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_odacova.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_odacova.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-canteen-menu-insights.md"
+ ],
+ "build": "canteen-menu-insights",
+ "found_by_scout": true
+}

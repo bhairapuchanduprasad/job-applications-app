@@ -1,5 +1,5 @@
 {
- "generated": 1793577864.26948,
+ "generated": 1793606622.288448,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1584,6 +1584,22 @@
    "build": "agent-eval-harness",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-02_odacova_applied-ai-backend-engineer",
+   "date": "2026-11-02",
+   "prepared_at": 1793606606,
+   "company": "odacova",
+   "role": "Applied AI & Backend Engineer (m/w/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Dortmund",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484323085",
+   "apply_url_kind": "posting",
+   "build": "canteen-menu-insights",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -1724,6 +1740,9 @@
   ],
   "matching-experiment-lab": [
    "2026-10-29_jobgether_data-scientist-ai-experimentation"
+  ],
+  "canteen-menu-insights": [
+   "2026-11-02_odacova_applied-ai-backend-engineer"
   ]
  }
 }
