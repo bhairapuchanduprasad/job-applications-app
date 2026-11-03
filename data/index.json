@@ -1,5 +1,5 @@
 {
- "generated": 1793716087.235619,
+ "generated": 1793716289.38914,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2256,6 +2256,22 @@
    "build": "knowledge-assistant-internal-docs",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
+   "date": "2026-11-03",
+   "prepared_at": 1793716273,
+   "company": "CHECK24 Vergleichsportal Reise",
+   "role": "(Junior) Full-Stack Entwickler (m/w/d) AI & Digital Innovation Reise",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Leipzig",
+   "ats": 61,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486837994",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2315,7 +2331,8 @@
    "2026-10-17_cloover_ai-engineering-automation-specialist",
    "2026-10-25_baehrbots_ai-integration-engineer",
    "2026-10-25_chrono24_ai-solution-engineer",
-   "2026-11-02_almedia_ai-full-stack-engineer"
+   "2026-11-02_almedia_ai-full-stack-engineer",
+   "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",

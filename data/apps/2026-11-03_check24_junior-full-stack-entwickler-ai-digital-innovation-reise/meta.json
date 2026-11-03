@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
+ "date": "2026-11-03",
+ "prepared_at": 1793716273,
+ "company": "CHECK24 Vergleichsportal Reise",
+ "role": "(Junior) Full-Stack Entwickler (m/w/d) AI & Digital Innovation Reise",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "Found by job-scout. German docs. Leipzig. Gaps: B1 vs verhandlungssicher German; Golang/TypeScript not professional; ATS 61%",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Leipzig",
+ "ats": 61,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486837994",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486837994",
+ "contact": "",
+ "verdict": "Strong on the AI side (LLM/RAG/MCP, Claude Code daily, React + Python/FastAPI full-stack, Docker, CI/CD). Gaps: Golang and TypeScript not used professionally, and \"verhandlungssichere\" German (B1).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_CHECK24.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_CHECK24.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "ops-mcp-server",
+ "found_by_scout": true
+}
