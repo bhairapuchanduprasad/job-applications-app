@@ -1,5 +1,5 @@
 {
- "generated": 1793737344.415199,
+ "generated": 1793737647.3852448,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2528,6 +2528,22 @@
    "build": "knowledge-assistant-permissions",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_mediamarktsaturn_expert-data-scientist",
+   "date": "2026-11-04",
+   "prepared_at": 1793737645,
+   "company": "MediaMarktSaturn",
+   "role": "Expert Data Scientist - Customer & Decision Intelligence (m/f/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Ingolstadt",
+   "ats": 65,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486895537",
+   "apply_url_kind": "posting",
+   "build": "retail-demand-forecasting-optimizer",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2768,6 +2784,9 @@
   ],
   "knowledge-assistant-permissions": [
    "2026-11-04_accenture-dach_junior-generative-ai-engineer"
+  ],
+  "retail-demand-forecasting-optimizer": [
+   "2026-11-04_mediamarktsaturn_expert-data-scientist"
   ]
  }
 }

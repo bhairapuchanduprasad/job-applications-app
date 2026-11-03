@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-04_mediamarktsaturn_expert-data-scientist",
+ "date": "2026-11-04",
+ "prepared_at": 1793737645,
+ "company": "MediaMarktSaturn",
+ "role": "Expert Data Scientist - Customer & Decision Intelligence (m/f/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build retail-demand-forecasting-optimizer",
+ "notes": "Found by job-scout. English docs. Ingolstadt. Asks ~4-5 yrs (I have ~3). Gaps: optimization, causal inference, recommenders, GCP/Vertex AI. Dropped publication and certs to hold 2 pages. No reviewer pass, no web research.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Ingolstadt",
+ "ats": 65,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486895537",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486895537",
+ "contact": "",
+ "verdict": "Strong on forecasting/ML modelling and Python; below the 4-5 years asked, and thin on optimization, causal inference, recommender work and GCP.",
+ "gaps": [
+  "Experience years: state 3 years honestly; lead with Covestro DS internship and f",
+  "Optimization, causal inference, recommenders, GCP: stated as areas to build on i",
+  "Retail domain: none."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_MediaMarktSaturn.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_MediaMarktSaturn.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-retail-demand-forecasting-optimizer.md"
+ ],
+ "build": "retail-demand-forecasting-optimizer",
+ "found_by_scout": true
+}
