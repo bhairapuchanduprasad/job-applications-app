@@ -1,5 +1,5 @@
 {
- "generated": 1793716718.003805,
+ "generated": 1793716933.2007139,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2304,6 +2304,22 @@
    "build": "knowledge-assistant-internal-docs",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_enrichment-technology_software-engineer-genai-ml",
+   "date": "2026-11-03",
+   "prepared_at": 1793716931,
+   "company": "Enrichment Technology Company (via AgileGrid Solutions)",
+   "role": "Software Engineer - Generative AI & Machine Learning",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Aachen",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486851077",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2436,7 +2452,8 @@
    "2026-11-01_se3-labs_forward-deployed-engineer-applied-ai",
    "2026-11-02_thryve_generative-ai-engineer",
    "2026-11-02_bkk-firmus_ki-entwickler",
-   "2026-11-03_jenoptik_data-scientist-ki"
+   "2026-11-03_jenoptik_data-scientist-ki",
+   "2026-11-03_enrichment-technology_software-engineer-genai-ml"
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms",

@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-03_enrichment-technology_software-engineer-genai-ml",
+ "date": "2026-11-03",
+ "prepared_at": 1793716931,
+ "company": "Enrichment Technology Company (via AgileGrid Solutions)",
+ "role": "Software Engineer - Generative AI & Machine Learning",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-mcp",
+ "notes": "Found by job-scout. English docs. Jülich (CV says Aachen). Posted by AgileGrid Solutions; employer is ETC (uranium enrichment). Gaps: offline/local LLM, HPC, security. ATS 80%. No reviewer pass, no web research.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Aachen",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486851077",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486851077",
+ "contact": "",
+ "verdict": "Strong match on GenAI/agents/RAG, APIs and microservices, Python, 3 years. Gaps are local/offline LLM deployment, HPC operations and security tooling.",
+ "gaps": [
+  "Local/offline LLMs and HPC: stated openly in the cover letter as learning on the",
+  "Access control/permissions/security: left out, not claimed.",
+  "Language: English is enough per posting (no German requirement)."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_ETC.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_ETC.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-knowledge-assistant-mcp.md"
+ ],
+ "build": "knowledge-assistant-mcp",
+ "found_by_scout": true
+}
