@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-03_vicoland_ai-platform-innovation-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793715888,
+ "company": "Vicoland",
+ "role": "AI & Platform Innovation Engineer",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Found by job-scout. English docs. Berlin. Gaps: team lead/mentoring, SaaS integration, C2 English. ATS 75%. No reviewer pass, no web research.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484669101",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484669101",
+ "contact": "",
+ "verdict": "Strong match on agents, RAG, evals and Claude Code; gaps on team leading/mentoring and SaaS platform experience. No German required (German only a bonus).",
+ "gaps": [
+  "Team lead / mentoring: stated openly in the letter, no claim.",
+  "\"C2 English\": profile says Business Fluent; do not claim C2 on forms.",
+  "Memory systems, SaaS product experience, formal observability in production: not",
+  "Posting asks for an \"impacting technical contribution\": Kniit 33/45 to 93/90 and"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Vicoland.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Vicoland.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}
