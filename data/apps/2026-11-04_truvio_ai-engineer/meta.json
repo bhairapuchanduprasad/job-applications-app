@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-04_truvio_ai-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793736710,
+ "company": "Truvio",
+ "role": "AI Engineer",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build invoice-capture-agent",
+ "notes": "Found by job-scout. English docs. Remote Europe (CV shows Germany). Gaps: 4+ years (has 3), Dynamics 365, AP/AR, C#/.NET. Dropped certs/publications and eval project to hold 2 pages. No reviewer pass, no web research.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Germany",
+ "ats": 83,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484697546",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484697546",
+ "contact": "",
+ "verdict": "Strong match on agents, tool use, evals and Python; weak on years of experience (3 vs 4+), Dynamics 365 and finance domain.",
+ "gaps": [
+  "Years: 3 vs 4+ and \"mid to senior\". Not hidden; letter leads with ownership and ",
+  "Dynamics 365, AP/AR: stated honestly in the letter, framed as learning a domain ",
+  "Invoice Capture Agent on the CV is a planned project (see brief), not claimed as"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Truvio.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Truvio.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-invoice-capture-agent.md"
+ ],
+ "build": "invoice-capture-agent",
+ "found_by_scout": true
+}
