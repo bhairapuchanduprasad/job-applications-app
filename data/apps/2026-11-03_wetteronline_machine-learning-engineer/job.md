@@ -1,0 +1,47 @@
+Source: https://www.linkedin.com/jobs/view/4382099411
+
+Title: Machine Learning Engineer (w/m/d)
+Company: WetterOnline GmbH
+Location: Bornheim, North Rhine-Westphalia, Germany
+Search: Germany
+First seen: 2026-11-03
+
+- Seniority level: Not Applicable
+- Employment type: Full-time
+- Industries: Information Services
+
+WO bist du!
+
+- Du interessierst dich für den Einsatz von ML-Verfahren bei der Analyse und Verarbeitung von Wetterdaten mit Python, PyTorch, NumPy und OpenCV?
+- Du möchtest dazu beitragen, die Visualisierung von Radar- und Satellitendaten mithilfe neuronaler Netze zu verbessern?
+- Du möchtest dein Expertenwissen im Bereich Machine Learning gezielt einbringen und gemeinsam mit uns Projekte vorantreiben?
+- Die Analyse und Verarbeitung großer Datenmengen fällt dir leicht?
+
+Wir haben den passenden Job für dich!
+
+Machine Learning Engineer (w/m/d)
+
+Wetter ist mehr 
+Rund 160 Mitarbeiter sorgen weltweit bei WetterOnline nicht nur für eine besonders präzise Wettervorhersage, sondern auch für ein gutes Arbeitsklima. Als Machine Learning Engineer (w/m/d) sorgst du mit deinem Know-how für den zielgerichteten Einsatz von ML-Verfahren in der Objekterkennung, Bilderzeugung und -segmentierung von diversen Wetterdaten.
+Ob an einem unserer vier Standorte – Bonn, Bornheim, Coventry oder Miami – oder remote nach Absprache: Wir freuen uns auf deine Unterstützung!
+
+Um mit uns erfolgreich zu sein, brauchst du:
+
+- Ein erfolgreich abgeschlossenes Studium in Informatik, Physik, Mathematik oder in einem vergleichbaren Studiengang.
+- Fundierte Programmierkenntnisse in Python sowie Erfahrung in der performanten Verarbeitung großer Datenmengen.
+- Erfahrung im Design und Training von ML-Modellen, insbesondere aus dem Bereich Computer Vision.
+- Verständnis physikalischer Zusammenhänge und Interesse an deren datenbasierter Modellierung.
+- Idealerweise Grundkenntnisse in C++ und erste Erfahrungen im High-Performance Computing. 
+
+Folgende Entwicklungsumgebung erwartet dich bei uns: 
+
+- Betriebssystem: Ubuntu Linux mit eigenem Buildsystem
+- Entwicklungsumgebung: Jupyter Notebook/JupyterLab, VS Code
+- Technologien/Frameworks: Python, PyTorch, NumPy, OpenCV, C++, OpenMP
+- Versionierung: Git/GitLab 
+
+Was wir dir bieten: 
+
+- Interdisziplinäre Zusammenarbeit: Du bringst dich in bereichsübergreifende Projekte ein und arbeitest eng mit Kolleg*innen aus Entwicklung, Produkt, Marketing und weiteren Teams zusammen.
+- Innovationsfreude und Gestaltungsfreiheit: Bei uns hast du die Möglichkeit, neue Ideen einzubringen und moderne Technologien aktiv mitzugestalten.
+- Flexibel und lebensnah: Ob im Büro, remote oder hybrid – wir achten darauf, dass dein Job im Einklang mit deinem Alltag, deinen Bedürfnissen und deiner Lebensphase steht.

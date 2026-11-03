@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-03_wetteronline_machine-learning-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793714525,
+ "company": "WetterOnline GmbH",
+ "role": "Machine Learning Engineer (w/m/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build radar-nowcasting",
+ "notes": "Found by job-scout. English docs (German posting, no German level required). Bornheim (CV: Bonn). Gaps: OpenCV, C++/OpenMP/HPC, real CV experience, radar/weather domain. ATS ~55%. No reviewer pass.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bonn",
+ "ats": 55,
+ "apply_url": "https://www.linkedin.com/jobs/view/4382099411",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4382099411",
+ "contact": "",
+ "verdict": "Strong Python/PyTorch/time-series ML, weak on the domain-specific stack (computer vision on radar/satellite, OpenCV, C++/HPC, physics).",
+ "gaps": [
+  "Computer vision on weather imagery, OpenCV, C++, OpenMP: stated openly in the co",
+  "Linux and Jupyter are not in the profile, so they are not on the CV.",
+  "German: not required (posting German, no level stated). English documents. B1 no"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_WetterOnline.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_WetterOnline.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-radar-nowcasting.md"
+ ],
+ "build": "radar-nowcasting",
+ "found_by_scout": true
+}

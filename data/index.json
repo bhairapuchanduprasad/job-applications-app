@@ -1,5 +1,5 @@
 {
- "generated": 1793693399.5684512,
+ "generated": 1793714527.913923,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2128,6 +2128,22 @@
    "build": "self-hosted-llm-inference",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_wetteronline_machine-learning-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793714525,
+   "company": "WetterOnline GmbH",
+   "role": "Machine Learning Engineer (w/m/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Bonn",
+   "ats": 55,
+   "apply_url": "https://www.linkedin.com/jobs/view/4382099411",
+   "apply_url_kind": "posting",
+   "build": "radar-nowcasting",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2330,6 +2346,9 @@
   ],
   "self-hosted-llm-inference": [
    "2026-11-03_8com_cyber-security-automation-ai-engineer"
+  ],
+  "radar-nowcasting": [
+   "2026-11-03_wetteronline_machine-learning-engineer"
   ]
  }
 }
