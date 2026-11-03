@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-03_next-ventures_forward-deployed-ai-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793714723,
+ "company": "Next Ventures",
+ "role": "Forward Deployed AI Engineer",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build customer-ai-pilot-kit",
+ "notes": "Found by job-scout. English docs. Munich. Likely recruiter posting. Gaps: fluent German required (B1), external consulting required, PE/LLMOps. ATS 70%. No reviewer pass.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 70,
+ "apply_url": "https://www.linkedin.com/jobs/view/4474833254",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4474833254",
+ "contact": "",
+ "verdict": "Strong technical match (LLM/RAG/agents/eval/Python/cloud); weak on two stated hard requirements: external consulting experience and fluent German.",
+ "gaps": [
+  "External consulting: said openly in the cover letter; Covestro stakeholder work ",
+  "German: B1 stated honestly; top risk, likely screened out.",
+  "LLMOps/observability, PE experience: left out."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Next-Ventures.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Next-Ventures.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "customer-ai-pilot-kit",
+ "found_by_scout": true
+}
