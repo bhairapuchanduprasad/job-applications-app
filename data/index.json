@@ -1,5 +1,5 @@
 {
- "generated": 1793722479.167166,
+ "generated": 1793722634.8414102,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2384,6 +2384,22 @@
    "build": "client-self-serve-portal",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_bank11_devops-ki-ops-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793722632,
+   "company": "Bank11",
+   "role": "DevOps / KI-Ops Engineer",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Neuss",
+   "ats": 83,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486895104",
+   "apply_url_kind": "posting",
+   "build": "self-hosted-llm-platform",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2611,6 +2627,9 @@
   ],
   "client-self-serve-portal": [
    "2026-11-03_almedia_product-engineer-client-platform"
+  ],
+  "self-hosted-llm-platform": [
+   "2026-11-03_bank11_devops-ki-ops-engineer"
   ]
  }
 }

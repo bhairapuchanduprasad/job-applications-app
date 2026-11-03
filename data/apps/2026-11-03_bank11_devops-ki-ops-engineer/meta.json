@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-03_bank11_devops-ki-ops-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793722632,
+ "company": "Bank11",
+ "role": "DevOps / KI-Ops Engineer",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build self-hosted-llm-platform",
+ "notes": "Found by job-scout. German docs (project language German). Gaps: German B1 vs sehr gut, on-prem model hosting/GPU, DORA, IT-Security. Neuss. No reviewer pass, no web research.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Neuss",
+ "ats": 83,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486895104",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486895104",
+ "contact": "",
+ "verdict": "Good match on MCP, containers/Kubernetes, GitLab CI/CD and AI-assisted work; weak on classic ops, on-prem GPU/model hosting, DORA and German level.",
+ "gaps": [
+  "German: B1 vs \"sehr gut\", project language is German. Documents written in Germa",
+  "No production ops, on-prem model hosting, GPU planning or DORA experience; state",
+  "Role is infrastructure/operations rather than AI engineering; a Fachinformatiker"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Bank11.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Bank11.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-self-hosted-llm-platform.md"
+ ],
+ "build": "self-hosted-llm-platform",
+ "found_by_scout": true
+}
