@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-04_datagroup_junior-solutions-consultant-ai-automatisierung",
+ "date": "2026-11-04",
+ "prepared_at": 1793750328,
+ "company": "DATAGROUP",
+ "role": "Junior Solutions Consultant AI und Automatisierung (all genders)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build it-ticket-assistant-bedrock",
+ "notes": "Found by job-scout; German docs; Hamburg; sehr gutes Deutsch required (B1 = top gap); consulting/ITSM heavy, gaps: ticket data, ITIL, workshops; reused planned project; no reviewer pass, no web research",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485026401",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485026401",
+ "contact": "",
+ "verdict": "Junior consulting role with a strong AI/automation theme; my Covestro consulting internship and agent work fit, but the role is process/ITSM consulting rather than engineering, and German is \"sehr gut\" (I have B1).",
+ "gaps": [
+  "German B1 vs \"sehr gute\": top gap, stated honestly in the letter's logistics lin",
+  "ITSM / ticket analysis / ITIL: not claimed. Letter says so openly; Projects sect",
+  "Workshops/presentations/tender work (Ausschreibungen): no evidence, left out."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_DATAGROUP.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_DATAGROUP.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-it-ticket-assistant-bedrock.md"
+ ],
+ "build": "it-ticket-assistant-bedrock",
+ "found_by_scout": true
+}

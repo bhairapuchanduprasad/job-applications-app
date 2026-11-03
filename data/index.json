@@ -1,5 +1,5 @@
 {
- "generated": 1793738105.6447942,
+ "generated": 1793750330.52031,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2576,6 +2576,22 @@
    "build": "plant-maintenance-agent",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_datagroup_junior-solutions-consultant-ai-automatisierung",
+   "date": "2026-11-04",
+   "prepared_at": 1793750328,
+   "company": "DATAGROUP",
+   "role": "Junior Solutions Consultant AI und Automatisierung (all genders)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485026401",
+   "apply_url_kind": "posting",
+   "build": "it-ticket-assistant-bedrock",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2777,7 +2793,8 @@
    "2026-11-03_juni_data-ai-engineer"
   ],
   "it-ticket-assistant-bedrock": [
-   "2026-11-03_deutsche-rentenversicherung-bund_anwendungsentwickler-genai"
+   "2026-11-03_deutsche-rentenversicherung-bund_anwendungsentwickler-genai",
+   "2026-11-04_datagroup_junior-solutions-consultant-ai-automatisierung"
   ],
   "customer-ai-pilot-kit": [
    "2026-11-03_openai_technical-success"
