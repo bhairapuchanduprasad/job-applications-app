@@ -1,5 +1,5 @@
 {
- "generated": 1793721812.19424,
+ "generated": 1793722298.79773,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2352,6 +2352,22 @@
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_rewe_creative-ai-developer",
+   "date": "2026-11-03",
+   "prepared_at": 1793722297,
+   "company": "REWE",
+   "role": "Creative AI Developer / Creative Technologist",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Cologne",
+   "ats": 67,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486857742",
+   "apply_url_kind": "posting",
+   "build": "creative-asset-automation-pipeline",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2573,6 +2589,9 @@
   "knowledge-assistant-internal-docs": [
    "2026-11-03_sysperto_ki-implementierungs-consultant",
    "2026-11-03_trovarit_web-ai-developer"
+  ],
+  "creative-asset-automation-pipeline": [
+   "2026-11-03_rewe_creative-ai-developer"
   ]
  }
 }

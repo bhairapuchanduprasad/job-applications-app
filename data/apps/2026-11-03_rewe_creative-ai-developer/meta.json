@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_rewe_creative-ai-developer",
+ "date": "2026-11-03",
+ "prepared_at": 1793722297,
+ "company": "REWE",
+ "role": "Creative AI Developer / Creative Technologist",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build creative-asset-automation-pipeline",
+ "notes": "Found by job-scout. English docs. 12-month fixed term. Gaps: image/video GenAI, creative production, JavaScript. Dropped 3 certs and Meme project for page count. No reviewer pass.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Cologne",
+ "ats": 67,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486857742",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486857742",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_REWE.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_REWE.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-creative-asset-automation-pipeline.md"
+ ],
+ "build": "creative-asset-automation-pipeline",
+ "found_by_scout": true
+}
