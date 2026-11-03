@@ -1,5 +1,5 @@
 {
- "generated": 1793736011.896173,
+ "generated": 1793736447.581763,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2432,6 +2432,38 @@
    "build": "plant-maintenance-agent",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_segmantix_founding-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793736218,
+   "company": "Segmantix",
+   "role": "Founding Engineer",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 67,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484671926",
+   "apply_url_kind": "posting",
+   "build": "point-cloud-pipeline",
+   "applied_date": null,
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_terratech-holding_software-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793736445,
+   "company": "TerraTech Holding GmbH",
+   "role": "Software Engineer",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Frankfurt am Main",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484675707",
+   "apply_url_kind": "posting",
+   "build": "client-self-serve-portal",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2656,6 +2688,12 @@
   ],
   "self-hosted-llm-platform": [
    "2026-11-03_bank11_devops-ki-ops-engineer"
+  ],
+  "point-cloud-pipeline": [
+   "2026-11-04_segmantix_founding-engineer"
+  ],
+  "client-self-serve-portal": [
+   "2026-11-04_terratech-holding_software-engineer"
   ]
  }
 }

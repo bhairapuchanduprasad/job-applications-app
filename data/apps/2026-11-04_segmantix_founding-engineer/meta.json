@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-04_segmantix_founding-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793736218,
+ "company": "Segmantix",
+ "role": "Founding Engineer",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build point-cloud-pipeline + agent-eval-harness",
+ "notes": "Found by job-scout. English docs. Berlin on site. Apply by email to info@scans-ai.com. Pay is a scholarship (€2500/month until Sep 2027). Gaps: 3D/LIDAR/point clouds, computer vision. Dropped certs. No reviewer pass, no web research.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Berlin",
+ "ats": 67,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484671926",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484671926",
+ "contact": "",
+ "verdict": "Strong match on agentic systems, evals and guardrails; no 3D/point-cloud experience, on-site Berlin, stealth startup paying a scholarship (€2,500/month until Sept 2027) before employment.",
+ "gaps": [
+  "3D point clouds / LIDAR / geometry: said openly in the letter, Projects section ",
+  "Computer vision: only classroom CNN work."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Segmantix.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Segmantix.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md",
+  "project-brief-point-cloud-pipeline.md"
+ ],
+ "build": "point-cloud-pipeline",
+ "found_by_scout": true
+}

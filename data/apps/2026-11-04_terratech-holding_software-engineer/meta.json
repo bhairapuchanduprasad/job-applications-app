@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-04_terratech-holding_software-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793736445,
+ "company": "TerraTech Holding GmbH",
+ "role": "Software Engineer",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build client-self-serve-portal",
+ "notes": "Found by job-scout. English docs. Frankfurt hybrid. Gaps: TypeScript/JavaScript, Alembic, OAuth/RLS, Grafana. Wants mid/senior. Dropped cert, publication, 2nd project to hold 2 pages. No reviewer pass.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Frankfurt am Main",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484675707",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484675707",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_TerraTech.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_TerraTech.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "client-self-serve-portal",
+ "found_by_scout": true
+}
