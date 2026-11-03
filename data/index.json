@@ -1,5 +1,5 @@
 {
- "generated": 1793664306.933654,
+ "generated": 1793679036.58762,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2016,6 +2016,54 @@
    "build": "it-ticket-assistant-bedrock",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_openai_technical-success",
+   "date": "2026-11-03",
+   "prepared_at": 1793678386,
+   "company": "OpenAI",
+   "role": "Technical Success (talent pool)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485784783",
+   "apply_url_kind": "posting",
+   "build": "customer-ai-pilot-kit",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_mamgo_ai-support-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793678713,
+   "company": "mamgo (YER Deutschland; client undisclosed)",
+   "role": "AI Support Engineer (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "München",
+   "ats": 72,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486483430",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_focused-energy_software-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793678825,
+   "company": "Focused Energy",
+   "role": "Software Engineer (f/m/d)",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 96,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486440900",
+   "apply_url_kind": "posting",
+   "build": "lab-requests-portal",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2205,6 +2253,12 @@
   ],
   "it-ticket-assistant-bedrock": [
    "2026-11-03_deutsche-rentenversicherung-bund_anwendungsentwickler-genai"
+  ],
+  "customer-ai-pilot-kit": [
+   "2026-11-03_openai_technical-success"
+  ],
+  "lab-requests-portal": [
+   "2026-11-03_focused-energy_software-engineer"
   ]
  }
 }

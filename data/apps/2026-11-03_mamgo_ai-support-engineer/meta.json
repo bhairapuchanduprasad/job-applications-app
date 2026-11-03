@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_mamgo_ai-support-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793678713,
+ "company": "mamgo (YER Deutschland; client undisclosed)",
+ "role": "AI Support Engineer (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "ask client name + contract type; build self-hosted-llm-inference",
+ "notes": "Found by job-scout. German docs. Recruiter post, client undisclosed, likely ANÜ. Needs sehr gute Deutschkenntnisse (B1 = top gap). Gaps: OpenShift, vLLM, Linux admin, Copilot/Cursor admin. Salary + start asked (in letter). ATS 72%.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "München",
+ "ats": 72,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486483430",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486483430",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_mamgo.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_mamgo.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-self-hosted-llm-inference.md"
+ ],
+ "build": "",
+ "found_by_scout": true
+}

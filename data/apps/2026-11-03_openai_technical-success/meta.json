@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_openai_technical-success",
+ "date": "2026-11-03",
+ "prepared_at": 1793678386,
+ "company": "OpenAI",
+ "role": "Technical Success (talent pool)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build customer-ai-pilot-kit",
+ "notes": "Found by job-scout. English. Munich. General talent pool (not a vacancy), low response likelihood. Gaps: no pre-/post-sales, workshops/enablement. ATS 76%.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485784783",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485784783",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_OpenAI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_OpenAI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-customer-ai-pilot-kit.md"
+ ],
+ "build": "customer-ai-pilot-kit",
+ "found_by_scout": true
+}

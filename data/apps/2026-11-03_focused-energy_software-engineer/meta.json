@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_focused-energy_software-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793678825,
+ "company": "Focused Energy",
+ "role": "Software Engineer (f/m/d)",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build lab-requests-portal",
+ "notes": "Found by job-scout. English. Berlin. Forward-deployed internal-tools SWE (not AI-specific). Gaps: TypeScript, auth/RBAC/SSO, observability. ATS 96% (with planned project).",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 96,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486440900",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486440900",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Focused_Energy.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Focused_Energy.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-lab-requests-portal.md"
+ ],
+ "build": "lab-requests-portal",
+ "found_by_scout": true
+}
