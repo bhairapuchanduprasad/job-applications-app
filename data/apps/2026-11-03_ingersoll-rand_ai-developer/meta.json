@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-03_ingersoll-rand_ai-developer",
+ "date": "2026-11-03",
+ "prepared_at": 1793721791,
+ "company": "Ingersoll Rand",
+ "role": "AI Developer",
+ "fit": 82,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-mcp",
+ "notes": "Found by job-scout. English docs. Brno/remote Czechia (CV says Germany): confirm remote from Germany allowed. Gaps: Snowflake, GCP, Salesforce. No reviewer pass, no web research.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/view/4468167314",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4468167314",
+ "contact": "",
+ "verdict": "Builder role for LLM agents, RAG and integrations; very close to Kniit and Covestro work. Open to early-career to mid-level.",
+ "gaps": [
+  "Snowflake, GCP, Salesforce, SharePoint, Gemini: leave out; mention adjacent AWS/"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Ingersoll-Rand.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Ingersoll-Rand.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-enterprise-knowledge-agent.md"
+ ],
+ "build": "knowledge-assistant-mcp",
+ "found_by_scout": true
+}

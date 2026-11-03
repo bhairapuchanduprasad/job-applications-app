@@ -1,5 +1,5 @@
 {
- "generated": 1793721578.149633,
+ "generated": 1793721812.19424,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2336,6 +2336,22 @@
    "build": "",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_ingersoll-rand_ai-developer",
+   "date": "2026-11-03",
+   "prepared_at": 1793721791,
+   "company": "Ingersoll Rand",
+   "role": "AI Developer",
+   "fit": 82,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4468167314",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2469,7 +2485,8 @@
    "2026-11-02_thryve_generative-ai-engineer",
    "2026-11-02_bkk-firmus_ki-entwickler",
    "2026-11-03_jenoptik_data-scientist-ki",
-   "2026-11-03_enrichment-technology_software-engineer-genai-ml"
+   "2026-11-03_enrichment-technology_software-engineer-genai-ml",
+   "2026-11-03_ingersoll-rand_ai-developer"
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms",
