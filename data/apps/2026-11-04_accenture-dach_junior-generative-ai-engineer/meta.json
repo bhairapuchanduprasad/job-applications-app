@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-04_accenture-dach_junior-generative-ai-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793737342,
+ "company": "Accenture DACH (mindcurv)",
+ "role": "(Junior) Generative AI Engineer",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-permissions",
+ "notes": "Found by job-scout. German docs. Hamburg. Gaps: German B1 vs sicheres Auftreten, Databricks/Snowflake. Posting asks for grades/degree certificate: attach manually. Similar to 2026-10-14 Accenture application but different team/JD. No reviewer pass, no web research.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Hamburg",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486078295",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486078295",
+ "contact": "",
+ "verdict": "Strong match on LLM/RAG/agents, Python/FastAPI, Azure, evaluation, Claude Code. Main risk: German \"Sicheres Auftreten auf Deutsch\" vs B1. Entry-level, so seniority is fine.",
+ "gaps": [
+  "German: B1, no certificate; posting wants confident communication in German. Top",
+  "Databricks / Snowflake: not used, named openly in the letter.",
+  "Permissions-aware retrieval, observability: only via the planned project (no cla",
+  "Posting asks for grades / degree certificate with the application: attach Master"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Accenture-DACH.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Accenture-DACH.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-knowledge-assistant-citations-permissions.md"
+ ],
+ "build": "knowledge-assistant-permissions",
+ "found_by_scout": true
+}

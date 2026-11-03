@@ -1,5 +1,5 @@
 {
- "generated": 1793737172.712975,
+ "generated": 1793737344.415199,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2512,6 +2512,22 @@
    "build": "production-yield-anomaly",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_accenture-dach_junior-generative-ai-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793737342,
+   "company": "Accenture DACH (mindcurv)",
+   "role": "(Junior) Generative AI Engineer",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486078295",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-permissions",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2749,6 +2765,9 @@
   ],
   "production-yield-anomaly": [
    "2026-11-04_randstad-deutschland_data-engineer"
+  ],
+  "knowledge-assistant-permissions": [
+   "2026-11-04_accenture-dach_junior-generative-ai-engineer"
   ]
  }
 }
