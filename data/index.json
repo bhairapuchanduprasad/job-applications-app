@@ -1,5 +1,5 @@
 {
- "generated": 1793716289.38914,
+ "generated": 1793716493.677087,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2272,6 +2272,22 @@
    "build": "ops-mcp-server",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_elunic_forward-deployed-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793716491,
+   "company": "elunic AG",
+   "role": "Forward Deployed Engineer (m/w/d)",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486843513",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2366,7 +2382,8 @@
    "2026-10-29_getpress_backend-engineer-agentic-ai",
    "2026-10-29_amadeus-fire_ai-solutions-engineer",
    "2026-11-01_adesso_ai-automation-developer-sap",
-   "2026-11-03_coltech_agentic-ai-coding-engineer"
+   "2026-11-03_coltech_agentic-ai-coding-engineer",
+   "2026-11-03_elunic_forward-deployed-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",

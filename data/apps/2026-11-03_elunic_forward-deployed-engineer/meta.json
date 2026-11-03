@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-03_elunic_forward-deployed-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793716491,
+ "company": "elunic AG",
+ "role": "Forward Deployed Engineer (m/w/d)",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "Found by job-scout. English docs. Munich. No cover letter needed per posting; link to something built preferred. Gaps: German B1 for customers, team steering. ATS 73%. No reviewer pass, no web research. Second elunic role.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486843513",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486843513",
+ "contact": "",
+ "verdict": "Strong match on the core: build first versions fast with AI coding agents (Claude Code, custom skills, agentic workflows at Kniit), agentic AI with LangGraph/MCP, and the judgement of when not to use an LLM ($200k to near-zero). Weaker on live customer-facing work, steering tech teams and ROI cases.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_elunic.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_elunic.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "order-inbox-agent",
+ "found_by_scout": true
+}
