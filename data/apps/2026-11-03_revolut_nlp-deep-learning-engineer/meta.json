@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-03_revolut_nlp-deep-learning-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793721561,
+ "company": "Revolut",
+ "role": "Data Scientist (NLP Deep Learning Engineer)",
+ "fit": 74,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout. English docs. Listed in Spain (Remote EU search): confirm remote from Germany allowed. Gaps: Java/Scala/C++, stats depth. Dropped 2 certs for page count. No reviewer pass, no web research. Second Revolut role.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 56,
+ "apply_url": "https://www.linkedin.com/jobs/view/4372583967",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4372583967",
+ "contact": "",
+ "verdict": "Strong match on LLM/NLP, Python, RAG and agent work; gaps are formal stats emphasis, extra languages and big-tech background.",
+ "gaps": [
+  "No Java/Scala/C++; leave out, stay with Python.",
+  "Chatbot/copilot built from scratch for end users: closest is Covestro agentic as",
+  "Statistics: not claimed beyond what the profile supports."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Revolut.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Revolut.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

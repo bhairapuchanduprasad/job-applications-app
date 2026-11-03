@@ -1,5 +1,5 @@
 {
- "generated": 1793716933.2007139,
+ "generated": 1793721563.596405,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2318,6 +2318,22 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486851077",
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_revolut_nlp-deep-learning-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793721561,
+   "company": "Revolut",
+   "role": "Data Scientist (NLP Deep Learning Engineer)",
+   "fit": 74,
+   "status": "ready",
+   "city": "Germany",
+   "ats": 56,
+   "apply_url": "https://www.linkedin.com/jobs/view/4372583967",
+   "apply_url_kind": "posting",
+   "build": "",
    "applied_date": "",
    "found_by_scout": true
   }
