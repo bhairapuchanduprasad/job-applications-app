@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-03_8com_cyber-security-automation-ai-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793693241,
+ "company": "8COM Cyber Security",
+ "role": "Cyber Security Automation & AI Engineer (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build self-hosted-llm-inference",
+ "notes": "Found by job-scout. German docs. Neustadt a.d. Weinstraße. Safe German asked (B1 gap). Gaps: Cortex XSOAR/SOAR, SOC background, vLLM/llama.cpp in prod, n8n. ATS 77%. Salary 55k. No reviewer pass.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Neustadt an der Weinstraße",
+ "ats": 77,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486827450",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486827450",
+ "contact": "",
+ "verdict": "Strong match on LLM agents, MCP and Python; gaps in the local-inference toolchain and all the SOAR/security side.",
+ "gaps": [
+  "Local inference stack and XSOAR/SOC: stated openly in the letter, framed as quic",
+  "German: posting is German and asks for safe German; B1 flagged openly in the let"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_8com.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_8com.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-self-hosted-llm-inference.md"
+ ],
+ "build": "self-hosted-llm-inference",
+ "found_by_scout": true
+}

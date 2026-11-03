@@ -1,5 +1,5 @@
 {
- "generated": 1793693119.919971,
+ "generated": 1793693243.3458712,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2112,6 +2112,22 @@
    "build": "ai-output-quality-gates",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_8com_cyber-security-automation-ai-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793693241,
+   "company": "8COM Cyber Security",
+   "role": "Cyber Security Automation & AI Engineer (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Neustadt an der Weinstraße",
+   "ats": 77,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486827450",
+   "apply_url_kind": "posting",
+   "build": "self-hosted-llm-inference",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2311,6 +2327,9 @@
   ],
   "ai-output-quality-gates": [
    "2026-11-03_reprisk_software-engineer-quality-engineering"
+  ],
+  "self-hosted-llm-inference": [
+   "2026-11-03_8com_cyber-security-automation-ai-engineer"
   ]
  }
 }
