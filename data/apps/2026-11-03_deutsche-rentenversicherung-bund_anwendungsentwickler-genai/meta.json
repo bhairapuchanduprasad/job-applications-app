@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_deutsche-rentenversicherung-bund_anwendungsentwickler-genai",
+ "date": "2026-11-03",
+ "prepared_at": 1793664305,
+ "company": "Deutsche Rentenversicherung Bund",
+ "role": "Anwendungsentwickler*in GenAI",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build it-ticket-assistant-bedrock",
+ "notes": "Found by job-scout. German docs. Deadline 30.11.2026, start 01.01.2027, E11 tariff (check vs salary/Blue Card). Needs verhandlungssicheres Deutsch (B1 = top gap). ATS 80%.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484604438",
+ "apply_url_kind": "posting",
+ "apply_hint": "Formal: Bewerbungsfrist 30.11.2026; Ausschreibungsnummer 11-147-2026 (for the online form only); Eintritt 01.01.2027; E11 TV EntgO-DRV; Teilzeit möglich. Expect to upload Zeugnisse (MSc, Arbeitszeugnisse) as \"Nachweis\" of the 3-year requirements.",
+ "source": "https://www.linkedin.com/jobs/view/4484604438",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Deutsche_Rentenversicherung_Bund.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Deutsche_Rentenversicherung_Bund.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-it-ticket-assistant-bedrock.md"
+ ],
+ "build": "it-ticket-assistant-bedrock",
+ "found_by_scout": true
+}

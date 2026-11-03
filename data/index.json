@@ -1,5 +1,5 @@
 {
- "generated": 1793663994.21506,
+ "generated": 1793664306.933654,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2000,6 +2000,22 @@
    "build": "ecosystem-data-hub",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_deutsche-rentenversicherung-bund_anwendungsentwickler-genai",
+   "date": "2026-11-03",
+   "prepared_at": 1793664305,
+   "company": "Deutsche Rentenversicherung Bund",
+   "role": "Anwendungsentwickler*in GenAI",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484604438",
+   "apply_url_kind": "posting",
+   "build": "it-ticket-assistant-bedrock",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2186,6 +2202,9 @@
   ],
   "ecosystem-data-hub": [
    "2026-11-03_juni_data-ai-engineer"
+  ],
+  "it-ticket-assistant-bedrock": [
+   "2026-11-03_deutsche-rentenversicherung-bund_anwendungsentwickler-genai"
   ]
  }
 }
