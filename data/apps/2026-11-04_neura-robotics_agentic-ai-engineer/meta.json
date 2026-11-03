@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-04_neura-robotics_agentic-ai-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793735865,
+ "company": "NEURA Robotics",
+ "role": "Agentic AI Engineer (Mensch)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness + voice-receptionist-agent",
+ "notes": "Found by job-scout. English docs. Riederich shown as Stuttgart. Gaps: real-time voice stack, robotics/edge, VLMs. Dropped LLM cert.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Stuttgart",
+ "ats": 90,
+ "apply_url": "https://www.linkedin.com/jobs/view/4422958388",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4422958388",
+ "contact": "",
+ "verdict": "Strong match on agents, LangGraph, MCP, Python backend, Docker/Kubernetes, evals. Gaps: real-time voice stack, robotics/edge, long-running production agents.",
+ "gaps": [
+  "Voice stack and edge/robotics: stated openly in the letter as new; planned Voice",
+  "Production long-running agents: Kniit is real but a pre-funding startup; no upti",
+  "VLMs, observability: leave out."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_NEURA-Robotics.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_NEURA-Robotics.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-harness.md",
+  "project-brief-voice-receptionist-agent.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": true
+}

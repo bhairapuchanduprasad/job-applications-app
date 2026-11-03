@@ -5,11 +5,11 @@
  "company": "Ingersoll Rand",
  "role": "AI Developer",
  "fit": 82,
- "status": "build-first",
- "next_step": "build knowledge-assistant-mcp",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Found by job-scout. English docs. Brno/remote Czechia (CV says Germany): confirm remote from Germany allowed. Gaps: Snowflake, GCP, Salesforce. No reviewer pass, no web research.",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-03",
+ "applied_via": "Company careers site",
  "city": "Germany",
  "ats": 80,
  "apply_url": "https://www.linkedin.com/jobs/view/4468167314",
@@ -45,6 +45,6 @@
  "briefs": [
   "project-brief-enterprise-knowledge-agent.md"
  ],
- "build": "knowledge-assistant-mcp",
+ "build": "",
  "found_by_scout": true
 }

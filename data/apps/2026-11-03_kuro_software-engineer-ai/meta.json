@@ -5,11 +5,11 @@
  "company": "Kuro",
  "role": "Software Engineer - AI",
  "fit": 72,
- "status": "build-first",
- "next_step": "build tender-doc-extraction",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Found by job-scout. English docs. Berlin onsite daily (Factory Berlin Mitte). Gaps: TypeScript/Fastify/Prisma, construction/BIM. ATS 74%. No reviewer pass, no web research.",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-03",
+ "applied_via": "Company careers site",
  "city": "Berlin",
  "ats": 74,
  "apply_url": "https://www.linkedin.com/jobs/view/4484662589",
@@ -47,6 +47,6 @@
  "briefs": [
   "project-brief-tender-doc-extraction.md"
  ],
- "build": "tender-doc-extraction",
+ "build": "",
  "found_by_scout": true
 }

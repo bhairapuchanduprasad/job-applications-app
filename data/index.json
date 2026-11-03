@@ -1,5 +1,5 @@
 {
- "generated": 1793722634.8414102,
+ "generated": 1793735887.682732,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2152,13 +2152,13 @@
    "company": "Next Ventures",
    "role": "Forward Deployed AI Engineer",
    "fit": 55,
-   "status": "build-first",
+   "status": "applied",
    "city": "Munich",
    "ats": 70,
    "apply_url": "https://www.linkedin.com/jobs/view/4474833254",
    "apply_url_kind": "posting",
-   "build": "customer-ai-pilot-kit",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-03",
    "found_by_scout": true
   },
   {
@@ -2200,13 +2200,13 @@
    "company": "Kuro",
    "role": "Software Engineer - AI",
    "fit": 72,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 74,
    "apply_url": "https://www.linkedin.com/jobs/view/4484662589",
    "apply_url_kind": "posting",
-   "build": "tender-doc-extraction",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-03",
    "found_by_scout": true
   },
   {
@@ -2328,13 +2328,13 @@
    "company": "Revolut",
    "role": "Data Scientist (NLP Deep Learning Engineer)",
    "fit": 74,
-   "status": "ready",
+   "status": "applied",
    "city": "Germany",
    "ats": 62,
    "apply_url": "https://www.linkedin.com/jobs/view/4372583967",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-03",
    "found_by_scout": true
   },
   {
@@ -2344,13 +2344,13 @@
    "company": "Ingersoll Rand",
    "role": "AI Developer",
    "fit": 82,
-   "status": "build-first",
+   "status": "applied",
    "city": "Germany",
    "ats": 80,
    "apply_url": "https://www.linkedin.com/jobs/view/4468167314",
    "apply_url_kind": "posting",
-   "build": "knowledge-assistant-mcp",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-03",
    "found_by_scout": true
   },
   {
@@ -2376,13 +2376,13 @@
    "company": "Almedia",
    "role": "Product Engineer (Client Platform)",
    "fit": 62,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 71,
    "apply_url": "https://www.linkedin.com/jobs/view/4486873193",
    "apply_url_kind": "posting",
-   "build": "client-self-serve-portal",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-03",
    "found_by_scout": true
   },
   {
@@ -2399,6 +2399,22 @@
    "apply_url_kind": "posting",
    "build": "self-hosted-llm-platform",
    "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_neura-robotics_agentic-ai-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793735865,
+   "company": "NEURA Robotics",
+   "role": "Agentic AI Engineer (Mensch)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 90,
+   "apply_url": "https://www.linkedin.com/jobs/view/4422958388",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": null,
    "found_by_scout": true
   }
  ],
@@ -2453,7 +2469,8 @@
    "2026-10-28_airbus-defence-and-space_software-engineer-ivv-agentic-ai",
    "2026-10-29_kuehne-nagel_agentic-ai-engineer",
    "2026-11-02_kausable_agentic-ai-harness-engineer",
-   "2026-11-03_vicoland_ai-platform-innovation-engineer"
+   "2026-11-03_vicoland_ai-platform-innovation-engineer",
+   "2026-11-04_neura-robotics_agentic-ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -2533,8 +2550,7 @@
    "2026-11-02_thryve_generative-ai-engineer",
    "2026-11-02_bkk-firmus_ki-entwickler",
    "2026-11-03_jenoptik_data-scientist-ki",
-   "2026-11-03_enrichment-technology_software-engineer-genai-ml",
-   "2026-11-03_ingersoll-rand_ai-developer"
+   "2026-11-03_enrichment-technology_software-engineer-genai-ml"
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms",
@@ -2600,8 +2616,7 @@
    "2026-11-03_deutsche-rentenversicherung-bund_anwendungsentwickler-genai"
   ],
   "customer-ai-pilot-kit": [
-   "2026-11-03_openai_technical-success",
-   "2026-11-03_next-ventures_forward-deployed-ai-engineer"
+   "2026-11-03_openai_technical-success"
   ],
   "lab-requests-portal": [
    "2026-11-03_focused-energy_software-engineer"
@@ -2615,18 +2630,12 @@
   "radar-nowcasting": [
    "2026-11-03_wetteronline_machine-learning-engineer"
   ],
-  "tender-doc-extraction": [
-   "2026-11-03_kuro_software-engineer-ai"
-  ],
   "knowledge-assistant-internal-docs": [
    "2026-11-03_sysperto_ki-implementierungs-consultant",
    "2026-11-03_trovarit_web-ai-developer"
   ],
   "creative-asset-automation-pipeline": [
    "2026-11-03_rewe_creative-ai-developer"
-  ],
-  "client-self-serve-portal": [
-   "2026-11-03_almedia_product-engineer-client-platform"
   ],
   "self-hosted-llm-platform": [
    "2026-11-03_bank11_devops-ki-ops-engineer"

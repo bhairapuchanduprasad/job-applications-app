@@ -5,11 +5,11 @@
  "company": "Almedia",
  "role": "Product Engineer (Client Platform)",
  "fit": 62,
- "status": "build-first",
- "next_step": "build client-self-serve-portal",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Found by job-scout. English docs. Gaps: TypeScript/NestJS/NextJS, dbt/BigQuery/GCP. Dropped certs, merged Minor, Languages in skills for page count. No reviewer pass, no new research. Second Almedia role.",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-03",
+ "applied_via": "Company careers site",
  "city": "Berlin",
  "ats": 71,
  "apply_url": "https://www.linkedin.com/jobs/view/4486873193",
@@ -43,6 +43,6 @@
  "briefs": [
   "project-brief-client-self-serve-portal.md"
  ],
- "build": "client-self-serve-portal",
+ "build": "",
  "found_by_scout": true
 }

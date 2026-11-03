@@ -5,11 +5,11 @@
  "company": "Next Ventures",
  "role": "Forward Deployed AI Engineer",
  "fit": 55,
- "status": "build-first",
- "next_step": "build customer-ai-pilot-kit",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Found by job-scout. English docs. Munich. Likely recruiter posting. Gaps: fluent German required (B1), external consulting required, PE/LLMOps. ATS 70%. No reviewer pass.",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-03",
+ "applied_via": "Company careers site",
  "city": "Munich",
  "ats": 70,
  "apply_url": "https://www.linkedin.com/jobs/view/4474833254",
@@ -45,6 +45,6 @@
   }
  ],
  "briefs": [],
- "build": "customer-ai-pilot-kit",
+ "build": "",
  "found_by_scout": true
 }
