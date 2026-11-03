@@ -1,5 +1,7 @@
 # Project brief: knowledge-assistant-mcp
 
+> Also on the 2026-11-03 ETC (Enrichment Technology) Software Engineer GenAI & ML CV: bullet stresses local deployment/offline use on an open-source LLM (Ollama), logging/monitoring, tests, docs. Reused from the Finanz Informatik brief.
+
 **Status:** planned (on the Finanz Informatik CV; build before submitting)
 **Repo:** github.com/bhairapuchanduprasad/knowledge-assistant-mcp (create it; do NOT link it on the CV)
 **Time box:** 1–2 days with Claude Code
