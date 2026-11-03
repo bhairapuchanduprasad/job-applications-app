@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-03_sysperto_ki-implementierungs-consultant",
+ "date": "2026-11-03",
+ "prepared_at": 1793716085,
+ "company": "sysperto GmbH",
+ "role": "KI Implementierungs-Consultant",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-internal-docs",
+ "notes": "Found by job-scout. German docs. Crailsheim (CV shows Stuttgart). Gaps: M365 Copilot/Copilot Studio/Power Platform, workshops, German B1 vs 'gute Deutschkenntnisse'. ATS 72%. Apply via company website form. No reviewer pass, no web research.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 72,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486834829",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the form on sysperto's website (per posting). Docs in German; German B1 is the top gap.",
+ "source": "https://www.linkedin.com/jobs/view/4486834829",
+ "contact": "",
+ "verdict": "Strong on hands-on AI, agents, skills and Claude Code; weaker on Microsoft 365 / Copilot Studio, customer-facing consulting at scale and workshops.",
+ "gaps": [
+  "German: \"gute Deutschkenntnisse\" with B1 is a risk. CV and letter are in German ",
+  "M365 Copilot / Copilot Studio / Power Platform: not on the profile, left out. Fr",
+  "Workshops/training: not claimed.",
+  "Consulting-style work is internal (Covestro), stated as such."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_Lebenslauf_sysperto.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Anschreiben_sysperto.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-knowledge-assistant.md"
+ ],
+ "build": "knowledge-assistant-internal-docs",
+ "found_by_scout": true
+}

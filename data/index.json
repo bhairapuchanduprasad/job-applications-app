@@ -1,5 +1,5 @@
 {
- "generated": 1793715890.732359,
+ "generated": 1793716087.235619,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2240,6 +2240,22 @@
    "build": "agent-eval-harness",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_sysperto_ki-implementierungs-consultant",
+   "date": "2026-11-03",
+   "prepared_at": 1793716085,
+   "company": "sysperto GmbH",
+   "role": "KI Implementierungs-Consultant",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 72,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486834829",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-internal-docs",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2453,6 +2469,9 @@
   ],
   "tender-doc-extraction": [
    "2026-11-03_kuro_software-engineer-ai"
+  ],
+  "knowledge-assistant-internal-docs": [
+   "2026-11-03_sysperto_ki-implementierungs-consultant"
   ]
  }
 }
