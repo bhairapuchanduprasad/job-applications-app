@@ -1,5 +1,5 @@
 {
- "generated": 1793736907.569356,
+ "generated": 1793737172.712975,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2496,6 +2496,22 @@
    "build": "azure-ai-rag-starter-kit",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_randstad-deutschland_data-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793737141,
+   "company": "Randstad Deutschland",
+   "role": "Data Engineer (m/w/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Mannheim",
+   "ats": 47,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486073202",
+   "apply_url_kind": "posting",
+   "build": "production-yield-anomaly",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2730,6 +2746,9 @@
   ],
   "invoice-capture-agent": [
    "2026-11-04_truvio_ai-engineer"
+  ],
+  "production-yield-anomaly": [
+   "2026-11-04_randstad-deutschland_data-engineer"
   ]
  }
 }

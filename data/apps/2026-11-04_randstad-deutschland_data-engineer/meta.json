@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-04_randstad-deutschland_data-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793737141,
+ "company": "Randstad Deutschland",
+ "role": "Data Engineer (m/w/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build production-yield-anomaly",
+ "notes": "Found by job-scout. German docs. Mannheim, pharma/medtech client via staffing. Gaps: C++, regulated medtech/process development, industrial MLOps, German B1 vs gute. Dropped cert and publication to hold 2 pages. No reviewer pass, no web research.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Mannheim",
+ "ats": 47,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486073202",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486073202",
+ "contact": "",
+ "verdict": "Time-series ML with Python/TensorFlow matches well; the medtech/process-development background, C++ and industrial MLOps are gaps.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Randstad.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Randstad.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "production-yield-anomaly",
+ "found_by_scout": true
+}
