@@ -1,5 +1,5 @@
 {
- "generated": 1793722298.79773,
+ "generated": 1793722479.167166,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2368,6 +2368,22 @@
    "build": "creative-asset-automation-pipeline",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_almedia_product-engineer-client-platform",
+   "date": "2026-11-03",
+   "prepared_at": 1793722477,
+   "company": "Almedia",
+   "role": "Product Engineer (Client Platform)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486873193",
+   "apply_url_kind": "posting",
+   "build": "client-self-serve-portal",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2592,6 +2608,9 @@
   ],
   "creative-asset-automation-pipeline": [
    "2026-11-03_rewe_creative-ai-developer"
+  ],
+  "client-self-serve-portal": [
+   "2026-11-03_almedia_product-engineer-client-platform"
   ]
  }
 }

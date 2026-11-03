@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_almedia_product-engineer-client-platform",
+ "date": "2026-11-03",
+ "prepared_at": 1793722477,
+ "company": "Almedia",
+ "role": "Product Engineer (Client Platform)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build client-self-serve-portal",
+ "notes": "Found by job-scout. English docs. Gaps: TypeScript/NestJS/NextJS, dbt/BigQuery/GCP. Dropped certs, merged Minor, Languages in skills for page count. No reviewer pass, no new research. Second Almedia role.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486873193",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486873193",
+ "contact": "",
+ "verdict": "Good match on end-to-end building (Python/FastAPI back ends, a React self-serve expert app, Postgres/Mongo), an AI-assisted dev workflow and working with non-technical teams. The stack is TypeScript/NestJS/NextJS plus dbt/BigQuery/Hex/GCP, none of which I have used in a job.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Almedia.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Almedia.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-client-self-serve-portal.md"
+ ],
+ "build": "client-self-serve-portal",
+ "found_by_scout": true
+}
