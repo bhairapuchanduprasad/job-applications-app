@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-03_reprisk_software-engineer-quality-engineering",
+ "date": "2026-11-03",
+ "prepared_at": 1793693007,
+ "company": "RepRisk",
+ "role": "Software Engineer - Quality Engineering",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build ai-output-quality-gates",
+ "notes": "Found by job-scout. English. Berlin hybrid. QE tooling SWE role (not AI-specific). Gaps: unit/contract testing frameworks, Databricks, distributed systems. ATS 60%. Salary 56.7-69.3k.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 60,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486034230",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486034230",
+ "contact": "",
+ "verdict": "Solid Python, CI/CD, AWS and AI-output evaluation background, but no dedicated test-framework or QE tooling ownership; this is a software/QE role, not AI/ML.",
+ "gaps": [
+  "No dedicated testing framework experience (pytest/contract testing not in profil",
+  "Databricks: gap. Kafka/distributed streaming: gap.",
+  "German not required (English professional proficiency); nothing to flag.",
+  "Salary range EUR 56,700-69,300 matches expectation (55k to 60k)."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_RepRisk.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_RepRisk.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-ai-output-quality-gates.md"
+ ],
+ "build": "ai-output-quality-gates",
+ "found_by_scout": true
+}

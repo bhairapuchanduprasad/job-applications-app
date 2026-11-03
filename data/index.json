@@ -1,5 +1,5 @@
 {
- "generated": 1793693009.0690858,
+ "generated": 1793693119.919971,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -1833,7 +1833,7 @@
    "role": "AI Platform Engineer (m/w/d)",
    "fit": 76,
    "status": "build-first",
-   "city": "Schwerte",
+   "city": "Dortmund",
    "ats": 81,
    "apply_url": "https://www.linkedin.com/jobs/view/4484373124",
    "apply_url_kind": "posting",
@@ -2096,6 +2096,22 @@
    "build": "plant-maintenance-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_reprisk_software-engineer-quality-engineering",
+   "date": "2026-11-03",
+   "prepared_at": 1793693007,
+   "company": "RepRisk",
+   "role": "Software Engineer - Quality Engineering",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 60,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486034230",
+   "apply_url_kind": "posting",
+   "build": "ai-output-quality-gates",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2292,6 +2308,9 @@
   ],
   "lab-requests-portal": [
    "2026-11-03_focused-energy_software-engineer"
+  ],
+  "ai-output-quality-gates": [
+   "2026-11-03_reprisk_software-engineer-quality-engineering"
   ]
  }
 }
