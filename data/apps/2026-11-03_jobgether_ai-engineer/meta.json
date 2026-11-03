@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_jobgether_ai-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793692798,
+ "company": "Jobgether (partner company, industrial AI)",
+ "role": "AI Engineer",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "Found by job-scout. English. Germany (remote/unspecified). Unnamed partner. Gaps: computer vision, PLC/OPC-UA, ERP, TypeScript. Salary 55k.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 77,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484642559",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484642559",
+ "contact": "",
+ "verdict": "Strong on agentic AI, human-in-the-loop, knowledge graph, early-stage startup; weak on industrial/vision domain.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Jobgether.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Jobgether.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-plant-maintenance-agent.md"
+ ],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": true
+}
