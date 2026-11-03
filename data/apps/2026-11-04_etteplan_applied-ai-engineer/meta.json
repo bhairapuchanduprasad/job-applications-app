@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-04_etteplan_applied-ai-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793738043,
+ "company": "Etteplan",
+ "role": "Applied AI Engineer (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "Found by job-scout. English docs. Wiesloch (CV: Leverkusen, hybrid sites listed). Gaps: fluent German (B1), electrical/instrumentation engineering, engineering software. Dropped publication and certs to hold 2 pages. No reviewer pass, no web research.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Leverkusen",
+ "ats": 92,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487023835",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487023835",
+ "contact": "",
+ "verdict": "Strong match on agents/RAG/Python/shipped work and chemical-industry process data; weak on plant/electrical engineering and \"fluent German\".",
+ "gaps": [
+  "German (top gap)",
+  "Electrical engineering / instrumentation / plant design: not claimed. Letter say",
+  "Engineering software interfaces, multimodal AI (drawings): not claimed.",
+  "Projects on CV (Plant Maintenance Agent, Engineering Document Extraction & Revie"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Etteplan.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Etteplan.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": true
+}

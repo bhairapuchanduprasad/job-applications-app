@@ -1,5 +1,5 @@
 {
- "generated": 1793738044.979265,
+ "generated": 1793738105.6447942,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2560,6 +2560,22 @@
    "build": "ops-mcp-server",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_etteplan_applied-ai-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793738043,
+   "company": "Etteplan",
+   "role": "Applied AI Engineer (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Leverkusen",
+   "ats": 92,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487023835",
+   "apply_url_kind": "posting",
+   "build": "plant-maintenance-agent",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2637,7 +2653,8 @@
    "2026-10-28_iabg_junior-data-analyst",
    "2026-10-29_amprion_experte-methodenentwicklung-ki",
    "2026-11-03_jobgether_ai-engineer",
-   "2026-11-04_koch-pac-systeme_cloud-ai-software-developer"
+   "2026-11-04_koch-pac-systeme_cloud-ai-software-developer",
+   "2026-11-04_etteplan_applied-ai-engineer"
   ],
   "energy-service-agent": [
    "2026-10-22_kraken_software-engineer-autonomous-agents",
