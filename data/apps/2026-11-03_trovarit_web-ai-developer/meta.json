@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-03_trovarit_web-ai-developer",
+ "date": "2026-11-03",
+ "prepared_at": 1793716716,
+ "company": "Trovarit AG",
+ "role": "Web and Artificial Intelligence Developer",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-internal-docs",
+ "notes": "Found by job-scout. English docs. Aachen. Listed as \"Web Developer\" at TaskVerse. Gaps: very good German vs B1, PHP. ATS 87%. No reviewer pass, no web research.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Aachen",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486849097",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via Trovarit's online portal. English documents. Contact for questions: Marion Köhler (phone).",
+ "source": "https://www.linkedin.com/jobs/view/4486849097",
+ "contact": "Marion Köhler",
+ "verdict": "Strong match on GenAI/RAG/vector DB/data pipelines, held back by \"very good\" German and the PHP/JS web focus.",
+ "gaps": [
+  "German (top gap): documents in English (posting is English), letter states B1 ho",
+  "PHP: stated as not used professionally; Python/React background.",
+  "JavaScript: only via React (beginner), listed as such."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Trovarit.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Trovarit.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-knowledge-assistant.md"
+ ],
+ "build": "knowledge-assistant-internal-docs",
+ "found_by_scout": true
+}

@@ -1,5 +1,5 @@
 {
- "generated": 1793716493.677087,
+ "generated": 1793716718.003805,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2288,6 +2288,22 @@
    "build": "order-inbox-agent",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_trovarit_web-ai-developer",
+   "date": "2026-11-03",
+   "prepared_at": 1793716716,
+   "company": "Trovarit AG",
+   "role": "Web and Artificial Intelligence Developer",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Aachen",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486849097",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-internal-docs",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2505,7 +2521,8 @@
    "2026-11-03_kuro_software-engineer-ai"
   ],
   "knowledge-assistant-internal-docs": [
-   "2026-11-03_sysperto_ki-implementierungs-consultant"
+   "2026-11-03_sysperto_ki-implementierungs-consultant",
+   "2026-11-03_trovarit_web-ai-developer"
   ]
  }
 }
