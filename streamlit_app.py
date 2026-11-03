@@ -179,7 +179,9 @@ def apps() -> list[dict]:
         a = dict(a)
         a["status"] = norm_status(a["status"])
         s = state.get(a["folder"])
-        if s and s.get("updated", 0) > idx["generated"]:
+        # A status set in the app wins over the export: the laptop merges it into tracker.csv, so after
+        # the merge both agree. (It used to be dropped once a newer export appeared, so applied jobs came back.)
+        if s and s.get("status"):
             for k in ("status", "applied_date", "applied_via", "note"):
                 if s.get(k):
                     a[k] = s[k]
@@ -281,6 +283,31 @@ def chip(a: dict) -> str:
     return " · ".join(bits)
 
 
+def store_warning():
+    if st.session_state.get("store_error"):
+        st.warning("Couldn't reach the status store; showing the last export. " + st.session_state.pop("store_error"))
+    if not STORE.remote:
+        st.error("⚠️ Status changes are not saved permanently: the app has no GitHub token, so a tap is lost at the "
+                 "next redeploy. Add the [github] section to the app's secrets (Streamlit Cloud › Settings › Secrets).")
+
+
+CLOSED = {"rejected", "ghosted", "withdrawn"}
+
+
+@st.dialog("Update status")
+def status_dialog(a: dict):
+    st.write(f"**{a['company']}** · {a['role']}")
+    opts = ["applied", "interview", "offer", "rejected", "ghosted", "withdrawn", "ready"]
+    cur = a["status"] if a["status"] in opts else "applied"
+    new = st.radio("Status", opts, index=opts.index(cur), horizontal=True,
+                   format_func=lambda s: f"{ICON.get(s, '')} {'not applied (undo)' if s == 'ready' else s}")
+    note = st.text_input("Note (optional)", a.get("note", ""))
+    if st.button("Save", type="primary", width="stretch"):
+        set_status(a["folder"], new, a.get("applied_via", ""), note, a.get("applied_date", ""))
+        st.session_state["toast"] = f"{a['company']}: {new}"
+        st.rerun()
+
+
 # ---------- pages ----------
 def page_home():
     st.title("💼 To apply")
@@ -291,8 +318,7 @@ def page_home():
     c1.metric("To apply", len(pick))
     c2.metric("New today", sum(days_since(a["date"]) == 0 for a in pick))
     c3.metric("Applied 7d", len(week))
-    if st.session_state.get("store_error"):
-        st.warning("Couldn't reach the status store; showing the last export. " + st.session_state.pop("store_error"))
+    store_warning()
 
     # newest first, grouped by the day they were prepared
     pick.sort(key=lambda a: (a["date"], a.get("prepared_at") or 0), reverse=True)
@@ -329,6 +355,55 @@ def page_home():
                     pdf_button(a["folder"], lt, f"lt-{a['folder']}", "✉️ Letter")
             if b5.button("✓ Applied", key=f"ap-{a['folder']}", width="stretch"):
                 applied_dialog(a)
+
+
+def page_applied():
+    st.title("📨 Applied")
+    rows = apps()
+    done = [a for a in rows if a["status"] in ACTIVE | CLOSED]
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Applied", len(done))
+    c2.metric("Interviews", sum(a["status"] in {"interview", "offer"} for a in done))
+    c3.metric("Waiting", sum(a["status"] == "applied" for a in done))
+    store_warning()
+    view = st.segmented_control("Show", ["Active", "Closed", "All"], default="Active", label_visibility="collapsed")
+    if view == "Active":
+        done = [a for a in done if a["status"] in ACTIVE]
+    elif view == "Closed":
+        done = [a for a in done if a["status"] in CLOSED]
+    done.sort(key=lambda a: (a.get("applied_date") or a["date"], a.get("prepared_at") or 0), reverse=True)
+    if not done:
+        st.info("Nothing here yet. Tap ✓ Applied on the To apply page after you send an application.")
+    last_day = None
+    for a in done:
+        d = a.get("applied_date") or a["date"]
+        if d != last_day:
+            last_day = d
+            st.subheader(f"{day_label(d)} · {sum((x.get('applied_date') or x['date']) == d for x in done)}")
+        m = meta(a["folder"])
+        with st.container(border=True):
+            st.markdown(f"**{a['company']}**  \n{a['role']}")
+            n = days_since(a.get("applied_date", ""))
+            follow = " · ⏰ follow up" if a["status"] == "applied" and (n or 0) >= FOLLOW_UP_DAYS else ""
+            via = f" via {a['applied_via']}" if a.get("applied_via") else ""
+            note = f"<br>📝 {a['note']}" if a.get("note") else ""
+            st.markdown(f"<div class='small'>{ICON.get(a['status'], '•')} {a['status']} · applied "
+                        f"{ago(a.get('applied_date', '')) or '—'}{via}{follow}<br>📍 {a.get('city') or '—'}{note}</div>",
+                        unsafe_allow_html=True)
+            docs = m.get("docs", [])
+            cv = next((x for x in docs if x["kind"] == "cv"), None)
+            lt = next((x for x in docs if x["kind"] == "letter"), None)
+            b1, b2, b3, b4 = st.columns(4)
+            if b1.button("Details", key=f"ad-{a['folder']}", width="stretch"):
+                open_app(a["folder"])
+            with b2:
+                if cv:
+                    pdf_button(a["folder"], cv, f"acv-{a['folder']}", "📄 CV")
+            with b3:
+                if lt:
+                    pdf_button(a["folder"], lt, f"alt-{a['folder']}", "✉️ Letter")
+            if b4.button("Status", key=f"as-{a['folder']}", width="stretch"):
+                status_dialog(a)
 
 
 def page_detail():
@@ -557,6 +632,7 @@ def main():
         st.stop()
     PAGES.update({
         "home": st.Page(page_home, title="To apply", icon="🏠", default=True),
+        "applied": st.Page(page_applied, title="Applied", icon="📨", url_path="applied"),
         "detail": st.Page(page_detail, title="Application", icon="📄", url_path="application"),
         "pipeline": st.Page(page_pipeline, title="Pipeline", icon="📊", url_path="pipeline"),
         "scout": st.Page(page_scout, title="Scout", icon="🔎", url_path="scout"),
