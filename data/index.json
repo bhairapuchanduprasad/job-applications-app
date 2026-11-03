@@ -1,5 +1,5 @@
 {
- "generated": 1793715148.853667,
+ "generated": 1793715467.629872,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2192,6 +2192,22 @@
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_kuro_software-engineer-ai",
+   "date": "2026-11-03",
+   "prepared_at": 1793715457,
+   "company": "Kuro",
+   "role": "Software Engineer - AI",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484662589",
+   "apply_url_kind": "posting",
+   "build": "tender-doc-extraction",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2400,6 +2416,9 @@
   ],
   "radar-nowcasting": [
    "2026-11-03_wetteronline_machine-learning-engineer"
+  ],
+  "tender-doc-extraction": [
+   "2026-11-03_kuro_software-engineer-ai"
   ]
  }
 }

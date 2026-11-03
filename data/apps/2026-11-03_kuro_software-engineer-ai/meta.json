@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-03_kuro_software-engineer-ai",
+ "date": "2026-11-03",
+ "prepared_at": 1793715457,
+ "company": "Kuro",
+ "role": "Software Engineer - AI",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build tender-doc-extraction",
+ "notes": "Found by job-scout. English docs. Berlin onsite daily (Factory Berlin Mitte). Gaps: TypeScript/Fastify/Prisma, construction/BIM. ATS 74%. No reviewer pass, no web research.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484662589",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484662589",
+ "contact": "",
+ "verdict": "Strong applied-AI/document-extraction/eval match and early-stage startup experience; the gap is the TypeScript/Fastify/Prisma stack and construction domain.",
+ "gaps": [
+  "TypeScript stack: stated openly in the letter, Python/Prefect side offered.",
+  "Construction domain and 3D: not claimed; the planned project stays in the docume",
+  "Seniority tag \"Mid-Senior\", but the text asks for 3+ years, so within the rule."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Kuro.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Kuro.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-tender-doc-extraction.md"
+ ],
+ "build": "tender-doc-extraction",
+ "found_by_scout": true
+}
