@@ -1,0 +1,49 @@
+{
+ "folder": "2026-11-03_kayak_data-scientist",
+ "date": "2026-11-03",
+ "prepared_at": 1793714922,
+ "company": "KAYAK",
+ "role": "Data Scientist",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build matching-experiment-lab",
+ "notes": "Found by job-scout. English docs. Berlin hybrid 3 days. Gaps: recommender systems, Airflow/Trino/Polars. Reuses planned Matching Experiment Lab.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 67,
+ "apply_url": "https://www.linkedin.com/jobs/view/4478580272",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4478580272",
+ "contact": "",
+ "verdict": "Mid-level data scientist for recommendation systems; strong ML/Python/evaluation base, no recommender or online-experiment job experience.",
+ "gaps": [
+  "Recommender systems and online A/B tests: said plainly in the cover letter; Matc",
+  "Airflow, Trino, Polars, CometML, Arize: leave out, learn if interviewed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_KAYAK.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_KAYAK.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "matching-experiment-lab",
+ "found_by_scout": true
+}

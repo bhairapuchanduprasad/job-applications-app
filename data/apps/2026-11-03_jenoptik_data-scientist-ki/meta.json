@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-03_jenoptik_data-scientist-ki",
+ "date": "2026-11-03",
+ "prepared_at": 1793715146,
+ "company": "JENOPTIK",
+ "role": "Data Scientist (w/m/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-mcp",
+ "notes": "Found by job-scout. German docs (German posting requires sehr gute Deutsch; B1 stated). Jena. Gaps: German level, JS/TS depth, Java, Podman/Linux. ATS 64%. No reviewer pass.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Jena",
+ "ats": 64,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484660518",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484660518",
+ "contact": "",
+ "verdict": "Solid on LLM services, Python/SQL, React+FastAPI, Docker and requirements work; weak on \"sehr gute\" German, multi-year JS/TS framework experience, Java, Podman/Linux admin and hardware DevOps.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_JENOPTIK.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_JENOPTIK.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-internal-chatbot-web.md"
+ ],
+ "build": "knowledge-assistant-mcp",
+ "found_by_scout": true
+}
