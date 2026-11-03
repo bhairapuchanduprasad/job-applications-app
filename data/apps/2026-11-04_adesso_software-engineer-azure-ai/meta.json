@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-04_adesso_software-engineer-azure-ai",
+ "date": "2026-11-04",
+ "prepared_at": 1793736905,
+ "company": "adesso SE",
+ "role": "Software Engineer Azure AI",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build azure-ai-rag-starter-kit (Dokumenten-Assistent variant)",
+ "notes": "Found by job-scout. German docs. Leipzig. Gaps: .NET, German B1 vs sehr gut, Azure OpenAI/Document Intelligence/Azure DevOps. Kept 1 cert. No reviewer pass, no web research.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Leipzig",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486056840",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486056840",
+ "contact": "",
+ "verdict": "Solid match on RAG, Azure AI Search, document pipelines, Python microservices, Docker/Kubernetes. Gaps: .NET (stated as main stack), \"mehrjährige\" experience (3 years), \"sehr gute Deutschkenntnisse\" (B1, top gap), Azure OpenAI / Document Intelligence / Azure DevOps not used professionally.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_adesso.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_adesso.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-azure-dokumenten-assistent.md"
+ ],
+ "build": "azure-ai-rag-starter-kit",
+ "found_by_scout": true
+}

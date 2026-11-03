@@ -1,5 +1,5 @@
 {
- "generated": 1793736712.248445,
+ "generated": 1793736907.569356,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2480,6 +2480,22 @@
    "build": "invoice-capture-agent",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_adesso_software-engineer-azure-ai",
+   "date": "2026-11-04",
+   "prepared_at": 1793736905,
+   "company": "adesso SE",
+   "role": "Software Engineer Azure AI",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Leipzig",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486056840",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-rag-starter-kit",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2596,7 +2612,8 @@
    "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai",
    "2026-10-28_taod_data-engineer-scientist",
    "2026-11-01_adesso_azure-ai-engineer-agentic-systems",
-   "2026-11-02_cgi_azure-cloud-ai-engineer"
+   "2026-11-02_cgi_azure-cloud-ai-engineer",
+   "2026-11-04_adesso_software-engineer-azure-ai"
   ],
   "client-occasion-engine": [
    "2026-10-25_bestandsfaktor_founding-software-engineer",
