@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-03_reply_ai-solutions-engineer",
+ "date": "2026-11-03",
+ "prepared_at": 1793692614,
+ "company": "Reply",
+ "role": "AI Solutions Engineer (m/w/d)",
+ "fit": 66,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout. German docs. Frankfurt (also HH/DUS/MUC). Needs sehr gute Deutschkenntnisse (B1 = top gap). Gaps: Django, Flask, computer vision. ATS 86%.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4473629023",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4473629023",
+ "contact": "",
+ "verdict": "Entry-level, strong match on LLM/RAG/backend/Docker/K8s. Main risk: \"sehr gute Deutschkenntnisse\" (I am B1) and a customer-facing consulting role.",
+ "gaps": [
+  "German: B1 stated honestly in the letter; documents written in German because po",
+  "Django, Flask: not claimed (FastAPI only). Computer vision: not claimed.",
+  "Huacaya on-prem platform: no direct experience; framed via Docker/K8s/Azure."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Reply.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Reply.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}

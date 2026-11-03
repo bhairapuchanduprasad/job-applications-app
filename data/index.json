@@ -1,5 +1,5 @@
 {
- "generated": 1793679036.58762,
+ "generated": 1793692615.9475782,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2062,6 +2062,22 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486440900",
    "apply_url_kind": "posting",
    "build": "lab-requests-portal",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_reply_ai-solutions-engineer",
+   "date": "2026-11-03",
+   "prepared_at": 1793692614,
+   "company": "Reply",
+   "role": "AI Solutions Engineer (m/w/d)",
+   "fit": 66,
+   "status": "ready",
+   "city": "Frankfurt",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4473629023",
+   "apply_url_kind": "posting",
+   "build": "",
    "applied_date": "",
    "found_by_scout": true
   }
