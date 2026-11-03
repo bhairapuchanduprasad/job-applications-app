@@ -1,5 +1,5 @@
 {
- "generated": 1793737647.3852448,
+ "generated": 1793738044.979265,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2544,6 +2544,22 @@
    "build": "retail-demand-forecasting-optimizer",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_quantumblack_software-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793737829,
+   "company": "QuantumBlack AI by McKinsey",
+   "role": "Software Engineer",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Frankfurt",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487023711",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2605,7 +2621,8 @@
    "2026-10-25_baehrbots_ai-integration-engineer",
    "2026-10-25_chrono24_ai-solution-engineer",
    "2026-11-02_almedia_ai-full-stack-engineer",
-   "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise"
+   "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
+   "2026-11-04_quantumblack_software-engineer"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",

@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-04_quantumblack_software-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793737829,
+ "company": "QuantumBlack AI by McKinsey",
+ "role": "Software Engineer",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "Found by job-scout. English docs. Frankfurt. Second QuantumBlack application (other: Data Engineering Consultant). Gaps: pair programming, Angular/Vue/Next.js, Node.js (project only), GCP, German level unspecified (B1). No reviewer pass, no web research.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Frankfurt",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487023711",
+ "apply_url_kind": "posting",
+ "apply_hint": "Note: a second QuantumBlack application exists (Data Engineering Consultant, Düsseldorf). Apply to only one if the firm limits parallel applications.",
+ "source": "https://www.linkedin.com/jobs/view/4487023711",
+ "contact": "",
+ "verdict": "Good match on LLM/agent/RAG and React + Python full-stack work; short on years of pure full-stack, TypeScript/Node, pair programming and testing/monitoring evidence.",
+ "gaps": [
+  "German: \"verbal and written in German and English\" with no level named. B1 state",
+  "Pair programming, Angular/Vue/Next.js/Tailwind, Node.js, GCP, monitoring: not cl",
+  "Roughly 3 years vs \"2+\": fine."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_QuantumBlack.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_QuantumBlack.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "ops-mcp-server",
+ "found_by_scout": true
+}
