@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-03_burckhardt-compression_machine-learning-engineer-mlops",
+ "date": "2026-11-03",
+ "prepared_at": 1793715715,
+ "company": "Burckhardt Compression",
+ "role": "Machine Learning Engineer (MLOps)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build cell-kpi-anomaly-pipeline",
+ "notes": "Found by job-scout. English docs. Rheine onsite (CV shows Münster). Gaps: Azure Databricks/Data Factory, Hadoop/Spark. ATS 61%. No reviewer pass, no web research.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "M\\\"unster",
+ "ats": 61,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484666711",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4484666711",
+ "contact": "",
+ "verdict": "Solid Python/SQL/Azure/Docker/CI/CD and sensor time-series ML, but the core stack (Databricks, Spark, Hadoop, Data Factory) is missing and the role leans data engineering.",
+ "gaps": [
+  "Databricks, Data Factory, Hadoop, Spark: stated openly in the letter, no claim m",
+  "\"Experienced\" in the posting, no years given; 3 years should pass for a junior/m",
+  "No German requirement mentioned; English documents."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Burckhardt-Compression.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Burckhardt-Compression.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "cell-kpi-anomaly-pipeline",
+ "found_by_scout": true
+}

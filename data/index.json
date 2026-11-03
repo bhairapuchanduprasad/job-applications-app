@@ -1,5 +1,5 @@
 {
- "generated": 1793715467.629872,
+ "generated": 1793715717.0040488,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2208,6 +2208,22 @@
    "build": "tender-doc-extraction",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-03_burckhardt-compression_machine-learning-engineer-mlops",
+   "date": "2026-11-03",
+   "prepared_at": 1793715715,
+   "company": "Burckhardt Compression",
+   "role": "Machine Learning Engineer (MLOps)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "M\\\"unster",
+   "ats": 61,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484666711",
+   "apply_url_kind": "posting",
+   "build": "cell-kpi-anomaly-pipeline",
+   "applied_date": "",
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2369,7 +2385,8 @@
    "2026-11-02_flex-capital_ai-engineer-dealflow"
   ],
   "cell-kpi-anomaly-pipeline": [
-   "2026-11-02_ericsson_graduate-ai-ml-data-engineer"
+   "2026-11-02_ericsson_graduate-ai-ml-data-engineer",
+   "2026-11-03_burckhardt-compression_machine-learning-engineer-mlops"
   ],
   "agent-ready-data-platform": [
    "2026-11-02_quantumblack_data-engineering-consultant"
