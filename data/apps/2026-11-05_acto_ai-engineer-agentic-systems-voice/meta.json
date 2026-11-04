@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_acto_ai-engineer-agentic-systems-voice",
+ "date": "2026-11-05",
+ "prepared_at": 1793823287,
+ "company": "Acto",
+ "role": "AI Engineer – Agentic Systems (Voice) (m/f/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build voice-receptionist-agent",
+ "notes": "English documents; Berlin; core gap: production voice agents, Coval/Bluejay; reused planned Voice Receptionist Agent (CV only, letter states the gap); no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485504359",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485504359",
+ "contact": "",
+ "verdict": "Strong on agentic LLM systems, LangGraph, tool use, memory and eval; the weighted \"important requirement\" (production voice agents, ASR/TTS, simulation testing) is a real gap.",
+ "gaps": [
+  "Voice: stated plainly in the letter, no claim of production voice work.",
+  "Simulation testing tools (Coval, Bluejay), Ray: not used.",
+  "Posting says \"experienced\"; no years number given."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Acto.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Acto.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-voice-receptionist-agent.md"
+ ],
+ "build": "voice-receptionist-agent",
+ "found_by_scout": false
+}

@@ -1,5 +1,5 @@
 {
- "generated": 1793823147.7841768,
+ "generated": 1793823289.707231,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2960,6 +2960,22 @@
    "build": "ops-mcp-server",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_acto_ai-engineer-agentic-systems-voice",
+   "date": "2026-11-05",
+   "prepared_at": 1793823287,
+   "company": "Acto",
+   "role": "AI Engineer – Agentic Systems (Voice) (m/f/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485504359",
+   "apply_url_kind": "posting",
+   "build": "voice-receptionist-agent",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3114,7 +3130,8 @@
   ],
   "voice-receptionist-agent": [
    "2026-10-27_egroup_voice-ai-product-engineer",
-   "2026-11-04_happyrobot_forward-deployed-engineer"
+   "2026-11-04_happyrobot_forward-deployed-engineer",
+   "2026-11-05_acto_ai-engineer-agentic-systems-voice"
   ],
   "price-intelligence-copilot": [
    "2026-10-27_ki-group_llm-application-engineer"
