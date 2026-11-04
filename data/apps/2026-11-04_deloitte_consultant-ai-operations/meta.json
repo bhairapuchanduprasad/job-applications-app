@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-04_deloitte_consultant-ai-operations",
+ "date": "2026-11-04",
+ "prepared_at": 1793805066,
+ "company": "Deloitte",
+ "role": "Consultant AI in Operations: Einkauf, Supply Chain, Produktion oder Qualität (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "German documents; Stuttgart; German sehr gut asked (have B1); gaps: supply chain/procurement domain, TypeScript, GCP; letter not required by posting; dropped ML A-Z cert; no reviewer pass, no web research; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 59,
+ "apply_url": "https://www.linkedin.com/jobs/view/4423027503",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4423027503",
+ "contact": "",
+ "verdict": "Entry-level AI consulting role (forward-deployed AI engineering, use-case portfolio, architecture) for operations domains. Strong on GenAI/agentic/RAG, Python, cloud, and the Covestro AI-consulting internship. Gaps: German \"sehr gut in Wort und Schrift\" (B1), no procurement/supply-chain domain, TypeScript, GCP, consulting experience limited to the Covestro internship.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Deloitte.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Deloitte.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": false
+}
