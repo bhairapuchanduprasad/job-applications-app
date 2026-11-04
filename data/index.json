@@ -1,5 +1,5 @@
 {
- "generated": 1793825733.216321,
+ "generated": 1793826048.702512,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3168,6 +3168,38 @@
    "build": "cell-kpi-anomaly-pipeline",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_rewire_data-scientist",
+   "date": "2026-11-05",
+   "prepared_at": 1793825885,
+   "company": "Rewire",
+   "role": "Data Scientist (m/w/d)",
+   "fit": 70,
+   "status": "ready",
+   "city": "Heidelberg",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487277632",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": null,
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_rewire_data-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793826046,
+   "company": "Rewire",
+   "role": "Data Engineer (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Heidelberg",
+   "ats": 94,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487284197",
+   "apply_url_kind": "posting",
+   "build": "agent-ready-data-platform",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3354,7 +3386,8 @@
    "2026-11-05_gema_ai-engineer"
   ],
   "agent-ready-data-platform": [
-   "2026-11-02_quantumblack_data-engineering-consultant"
+   "2026-11-02_quantumblack_data-engineering-consultant",
+   "2026-11-05_rewire_data-engineer"
   ],
   "leasing-document-extraction": [
    "2026-11-03_vent-io_data-software-engineer-ai-data"

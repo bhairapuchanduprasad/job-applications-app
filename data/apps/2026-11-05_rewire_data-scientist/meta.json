@@ -1,0 +1,49 @@
+{
+ "folder": "2026-11-05_rewire_data-scientist",
+ "date": "2026-11-05",
+ "prepared_at": 1793825885,
+ "company": "Rewire",
+ "role": "Data Scientist (m/w/d)",
+ "fit": 70,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; Heidelberg; gap: German B1 vs fluent, client travel; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Heidelberg",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487277632",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487277632",
+ "contact": "",
+ "verdict": "Entry-level consulting data scientist role; strong match on ML, stakeholder work and degree; main gap is fluent German and the consulting/client-travel setting.",
+ "gaps": [
+  "German: posting asks for fluency in German (not stated as C1/C2). Mine is B1. To",
+  "Consulting firm delivery experience: only the Covestro AI consulting internship."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Rewire.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Rewire.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false
+}

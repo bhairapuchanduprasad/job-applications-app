@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_rewire_data-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793826046,
+ "company": "Rewire",
+ "role": "Data Engineer (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build agent-ready-data-platform",
+ "notes": "English documents; Heidelberg; gap: German B1 vs fluent, Spark/dbt, client travel; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Heidelberg",
+ "ats": 94,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487284197",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487284197",
+ "contact": "",
+ "verdict": "Entry-level consulting data engineer role; good match on pipelines, Python, cloud and stakeholder work; gaps are fluent German, classic data-platform tooling and consulting delivery.",
+ "gaps": [
+  "German: \"fluency in English and German\", not stated as C1/C2. Mine is B1. Top ga",
+  "No production Spark/dbt/orchestration experience; covered only by an unbuilt pro",
+  "Consulting firm delivery experience limited to the Covestro internship."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Rewire.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Rewire.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-ready-data-platform.md"
+ ],
+ "build": "agent-ready-data-platform",
+ "found_by_scout": false
+}
