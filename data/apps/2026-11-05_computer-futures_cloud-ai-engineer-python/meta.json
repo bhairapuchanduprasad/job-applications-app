@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_computer-futures_cloud-ai-engineer-python",
+ "date": "2026-11-05",
+ "prepared_at": 1793824736,
+ "company": "Computer Futures (SThree)",
+ "role": "Cloud & AI Engineer Python (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build llm-gateway",
+ "notes": "English documents; agency, client unnamed; Frankfurt; gaps: German B1 vs gute, Linux/Bash, Terraform; reused planned LLM Gateway (CV only); no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 62,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487234657",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487234657",
+ "contact": "",
+ "verdict": "Solid Python + AWS/Azure + Docker + CDK/CI-CD base, but the role is cloud/platform engineering (3+ years, Terraform, Linux/Bash), not AI engineering.",
+ "gaps": [
+  "German (\"Gute Deutschkenntnisse\") vs B1: documents in English, letter states B1 ",
+  "Terraform: cover letter says no job experience, CDK is the same approach. CV lis",
+  "Linux/Bash, monitoring: left out, never claimed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Computer-Futures.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Computer-Futures.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-llm-gateway.md"
+ ],
+ "build": "llm-gateway",
+ "found_by_scout": false
+}

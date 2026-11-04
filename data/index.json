@@ -1,5 +1,5 @@
 {
- "generated": 1793824236.234913,
+ "generated": 1793824738.194635,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3056,6 +3056,38 @@
    "build": "cell-kpi-anomaly-pipeline",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_siemens-energy_ai-solutions-specialist",
+   "date": "2026-11-05",
+   "prepared_at": 1793824507,
+   "company": "Siemens Energy",
+   "role": "AI Solutions Specialist (f/m/d) - Business Applications, Agents & Automation",
+   "fit": 58,
+   "status": "ready",
+   "city": "Erlangen",
+   "ats": 30,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486510488",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_computer-futures_cloud-ai-engineer-python",
+   "date": "2026-11-05",
+   "prepared_at": 1793824736,
+   "company": "Computer Futures (SThree)",
+   "role": "Cloud & AI Engineer Python (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Frankfurt am Main",
+   "ats": 62,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487234657",
+   "apply_url_kind": "posting",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3071,7 +3103,8 @@
    "2026-10-27_bits_forward-deployed-ai-engineer",
    "2026-10-27_redcare-pharmacy_platform-engineer",
    "2026-11-02_amadeus-fire_ki-spezialist",
-   "2026-11-05_accenture-dach_generative-ai-software-engineer-specialist"
+   "2026-11-05_accenture-dach_generative-ai-software-engineer-specialist",
+   "2026-11-05_computer-futures_cloud-ai-engineer-python"
   ],
   "care-note-structurer": [
    "2026-10-14_dexter-health_ai-engineer-llm",

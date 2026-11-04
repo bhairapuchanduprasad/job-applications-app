@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-05_siemens-energy_ai-solutions-specialist",
+ "date": "2026-11-05",
+ "prepared_at": 1793824507,
+ "company": "Siemens Energy",
+ "role": "AI Solutions Specialist (f/m/d) - Business Applications, Agents & Automation",
+ "fit": 58,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; Erlangen; gaps: Power Platform/low-code, RPA, governance; no Projects section (2-page limit); no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Erlangen",
+ "ats": 30,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486510488",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486510488",
+ "contact": "",
+ "verdict": "The agent and API integration side fits well. The core of the role is low-code/Power Platform, RPA and citizen-developer enablement, which I have no experience with.",
+ "gaps": [
+  "Power Platform / low-code / RPA: stated openly in the cover letter as learning o",
+  "Governance, privacy, lifecycle: only touched via approval-step mindset in the le",
+  "No Projects section: unbuilt n8n AI Workflow Hub was dropped to hold 2 pages (al"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Siemens-Energy.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Siemens-Energy.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false
+}
