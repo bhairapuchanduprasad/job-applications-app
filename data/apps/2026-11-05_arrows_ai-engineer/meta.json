@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_arrows_ai-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793823705,
+ "company": "Arrows",
+ "role": "Artificial Intelligence Engineer",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "English documents; Munich; gaps: TypeScript, React depth; reused planned Agent Eval Harness; same company as 2026-11-04 Arrows Full-Stack role; no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 64,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486388112",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486388112",
+ "contact": "",
+ "verdict": "Strong match on LLM pipelines, prompt engineering and evaluation; TypeScript and shipped commercial algorithm work are thinner.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Arrows.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Arrows.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": false
+}
