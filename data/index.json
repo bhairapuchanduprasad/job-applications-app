@@ -1,5 +1,5 @@
 {
- "generated": 1793750503.132362,
+ "generated": 1793750848.0691211,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2608,6 +2608,38 @@
    "build": "point-cloud-pipeline",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_undp_management-data-analyst",
+   "date": "2026-11-04",
+   "prepared_at": 1793750680,
+   "company": "UNDP",
+   "role": "Management Data Analyst",
+   "fit": 55,
+   "status": "ready",
+   "city": "Bonn",
+   "ats": 45,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486407658",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_koro_analytics-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793750846,
+   "company": "KoRo",
+   "role": "Analytics Engineer (f/m/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 38,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487063440",
+   "apply_url_kind": "posting",
+   "build": "semantic-layer-metrics-agent",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2855,6 +2887,9 @@
   ],
   "retail-demand-forecasting-optimizer": [
    "2026-11-04_mediamarktsaturn_expert-data-scientist"
+  ],
+  "semantic-layer-metrics-agent": [
+   "2026-11-04_koro_analytics-engineer"
   ]
  }
 }

@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-04_koro_analytics-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793750846,
+ "company": "KoRo",
+ "role": "Analytics Engineer (f/m/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build semantic-layer-metrics-agent",
+ "notes": "Found by job-scout; English docs; Berlin; gaps: dbt, BigQuery/GCP, Tableau, GDPR; reused planned project; dropped certs/publication for 2 pages; no reviewer pass, no web research",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Berlin",
+ "ats": 38,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487063440",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487063440",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_KoRo.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_KoRo.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-semantic-layer-metrics-agent.md"
+ ],
+ "build": "semantic-layer-metrics-agent",
+ "found_by_scout": true
+}

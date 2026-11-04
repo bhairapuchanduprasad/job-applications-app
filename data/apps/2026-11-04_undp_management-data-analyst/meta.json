@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-04_undp_management-data-analyst",
+ "date": "2026-11-04",
+ "prepared_at": 1793750680,
+ "company": "UNDP",
+ "role": "Management Data Analyst",
+ "fit": 55,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Found by job-scout; English docs; Bonn; LinkedIn lists ICAO but text is UNDP; tiered process (external = lowest tier); gaps: Power BI/R/DAX, UN/consulting; dropped certs and projects for 2 pages; no reviewer pass, no web research",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bonn",
+ "ats": 45,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486407658",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486407658",
+ "contact": "",
+ "verdict": "Data analysis + Python/SQL + stakeholder advisory fit; the BI stack (Power BI, R, DAX, Fabric) and formal consulting/UN background are missing.",
+ "gaps": [
+  "Power BI / R / DAX / D3.js / Fabric: stated openly in the letter, not on the CV.",
+  "No management consulting or UN experience: framed via the Covestro AI consulting",
+  "Possible eligibility issue: tiered process favours internal UNDP staff; external"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_UNDP.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_UNDP.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": true
+}
