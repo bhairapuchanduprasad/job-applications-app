@@ -1,5 +1,5 @@
 {
- "generated": 1793750330.52031,
+ "generated": 1793750481.648928,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2592,6 +2592,22 @@
    "build": "it-ticket-assistant-bedrock",
    "applied_date": "",
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_nanoscribe_software-engineer-python-3d-printing",
+   "date": "2026-11-04",
+   "prepared_at": 1793750480,
+   "company": "Nanoscribe",
+   "role": "Software Engineer (m/f/d) Python & 3D Printing",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Karlsruhe",
+   "ats": 33,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485042123",
+   "apply_url_kind": "posting",
+   "build": "point-cloud-pipeline",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2822,7 +2838,8 @@
    "2026-11-03_bank11_devops-ki-ops-engineer"
   ],
   "point-cloud-pipeline": [
-   "2026-11-04_segmantix_founding-engineer"
+   "2026-11-04_segmantix_founding-engineer",
+   "2026-11-04_nanoscribe_software-engineer-python-3d-printing"
   ],
   "client-self-serve-portal": [
    "2026-11-04_terratech-holding_software-engineer"

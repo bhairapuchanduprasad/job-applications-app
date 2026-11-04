@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-04_nanoscribe_software-engineer-python-3d-printing",
+ "date": "2026-11-04",
+ "prepared_at": 1793750480,
+ "company": "Nanoscribe",
+ "role": "Software Engineer (m/f/d) Python & 3D Printing",
+ "fit": 52,
+ "status": "build-first",
+ "next_step": "build point-cloud-pipeline",
+ "notes": "Found by job-scout; English docs; Eggenstein-Leopoldshafen (CV: Karlsruhe); not an AI role; gaps: 3D meshes/GPU, hardware, secure coding; reused planned project; dropped publication and certs for 2 pages; no reviewer pass, no web research. Posting asks for salary and start date.",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Karlsruhe",
+ "ats": 33,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485042123",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485042123",
+ "contact": "",
+ "verdict": "Python software role (not AI/ML) in a 3D-laser-printer software stack. Python, architecture and AI-assisted development fit; 3D geometry, GPU and hardware work are gaps.",
+ "gaps": [
+  "3D meshes / GPU / hardware: stated openly in the letter as learning on the job; ",
+  "\"Several years\" vs 3 years: borderline, not a hard >5 years requirement.",
+  "Not an AI role: tagline set to \"AI Developer\"; letter stresses Python engineerin"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Nanoscribe.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Nanoscribe.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "point-cloud-pipeline",
+ "found_by_scout": true
+}
