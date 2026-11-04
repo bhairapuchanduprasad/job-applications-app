@@ -1,5 +1,5 @@
 {
- "generated": 1793807427.774118,
+ "generated": 1793807521.977013,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2824,13 +2824,13 @@
    "company": "pyck",
    "role": "AI Software Engineer WMS (m/w/d)",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Germany",
    "ats": 64,
    "apply_url": "https://www.linkedin.com/jobs/view/4485077313",
    "apply_url_kind": "posting",
-   "build": "order-inbox-agent",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-04",
    "found_by_scout": false
   },
   {
@@ -2862,7 +2862,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486366389",
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": false
   },
   {
@@ -2999,8 +2999,7 @@
    "2026-10-29_amadeus-fire_ai-solutions-engineer",
    "2026-11-01_adesso_ai-automation-developer-sap",
    "2026-11-03_coltech_agentic-ai-coding-engineer",
-   "2026-11-03_elunic_forward-deployed-engineer",
-   "2026-11-04_pyck_ai-software-engineer-wms"
+   "2026-11-03_elunic_forward-deployed-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
