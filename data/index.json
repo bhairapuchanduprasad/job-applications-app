@@ -1,5 +1,5 @@
 {
- "generated": 1793805863.068714,
+ "generated": 1793806236.135085,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2768,6 +2768,38 @@
    "build": "ops-mcp-server",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_smartvelo_ki-automatisierung-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793805987,
+   "company": "SMARTVÉLO",
+   "role": "KI- & Automatisierung-Engineer (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Köln",
+   "ats": 57,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485070516",
+   "apply_url_kind": "posting",
+   "build": "odoo-service-tool-bridge",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_adidas_data-analyst-advanced-analytics-finance",
+   "date": "2026-11-04",
+   "prepared_at": 1793806233,
+   "company": "adidas",
+   "role": "Data Analyst - Advanced Analytics Finance (m/f/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Nuremberg",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485072843",
+   "apply_url_kind": "posting",
+   "build": "retail-demand-forecasting-optimizer",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3019,7 +3051,8 @@
    "2026-11-04_accenture-dach_junior-generative-ai-engineer"
   ],
   "retail-demand-forecasting-optimizer": [
-   "2026-11-04_mediamarktsaturn_expert-data-scientist"
+   "2026-11-04_mediamarktsaturn_expert-data-scientist",
+   "2026-11-04_adidas_data-analyst-advanced-analytics-finance"
   ],
   "semantic-layer-metrics-agent": [
    "2026-11-04_koro_analytics-engineer"
@@ -3032,6 +3065,9 @@
   ],
   "knowledge-assistant-citations-permissions": [
    "2026-11-04_thalia_ai-engineer-generative-ki"
+  ],
+  "odoo-service-tool-bridge": [
+   "2026-11-04_smartvelo_ki-automatisierung-engineer"
   ]
  }
 }

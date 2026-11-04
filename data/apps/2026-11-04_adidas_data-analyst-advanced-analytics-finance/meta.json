@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-04_adidas_data-analyst-advanced-analytics-finance",
+ "date": "2026-11-04",
+ "prepared_at": 1793806233,
+ "company": "adidas",
+ "role": "Data Analyst - Advanced Analytics Finance (m/f/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build retail-demand-forecasting-optimizer",
+ "notes": "English documents; Herzogenaurach on-site (CV/letter say Nuremberg); gaps: Finance domain, Databricks/Spark, statsmodels; reused planned project Retail Demand Forecasting Optimizer; no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Nuremberg",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485072843",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485072843",
+ "contact": "",
+ "verdict": "Junior data-science role on a Finance forecasting + agentic AI team; strong match on forecasting, ML, LLM/RAG evaluation; no Finance domain, Databricks/Spark or statsmodels experience.",
+ "gaps": [
+  "Finance domain: stated openly in the cover letter as something to learn.",
+  "Databricks/Spark: stated openly in the letter. statsmodels: gap.",
+  "Posting is English; no German requirement mentioned."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_adidas.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_adidas.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "retail-demand-forecasting-optimizer",
+ "found_by_scout": false
+}

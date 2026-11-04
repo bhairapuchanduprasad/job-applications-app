@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-04_smartvelo_ki-automatisierung-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793805987,
+ "company": "SMARTVÉLO",
+ "role": "KI- & Automatisierung-Engineer (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build odoo-service-tool-bridge",
+ "notes": "German documents; Köln on-site (Fri home office); German fluent required (have B1, top gap); gap: Odoo ERP, Google Workspace/Teams; new planned project Odoo Service-Tool Bridge; no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Köln",
+ "ats": 57,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485070516",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485070516",
+ "contact": "",
+ "verdict": "Right kind of work (AI automation, internal tools, integrations, Python), but German \"fließend\" as the team language plus Odoo ERP and on-site Köln pull it down.",
+ "gaps": [
+  "German: documents written in German (posting German and requires German). Letter",
+  "Odoo: stated openly in the letter; CV Projects section shows a planned Odoo inte",
+  "Google Workspace / Microsoft Teams: left out."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_SMARTVELO.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_SMARTVELO.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-odoo-service-tool-bridge.md"
+ ],
+ "build": "odoo-service-tool-bridge",
+ "found_by_scout": false
+}
