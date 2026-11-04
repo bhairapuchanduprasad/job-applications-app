@@ -1,5 +1,5 @@
 {
- "generated": 1793823862.711477,
+ "generated": 1793824066.409225,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3024,6 +3024,22 @@
    "build": "azure-ai-agent-starter-kit",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_aldi-nord_data-scientist",
+   "date": "2026-11-05",
+   "prepared_at": 1793824064,
+   "company": "ALDI Nord Group",
+   "role": "Data Scientist (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Essen",
+   "ats": 45,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486394687",
+   "apply_url_kind": "posting",
+   "build": "retail-demand-forecasting-optimizer",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3276,7 +3292,8 @@
    "2026-11-04_randstad-deutschland_data-engineer"
   ],
   "retail-demand-forecasting-optimizer": [
-   "2026-11-04_mediamarktsaturn_expert-data-scientist"
+   "2026-11-04_mediamarktsaturn_expert-data-scientist",
+   "2026-11-05_aldi-nord_data-scientist"
   ],
   "semantic-layer-metrics-agent": [
    "2026-11-04_koro_analytics-engineer"
