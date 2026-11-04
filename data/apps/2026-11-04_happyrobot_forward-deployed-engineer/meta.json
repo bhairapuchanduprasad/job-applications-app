@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-04_happyrobot_forward-deployed-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793804719,
+ "company": "HappyRobot",
+ "role": "Forward Deployed Engineer - German Speaking",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build voice-receptionist-agent",
+ "notes": "English documents; Munich; title says German speaking, no CEFR level in text (have B1); gaps TypeScript/Node.js and voice tuning; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 53,
+ "apply_url": "https://www.linkedin.com/jobs/view/4372462916",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4372462916",
+ "contact": "",
+ "verdict": "",
+ "gaps": [
+  "TypeScript, Node.js: said openly in the letter, not claimed on the CV.",
+  "Voice stack (STT/TTS tuning): covered only by the planned Voice Receptionist Age",
+  "Seniority/years: not stated; no years requirement."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_HappyRobot.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_HappyRobot.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "voice-receptionist-agent",
+ "found_by_scout": false
+}
