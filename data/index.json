@@ -1,5 +1,5 @@
 {
- "generated": 1793825394.551211,
+ "generated": 1793825590.660658,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3136,6 +3136,22 @@
    "build": "matching-experiment-lab",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_taskverse-lieferando_machine-learning-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793825588,
+   "company": "TaskVerse (Lieferando)",
+   "role": "Machine Learning Engineer",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 67,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487251016",
+   "apply_url_kind": "posting",
+   "build": "retail-demand-forecasting-optimizer",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3393,7 +3409,8 @@
   ],
   "retail-demand-forecasting-optimizer": [
    "2026-11-04_mediamarktsaturn_expert-data-scientist",
-   "2026-11-05_aldi-nord_data-scientist"
+   "2026-11-05_aldi-nord_data-scientist",
+   "2026-11-05_taskverse-lieferando_machine-learning-engineer"
   ],
   "semantic-layer-metrics-agent": [
    "2026-11-04_koro_analytics-engineer"
