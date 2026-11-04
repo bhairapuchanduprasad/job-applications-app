@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-04_iwoca_full-stack-engineer-operations-engineering",
+ "date": "2026-11-04",
+ "prepared_at": 1793751039,
+ "company": "iwoca",
+ "role": "Full-Stack Engineer - Operations Engineering Team",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build collections-ops-workbench",
+ "notes": "Found by job-scout; English docs; Berlin; salary £75-90k vs profile €55k (your call); gaps: TypeScript, Django, years of full-stack; reused Ops MCP Server family; dropped certs/publication for 2 pages; no reviewer pass, no web research",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Berlin",
+ "ats": 70,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487069736",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487069736",
+ "contact": "",
+ "verdict": "Strong Python/FastAPI/React/Postgres/AI-tooling match; weaker on TypeScript, Django and years of full-stack product work.",
+ "gaps": [
+  "TypeScript, Django: not in profile; stated openly in the cover letter.",
+  "Years of full-stack product engineering: ~1 role with React; the posting wants a",
+  "Cursor: not listed (Claude Code is)."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_iwoca.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_iwoca.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-collections-ops-workbench.md"
+ ],
+ "build": "collections-ops-workbench",
+ "found_by_scout": true
+}

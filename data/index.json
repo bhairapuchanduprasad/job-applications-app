@@ -1,5 +1,5 @@
 {
- "generated": 1793750848.0691211,
+ "generated": 1793751040.739128,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2640,6 +2640,22 @@
    "build": "semantic-layer-metrics-agent",
    "applied_date": null,
    "found_by_scout": true
+  },
+  {
+   "folder": "2026-11-04_iwoca_full-stack-engineer-operations-engineering",
+   "date": "2026-11-04",
+   "prepared_at": 1793751039,
+   "company": "iwoca",
+   "role": "Full-Stack Engineer - Operations Engineering Team",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 70,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487069736",
+   "apply_url_kind": "posting",
+   "build": "collections-ops-workbench",
+   "applied_date": null,
+   "found_by_scout": true
   }
  ],
  "builds": {
@@ -2890,6 +2906,9 @@
   ],
   "semantic-layer-metrics-agent": [
    "2026-11-04_koro_analytics-engineer"
+  ],
+  "collections-ops-workbench": [
+   "2026-11-04_iwoca_full-stack-engineer-operations-engineering"
   ]
  }
 }
