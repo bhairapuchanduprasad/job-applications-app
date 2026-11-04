@@ -1,5 +1,5 @@
 {
- "generated": 1793826048.702512,
+ "generated": 1793826346.084265,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3200,6 +3200,22 @@
    "build": "agent-ready-data-platform",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_unzer_software-engineer-agentic-systems",
+   "date": "2026-11-05",
+   "prepared_at": 1793826344,
+   "company": "Unzer",
+   "role": "Software Engineer - Agentic Systems (m/f/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 77,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487299799",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-agent-harness",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3241,7 +3257,8 @@
    "2026-10-24_union-investment_forward-deployed-engineer",
    "2026-10-29_event-inc_ai-engineer",
    "2026-11-02_senacor_ai-native-software-engineer",
-   "2026-11-03_xitavis_product-engineer-fullstack-ki"
+   "2026-11-03_xitavis_product-engineer-fullstack-ki",
+   "2026-11-05_unzer_software-engineer-agentic-systems"
   ],
   "agent-eval-harness": [
    "2026-10-17_jobgether_ai-evaluation-engineer",

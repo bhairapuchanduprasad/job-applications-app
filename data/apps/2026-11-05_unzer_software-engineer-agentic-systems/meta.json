@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-05_unzer_software-engineer-agentic-systems",
+ "date": "2026-11-05",
+ "prepared_at": 1793826344,
+ "company": "Unzer",
+ "role": "Software Engineer - Agentic Systems (m/f/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build spec-driven-agent-harness",
+ "notes": "English documents; Berlin hybrid; gap: Java, payments; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Berlin",
+ "ats": 77,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487299799",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487299799",
+ "contact": "",
+ "verdict": "Strong match on agentic/LLM work and AI-assisted development; gaps are Java, payments domain and 3+ years pure backend.",
+ "gaps": [
+  "Java: stated openly in the letter (Python instead; \"comparable language\" is allo",
+  "Payments/high-availability: stated as a learning area; not claimed.",
+  "\"Tool calling\", \"context engineering\", \"data modeling\" not explicitly in the pro"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Unzer.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Unzer.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "spec-driven-agent-harness",
+ "found_by_scout": false
+}
