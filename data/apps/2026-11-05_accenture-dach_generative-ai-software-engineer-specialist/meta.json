@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-05_accenture-dach_generative-ai-software-engineer-specialist",
+ "date": "2026-11-05",
+ "prepared_at": 1793823072,
+ "company": "Accenture DACH",
+ "role": "Generative AI Software Engineer Specialist (all genders)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build llm-gateway",
+ "notes": "English documents; Kronberg (CV: Frankfurt am Main); German good to have; gaps: Terraform/Helm, Vertex AI, TypeScript; reused planned project LLM Gateway (CV only, not in letter); no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 59,
+ "apply_url": "https://www.linkedin.com/jobs/view/4478470638",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4478470638",
+ "contact": "",
+ "verdict": "Strong match on agentic AI, RAG, evaluation, Python and cloud delivery. Weaker on infrastructure-as-code, TypeScript, Vertex AI and client-facing seniority.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Accenture-DACH.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Accenture-DACH.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "llm-gateway",
+ "found_by_scout": false
+}

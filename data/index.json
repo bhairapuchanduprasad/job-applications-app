@@ -1,5 +1,5 @@
 {
- "generated": 1793822814.228181,
+ "generated": 1793823074.714381,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2928,6 +2928,22 @@
    "build": "",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_accenture-dach_generative-ai-software-engineer-specialist",
+   "date": "2026-11-05",
+   "prepared_at": 1793823072,
+   "company": "Accenture DACH",
+   "role": "Generative AI Software Engineer Specialist (all genders)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Frankfurt am Main",
+   "ats": 59,
+   "apply_url": "https://www.linkedin.com/jobs/view/4478470638",
+   "apply_url_kind": "posting",
+   "build": "llm-gateway",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -2942,7 +2958,8 @@
    "2026-10-27_sap-fioneer_graduate-ai-engineer",
    "2026-10-27_bits_forward-deployed-ai-engineer",
    "2026-10-27_redcare-pharmacy_platform-engineer",
-   "2026-11-02_amadeus-fire_ki-spezialist"
+   "2026-11-02_amadeus-fire_ki-spezialist",
+   "2026-11-05_accenture-dach_generative-ai-software-engineer-specialist"
   ],
   "care-note-structurer": [
    "2026-10-14_dexter-health_ai-engineer-llm",
