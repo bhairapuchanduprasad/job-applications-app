@@ -1,5 +1,5 @@
 {
- "generated": 1793807168.174301,
+ "generated": 1793807427.774118,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2880,6 +2880,22 @@
    "build": "client-self-serve-portal",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_progroup_betriebsingenieur-ki-anwendungen",
+   "date": "2026-11-04",
+   "prepared_at": 1793807416,
+   "company": "Progroup AG",
+   "role": "Betriebsingenieur KI-Anwendungen & Prozessmodellierung (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Halle (Saale)",
+   "ats": 100,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486382158",
+   "apply_url_kind": "posting",
+   "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -2961,7 +2977,8 @@
    "2026-11-03_jobgether_ai-engineer",
    "2026-11-04_koch-pac-systeme_cloud-ai-software-developer",
    "2026-11-04_etteplan_applied-ai-engineer",
-   "2026-11-04_deloitte_consultant-ai-operations"
+   "2026-11-04_deloitte_consultant-ai-operations",
+   "2026-11-04_progroup_betriebsingenieur-ki-anwendungen"
   ],
   "energy-service-agent": [
    "2026-10-22_kraken_software-engineer-autonomous-agents",

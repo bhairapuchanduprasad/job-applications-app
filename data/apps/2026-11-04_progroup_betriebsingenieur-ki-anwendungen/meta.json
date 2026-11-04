@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-04_progroup_betriebsingenieur-ki-anwendungen",
+ "date": "2026-11-04",
+ "prepared_at": 1793807416,
+ "company": "Progroup AG",
+ "role": "Betriebsingenieur KI-Anwendungen & Prozessmodellierung (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "English documents; Sandersdorf-Brehna (CV: Halle (Saale)); German not required in posting, B1 risk; gaps: paper industry, years in process plant, control concepts, DoE; reused planned project Plant Maintenance Agent (CV only, not in letter); no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Halle (Saale)",
+ "ats": 100,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486382158",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486382158",
+ "contact": "Claudia Schlüter.",
+ "verdict": "Data/ML and assistant work match well; the process-industry and paper experience and control-concept work are missing.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Progroup.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Progroup.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": false
+}
