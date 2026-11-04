@@ -1,5 +1,5 @@
 {
- "generated": 1793823289.707231,
+ "generated": 1793823512.66568,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2976,6 +2976,22 @@
    "build": "voice-receptionist-agent",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_wilo-group_data-scientist-ki",
+   "date": "2026-11-05",
+   "prepared_at": 1793823510,
+   "company": "Wilo Group",
+   "role": "Data Scientist – Schwerpunkt KI (w/m/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Dortmund",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486384617",
+   "apply_url_kind": "posting",
+   "build": "pump-sensor-anomaly",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3246,6 +3262,9 @@
   ],
   "robot-episode-ingestion": [
    "2026-11-05_neura-robotics_platform-engineer-robot-data"
+  ],
+  "pump-sensor-anomaly": [
+   "2026-11-05_wilo-group_data-scientist-ki"
   ]
  }
 }
