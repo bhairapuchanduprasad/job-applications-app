@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_lime-connect_backend-engineer-ai-agents",
+ "date": "2026-11-05",
+ "prepared_at": 1793825150,
+ "company": "Lime Connect (formerly Userlike)",
+ "role": "Backend Engineer - AI Agents",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "English documents; Cologne; gaps: German B1 vs fluent, 5 years vs 3, Django, Langfuse in production",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Cologne",
+ "ats": 70,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487244320",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487244320",
+ "contact": "",
+ "verdict": "",
+ "gaps": [
+  "German fluency is the top gap (B1, no certificate). Documents in English; letter",
+  "Years of experience (3 vs 5) stated openly in the letter.",
+  "Django, Pydantic AI, website crawling, Langfuse in production: not claimed. Lang"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Lime-Connect.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Lime-Connect.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": false
+}

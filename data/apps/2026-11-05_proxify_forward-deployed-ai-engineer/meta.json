@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_proxify_forward-deployed-ai-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793824956,
+ "company": "Proxify",
+ "role": "Forward Deployed AI Engineer",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build multi-tenant-rag-service",
+ "notes": "English documents; Berlin/remote EU; gaps: 5+ years vs 3, vLLM, multi-tenant RAG, leading engineers",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Berlin",
+ "ats": 64,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487236510",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487236510",
+ "contact": "",
+ "verdict": "Strong match on agentic/RAG/LangGraph and client-facing work; short of the 5+ years asked for and thin on vLLM / multi-tenant RAG / multi-provider production.",
+ "gaps": [
+  "Years: stated openly in the letter, offset by Kniit delivery.",
+  "vLLM, multi-tenant RAG: covered by the planned project \"Multi-Tenant RAG Service",
+  "Leading engineers, GCP, CrewAI/AutoGen/OpenAI Agents: not claimed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Proxify.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Proxify.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-multi-tenant-rag-service.md"
+ ],
+ "build": "multi-tenant-rag-service",
+ "found_by_scout": false
+}

@@ -1,5 +1,5 @@
 {
- "generated": 1793824738.194635,
+ "generated": 1793825152.13091,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3088,6 +3088,38 @@
    "build": "llm-gateway",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_proxify_forward-deployed-ai-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793824956,
+   "company": "Proxify",
+   "role": "Forward Deployed AI Engineer",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 64,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487236510",
+   "apply_url_kind": "posting",
+   "build": "multi-tenant-rag-service",
+   "applied_date": null,
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_lime-connect_backend-engineer-ai-agents",
+   "date": "2026-11-05",
+   "prepared_at": 1793825150,
+   "company": "Lime Connect (formerly Userlike)",
+   "role": "Backend Engineer - AI Agents",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Cologne",
+   "ats": 70,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487244320",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3145,7 +3177,8 @@
    "2026-11-02_kausable_agentic-ai-harness-engineer",
    "2026-11-03_vicoland_ai-platform-innovation-engineer",
    "2026-11-04_neura-robotics_agentic-ai-engineer",
-   "2026-11-05_arrows_ai-engineer"
+   "2026-11-05_arrows_ai-engineer",
+   "2026-11-05_lime-connect_backend-engineer-ai-agents"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -3368,6 +3401,9 @@
   ],
   "azure-ai-agent-starter-kit": [
    "2026-11-05_skaylink_copilot-studio-ai-solutions-consultant"
+  ],
+  "multi-tenant-rag-service": [
+   "2026-11-05_proxify_forward-deployed-ai-engineer"
   ]
  }
 }
