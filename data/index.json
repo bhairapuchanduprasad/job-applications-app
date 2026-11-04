@@ -1,5 +1,5 @@
 {
- "generated": 1793805067.958657,
+ "generated": 1793805392.121251,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2704,6 +2704,22 @@
    "build": "plant-maintenance-agent",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_meltwater_ai-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793805351,
+   "company": "Meltwater",
+   "role": "AI Engineer (Germany)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4478132332",
+   "apply_url_kind": "posting",
+   "build": "social-mention-enrichment",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -2960,6 +2976,9 @@
   ],
   "collections-ops-workbench": [
    "2026-11-04_iwoca_full-stack-engineer-operations-engineering"
+  ],
+  "social-mention-enrichment": [
+   "2026-11-04_meltwater_ai-engineer"
   ]
  }
 }

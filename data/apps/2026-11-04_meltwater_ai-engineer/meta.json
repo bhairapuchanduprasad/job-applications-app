@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-04_meltwater_ai-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793805351,
+ "company": "Meltwater",
+ "role": "AI Engineer (Germany)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build social-mention-enrichment",
+ "notes": "English documents; Berlin; no German required; gaps: Terraform, NER/sentiment in jobs; dropped 2 certs; no web research; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4478132332",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4478132332",
+ "contact": "",
+ "verdict": "Junior/mid NLP role (Master's + 1 year asked); strong on LLM/RAG/Python/cloud, thinner on classic NLP tasks (NER, sentiment) and Terraform.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Meltwater.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Meltwater.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-social-mention-enrichment.md"
+ ],
+ "build": "social-mention-enrichment",
+ "found_by_scout": false
+}
