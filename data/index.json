@@ -1,5 +1,5 @@
 {
- "generated": 1793807065.3058822,
+ "generated": 1793807168.174301,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2864,6 +2864,22 @@
    "build": "ops-mcp-server",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_arrows_software-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793807159,
+   "company": "Arrows",
+   "role": "Software Engineer (Full-Stack Engineer)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 86,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486366939",
+   "apply_url_kind": "posting",
+   "build": "client-self-serve-portal",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3105,7 +3121,8 @@
    "2026-11-04_nanoscribe_software-engineer-python-3d-printing"
   ],
   "client-self-serve-portal": [
-   "2026-11-04_terratech-holding_software-engineer"
+   "2026-11-04_terratech-holding_software-engineer",
+   "2026-11-04_arrows_software-engineer"
   ],
   "invoice-capture-agent": [
    "2026-11-04_truvio_ai-engineer"
