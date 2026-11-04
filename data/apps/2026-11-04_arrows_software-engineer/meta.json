@@ -5,11 +5,11 @@
  "company": "Arrows",
  "role": "Software Engineer (Full-Stack Engineer)",
  "fit": 66,
- "status": "build-first",
- "next_step": "build client-self-serve-portal",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; Munich; YC-backed IP/patent legaltech; German not mentioned; gaps: TypeScript, PostgreSQL at scale, WYSIWYG editors, scaling commercial software; reused planned project Client Self-Serve Portal (one bullet, not in letter); no web research; no reviewer pass; scout",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-04",
+ "applied_via": "LinkedIn Easy Apply",
  "city": "Munich",
  "ats": 86,
  "apply_url": "https://www.linkedin.com/jobs/view/4486366939",
@@ -41,6 +41,6 @@
   }
  ],
  "briefs": [],
- "build": "client-self-serve-portal",
+ "build": "",
  "found_by_scout": false
 }

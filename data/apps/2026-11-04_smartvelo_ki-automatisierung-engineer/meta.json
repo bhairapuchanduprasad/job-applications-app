@@ -5,11 +5,11 @@
  "company": "SMARTVÉLO",
  "role": "KI- & Automatisierung-Engineer (m/w/d)",
  "fit": 58,
- "status": "build-first",
- "next_step": "build odoo-service-tool-bridge",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "German documents; Köln on-site (Fri home office); German fluent required (have B1, top gap); gap: Odoo ERP, Google Workspace/Teams; new planned project Odoo Service-Tool Bridge; no web research; no reviewer pass; scout",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-04",
+ "applied_via": "Company careers site",
  "city": "Köln",
  "ats": 57,
  "apply_url": "https://www.linkedin.com/jobs/view/4485070516",
@@ -47,6 +47,6 @@
  "briefs": [
   "project-brief-odoo-service-tool-bridge.md"
  ],
- "build": "odoo-service-tool-bridge",
+ "build": "",
  "found_by_scout": false
 }

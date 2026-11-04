@@ -5,11 +5,11 @@
  "company": "Etteplan",
  "role": "Applied AI Engineer (m/w/d)",
  "fit": 62,
- "status": "build-first",
- "next_step": "build plant-maintenance-agent",
- "notes": "Found by job-scout. English docs. Wiesloch (CV: Leverkusen, hybrid sites listed). Gaps: fluent German (B1), electrical/instrumentation engineering, engineering software. Dropped publication and certs to hold 2 pages. No reviewer pass, no web research.",
- "applied_date": "",
- "applied_via": "",
+ "status": "applied",
+ "next_step": "wait for reply",
+ "notes": "Found by job-scout. English docs. Wiesloch (CV: Leverkusen, hybrid sites listed). Gaps: fluent German (B1), electrical/instrumentation engineering, engineering software. Dropped publication and certs to hold 2 pages. No reviewer pass, no web research.; app note: 51373",
+ "applied_date": "2026-11-04",
+ "applied_via": "Company careers site",
  "city": "Leverkusen",
  "ats": 92,
  "apply_url": "https://www.linkedin.com/jobs/view/4487023835",
@@ -46,6 +46,6 @@
   }
  ],
  "briefs": [],
- "build": "plant-maintenance-agent",
+ "build": "",
  "found_by_scout": true
 }

@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_neura-robotics_platform-engineer-robot-data",
+ "date": "2026-11-05",
+ "prepared_at": 1793822444,
+ "company": "NEURA Robotics",
+ "role": "Platform Engineer - Robot Data Infrastructure",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build robot-episode-ingestion",
+ "notes": "English documents; Riederich (CV: Stuttgart); German not mentioned; gaps: TypeScript, ROS 2/DDS, codecs, Terraform/Ansible; new planned project Robot Episode Ingestion Pipeline (CV only, not in letter); no web research; no reviewer pass; second NEURA application; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 68,
+ "apply_url": "https://www.linkedin.com/jobs/view/4422961333",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4422961333",
+ "contact": "",
+ "verdict": "Good on Python backend, AWS, Docker, CI/CD, CDK, annotation agents. Missing most of the robotics/media/IaC stack (TypeScript, ROS 2, codecs, Terraform, Ansible).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_NEURA-Robotics.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_NEURA-Robotics.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-robot-episode-ingestion.md"
+ ],
+ "build": "robot-episode-ingestion",
+ "found_by_scout": false
+}

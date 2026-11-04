@@ -5,11 +5,11 @@
  "company": "Bloomwell",
  "role": "AI Automation Engineer (m/w/d)",
  "fit": 72,
- "status": "build-first",
- "next_step": "build ops-mcp-server",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "German documents; Frankfurt hybrid (3 office days); very good German asked (have B1, top gap); gaps: TypeScript/Node.js, HubSpot/Slack/Jira, GDPR; posting asks GitHub link + short process proposal; reused planned project Ops MCP Server; no web research; no reviewer pass; scout",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-04",
+ "applied_via": "Company careers site",
  "city": "Frankfurt am Main",
  "ats": 74,
  "apply_url": "https://www.linkedin.com/jobs/view/4485063767",
@@ -47,6 +47,6 @@
  "briefs": [
   "project-brief-ops-mcp-server.md"
  ],
- "build": "ops-mcp-server",
+ "build": "",
  "found_by_scout": false
 }

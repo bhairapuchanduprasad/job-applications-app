@@ -5,11 +5,11 @@
  "company": "adidas",
  "role": "Data Analyst - Advanced Analytics Finance (m/f/d)",
  "fit": 72,
- "status": "build-first",
- "next_step": "build retail-demand-forecasting-optimizer",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; Herzogenaurach on-site (CV/letter say Nuremberg); gaps: Finance domain, Databricks/Spark, statsmodels; reused planned project Retail Demand Forecasting Optimizer; no web research; no reviewer pass; scout",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-04",
+ "applied_via": "LinkedIn Easy Apply",
  "city": "Nuremberg",
  "ats": 71,
  "apply_url": "https://www.linkedin.com/jobs/view/4485072843",
@@ -45,6 +45,6 @@
   }
  ],
  "briefs": [],
- "build": "retail-demand-forecasting-optimizer",
+ "build": "",
  "found_by_scout": false
 }

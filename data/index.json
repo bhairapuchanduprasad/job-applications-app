@@ -1,5 +1,5 @@
 {
- "generated": 1793807521.977013,
+ "generated": 1793822446.7342799,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2568,13 +2568,13 @@
    "company": "Etteplan",
    "role": "Applied AI Engineer (m/w/d)",
    "fit": 62,
-   "status": "build-first",
+   "status": "applied",
    "city": "Leverkusen",
    "ats": 92,
    "apply_url": "https://www.linkedin.com/jobs/view/4487023835",
    "apply_url_kind": "posting",
-   "build": "plant-maintenance-agent",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-04",
    "found_by_scout": true
   },
   {
@@ -2712,13 +2712,13 @@
    "company": "Meltwater",
    "role": "AI Engineer (Germany)",
    "fit": 72,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 79,
    "apply_url": "https://www.linkedin.com/jobs/view/4478132332",
    "apply_url_kind": "posting",
-   "build": "social-mention-enrichment",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-04",
    "found_by_scout": false
   },
   {
@@ -2760,13 +2760,13 @@
    "company": "Bloomwell",
    "role": "AI Automation Engineer (m/w/d)",
    "fit": 72,
-   "status": "build-first",
+   "status": "applied",
    "city": "Frankfurt am Main",
    "ats": 74,
    "apply_url": "https://www.linkedin.com/jobs/view/4485063767",
    "apply_url_kind": "posting",
-   "build": "ops-mcp-server",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-04",
    "found_by_scout": false
   },
   {
@@ -2776,13 +2776,13 @@
    "company": "SMARTVÉLO",
    "role": "KI- & Automatisierung-Engineer (m/w/d)",
    "fit": 58,
-   "status": "build-first",
+   "status": "applied",
    "city": "Köln",
    "ats": 57,
    "apply_url": "https://www.linkedin.com/jobs/view/4485070516",
    "apply_url_kind": "posting",
-   "build": "odoo-service-tool-bridge",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-04",
    "found_by_scout": false
   },
   {
@@ -2792,13 +2792,13 @@
    "company": "adidas",
    "role": "Data Analyst - Advanced Analytics Finance (m/f/d)",
    "fit": 72,
-   "status": "build-first",
+   "status": "applied",
    "city": "Nuremberg",
    "ats": 71,
    "apply_url": "https://www.linkedin.com/jobs/view/4485072843",
    "apply_url_kind": "posting",
-   "build": "retail-demand-forecasting-optimizer",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-04",
    "found_by_scout": false
   },
   {
@@ -2872,13 +2872,13 @@
    "company": "Arrows",
    "role": "Software Engineer (Full-Stack Engineer)",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Munich",
    "ats": 86,
    "apply_url": "https://www.linkedin.com/jobs/view/4486366939",
    "apply_url_kind": "posting",
-   "build": "client-self-serve-portal",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-04",
    "found_by_scout": false
   },
   {
@@ -2894,6 +2894,22 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486382158",
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_neura-robotics_platform-engineer-robot-data",
+   "date": "2026-11-05",
+   "prepared_at": 1793822444,
+   "company": "NEURA Robotics",
+   "role": "Platform Engineer - Robot Data Infrastructure",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 68,
+   "apply_url": "https://www.linkedin.com/jobs/view/4422961333",
+   "apply_url_kind": "posting",
+   "build": "robot-episode-ingestion",
    "applied_date": "",
    "found_by_scout": false
   }
@@ -2959,7 +2975,6 @@
    "2026-11-02_almedia_ai-full-stack-engineer",
    "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
    "2026-11-04_quantumblack_software-engineer",
-   "2026-11-04_bloomwell_ai-automation-engineer",
    "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme"
   ],
   "product-qa-assistant": [
@@ -2976,7 +2991,6 @@
    "2026-10-29_amprion_experte-methodenentwicklung-ki",
    "2026-11-03_jobgether_ai-engineer",
    "2026-11-04_koch-pac-systeme_cloud-ai-software-developer",
-   "2026-11-04_etteplan_applied-ai-engineer",
    "2026-11-04_deloitte_consultant-ai-operations",
    "2026-11-04_progroup_betriebsingenieur-ki-anwendungen"
   ],
@@ -3137,8 +3151,7 @@
    "2026-11-04_nanoscribe_software-engineer-python-3d-printing"
   ],
   "client-self-serve-portal": [
-   "2026-11-04_terratech-holding_software-engineer",
-   "2026-11-04_arrows_software-engineer"
+   "2026-11-04_terratech-holding_software-engineer"
   ],
   "invoice-capture-agent": [
    "2026-11-04_truvio_ai-engineer"
@@ -3147,8 +3160,7 @@
    "2026-11-04_randstad-deutschland_data-engineer"
   ],
   "retail-demand-forecasting-optimizer": [
-   "2026-11-04_mediamarktsaturn_expert-data-scientist",
-   "2026-11-04_adidas_data-analyst-advanced-analytics-finance"
+   "2026-11-04_mediamarktsaturn_expert-data-scientist"
   ],
   "semantic-layer-metrics-agent": [
    "2026-11-04_koro_analytics-engineer"
@@ -3156,20 +3168,17 @@
   "collections-ops-workbench": [
    "2026-11-04_iwoca_full-stack-engineer-operations-engineering"
   ],
-  "social-mention-enrichment": [
-   "2026-11-04_meltwater_ai-engineer"
-  ],
   "knowledge-assistant-citations-permissions": [
    "2026-11-04_thalia_ai-engineer-generative-ki"
-  ],
-  "odoo-service-tool-bridge": [
-   "2026-11-04_smartvelo_ki-automatisierung-engineer"
   ],
   "n8n-ai-workflow-hub": [
    "2026-11-04_jl-digital_it-consultant-cloud-ai"
   ],
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer"
+  ],
+  "robot-episode-ingestion": [
+   "2026-11-05_neura-robotics_platform-engineer-robot-data"
   ]
  }
 }
