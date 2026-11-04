@@ -1,5 +1,5 @@
 {
- "generated": 1793825590.660658,
+ "generated": 1793825733.216321,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3152,6 +3152,22 @@
    "build": "retail-demand-forecasting-optimizer",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_gema_ai-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793825731,
+   "company": "GEMA",
+   "role": "AI Engineer (m/w/d)",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 84,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487261944",
+   "apply_url_kind": "posting",
+   "build": "cell-kpi-anomaly-pipeline",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3334,7 +3350,8 @@
   "cell-kpi-anomaly-pipeline": [
    "2026-11-02_ericsson_graduate-ai-ml-data-engineer",
    "2026-11-03_burckhardt-compression_machine-learning-engineer-mlops",
-   "2026-11-05_motorenfabrik-hatz_data-scientist"
+   "2026-11-05_motorenfabrik-hatz_data-scientist",
+   "2026-11-05_gema_ai-engineer"
   ],
   "agent-ready-data-platform": [
    "2026-11-02_quantumblack_data-engineering-consultant"
