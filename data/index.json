@@ -1,5 +1,5 @@
 {
- "generated": 1793823074.714381,
+ "generated": 1793823147.7841768,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2944,6 +2944,22 @@
    "build": "llm-gateway",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai",
+   "date": "2026-11-05",
+   "prepared_at": 1793823146,
+   "company": "Almedia",
+   "role": "Junior Engineer (TypeScript / Python / DevOps / AI)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 78,
+   "apply_url": "https://www.linkedin.com/jobs/view/4479059846",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3008,7 +3024,8 @@
    "2026-11-02_almedia_ai-full-stack-engineer",
    "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
    "2026-11-04_quantumblack_software-engineer",
-   "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme"
+   "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme",
+   "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",

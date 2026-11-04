@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai",
+ "date": "2026-11-05",
+ "prepared_at": 1793823146,
+ "company": "Almedia",
+ "role": "Junior Engineer (TypeScript / Python / DevOps / AI)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "English documents; Berlin on-site; AI track; gaps: TypeScript/Node, GitHub Actions; reused planned project Growth Ops Assistant (CV only); no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4479059846",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4479059846",
+ "contact": "",
+ "verdict": "Applying on the AI track. Strong match: hands-on LLM/agent work in production (Kniit, Covestro), Python back ends, root-cause and measurement habit, daily Claude Code use. Junior level fits. Gaps are TypeScript/Node and DevOps tooling.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Almedia.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Almedia.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-ops-mcp-server.md"
+ ],
+ "build": "ops-mcp-server",
+ "found_by_scout": false
+}
