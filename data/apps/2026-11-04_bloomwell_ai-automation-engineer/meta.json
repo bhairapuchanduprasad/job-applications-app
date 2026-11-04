@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-04_bloomwell_ai-automation-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793805861,
+ "company": "Bloomwell",
+ "role": "AI Automation Engineer (m/w/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "German documents; Frankfurt hybrid (3 office days); very good German asked (have B1, top gap); gaps: TypeScript/Node.js, HubSpot/Slack/Jira, GDPR; posting asks GitHub link + short process proposal; reused planned project Ops MCP Server; no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485063767",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485063767",
+ "contact": "",
+ "verdict": "Strong match on agents, MCP, LLM tool use, Python backends, working with business experts; weaker on TypeScript/Node.js and the named tools (HubSpot, Slack, Jira).",
+ "gaps": [
+  "German: JD says \"sehr gute Deutsch- und Englischkenntnisse\" (not C1). Documents ",
+  "TypeScript/Node.js, HubSpot, Slack, Jira: stated as new in the letter; planned p",
+  "GDPR: no confirmed experience, not claimed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Bloomwell.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Bloomwell.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-ops-mcp-server.md"
+ ],
+ "build": "ops-mcp-server",
+ "found_by_scout": false
+}

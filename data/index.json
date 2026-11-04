@@ -1,5 +1,5 @@
 {
- "generated": 1793805483.696057,
+ "generated": 1793805863.068714,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2736,6 +2736,38 @@
    "build": "customer-ai-pilot-kit",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_thalia_ai-engineer-generative-ki",
+   "date": "2026-11-04",
+   "prepared_at": 1793805705,
+   "company": "Thalia Bücher",
+   "role": "AI Engineer – Schwerpunkt Generative KI Systeme (m/w/d)",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Münster",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4479577445",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-citations-permissions",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_bloomwell_ai-automation-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793805861,
+   "company": "Bloomwell",
+   "role": "AI Automation Engineer (m/w/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Frankfurt am Main",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485063767",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -2798,7 +2830,8 @@
    "2026-10-25_chrono24_ai-solution-engineer",
    "2026-11-02_almedia_ai-full-stack-engineer",
    "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
-   "2026-11-04_quantumblack_software-engineer"
+   "2026-11-04_quantumblack_software-engineer",
+   "2026-11-04_bloomwell_ai-automation-engineer"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",
@@ -2996,6 +3029,9 @@
   ],
   "social-mention-enrichment": [
    "2026-11-04_meltwater_ai-engineer"
+  ],
+  "knowledge-assistant-citations-permissions": [
+   "2026-11-04_thalia_ai-engineer-generative-ki"
   ]
  }
 }

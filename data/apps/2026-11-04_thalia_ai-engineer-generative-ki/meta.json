@@ -1,0 +1,49 @@
+{
+ "folder": "2026-11-04_thalia_ai-engineer-generative-ki",
+ "date": "2026-11-04",
+ "prepared_at": 1793805705,
+ "company": "Thalia Bücher",
+ "role": "AI Engineer – Schwerpunkt Generative KI Systeme (m/w/d)",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-citations-permissions",
+ "notes": "German documents; Münster; very good German required (have B1, top gap); gaps: diffusion models, GCP; reused planned project Wissensassistent; no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Münster",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4479577445",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4479577445",
+ "contact": "",
+ "verdict": "Strong on LLMs, RAG, prompt engineering, Python, Docker, Git, fine-tuning (QLoRA), cloud deployment. Main risks: \"sehr gute Deutschkenntnisse\" (have B1), no diffusion models, GCP not used.",
+ "gaps": [
+  "German (top gap): documents written in German (German posting that requires Germ",
+  "Diffusion models / multimodal and GCP: named openly in the letter, no claims."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Thalia.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Thalia.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "knowledge-assistant-citations-permissions",
+ "found_by_scout": false
+}
