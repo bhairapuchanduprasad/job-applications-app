@@ -1,5 +1,5 @@
 {
- "generated": 1793823707.038808,
+ "generated": 1793823862.711477,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3008,6 +3008,22 @@
    "build": "agent-eval-harness",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_skaylink_copilot-studio-ai-solutions-consultant",
+   "date": "2026-11-05",
+   "prepared_at": 1793823843,
+   "company": "Skaylink",
+   "role": "Microsoft Copilot Studio und AI Solutions Consultant (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Leipzig",
+   "ats": 41,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486390414",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-agent-starter-kit",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3282,6 +3298,9 @@
   ],
   "pump-sensor-anomaly": [
    "2026-11-05_wilo-group_data-scientist-ki"
+  ],
+  "azure-ai-agent-starter-kit": [
+   "2026-11-05_skaylink_copilot-studio-ai-solutions-consultant"
   ]
  }
 }
