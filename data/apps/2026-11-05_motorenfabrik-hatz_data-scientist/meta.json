@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-05_motorenfabrik-hatz_data-scientist",
+ "date": "2026-11-05",
+ "prepared_at": 1793824234,
+ "company": "Motorenfabrik Hatz (Akovis)",
+ "role": "Data Scientist (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build cell-kpi-anomaly-pipeline",
+ "notes": "German documents; Munich/Ruhstorf; gaps: German B1 vs sehr gut, Java/R/C++/MATLAB, ERP data; reused planned Cell KPI Anomaly Pipeline (CV only); salary 55k stated; no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "München",
+ "ats": 68,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486395772",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486395772",
+ "contact": "",
+ "verdict": "",
+ "gaps": [
+  "German: posting asks \"sehr gute Deutschkenntnisse\". Profile B1. Documents writte",
+  "Java, R, C/C++, MATLAB, Angular, ERP data, Jira/Confluence: not in profile; ment",
+  "Anomaly detection only as a planned project: not used as proof in letter."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_Lebenslauf_Hatz.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Anschreiben_Hatz.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "cell-kpi-anomaly-pipeline",
+ "found_by_scout": false
+}

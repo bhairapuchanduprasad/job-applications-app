@@ -1,5 +1,5 @@
 {
- "generated": 1793824066.409225,
+ "generated": 1793824236.234913,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3040,6 +3040,22 @@
    "build": "retail-demand-forecasting-optimizer",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_motorenfabrik-hatz_data-scientist",
+   "date": "2026-11-05",
+   "prepared_at": 1793824234,
+   "company": "Motorenfabrik Hatz (Akovis)",
+   "role": "Data Scientist (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "München",
+   "ats": 68,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486395772",
+   "apply_url_kind": "posting",
+   "build": "cell-kpi-anomaly-pipeline",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3218,7 +3234,8 @@
   ],
   "cell-kpi-anomaly-pipeline": [
    "2026-11-02_ericsson_graduate-ai-ml-data-engineer",
-   "2026-11-03_burckhardt-compression_machine-learning-engineer-mlops"
+   "2026-11-03_burckhardt-compression_machine-learning-engineer-mlops",
+   "2026-11-05_motorenfabrik-hatz_data-scientist"
   ],
   "agent-ready-data-platform": [
    "2026-11-02_quantumblack_data-engineering-consultant"
