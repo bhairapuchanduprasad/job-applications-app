@@ -1,5 +1,5 @@
 {
- "generated": 1793806931.12755,
+ "generated": 1793807065.3058822,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2848,6 +2848,22 @@
    "build": "spec-driven-coding-agent-harness",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme",
+   "date": "2026-11-04",
+   "prepared_at": 1793807038,
+   "company": "Fraunhofer ISST",
+   "role": "Software Engineer Datenökosysteme (Wissenschaftlicher Mitarbeiter) (all genders)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Dortmund",
+   "ats": 78,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486366389",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -2911,7 +2927,8 @@
    "2026-11-02_almedia_ai-full-stack-engineer",
    "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
    "2026-11-04_quantumblack_software-engineer",
-   "2026-11-04_bloomwell_ai-automation-engineer"
+   "2026-11-04_bloomwell_ai-automation-engineer",
+   "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",

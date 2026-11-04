@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme",
+ "date": "2026-11-04",
+ "prepared_at": 1793807038,
+ "company": "Fraunhofer ISST",
+ "role": "Software Engineer Datenökosysteme (Wissenschaftlicher Mitarbeiter) (all genders)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "German documents (posting German, \"sehr gutes Deutsch\", B1 = top gap); Dortmund; TVöD, 2y fixed term; apply via Fraunhofer portal; gaps: Java, open source/standards, data spaces",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Dortmund",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486366389",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486366389",
+ "contact": "",
+ "verdict": "Strong on AI agents, LLMs, Python, architecture, Docker/Azure/AWS. Weak on Java, open source/standards work, German level, and research/publication track record.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Fraunhofer-ISST.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Fraunhofer-ISST.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "ops-mcp-server",
+ "found_by_scout": false
+}
