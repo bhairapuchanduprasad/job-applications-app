@@ -5,8 +5,8 @@
  "company": "pyck",
  "role": "AI Software Engineer WMS (m/w/d)",
  "fit": 66,
- "status": "ready",
- "next_step": "submit",
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
  "notes": "English documents; remote-first Germany; German not stated as required (customer-facing, B1 is a possible gap); gaps: Go/GraphQL/Temporal/NATS/Flutter, ERP/EDI/WMS domain; reused planned project Order Inbox Agent (one bullet, not in letter); no web research; no reviewer pass; scout",
  "applied_date": "",
  "applied_via": "",
@@ -41,6 +41,6 @@
   }
  ],
  "briefs": [],
- "build": "",
+ "build": "order-inbox-agent",
  "found_by_scout": false
 }

@@ -1,6 +1,5 @@
 Source: https://www.linkedin.com/jobs/view/4485077313
 
-First seen: 2026-11-04
 
 - Seniority level: Associate
 - Employment type: Full-time

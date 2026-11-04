@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-04_now-gmbh_full-stack-ai-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793806913,
+ "company": "NOW GmbH",
+ "role": "Full-Stack & AI Engineer (m/w/d)",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build spec-driven-coding-agent-harness",
+ "notes": "German documents (posting German, B2 German required, B1 = top gap); Berlin; TVöD E13; apply via NOW career portal; gaps: Terraform/Amplify/ECS/Cognito/Bedrock, GitHub Actions in jobs; reused planned project Spec-Driven Coding Agent Harness (one bullet, not in letter); no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486361178",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply only via https://www.now-gmbh.de/karriere/ (posting says: only through the career portal). State earliest start: 15 Nov 2026.",
+ "source": "https://www.linkedin.com/jobs/view/4486361178",
+ "contact": "",
+ "verdict": "Real full-stack plus AI evidence (Expert Interface React + Python microservices, Covestro FastAPI/React/AWS CDK, Claude Code, RAG/agents). Weak on production AWS services named, Terraform, GitHub Actions in real jobs, and German B2.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_NOW.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_NOW.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "spec-driven-coding-agent-harness",
+ "found_by_scout": false
+}

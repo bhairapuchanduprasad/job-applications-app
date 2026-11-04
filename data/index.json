@@ -1,5 +1,5 @@
 {
- "generated": 1793806764.965707,
+ "generated": 1793806931.12755,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2414,7 +2414,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4422958388",
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2430,7 +2430,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4459689323",
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2446,7 +2446,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4484671926",
    "apply_url_kind": "posting",
    "build": "point-cloud-pipeline",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2462,7 +2462,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4484675707",
    "apply_url_kind": "posting",
    "build": "client-self-serve-portal",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2478,7 +2478,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4484697546",
    "apply_url_kind": "posting",
    "build": "invoice-capture-agent",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2494,7 +2494,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486056840",
    "apply_url_kind": "posting",
    "build": "azure-ai-rag-starter-kit",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2510,7 +2510,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486073202",
    "apply_url_kind": "posting",
    "build": "production-yield-anomaly",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2520,13 +2520,13 @@
    "company": "Accenture DACH (mindcurv)",
    "role": "(Junior) Generative AI Engineer",
    "fit": 72,
-   "status": "build-first",
+   "status": "applied",
    "city": "Hamburg",
    "ats": 76,
    "apply_url": "https://www.linkedin.com/jobs/view/4486078295",
    "apply_url_kind": "posting",
-   "build": "knowledge-assistant-permissions",
-   "applied_date": null,
+   "build": "",
+   "applied_date": "2026-11-04",
    "found_by_scout": true
   },
   {
@@ -2542,7 +2542,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486895537",
    "apply_url_kind": "posting",
    "build": "retail-demand-forecasting-optimizer",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2558,7 +2558,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487023711",
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2574,7 +2574,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487023835",
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2606,7 +2606,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4485042123",
    "apply_url_kind": "posting",
    "build": "point-cloud-pipeline",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2638,7 +2638,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487063440",
    "apply_url_kind": "posting",
    "build": "semantic-layer-metrics-agent",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2654,7 +2654,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487069736",
    "apply_url_kind": "posting",
    "build": "collections-ops-workbench",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": true
   },
   {
@@ -2686,7 +2686,7 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4417917540",
    "apply_url_kind": "posting",
    "build": "lab-requests-portal",
-   "applied_date": null,
+   "applied_date": "",
    "found_by_scout": false
   },
   {
@@ -2824,12 +2824,28 @@
    "company": "pyck",
    "role": "AI Software Engineer WMS (m/w/d)",
    "fit": 66,
-   "status": "ready",
+   "status": "build-first",
    "city": "Germany",
    "ats": 64,
    "apply_url": "https://www.linkedin.com/jobs/view/4485077313",
    "apply_url_kind": "posting",
-   "build": "",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_now-gmbh_full-stack-ai-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793806913,
+   "company": "NOW GmbH",
+   "role": "Full-Stack & AI Engineer (m/w/d)",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 78,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486361178",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-coding-agent-harness",
    "applied_date": "",
    "found_by_scout": false
   }
@@ -2933,7 +2949,8 @@
    "2026-10-29_amadeus-fire_ai-solutions-engineer",
    "2026-11-01_adesso_ai-automation-developer-sap",
    "2026-11-03_coltech_agentic-ai-coding-engineer",
-   "2026-11-03_elunic_forward-deployed-engineer"
+   "2026-11-03_elunic_forward-deployed-engineer",
+   "2026-11-04_pyck_ai-software-engineer-wms"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -3079,9 +3096,6 @@
   "production-yield-anomaly": [
    "2026-11-04_randstad-deutschland_data-engineer"
   ],
-  "knowledge-assistant-permissions": [
-   "2026-11-04_accenture-dach_junior-generative-ai-engineer"
-  ],
   "retail-demand-forecasting-optimizer": [
    "2026-11-04_mediamarktsaturn_expert-data-scientist",
    "2026-11-04_adidas_data-analyst-advanced-analytics-finance"
@@ -3103,6 +3117,9 @@
   ],
   "n8n-ai-workflow-hub": [
    "2026-11-04_jl-digital_it-consultant-cloud-ai"
+  ],
+  "spec-driven-coding-agent-harness": [
+   "2026-11-04_now-gmbh_full-stack-ai-engineer"
   ]
  }
 }
