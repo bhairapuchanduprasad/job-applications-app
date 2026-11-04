@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-04_openai_applied-ai-engineer-digital-natives",
+ "date": "2026-11-04",
+ "prepared_at": 1793805481,
+ "company": "OpenAI",
+ "role": "Applied AI Engineer, Digital Natives",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build customer-ai-pilot-kit",
+ "notes": "English documents; Munich hybrid; posting asks fluent German and English (have B1, top gap); gaps: external customer engagements, TypeScript; reused 2026-11-03 research and project; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 77,
+ "apply_url": "https://www.linkedin.com/jobs/view/4478168998",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4478168998",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_OpenAI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_OpenAI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-customer-ai-pilot-kit.md"
+ ],
+ "build": "customer-ai-pilot-kit",
+ "found_by_scout": false
+}

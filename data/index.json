@@ -1,5 +1,5 @@
 {
- "generated": 1793805392.121251,
+ "generated": 1793805483.696057,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2720,6 +2720,22 @@
    "build": "social-mention-enrichment",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_openai_applied-ai-engineer-digital-natives",
+   "date": "2026-11-04",
+   "prepared_at": 1793805481,
+   "company": "OpenAI",
+   "role": "Applied AI Engineer, Digital Natives",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 77,
+   "apply_url": "https://www.linkedin.com/jobs/view/4478168998",
+   "apply_url_kind": "posting",
+   "build": "customer-ai-pilot-kit",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -2927,7 +2943,8 @@
    "2026-11-04_datagroup_junior-solutions-consultant-ai-automatisierung"
   ],
   "customer-ai-pilot-kit": [
-   "2026-11-03_openai_technical-success"
+   "2026-11-03_openai_technical-success",
+   "2026-11-04_openai_applied-ai-engineer-digital-natives"
   ],
   "lab-requests-portal": [
    "2026-11-03_focused-energy_software-engineer",
