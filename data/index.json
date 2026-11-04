@@ -1,5 +1,5 @@
 {
- "generated": 1793822446.7342799,
+ "generated": 1793822814.228181,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2910,6 +2910,22 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4422961333",
    "apply_url_kind": "posting",
    "build": "robot-episode-ingestion",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_hdi-group_data-scientist-ai-engineer-insurance",
+   "date": "2026-11-05",
+   "prepared_at": 1793822812,
+   "company": "HDI Group",
+   "role": "Data Scientist: Advanced Analytics & AI Engineer in Insurance",
+   "fit": 55,
+   "status": "ready",
+   "city": "Cologne",
+   "ats": 39,
+   "apply_url": "https://www.linkedin.com/jobs/view/4451584842",
+   "apply_url_kind": "posting",
+   "build": "",
    "applied_date": "",
    "found_by_scout": false
   }

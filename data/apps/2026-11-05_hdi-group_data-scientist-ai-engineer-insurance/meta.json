@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-05_hdi-group_data-scientist-ai-engineer-insurance",
+ "date": "2026-11-05",
+ "prepared_at": 1793822812,
+ "company": "HDI Group",
+ "role": "Data Scientist: Advanced Analytics & AI Engineer in Insurance",
+ "fit": 55,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; Cologne; German a plus only (B1); gaps: Terraform, observability, Bedrock/SageMaker, GPU, ArgoCD/Helm; role is mostly platform/DevOps; no Projects section (page limit); no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Cologne",
+ "ats": 39,
+ "apply_url": "https://www.linkedin.com/jobs/view/4451584842",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4451584842",
+ "contact": "",
+ "verdict": "Title says data scientist / AI engineer, but the duties are MLOps / cloud-platform operations on AWS. Strong on AWS + CDK + GitLab CI + Docker; weak on Terraform, Kubernetes ops, observability, GPU.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_HDI-Group.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_HDI-Group.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false
+}
