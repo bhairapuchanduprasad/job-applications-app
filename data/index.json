@@ -1,5 +1,5 @@
 {
- "generated": 1793825152.13091,
+ "generated": 1793825394.551211,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3120,6 +3120,22 @@
    "build": "agent-eval-harness",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_taskverse-senacor_data-scientist",
+   "date": "2026-11-05",
+   "prepared_at": 1793825319,
+   "company": "TaskVerse (Senacor)",
+   "role": "Data Scientist",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487247140",
+   "apply_url_kind": "posting",
+   "build": "matching-experiment-lab",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3290,7 +3306,8 @@
   ],
   "matching-experiment-lab": [
    "2026-10-29_jobgether_data-scientist-ai-experimentation",
-   "2026-11-03_kayak_data-scientist"
+   "2026-11-03_kayak_data-scientist",
+   "2026-11-05_taskverse-senacor_data-scientist"
   ],
   "canteen-menu-insights": [
    "2026-11-02_odacova_applied-ai-backend-engineer"

@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-05_taskverse-senacor_data-scientist",
+ "date": "2026-11-05",
+ "prepared_at": 1793825319,
+ "company": "TaskVerse (Senacor)",
+ "role": "Data Scientist",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build matching-experiment-lab",
+ "notes": "English documents; Germany (no city); gaps: hypothesis testing only via planned project; no stack named; reused planned Matching Experiment Lab; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Germany",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487247140",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487247140",
+ "contact": "",
+ "verdict": "Strong match on ML, statistics, evaluation and stakeholder work; the posting is generic (no stack, city or seniority numbers), and my data-science evidence is mostly older or intern-level.",
+ "gaps": [
+  "Hypothesis testing / A-B testing: no professional evidence; covered by the plann",
+  "Consulting-firm client delivery: only the Covestro AI consulting internship.",
+  "Project location and domain unknown; German may matter per project."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Senacor.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Senacor.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "matching-experiment-lab",
+ "found_by_scout": false
+}
