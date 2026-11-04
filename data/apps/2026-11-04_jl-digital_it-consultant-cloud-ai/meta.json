@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-04_jl-digital_it-consultant-cloud-ai",
+ "date": "2026-11-04",
+ "prepared_at": 1793806533,
+ "company": "JL.Digital GmbH",
+ "role": "IT-Consultant Cloud & AI (m/w/d)",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build n8n-ai-workflow-hub",
+ "notes": "English documents; Frankfurt hybrid; German 'sehr gut' (have B1, top gap); gaps: n8n, Azure landing zones/Foundry; new planned project n8n AI Workflow Hub; no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt",
+ "ats": 89,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485076345",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485076345",
+ "contact": "",
+ "verdict": "Strong match on LLM/agents, Claude Code, RAG, API work and consulting; gaps on n8n, Azure landing zones/Foundry hands-on, and \"sehr gute\" German.",
+ "gaps": [
+  "German \"sehr gute Deutschkenntnisse\" (B1 only): documents in English, level stat",
+  "n8n: not claimed; letter says no customer project yet; planned project n8n AI Wo",
+  "Azure landing zones, networking, identity, Azure AI Foundry: not claimed. Planne",
+  "PowerShell, JavaScript: not in profile."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_JL-Digital.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_JL-Digital.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-n8n-ai-workflow-hub.md"
+ ],
+ "build": "n8n-ai-workflow-hub",
+ "found_by_scout": false
+}

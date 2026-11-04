@@ -1,5 +1,5 @@
 {
- "generated": 1793806236.135085,
+ "generated": 1793806535.8323,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2800,6 +2800,22 @@
    "build": "retail-demand-forecasting-optimizer",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_jl-digital_it-consultant-cloud-ai",
+   "date": "2026-11-04",
+   "prepared_at": 1793806533,
+   "company": "JL.Digital GmbH",
+   "role": "IT-Consultant Cloud & AI (m/w/d)",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Frankfurt",
+   "ats": 89,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485076345",
+   "apply_url_kind": "posting",
+   "build": "n8n-ai-workflow-hub",
+   "applied_date": "",
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3068,6 +3084,9 @@
   ],
   "odoo-service-tool-bridge": [
    "2026-11-04_smartvelo_ki-automatisierung-engineer"
+  ],
+  "n8n-ai-workflow-hub": [
+   "2026-11-04_jl-digital_it-consultant-cloud-ai"
   ]
  }
 }
