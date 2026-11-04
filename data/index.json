@@ -1,5 +1,5 @@
 {
- "generated": 1793806535.8323,
+ "generated": 1793806764.965707,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2814,6 +2814,22 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4485076345",
    "apply_url_kind": "posting",
    "build": "n8n-ai-workflow-hub",
+   "applied_date": "",
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_pyck_ai-software-engineer-wms",
+   "date": "2026-11-04",
+   "prepared_at": 1793806763,
+   "company": "pyck",
+   "role": "AI Software Engineer WMS (m/w/d)",
+   "fit": 66,
+   "status": "ready",
+   "city": "Germany",
+   "ats": 64,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485077313",
+   "apply_url_kind": "posting",
+   "build": "",
    "applied_date": "",
    "found_by_scout": false
   }

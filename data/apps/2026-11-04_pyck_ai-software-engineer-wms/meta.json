@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-04_pyck_ai-software-engineer-wms",
+ "date": "2026-11-04",
+ "prepared_at": 1793806763,
+ "company": "pyck",
+ "role": "AI Software Engineer WMS (m/w/d)",
+ "fit": 66,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; remote-first Germany; German not stated as required (customer-facing, B1 is a possible gap); gaps: Go/GraphQL/Temporal/NATS/Flutter, ERP/EDI/WMS domain; reused planned project Order Inbox Agent (one bullet, not in letter); no web research; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 64,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485077313",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485077313",
+ "contact": "",
+ "verdict": "Good match on AI-assisted development, APIs and customer-facing consulting; gaps in the named stack (Go, GraphQL, Temporal, NATS, Flutter) and warehouse/ERP/EDI integrations.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_pyck.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_pyck.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false
+}
