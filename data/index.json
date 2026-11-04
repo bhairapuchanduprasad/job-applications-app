@@ -1,5 +1,5 @@
 {
- "generated": 1793750481.648928,
+ "generated": 1793750503.132362,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2602,7 +2602,7 @@
    "fit": 52,
    "status": "build-first",
    "city": "Karlsruhe",
-   "ats": 33,
+   "ats": 44,
    "apply_url": "https://www.linkedin.com/jobs/view/4485042123",
    "apply_url_kind": "posting",
    "build": "point-cloud-pipeline",
