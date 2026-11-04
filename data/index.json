@@ -1,5 +1,5 @@
 {
- "generated": 1793804756.114126,
+ "generated": 1793804877.9350069,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -2672,6 +2672,22 @@
    "build": "voice-receptionist-agent",
    "applied_date": "",
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-04_voiceline_forward-deployed-engineer",
+   "date": "2026-11-04",
+   "prepared_at": 1793804876,
+   "company": "VoiceLine",
+   "role": "Forward Deployed Engineer (f/m/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 42,
+   "apply_url": "https://www.linkedin.com/jobs/view/4417917540",
+   "apply_url_kind": "posting",
+   "build": "lab-requests-portal",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -2881,7 +2897,8 @@
    "2026-11-03_openai_technical-success"
   ],
   "lab-requests-portal": [
-   "2026-11-03_focused-energy_software-engineer"
+   "2026-11-03_focused-energy_software-engineer",
+   "2026-11-04_voiceline_forward-deployed-engineer"
   ],
   "ai-output-quality-gates": [
    "2026-11-03_reprisk_software-engineer-quality-engineering"

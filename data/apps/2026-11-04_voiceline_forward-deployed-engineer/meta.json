@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-04_voiceline_forward-deployed-engineer",
+ "date": "2026-11-04",
+ "prepared_at": 1793804876,
+ "company": "VoiceLine",
+ "role": "Forward Deployed Engineer (f/m/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build lab-requests-portal",
+ "notes": "English documents; Munich; German fluent/advanced asked (have B1); gaps: CRM, SAML, security compliance; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Munich",
+ "ats": 42,
+ "apply_url": "https://www.linkedin.com/jobs/view/4417917540",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4417917540",
+ "contact": "",
+ "verdict": "Hands-on integration/backend role with customer contact; my Python/FastAPI/Azure/Docker and stakeholder work fit, but CRM, SSO/SAML, security-compliance and fluent German are gaps.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_VoiceLine.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_VoiceLine.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "lab-requests-portal",
+ "found_by_scout": false
+}
