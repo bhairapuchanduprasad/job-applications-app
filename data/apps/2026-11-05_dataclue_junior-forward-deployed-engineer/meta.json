@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_dataclue_junior-forward-deployed-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793853160,
+ "company": "DataClue.ai",
+ "role": "Junior Forward Deployed Engineer: Software Development & Applied AI (m/w/d)",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "German documents; Grünwald (CV: München); gap: German B1 vs sehr gut, TypeScript, ERP/CRM/M365 integration; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "München",
+ "ats": 67,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485568011",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485568011",
+ "contact": "",
+ "verdict": "Junior FDE with Python, LLM agents and client contact is a good match; German \"sehr gut\" and TypeScript are the gaps.",
+ "gaps": [
+  "German: posting asks \"sehr gute Deutschkenntnisse\"; B1 stated openly in CV and l",
+  "TypeScript: letter states limited experience; CV lists it only inside the planne",
+  "ERP/CRM/Power BI/M365: stated as not yet done in the letter; not on CV."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_Lebenslauf_DataClue.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Anschreiben_DataClue.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": false
+}

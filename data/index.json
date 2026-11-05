@@ -1,5 +1,5 @@
 {
- "generated": 1793852993.619984,
+ "generated": 1793853161.818203,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3296,6 +3296,22 @@
    "build": "text2sql-analytics-agent",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_dataclue_junior-forward-deployed-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793853160,
+   "company": "DataClue.ai",
+   "role": "Junior Forward Deployed Engineer: Software Development & Applied AI (m/w/d)",
+   "fit": 68,
+   "status": "build-first",
+   "city": "München",
+   "ats": 67,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485568011",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3403,7 +3419,8 @@
    "2026-10-29_amadeus-fire_ai-solutions-engineer",
    "2026-11-01_adesso_ai-automation-developer-sap",
    "2026-11-03_coltech_agentic-ai-coding-engineer",
-   "2026-11-03_elunic_forward-deployed-engineer"
+   "2026-11-03_elunic_forward-deployed-engineer",
+   "2026-11-05_dataclue_junior-forward-deployed-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
