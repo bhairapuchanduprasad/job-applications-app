@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_continental-industry_ai-digitalization-engineer-manufacturing",
+ "date": "2026-11-05",
+ "prepared_at": 1793880556,
+ "company": "Continental Industry",
+ "role": "AI & Digitalization Engineer - Manufacturing (m/f/diverse)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "German docs; \"sehr gute Deutsch\" vs B1 top gap; Hannover; SAP/HANA gap; no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hannover",
+ "ats": 53,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486591689",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486591689",
+ "contact": "",
+ "verdict": "Entry-level AI/digitalization role for a plant; strong on Python/ML/data and industrial data (Covestro), weaker on SAP/HANA, plant operations, business cases, and German (\"sehr gute Deutsch\").",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Continental.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Continental.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutsch- sowie sehr gute Englischkenntnisse",
+ "jd_lang": "German"
+}

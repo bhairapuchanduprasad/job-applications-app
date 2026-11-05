@@ -1,5 +1,5 @@
 {
- "generated": 1793880268.8085299,
+ "generated": 1793880557.8598359,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3960,6 +3960,24 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-05_continental-industry_ai-digitalization-engineer-manufacturing",
+   "date": "2026-11-05",
+   "prepared_at": 1793880556,
+   "company": "Continental Industry",
+   "role": "AI & Digitalization Engineer - Manufacturing (m/f/diverse)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Hannover",
+   "ats": 53,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486591689",
+   "apply_url_kind": "posting",
+   "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- sowie sehr gute Englischkenntnisse",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4045,7 +4063,8 @@
    "2026-11-03_jobgether_ai-engineer",
    "2026-11-04_koch-pac-systeme_cloud-ai-software-developer",
    "2026-11-04_deloitte_consultant-ai-operations",
-   "2026-11-04_progroup_betriebsingenieur-ki-anwendungen"
+   "2026-11-04_progroup_betriebsingenieur-ki-anwendungen",
+   "2026-11-05_continental-industry_ai-digitalization-engineer-manufacturing"
   ],
   "energy-service-agent": [
    "2026-10-22_kraken_software-engineer-autonomous-agents",
