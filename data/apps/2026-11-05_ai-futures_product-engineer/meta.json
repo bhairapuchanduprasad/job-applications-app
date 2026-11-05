@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_ai-futures_product-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793880250,
+ "company": "AI Futures",
+ "role": "Product Engineer",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent and llm-gateway",
+ "notes": "Berlin on-site; recruiter, employer confidential; related to Founding Engineer role at same recruiter; TypeScript gap; no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 67,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485598875",
+ "apply_url_kind": "posting",
+ "apply_hint": "Status: build-first (Order Inbox Agent, LLM Gateway). Apply via https://www.linkedin.com/jobs/view/4485598875. Ask the recruiter if this is the same startup as the Founding Engineer role.",
+ "source": "https://www.linkedin.com/jobs/view/4485598875",
+ "contact": "",
+ "verdict": "Full-stack, LLM/agent features and AI-assisted development (Claude Code) match well. Gaps: TypeScript/JavaScript product frontends (CV says React beginner), no customer-facing 0→1 product launched, and Mid-Senior level. On-site Berlin.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_AI-Futures.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_AI-Futures.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "order-inbox-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

@@ -1,5 +1,5 @@
 {
- "generated": 1793880166.8991349,
+ "generated": 1793880252.3383412,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3942,6 +3942,24 @@
    "found_by_scout": false,
    "german": "sehr gutes Deutsch und gutes Englisch",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_ai-futures_product-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793880250,
+   "company": "AI Futures",
+   "role": "Product Engineer",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 67,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485598875",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -4048,7 +4066,8 @@
    "2026-10-29_amadeus-fire_ai-solutions-engineer",
    "2026-11-01_adesso_ai-automation-developer-sap",
    "2026-11-03_coltech_agentic-ai-coding-engineer",
-   "2026-11-03_elunic_forward-deployed-engineer"
+   "2026-11-03_elunic_forward-deployed-engineer",
+   "2026-11-05_ai-futures_product-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
