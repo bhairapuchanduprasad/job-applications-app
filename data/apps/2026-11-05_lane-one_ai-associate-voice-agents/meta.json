@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_lane-one_ai-associate-voice-agents",
+ "date": "2026-11-05",
+ "prepared_at": 1793896380,
+ "company": "Lane One",
+ "role": "AI Associate - Voice-Agents (m/w/d)",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build shop-support-agent",
+ "notes": "Berlin; German docs; German B1 vs fließend; no voice/telephony or customer-success experience; ATS 40% on honest-gap keywords; reused Shop Support Agent project; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 40,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486771254",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486771254",
+ "contact": "",
+ "verdict": "Agent building with MCP tools, REST APIs and requirements translation match well; fluent German, customer workshops and voice experience are missing.",
+ "gaps": [
+  "German: B1 vs \"fließend\". Stated honestly in the letter. Interviews likely in Ge",
+  "Voice agents / telephony and go-live customer care: named openly in the letter, ",
+  "Role is customer-facing implementation with strong client communication, not pur"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Lane-One.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Lane-One.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "shop-support-agent",
+ "found_by_scout": false,
+ "german": "Sprachen: Deutsch und Englisch fließend",
+ "jd_lang": "German"
+}

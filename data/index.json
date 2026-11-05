@@ -1,5 +1,5 @@
 {
- "generated": 1793896222.409848,
+ "generated": 1793896382.927168,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4230,6 +4230,24 @@
    "found_by_scout": false,
    "german": "Language skills: business fluency in German and English.",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-05_lane-one_ai-associate-voice-agents",
+   "date": "2026-11-05",
+   "prepared_at": 1793896380,
+   "company": "Lane One",
+   "role": "AI Associate - Voice-Agents (m/w/d)",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 40,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486771254",
+   "apply_url_kind": "posting",
+   "build": "shop-support-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sprachen: Deutsch und Englisch fließend",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4256,7 +4274,8 @@
   ],
   "shop-support-agent": [
    "2026-10-16_snocks_junior-ai-engineer",
-   "2026-11-03_maorika_ai-automation-infrastructure-specialist"
+   "2026-11-03_maorika_ai-automation-infrastructure-specialist",
+   "2026-11-05_lane-one_ai-associate-voice-agents"
   ],
   "meter-read-plausibility-agent": [
    "2026-10-16_sap_ai-engineer-development-expert"
