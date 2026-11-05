@@ -1,5 +1,5 @@
 {
- "generated": 1793852845.8087199,
+ "generated": 1793852993.619984,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3280,6 +3280,22 @@
    "build": "ai-gateway-platform",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_databricks_ai-forward-deployed-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793852991,
+   "company": "Databricks",
+   "role": "AI Forward Deployed Engineer",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 65,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485545086",
+   "apply_url_kind": "posting",
+   "build": "text2sql-analytics-agent",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3574,6 +3590,9 @@
   ],
   "customer-service-assistant-aws": [
    "2026-11-05_slalom_aws-ai-engineer"
+  ],
+  "text2sql-analytics-agent": [
+   "2026-11-05_databricks_ai-forward-deployed-engineer"
   ]
  }
 }

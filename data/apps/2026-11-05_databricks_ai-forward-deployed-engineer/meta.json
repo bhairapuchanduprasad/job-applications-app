@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_databricks_ai-forward-deployed-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793852991,
+ "company": "Databricks",
+ "role": "AI Forward Deployed Engineer",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build text2sql-analytics-agent",
+ "notes": "English documents; Munich; gap: 3 vs min 4 yrs, Databricks/Spark, DSPy, Text2SQL; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Munich",
+ "ats": 65,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485545086",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485545086",
+ "contact": "",
+ "verdict": "Strong match on GenAI/RAG/multi-agent, evaluation, AWS/Azure and customer-facing work; below on years (3 vs min 4), Databricks/Spark, DSPy, Text2SQL.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Databricks.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Databricks.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-text2sql-analytics-agent.md"
+ ],
+ "build": "text2sql-analytics-agent",
+ "found_by_scout": false
+}
