@@ -45,5 +45,6 @@
  ],
  "build": "agent-eval-harness",
  "found_by_scout": true,
- "german": "Du sprichst hervorragend Deutsch und gut Englisch."
+ "german": "Du sprichst hervorragend Deutsch und gut Englisch.",
+ "jd_lang": "German"
 }

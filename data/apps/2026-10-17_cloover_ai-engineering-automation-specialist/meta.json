@@ -49,5 +49,6 @@
  ],
  "build": "ops-mcp-server",
  "found_by_scout": false,
- "german": "Nice to have: hands-on MCP, Claude Code, or agentic frameworks (LangChain, CrewAI, Google ADK); German B1 or above (Ops & Energy team)."
+ "german": "Nice to have: hands-on MCP, Claude Code, or agentic frameworks (LangChain, CrewAI, Google ADK); German B1 or above (Ops & Energy team).",
+ "jd_lang": "English"
 }

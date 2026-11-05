@@ -45,5 +45,6 @@
  ],
  "build": "clinical-info-assistant",
  "found_by_scout": true,
- "german": "Sprachen: Fließend Deutsch und sehr gutes Englisch."
+ "german": "Sprachen: Fließend Deutsch und sehr gutes Englisch.",
+ "jd_lang": "German"
 }

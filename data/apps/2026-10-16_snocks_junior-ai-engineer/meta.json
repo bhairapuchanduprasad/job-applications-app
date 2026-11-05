@@ -50,5 +50,6 @@
  ],
  "build": "shop-support-agent",
  "found_by_scout": false,
- "german": "Sprache: Englisch mind. C1 (Teamkommunikation), Deutsch mind. B1."
+ "german": "Sprache: Englisch mind. C1 (Teamkommunikation), Deutsch mind. B1.",
+ "jd_lang": "German"
 }

@@ -43,5 +43,6 @@
  "briefs": [],
  "build": "clinical-info-assistant",
  "found_by_scout": true,
- "german": "Englischkenntnisse mindestens auf C1-Niveau; Deutschkenntnisse auf B1-Niveau sind wünschenswert."
+ "german": "Englischkenntnisse mindestens auf C1-Niveau; Deutschkenntnisse auf B1-Niveau sind wünschenswert.",
+ "jd_lang": "German"
 }

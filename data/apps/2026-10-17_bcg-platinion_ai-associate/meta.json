@@ -50,5 +50,6 @@
  ],
  "build": "spec-driven-agent-harness",
  "found_by_scout": false,
- "german": "You are fluent in both German and English and can confidently understand and communicate complex topics in both languages"
+ "german": "You are fluent in both German and English and can confidently understand and communicate complex topics in both languages",
+ "jd_lang": "English"
 }

@@ -43,5 +43,6 @@
  "briefs": [],
  "build": "spec-driven-agent-harness",
  "found_by_scout": true,
- "german": "Gutes Deutsch für den Kundenkontakt, Englisch für die Technik"
+ "german": "Gutes Deutsch für den Kundenkontakt, Englisch für die Technik",
+ "jd_lang": "German"
 }

@@ -45,5 +45,6 @@
  ],
  "build": "dealflow-sourcing-engine",
  "found_by_scout": true,
- "german": "Du sprichst verhandlungssicher Deutsch und Englisch."
+ "german": "Du sprichst verhandlungssicher Deutsch und Englisch.",
+ "jd_lang": "German"
 }

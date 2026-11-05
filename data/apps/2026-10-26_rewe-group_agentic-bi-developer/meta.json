@@ -66,5 +66,6 @@
  ],
  "build": "semantic-analytics-agent",
  "found_by_scout": true,
- "german": "Du vermittelst technische Themen adressatengerecht – von Engineer bis Management - und das sicher in Deutsch und Englisch"
+ "german": "Du vermittelst technische Themen adressatengerecht – von Engineer bis Management - und das sicher in Deutsch und Englisch",
+ "jd_lang": "German"
 }

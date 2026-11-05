@@ -43,5 +43,6 @@
  "briefs": [],
  "build": "spec-driven-coding-agent-harness",
  "found_by_scout": false,
- "german": "Du verfügst über Deutschkenntnisse auf mindestens B2-Niveau."
+ "german": "Du verfügst über Deutschkenntnisse auf mindestens B2-Niveau.",
+ "jd_lang": "German"
 }

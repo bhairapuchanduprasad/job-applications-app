@@ -48,5 +48,6 @@
  ],
  "build": "self-hosted-llm-inference",
  "found_by_scout": true,
- "german": "…er und kannst komplexe technische Themen verständlich vermitteln. Auf Deutsch und Englisch bewegst du dich sicher."
+ "german": "…er und kannst komplexe technische Themen verständlich vermitteln. Auf Deutsch und Englisch bewegst du dich sicher.",
+ "jd_lang": "German"
 }

@@ -70,5 +70,6 @@
  ],
  "build": "agent-eval-harness",
  "found_by_scout": true,
- "german": "Deutsch sehr gut, Englisch gut"
+ "german": "Deutsch sehr gut, Englisch gut",
+ "jd_lang": "German"
 }

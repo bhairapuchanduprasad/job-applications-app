@@ -47,5 +47,6 @@
  "briefs": [],
  "build": "product-qa-assistant",
  "found_by_scout": true,
- "german": "Fehlerfreie schriftliche Ausdrucksweise auf Deutsch"
+ "german": "Fehlerfreie schriftliche Ausdrucksweise auf Deutsch",
+ "jd_lang": "German"
 }

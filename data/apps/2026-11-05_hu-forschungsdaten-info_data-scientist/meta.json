@@ -45,5 +45,6 @@
  ],
  "build": "point-cloud-pipeline",
  "found_by_scout": false,
- "german": "Very good English, written and spoken. (German not mentioned.)"
+ "german": "Very good English, written and spoken. (German not mentioned.)",
+ "jd_lang": "English"
 }

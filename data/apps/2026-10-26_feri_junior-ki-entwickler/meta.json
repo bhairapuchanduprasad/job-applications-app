@@ -66,5 +66,6 @@
  ],
  "build": "quality-process-copilot",
  "found_by_scout": true,
- "german": "Sprachen: Sehr gute Deutsch- und gute Englischkenntnisse"
+ "german": "Sprachen: Sehr gute Deutsch- und gute Englischkenntnisse",
+ "jd_lang": "German"
 }

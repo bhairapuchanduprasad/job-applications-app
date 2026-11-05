@@ -50,5 +50,6 @@
  ],
  "build": "n8n-ai-workflow-hub",
  "found_by_scout": false,
- "german": "Sehr gute Deutsch- und gute Englischkenntnisse (schriftlich & mündlich)"
+ "german": "Sehr gute Deutsch- und gute Englischkenntnisse (schriftlich & mündlich)",
+ "jd_lang": "German"
 }

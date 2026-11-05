@@ -49,5 +49,6 @@
  ],
  "build": "agent-eval-harness",
  "found_by_scout": false,
- "german": "You're fluent in German and English."
+ "german": "You're fluent in German and English.",
+ "jd_lang": "English"
 }

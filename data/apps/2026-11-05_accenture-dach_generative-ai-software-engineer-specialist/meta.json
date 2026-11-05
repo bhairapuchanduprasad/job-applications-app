@@ -43,5 +43,6 @@
  "briefs": [],
  "build": "llm-gateway",
  "found_by_scout": false,
- "german": "German language good to have, but not mandatory."
+ "german": "German language good to have, but not mandatory.",
+ "jd_lang": "English"
 }

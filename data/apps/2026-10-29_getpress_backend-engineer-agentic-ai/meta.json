@@ -45,5 +45,6 @@
  ],
  "build": "order-inbox-agent",
  "found_by_scout": true,
- "german": "C1-Deutschkenntnisse sind von Vorteil, B2-Niveau ist ausreichend (mit Motivation in deinem ersten Arbeitsjahr den Kurs zu C1 zu machen)"
+ "german": "C1-Deutschkenntnisse sind von Vorteil, B2-Niveau ist ausreichend (mit Motivation in deinem ersten Arbeitsjahr den Kurs zu C1 zu machen)",
+ "jd_lang": "German"
 }

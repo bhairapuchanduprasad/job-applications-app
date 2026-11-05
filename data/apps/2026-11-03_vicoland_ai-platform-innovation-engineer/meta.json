@@ -50,5 +50,6 @@
  ],
  "build": "agent-eval-harness",
  "found_by_scout": true,
- "german": "Professional proficiency in German."
+ "german": "Professional proficiency in German.",
+ "jd_lang": "English"
 }

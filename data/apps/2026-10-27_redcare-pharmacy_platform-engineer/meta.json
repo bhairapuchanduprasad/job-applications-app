@@ -45,5 +45,6 @@
  ],
  "build": "llm-gateway",
  "found_by_scout": true,
- "german": "Fluency in English; German language skills are a plus."
+ "german": "Fluency in English; German language skills are a plus.",
+ "jd_lang": "English"
 }

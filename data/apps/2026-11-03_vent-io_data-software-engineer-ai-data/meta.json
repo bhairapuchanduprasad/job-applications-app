@@ -45,5 +45,6 @@
  ],
  "build": "leasing-document-extraction",
  "found_by_scout": true,
- "german": "Du kommunizierst sehr gut auf Deutsch und Englisch"
+ "german": "Du kommunizierst sehr gut auf Deutsch und Englisch",
+ "jd_lang": "German"
 }

@@ -45,5 +45,6 @@
  ],
  "build": "genai-service-spring-angular",
  "found_by_scout": true,
- "german": "Sprachen: Deutsch und Englisch fließend"
+ "german": "Sprachen: Deutsch und Englisch fließend",
+ "jd_lang": "German"
 }

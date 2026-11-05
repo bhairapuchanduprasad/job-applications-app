@@ -45,5 +45,6 @@
  ],
  "build": "spec-driven-agent-harness",
  "found_by_scout": true,
- "german": "…nfortunately, applications without a valid work permit and sufficient German language skills may not be considered."
+ "german": "…nfortunately, applications without a valid work permit and sufficient German language skills may not be considered.",
+ "jd_lang": "German"
 }

@@ -48,5 +48,6 @@
  "briefs": [],
  "build": "order-inbox-agent",
  "found_by_scout": true,
- "german": "We work in English. German helps for customer calls but isn't required. We have native speakers for that."
+ "german": "We work in English. German helps for customer calls but isn't required. We have native speakers for that.",
+ "jd_lang": "English"
 }

@@ -45,5 +45,6 @@
  ],
  "build": "azure-ai-rag-starter-kit",
  "found_by_scout": true,
- "german": "Sprachkenntnisse: Deine sehr guten Deutsch- und guten Englischkenntnisse ermöglichen dir eine sichere Kommunikation."
+ "german": "Sprachkenntnisse: Deine sehr guten Deutsch- und guten Englischkenntnisse ermöglichen dir eine sichere Kommunikation.",
+ "jd_lang": "German"
 }

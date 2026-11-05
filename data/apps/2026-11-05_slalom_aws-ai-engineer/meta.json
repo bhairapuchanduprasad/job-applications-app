@@ -49,5 +49,6 @@
  ],
  "build": "customer-service-assistant-aws",
  "found_by_scout": false,
- "german": "Verhandlungssicheres Deutsch und Englisch in Wort und Schrift"
+ "german": "Verhandlungssicheres Deutsch und Englisch in Wort und Schrift",
+ "jd_lang": "German"
 }

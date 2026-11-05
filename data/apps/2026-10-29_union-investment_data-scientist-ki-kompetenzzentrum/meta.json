@@ -45,5 +45,6 @@
  ],
  "build": "payment-fraud-detection",
  "found_by_scout": true,
- "german": "Erfahrung mit Git und idealerweise CI/CD; Azure-Kenntnisse sowie sehr gute Deutschkenntnisse"
+ "german": "Erfahrung mit Git und idealerweise CI/CD; Azure-Kenntnisse sowie sehr gute Deutschkenntnisse",
+ "jd_lang": "German"
 }

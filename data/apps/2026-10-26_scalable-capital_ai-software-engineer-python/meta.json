@@ -66,5 +66,6 @@
  ],
  "build": "llm-gateway",
  "found_by_scout": true,
- "german": "No mention of German"
+ "german": "No mention of German",
+ "jd_lang": "English"
 }

@@ -45,5 +45,6 @@
  ],
  "build": "semantic-analytics-agent",
  "found_by_scout": true,
- "german": "Du bist kommunikationsstark und hast die Fähigkeit, komplexe Themen verständlich zu vermitteln, fließend in Deutsch und sehr gut auf Englisch."
+ "german": "Du bist kommunikationsstark und hast die Fähigkeit, komplexe Themen verständlich zu vermitteln, fließend in Deutsch und sehr gut auf Englisch.",
+ "jd_lang": "German"
 }

@@ -50,5 +50,6 @@
  ],
  "build": "agent-eval-harness",
  "found_by_scout": true,
- "german": "Exzellentes Englisch. Deutsch ist von Vorteil."
+ "german": "Exzellentes Englisch. Deutsch ist von Vorteil.",
+ "jd_lang": "German"
 }

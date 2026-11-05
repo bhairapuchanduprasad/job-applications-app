@@ -45,5 +45,6 @@
  ],
  "build": "autohaus-service-agent",
  "found_by_scout": false,
- "german": "No mention of German"
+ "german": "No mention of German",
+ "jd_lang": "German"
 }

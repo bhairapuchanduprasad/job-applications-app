@@ -50,5 +50,6 @@
  ],
  "build": "ops-mcp-server",
  "found_by_scout": true,
- "german": "Language: Very good German and English skills."
+ "german": "Language: Very good German and English skills.",
+ "jd_lang": "English"
 }

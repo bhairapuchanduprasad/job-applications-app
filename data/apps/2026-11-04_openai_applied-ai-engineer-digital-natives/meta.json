@@ -45,5 +45,6 @@
  ],
  "build": "customer-ai-pilot-kit",
  "found_by_scout": false,
- "german": "Are fluent in both German and English"
+ "german": "Are fluent in both German and English",
+ "jd_lang": "English"
 }

@@ -49,5 +49,6 @@
  ],
  "build": "agent-ready-data-platform",
  "found_by_scout": false,
- "german": "English and German (written and spoken), and"
+ "german": "English and German (written and spoken), and",
+ "jd_lang": "English"
 }

@@ -49,5 +49,6 @@
  ],
  "build": "point-cloud-pipeline",
  "found_by_scout": true,
- "german": "German language skills."
+ "german": "German language skills.",
+ "jd_lang": "English"
 }

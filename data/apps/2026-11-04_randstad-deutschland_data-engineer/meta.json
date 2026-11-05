@@ -43,5 +43,6 @@
  "briefs": [],
  "build": "production-yield-anomaly",
  "found_by_scout": true,
- "german": "Gute Deutschkenntnisse in Wort und Schrift"
+ "german": "Gute Deutschkenntnisse in Wort und Schrift",
+ "jd_lang": "German"
 }

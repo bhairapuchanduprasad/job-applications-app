@@ -50,5 +50,6 @@
  ],
  "build": "knowledge-assistant-internal-docs",
  "found_by_scout": true,
- "german": "Gute Deutsch- und Englischkenntnisse in Wort und Schrift"
+ "german": "Gute Deutsch- und Englischkenntnisse in Wort und Schrift",
+ "jd_lang": "German"
 }

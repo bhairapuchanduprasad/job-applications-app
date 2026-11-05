@@ -62,5 +62,6 @@
  ],
  "build": "plant-maintenance-agent",
  "found_by_scout": true,
- "german": "Sehr gute Deutschkenntnisse in Wort und Schrift"
+ "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+ "jd_lang": "German"
 }

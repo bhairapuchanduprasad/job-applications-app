@@ -49,5 +49,6 @@
  ],
  "build": "knowledge-assistant-internal-docs",
  "found_by_scout": true,
- "german": "Very good written and spoken German for team collaboration, communication with business departments, and working with German-language technical documentation."
+ "german": "Very good written and spoken German for team collaboration, communication with business departments, and working with German-language technical documentation.",
+ "jd_lang": "English"
 }

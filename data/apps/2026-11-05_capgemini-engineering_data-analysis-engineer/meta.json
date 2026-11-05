@@ -43,5 +43,6 @@
  "briefs": [],
  "build": "cell-kpi-anomaly-pipeline",
  "found_by_scout": false,
- "german": "Sichere Deutsch- und Englischkenntnisse in Wort und Schrift."
+ "german": "Sichere Deutsch- und Englischkenntnisse in Wort und Schrift.",
+ "jd_lang": "German"
 }

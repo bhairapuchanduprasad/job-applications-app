@@ -49,5 +49,6 @@
  ],
  "build": "self-hosted-llm-platform",
  "found_by_scout": true,
- "german": "Du hast sehr gute Deutschkenntnisse in Wort und Schrift (Projektsprache ist Deutsch)."
+ "german": "Du hast sehr gute Deutschkenntnisse in Wort und Schrift (Projektsprache ist Deutsch).",
+ "jd_lang": "German"
 }

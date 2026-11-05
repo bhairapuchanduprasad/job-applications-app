@@ -70,5 +70,6 @@
  ],
  "build": "plant-maintenance-agent",
  "found_by_scout": true,
- "german": "Verhandlungssichere Deutsch- und Englischkenntnisse"
+ "german": "Verhandlungssichere Deutsch- und Englischkenntnisse",
+ "jd_lang": "German"
 }

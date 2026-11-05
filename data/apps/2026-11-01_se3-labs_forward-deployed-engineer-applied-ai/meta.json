@@ -45,5 +45,6 @@
  ],
  "build": "knowledge-assistant-mcp",
  "found_by_scout": false,
- "german": "You speak German at a fluent or professional level and can confidently work with customers in German-speaking environments."
+ "german": "You speak German at a fluent or professional level and can confidently work with customers in German-speaking environments.",
+ "jd_lang": "English"
 }

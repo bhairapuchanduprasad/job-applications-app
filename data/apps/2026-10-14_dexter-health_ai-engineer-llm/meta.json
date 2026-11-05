@@ -92,5 +92,6 @@
  ],
  "build": "care-note-structurer",
  "found_by_scout": false,
- "german": "German language skills"
+ "german": "German language skills",
+ "jd_lang": "English"
 }

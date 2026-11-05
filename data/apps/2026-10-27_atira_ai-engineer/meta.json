@@ -46,5 +46,6 @@
  ],
  "build": "agent-eval-harness",
  "found_by_scout": true,
- "german": "Full working proficiency in English. German is not required"
+ "german": "Full working proficiency in English. German is not required",
+ "jd_lang": "English"
 }

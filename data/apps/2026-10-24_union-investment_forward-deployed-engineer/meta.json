@@ -88,5 +88,6 @@
  ],
  "build": "spec-driven-agent-harness",
  "found_by_scout": true,
- "german": "No mention of German"
+ "german": "No mention of German",
+ "jd_lang": "German"
 }

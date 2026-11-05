@@ -70,5 +70,6 @@
  ],
  "build": "agent-eval-harness",
  "found_by_scout": true,
- "german": "Sehr gute Deutschkenntnisse und sehr gute Englischkenntnisse in Wort und Schrift runden dein Profil ab."
+ "german": "Sehr gute Deutschkenntnisse und sehr gute Englischkenntnisse in Wort und Schrift runden dein Profil ab.",
+ "jd_lang": "German"
 }

@@ -66,5 +66,6 @@
  ],
  "build": "client-occasion-engine",
  "found_by_scout": true,
- "german": "Sehr gute Deutsch‑ und gute Englischkenntnisse"
+ "german": "Sehr gute Deutsch‑ und gute Englischkenntnisse",
+ "jd_lang": "German"
 }

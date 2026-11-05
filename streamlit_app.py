@@ -274,11 +274,12 @@ def pdf_button(folder: str, doc: dict, key: str, label: str | None = None):
 
 
 def german_line(a: dict) -> str:
-    g = (a.get("german") or "").strip()
-    if not g:
-        return ""
-    g = g.replace("<", "&lt;").replace(">", "&gt;")
-    return f"<br>🇩🇪 <i>{g}</i>" if g != "No mention of German" else "<br>🇩🇪 No mention of German"
+    g = (a.get("german") or "").strip().replace("<", "&lt;").replace(">", "&gt;")
+    lang = {"German": "📝 German desc", "English": "📝 English desc"}.get(a.get("jd_lang", ""), "")
+    out = f"<br>{lang}" if lang else ""
+    if g:
+        out += f"<br>🇩🇪 <i>{g}</i>" if g != "No mention of German" else "<br>🇩🇪 No mention of German"
+    return out
 
 
 def chip(a: dict) -> str:
@@ -437,8 +438,9 @@ def page_detail():
     if a.get("applied_date"):
         st.caption(f"Applied {a['applied_date']} via {a.get('applied_via') or '—'}"
                    + (f" · {a['note']}" if a.get("note") else ""))
-    if m.get("german"):
-        st.caption(f"🇩🇪 German: {m['german']}")
+    if m.get("jd_lang") or m.get("german"):
+        st.caption(" · ".join(x for x in (f"📝 {m['jd_lang']} desc" if m.get("jd_lang") else "",
+                                          f"🇩🇪 German: {m['german']}" if m.get("german") else "") if x))
     if m.get("verdict"):
         st.info(m["verdict"])
     if a["status"] == "build-first":
