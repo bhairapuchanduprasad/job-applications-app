@@ -1,5 +1,5 @@
 {
- "generated": 1793894510.243519,
+ "generated": 1793894654.991193,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4068,6 +4068,24 @@
    "found_by_scout": false,
    "german": "Deutsch ist ein Plus",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_sharpist_gtm-engineer-ai-automation",
+   "date": "2026-11-05",
+   "prepared_at": 1793894652,
+   "company": "Sharpist (via Instaffo)",
+   "role": "GTM Engineer – AI Automation",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 62,
+   "apply_url": "https://www.linkedin.com/jobs/view/4451320530",
+   "apply_url_kind": "posting",
+   "build": "n8n-ai-workflow-hub",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -4349,7 +4367,8 @@
   ],
   "n8n-ai-workflow-hub": [
    "2026-11-04_jl-digital_it-consultant-cloud-ai",
-   "2026-11-05_battery-kutter_junior-software-developer-ai-automation"
+   "2026-11-05_battery-kutter_junior-software-developer-ai-automation",
+   "2026-11-05_sharpist_gtm-engineer-ai-automation"
   ],
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",

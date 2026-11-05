@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-05_sharpist_gtm-engineer-ai-automation",
+ "date": "2026-11-05",
+ "prepared_at": 1793894652,
+ "company": "Sharpist (via Instaffo)",
+ "role": "GTM Engineer – AI Automation",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build n8n-ai-workflow-hub",
+ "notes": "English docs; CRM/GTM tools gap; English C2 asked; n8n project on CV only; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 62,
+ "apply_url": "https://www.linkedin.com/jobs/view/4451320530",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4451320530",
+ "contact": "",
+ "verdict": "Solid on Python, APIs, internal tools, AI workflows and solo ownership; no hands-on CRM/GTM tools (HubSpot, Salesforce, Segment, Looker) and role is sales/marketing-ops flavoured.",
+ "gaps": [
+  "CRM/GTM tooling: stated honestly in the letter; planned n8n AI Workflow Hub proj",
+  "English \"C2\" vs my \"Business Fluent\"; JavaScript/TypeScript depth; webhooks/SaaS"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Sharpist.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Sharpist.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "n8n-ai-workflow-hub",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
