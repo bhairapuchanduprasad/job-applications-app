@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-06_headsquare-group_it-consultant",
+ "date": "2026-11-06",
+ "prepared_at": 1793908692,
+ "company": "Headsquare Group",
+ "role": "IT Consultant",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server (Versicherungs-Assistent variant)",
+ "notes": "Munich; German docs; German B1 vs sehr gut top gap; Java/C#/Angular/insurance gaps; no web research or reviewer pass; ATS ~70%; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "München",
+ "ats": 70,
+ "apply_url": "https://www.linkedin.com/jobs/view/4270253149",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4270253149",
+ "contact": "",
+ "verdict": "Strong on LLM/RAG/MCP/agents and AI-assisted development; weak on Java/C#/JS stack, Angular, insurance domain, and German (\"sehr gut\" vs B1).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Headsquare-Group.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Headsquare-Group.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "ops-mcp-server",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+ "jd_lang": "German"
+}

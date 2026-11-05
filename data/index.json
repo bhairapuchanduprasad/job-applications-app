@@ -1,5 +1,5 @@
 {
- "generated": 1793896382.927168,
+ "generated": 1793908695.135396,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4248,6 +4248,24 @@
    "found_by_scout": false,
    "german": "Sprachen: Deutsch und Englisch fließend",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_headsquare-group_it-consultant",
+   "date": "2026-11-06",
+   "prepared_at": 1793908692,
+   "company": "Headsquare Group",
+   "role": "IT Consultant",
+   "fit": 56,
+   "status": "build-first",
+   "city": "München",
+   "ats": 70,
+   "apply_url": "https://www.linkedin.com/jobs/view/4270253149",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4318,7 +4336,8 @@
    "2026-11-04_quantumblack_software-engineer",
    "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme",
    "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai",
-   "2026-11-05_empion-by-factorial_full-stack-developer-ai-systemintegration"
+   "2026-11-05_empion-by-factorial_full-stack-developer-ai-systemintegration",
+   "2026-11-06_headsquare-group_it-consultant"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",
