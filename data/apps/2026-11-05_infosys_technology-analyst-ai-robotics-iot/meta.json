@@ -1,0 +1,49 @@
+{
+ "folder": "2026-11-05_infosys_technology-analyst-ai-robotics-iot",
+ "date": "2026-11-05",
+ "prepared_at": 1793852446,
+ "company": "Infosys",
+ "role": "Technology Analyst - Digital Experience Specialist - AI Robotics IoT",
+ "fit": 52,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; Düsseldorf on-site; gap: German B1 vs fluent, robotics/IoT, design thinking; no project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Düsseldorf",
+ "ats": 32,
+ "apply_url": "https://www.linkedin.com/jobs/view/4476423309",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4476423309",
+ "contact": "",
+ "verdict": "",
+ "gaps": [
+  "Fluent German is required (top gap); documents in English.",
+  "Robotics/IoT and design thinking: stated honestly in the letter as things to lea"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Infosys.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Infosys.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false
+}
