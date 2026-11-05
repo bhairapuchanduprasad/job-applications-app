@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-05_createch-engineering_ki-experte-ki-administration",
+ "date": "2026-11-05",
+ "prepared_at": 1793866449,
+ "company": "CreaTech Engineering",
+ "role": "KI-Experte/KI-Administration",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build self-hosted-llm-inference",
+ "notes": "English documents; German posting without stated German requirement (team likely German-speaking); apply by e-mail; scout run",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Regensburg",
+ "ats": 73,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487720057",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply by e-mail with CV + short cover letter (per the posting). Build the Self-Hosted LLM Platform project before submitting (brief in this folder).",
+ "source": "https://www.linkedin.com/jobs/view/4487720057",
+ "contact": "",
+ "verdict": "Strong Python + LLM integration profile; gaps are running local LLM infrastructure in production, AI governance (EU AI Act) and likely German.",
+ "gaps": [
+  "German (B1): not stated as required, but expect German-speaking team. Mention B1",
+  "EU AI Act / data protection: leave out; do not claim. Mention willingness only i",
+  "Local LLM operations: CV lists a self-hosted LLM project (planned, no metrics). "
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_CreaTech.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_CreaTech.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-self-hosted-llm-inference.md"
+ ],
+ "build": "self-hosted-llm-inference",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

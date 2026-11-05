@@ -1,5 +1,5 @@
 {
- "generated": 1793866052.589303,
+ "generated": 1793866451.5291882,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3870,6 +3870,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-05_cgi_software-engineer-ai-engineered-development",
+   "date": "2026-11-05",
+   "prepared_at": 1793866234,
+   "company": "CGI",
+   "role": "Software Engineer – AI Engineered Development (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Düsseldorf",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487712147",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-coding-agent-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- und gute Englischkenntnisse",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_createch-engineering_ki-experte-ki-administration",
+   "date": "2026-11-05",
+   "prepared_at": 1793866449,
+   "company": "CreaTech Engineering",
+   "role": "KI-Experte/KI-Administration",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Regensburg",
+   "ats": 73,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487720057",
+   "apply_url_kind": "posting",
+   "build": "self-hosted-llm-inference",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4100,7 +4136,8 @@
    "2026-11-03_reprisk_software-engineer-quality-engineering"
   ],
   "self-hosted-llm-inference": [
-   "2026-11-03_8com_cyber-security-automation-ai-engineer"
+   "2026-11-03_8com_cyber-security-automation-ai-engineer",
+   "2026-11-05_createch-engineering_ki-experte-ki-administration"
   ],
   "radar-nowcasting": [
    "2026-11-03_wetteronline_machine-learning-engineer"
@@ -4146,7 +4183,8 @@
    "2026-11-04_jl-digital_it-consultant-cloud-ai"
   ],
   "spec-driven-coding-agent-harness": [
-   "2026-11-04_now-gmbh_full-stack-ai-engineer"
+   "2026-11-04_now-gmbh_full-stack-ai-engineer",
+   "2026-11-05_cgi_software-engineer-ai-engineered-development"
   ],
   "robot-episode-ingestion": [
    "2026-11-05_neura-robotics_platform-engineer-robot-data",
