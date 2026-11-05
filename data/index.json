@@ -1,5 +1,5 @@
 {
- "generated": 1793894654.991193,
+ "generated": 1793894935.5787551,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4086,6 +4086,24 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-05_finanz-informatik_ai-engineer-ki-entwickler",
+   "date": "2026-11-05",
+   "prepared_at": 1793894933,
+   "company": "Finanz Informatik",
+   "role": "AI Engineer / KI-Entwickler (m/w/d)",
+   "fit": 80,
+   "status": "build-first",
+   "city": "Hannover",
+   "ats": 73,
+   "apply_url": "https://www.linkedin.com/jobs/view/4460264928",
+   "apply_url_kind": "posting",
+   "build": "internal-knowledge-assistant",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Ausgeprägte kommunikative Stärken sowie die Bereitschaft, Fachwissen durch verständliche Dokumentation an andere Teams zu übertragen. (German not stated as required)",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4390,6 +4408,9 @@
   ],
   "customer-service-assistant-aws": [
    "2026-11-05_slalom_aws-ai-engineer"
+  ],
+  "internal-knowledge-assistant": [
+   "2026-11-05_finanz-informatik_ai-engineer-ki-entwickler"
   ]
  }
 }

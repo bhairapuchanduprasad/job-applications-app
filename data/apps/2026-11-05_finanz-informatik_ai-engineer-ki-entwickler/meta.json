@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-05_finanz-informatik_ai-engineer-ki-entwickler",
+ "date": "2026-11-05",
+ "prepared_at": 1793894933,
+ "company": "Finanz Informatik",
+ "role": "AI Engineer / KI-Entwickler (m/w/d)",
+ "fit": 80,
+ "status": "build-first",
+ "next_step": "build internal-knowledge-assistant",
+ "notes": "Hannover; English docs; LlamaIndex gap; 3y exp borderline; second Finanz Informatik application (other: Data Scientist Compliance); LLM cert dropped for page count; scout; Kennziffer E362/B",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hannover",
+ "ats": 73,
+ "apply_url": "https://www.linkedin.com/jobs/view/4460264928",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4460264928",
+ "contact": "",
+ "verdict": "Strong match on agents, RAG, MCP, Python, REST, CI/CD; the \"3+ years\" bar is borderline (3 years incl. internships/thesis).",
+ "gaps": [
+  "LlamaIndex (stated honestly in the letter); SharePoint (department builds ShareP",
+  "German: not stated as required, so English documents. If the team expects German",
+  "Experience: \"mindestens drei Jahre\" is met only if internships/thesis count."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Finanz-Informatik.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Finanz-Informatik.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-internal-knowledge-assistant.md"
+ ],
+ "build": "internal-knowledge-assistant",
+ "found_by_scout": false,
+ "german": "Ausgeprägte kommunikative Stärken sowie die Bereitschaft, Fachwissen durch verständliche Dokumentation an andere Teams zu übertragen. (German not stated as required)",
+ "jd_lang": "German"
+}
