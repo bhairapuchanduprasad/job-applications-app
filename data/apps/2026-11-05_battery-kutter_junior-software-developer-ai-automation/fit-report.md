@@ -21,4 +21,4 @@
 - Role is partly IT helpdesk; mid-size wholesale company, Norderstedt (about 80k, CV says Hamburg). Possibly overqualified for a junior role.
 
 ## Hooks
-No web research (scout run). From the posting: freedom to shape the tool choice, AI use by employees, strong growth, contact Mr. Duwensee (addressed in letter; surname taken from the email address, first name unknown).
+No web research (scout run). From the posting: freedom to shape the tool choice, AI use by employees, strong growth, contact Mr. Duwensee (only surname known from the email address; letter uses a neutral greeting).
