@@ -1,5 +1,5 @@
 {
- "generated": 1793853388.156526,
+ "generated": 1793853773.787392,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3328,6 +3328,38 @@
    "build": "ops-mcp-server",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_wandelbots_software-engineer-business-acceleration",
+   "date": "2026-11-05",
+   "prepared_at": 1793853560,
+   "company": "Wandelbots",
+   "role": "Software Engineer (gn) Business Acceleration",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Dresden",
+   "ats": 69,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487509351",
+   "apply_url_kind": "posting",
+   "build": "robot-episode-ingestion",
+   "applied_date": null,
+   "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_fuse-energy_applied-ai-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793853771,
+   "company": "Fuse Energy",
+   "role": "Applied AI Engineer",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487514518",
+   "apply_url_kind": "posting",
+   "build": "energy-customer-service-agent",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3610,7 +3642,8 @@
    "2026-11-04_now-gmbh_full-stack-ai-engineer"
   ],
   "robot-episode-ingestion": [
-   "2026-11-05_neura-robotics_platform-engineer-robot-data"
+   "2026-11-05_neura-robotics_platform-engineer-robot-data",
+   "2026-11-05_wandelbots_software-engineer-business-acceleration"
   ],
   "pump-sensor-anomaly": [
    "2026-11-05_wilo-group_data-scientist-ki"
@@ -3627,6 +3660,9 @@
   ],
   "text2sql-analytics-agent": [
    "2026-11-05_databricks_ai-forward-deployed-engineer"
+  ],
+  "energy-customer-service-agent": [
+   "2026-11-05_fuse-energy_applied-ai-engineer"
   ]
  }
 }

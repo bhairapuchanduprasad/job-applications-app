@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-05_wandelbots_software-engineer-business-acceleration",
+ "date": "2026-11-05",
+ "prepared_at": 1793853560,
+ "company": "Wandelbots",
+ "role": "Software Engineer (gn) Business Acceleration",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build robot-episode-ingestion",
+ "notes": "English documents; Dresden; gap: German B1 vs fluent, robotics, JavaScript; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Dresden",
+ "ats": 69,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487509351",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487509351",
+ "contact": "",
+ "verdict": "Good match on Python, full-stack (React/FastAPI), Kubernetes/Docker and customer-facing work (Covestro consulting, Kniit domain experts). Weaker on robotics, JavaScript depth and \"fluent German\".",
+ "gaps": [
+  "German: \"fluent German\" asked, I have B1. Top gap; letter states B1 honestly. No",
+  "Robotics/automation: none; letter says so. Planned project (below) is only on th",
+  "JavaScript/TypeScript depth; \"customer engagement\" in a sales-engineering sense."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Wandelbots.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Wandelbots.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "robot-episode-ingestion",
+ "found_by_scout": false
+}
