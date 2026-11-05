@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-05_r-v-versicherung_ki-system-platform-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793895744,
+ "company": "R+V Versicherung",
+ "role": "System Platform Engineer KI (m/w/d)",
+ "fit": 55,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Wiesbaden; German docs; German B2-C1 vs B1; no Terraform/cloud networking; levels Professional to Principal; fourth R+V application; ATS 50%; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Wiesbaden",
+ "ats": 50,
+ "apply_url": "https://www.linkedin.com/jobs/view/4477083115",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4477083115",
+ "contact": "",
+ "verdict": "Good match on Python, Docker, GitLab CI/CD, Claude Code and Azure basics; Terraform, Azure data services, cloud networking and B2-C1 German are gaps. The posting covers three levels (Professional to Principal); I target the entry level.",
+ "gaps": [
+  "German: posting says \"Fließende Deutschkenntnisse (mind. Level B2-C1)\", not C1-o",
+  "Terraform: framed via CDK, stated openly as \"learning\".",
+  "Networking, Azure ML/Data Factory: stated as new for me, no claims.",
+  "Projects: none added (CV had to stay at 2 pages); Terraform/Azure platform proje"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_R+V-KI-Platform.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_R+V-KI-Platform.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "Fließende Deutschkenntnisse (mind. Level B2-C1).",
+ "jd_lang": "German"
+}

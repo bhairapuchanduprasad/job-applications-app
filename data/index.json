@@ -1,5 +1,5 @@
 {
- "generated": 1793895510.6127229,
+ "generated": 1793895747.243582,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4175,6 +4175,24 @@
    "applied_date": "",
    "found_by_scout": false,
    "german": "Gute Deutschkenntnisse in Wort und Schrift (mind. B2-C1).",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_r-v-versicherung_ki-system-platform-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793895744,
+   "company": "R+V Versicherung",
+   "role": "System Platform Engineer KI (m/w/d)",
+   "fit": 55,
+   "status": "ready",
+   "city": "Wiesbaden",
+   "ats": 50,
+   "apply_url": "https://www.linkedin.com/jobs/view/4477083115",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Fließende Deutschkenntnisse (mind. Level B2-C1).",
    "jd_lang": "German"
   }
  ],
