@@ -1,5 +1,5 @@
 {
- "generated": 1793826346.084265,
+ "generated": 1793852241.17017,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3216,6 +3216,22 @@
    "build": "spec-driven-agent-harness",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_slalom_aws-ai-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793852238,
+   "company": "Slalom",
+   "role": "AWS AI Engineer",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Düsseldorf",
+   "ats": 78,
+   "apply_url": "https://www.linkedin.com/jobs/view/4475453512",
+   "apply_url_kind": "posting",
+   "build": "customer-service-assistant-aws",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3505,6 +3521,9 @@
   ],
   "multi-tenant-rag-service": [
    "2026-11-05_proxify_forward-deployed-ai-engineer"
+  ],
+  "customer-service-assistant-aws": [
+   "2026-11-05_slalom_aws-ai-engineer"
   ]
  }
 }

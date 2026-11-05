@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_slalom_aws-ai-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793852238,
+ "company": "Slalom",
+ "role": "AWS AI Engineer",
+ "fit": 52,
+ "status": "build-first",
+ "next_step": "build customer-service-assistant-aws",
+ "notes": "English documents; Düsseldorf; gap: German B1 vs verhandlungssicher, Amazon Connect/Bedrock; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Düsseldorf",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4475453512",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4475453512",
+ "contact": "",
+ "verdict": "Solid AWS (Lambda, DynamoDB, S3, CDK) and consulting-style stakeholder work, but German is B1 against \"verhandlungssicheres Deutsch\", and Amazon Connect / Bedrock / Lex / contact-centre analytics are not on the profile.",
+ "gaps": [
+  "German (top gap): B1 stated honestly in the letter; documents in English (decisi",
+  "Amazon Connect/Lex/Bedrock: not claimed. Planned project \"Customer Service Assis",
+  "Kinesis, Redshift, real-time contact-centre analytics: leave as gaps."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Slalom.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Slalom.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-customer-service-assistant-aws.md"
+ ],
+ "build": "customer-service-assistant-aws",
+ "found_by_scout": false
+}
