@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_inviso_backend-platform-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793852843,
+ "company": "Inviso",
+ "role": "Backend / Platform Engineer",
+ "fit": 52,
+ "status": "build-first",
+ "next_step": "build ai-gateway-platform",
+ "notes": "English documents; remote Germany; staffing agency, client unnamed; gap: tenancy/entitlements/metering, distributed systems, C#/Go; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Germany",
+ "ats": 68,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485543048",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485543048",
+ "contact": "",
+ "verdict": "Strong on AI/MCP/agentic and Python services, weak on platform-grade tenancy/metering/entitlements, distributed-systems depth, and C#/Go.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Inviso.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Inviso.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-internal-ai-platform-gateway.md"
+ ],
+ "build": "ai-gateway-platform",
+ "found_by_scout": false
+}

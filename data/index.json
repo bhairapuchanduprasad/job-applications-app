@@ -1,5 +1,5 @@
 {
- "generated": 1793852644.372154,
+ "generated": 1793852845.8087199,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3264,6 +3264,22 @@
    "build": "azure-ai-agent-starter-kit",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_inviso_backend-platform-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793852843,
+   "company": "Inviso",
+   "role": "Backend / Platform Engineer",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 68,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485543048",
+   "apply_url_kind": "posting",
+   "build": "ai-gateway-platform",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3414,7 +3430,8 @@
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms",
-   "2026-10-28_beurer_ai-platform-engineer"
+   "2026-10-28_beurer_ai-platform-engineer",
+   "2026-11-05_inviso_backend-platform-engineer"
   ],
   "road-damage-inference": [
    "2026-10-27_hochtief-edgital_applied-ai-engineer",
