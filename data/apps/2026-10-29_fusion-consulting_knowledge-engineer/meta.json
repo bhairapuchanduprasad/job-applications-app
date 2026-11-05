@@ -44,5 +44,6 @@
   "project-brief-semantic-analytics-agent.md"
  ],
  "build": "semantic-analytics-agent",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }

@@ -47,5 +47,6 @@
   "project-brief-order-inbox-agent.md"
  ],
  "build": "order-inbox-agent",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

@@ -8,8 +8,8 @@
  "status": "ready",
  "next_step": "submit",
  "notes": "English documents; Düsseldorf on-site; gap: German B1 vs fluent, robotics/IoT, design thinking; no project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Düsseldorf",
  "ats": 32,
  "apply_url": "https://www.linkedin.com/jobs/view/4476423309",
@@ -45,5 +45,6 @@
  ],
  "briefs": [],
  "build": "",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "Fluent in both German and English"
 }

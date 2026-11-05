@@ -48,5 +48,6 @@
   "project-brief-meter-read-plausibility-agent.md"
  ],
  "build": "meter-read-plausibility-agent",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

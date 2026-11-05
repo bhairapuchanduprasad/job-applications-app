@@ -65,5 +65,6 @@
   "project-brief-care-note-structurer.md"
  ],
  "build": "care-note-structurer",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }

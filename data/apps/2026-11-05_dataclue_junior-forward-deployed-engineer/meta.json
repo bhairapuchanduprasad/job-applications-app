@@ -5,11 +5,11 @@
  "company": "DataClue.ai",
  "role": "Junior Forward Deployed Engineer: Software Development & Applied AI (m/w/d)",
  "fit": 68,
- "status": "build-first",
- "next_step": "build order-inbox-agent",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "German documents; Grünwald (CV: München); gap: German B1 vs sehr gut, TypeScript, ERP/CRM/M365 integration; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "2026-11-05",
+ "applied_via": "Company careers site",
  "city": "München",
  "ats": 67,
  "apply_url": "https://www.linkedin.com/jobs/view/4485568011",
@@ -47,6 +47,7 @@
  "briefs": [
   "project-brief-order-inbox-agent.md"
  ],
- "build": "order-inbox-agent",
- "found_by_scout": false
+ "build": "",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift"
 }

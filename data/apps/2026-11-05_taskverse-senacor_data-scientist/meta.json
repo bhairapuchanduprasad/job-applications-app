@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build matching-experiment-lab",
  "notes": "English documents; Germany (no city); gaps: hypothesis testing only via planned project; no stack named; reused planned Matching Experiment Lab; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Germany",
  "ats": 87,
  "apply_url": "https://www.linkedin.com/jobs/view/4487247140",
@@ -46,5 +46,6 @@
  ],
  "briefs": [],
  "build": "matching-experiment-lab",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "…important for collaboration in an international business environment; German language skills may be beneficial depending on the project."
 }

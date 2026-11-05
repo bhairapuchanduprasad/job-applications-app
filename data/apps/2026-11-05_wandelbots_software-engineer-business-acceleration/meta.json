@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build robot-episode-ingestion",
  "notes": "English documents; Dresden; gap: German B1 vs fluent, robotics, JavaScript; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Dresden",
  "ats": 69,
  "apply_url": "https://www.linkedin.com/jobs/view/4487509351",
@@ -46,5 +46,6 @@
  ],
  "briefs": [],
  "build": "robot-episode-ingestion",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "Language Skills: Speaking fluent German and English is not a problem for you."
 }

@@ -273,6 +273,14 @@ def pdf_button(folder: str, doc: dict, key: str, label: str | None = None):
                            file_name=doc["file"], mime="application/pdf", key=key, width="stretch")
 
 
+def german_line(a: dict) -> str:
+    g = (a.get("german") or "").strip()
+    if not g:
+        return ""
+    g = g.replace("<", "&lt;").replace(">", "&gt;")
+    return f"<br>🇩🇪 <i>{g}</i>" if g != "No mention of German" else "<br>🇩🇪 No mention of German"
+
+
 def chip(a: dict) -> str:
     s = shown_status(a)
     bits = [f"{ICON.get(s, '•')} {s}"]
@@ -335,7 +343,7 @@ def page_home():
             st.markdown(f"**{a['company']}**  \n{a['role']}")
             where = a.get("city") or "—"
             src = "🔎 scout · " if a.get("found_by_scout") else ""
-            st.markdown(f"<div class='small'>{chip(a)}<br>📍 {where} · {src}prepared {prepared_ago(a)}</div>",
+            st.markdown(f"<div class='small'>{chip(a)}<br>📍 {where} · {src}prepared {prepared_ago(a)}{german_line(a)}</div>",
                         unsafe_allow_html=True)
             b1, b2 = st.columns([3, 2])
             label = "Apply ↗" if m.get("apply_url_kind") == "posting" else "Find posting ↗"
@@ -388,7 +396,7 @@ def page_applied():
             via = f" via {a['applied_via']}" if a.get("applied_via") else ""
             note = f"<br>📝 {a['note']}" if a.get("note") else ""
             st.markdown(f"<div class='small'>{ICON.get(a['status'], '•')} {a['status']} · applied "
-                        f"{ago(a.get('applied_date', '')) or '—'}{via}{follow}<br>📍 {a.get('city') or '—'}{note}</div>",
+                        f"{ago(a.get('applied_date', '')) or '—'}{via}{follow}<br>📍 {a.get('city') or '—'}{german_line(a)}{note}</div>",
                         unsafe_allow_html=True)
             docs = m.get("docs", [])
             cv = next((x for x in docs if x["kind"] == "cv"), None)
@@ -429,6 +437,8 @@ def page_detail():
     if a.get("applied_date"):
         st.caption(f"Applied {a['applied_date']} via {a.get('applied_via') or '—'}"
                    + (f" · {a['note']}" if a.get("note") else ""))
+    if m.get("german"):
+        st.caption(f"🇩🇪 German: {m['german']}")
     if m.get("verdict"):
         st.info(m["verdict"])
     if a["status"] == "build-first":

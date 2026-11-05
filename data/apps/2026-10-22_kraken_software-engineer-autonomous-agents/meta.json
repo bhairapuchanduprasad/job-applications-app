@@ -48,5 +48,6 @@
   "project-brief-energy-service-agent.md"
  ],
  "build": "energy-service-agent",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

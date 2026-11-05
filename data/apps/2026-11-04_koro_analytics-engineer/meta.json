@@ -44,5 +44,6 @@
   "project-brief-semantic-layer-metrics-agent.md"
  ],
  "build": "semantic-layer-metrics-agent",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }

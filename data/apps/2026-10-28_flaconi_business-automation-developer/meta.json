@@ -61,5 +61,6 @@
   "project-brief-order-inbox-agent.md"
  ],
  "build": "order-inbox-agent",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }

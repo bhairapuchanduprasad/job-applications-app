@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build customer-service-assistant-aws",
  "notes": "English documents; Düsseldorf; gap: German B1 vs verhandlungssicher, Amazon Connect/Bedrock; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Düsseldorf",
  "ats": 78,
  "apply_url": "https://www.linkedin.com/jobs/view/4475453512",
@@ -48,5 +48,6 @@
   "project-brief-customer-service-assistant-aws.md"
  ],
  "build": "customer-service-assistant-aws",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "Verhandlungssicheres Deutsch und Englisch in Wort und Schrift"
 }

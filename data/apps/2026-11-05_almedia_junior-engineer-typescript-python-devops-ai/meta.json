@@ -44,5 +44,6 @@
   "project-brief-ops-mcp-server.md"
  ],
  "build": "ops-mcp-server",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

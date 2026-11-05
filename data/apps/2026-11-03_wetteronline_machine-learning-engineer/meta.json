@@ -48,5 +48,6 @@
   "project-brief-radar-nowcasting.md"
  ],
  "build": "radar-nowcasting",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }

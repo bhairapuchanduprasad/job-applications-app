@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build text2sql-analytics-agent",
  "notes": "English documents; Munich; gap: 3 vs min 4 yrs, Databricks/Spark, DSPy, Text2SQL; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Munich",
  "ats": 65,
  "apply_url": "https://www.linkedin.com/jobs/view/4485545086",
@@ -44,5 +44,6 @@
   "project-brief-text2sql-analytics-agent.md"
  ],
  "build": "text2sql-analytics-agent",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

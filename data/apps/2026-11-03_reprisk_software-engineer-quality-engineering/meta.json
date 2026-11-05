@@ -49,5 +49,6 @@
   "project-brief-ai-output-quality-gates.md"
  ],
  "build": "ai-output-quality-gates",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }

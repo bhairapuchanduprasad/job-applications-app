@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build azure-ai-agent-starter-kit",
  "notes": "German documents; Crailsheim (CV: Stuttgart); gap: German B1 vs sehr gut, .NET/Oracle, EIM architecture, leadership; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Stuttgart",
  "ats": 38,
  "apply_url": "https://www.linkedin.com/jobs/view/4485542934",
@@ -46,5 +46,6 @@
  ],
  "briefs": [],
  "build": "azure-ai-agent-starter-kit",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "Sehr gute Kommunikationsfähigkeiten in Deutsch und Englisch"
 }

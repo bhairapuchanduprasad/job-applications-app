@@ -44,5 +44,6 @@
   "project-brief-bom-emission-matcher.md"
  ],
  "build": "bom-emission-matcher",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }

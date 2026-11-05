@@ -46,5 +46,6 @@
   "project-brief-quality-process-copilot.md"
  ],
  "build": "quality-process-copilot",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

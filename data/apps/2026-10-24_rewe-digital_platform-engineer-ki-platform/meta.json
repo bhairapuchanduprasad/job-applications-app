@@ -86,5 +86,6 @@
   "project-brief-llm-gateway.md"
  ],
  "build": "llm-gateway",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }

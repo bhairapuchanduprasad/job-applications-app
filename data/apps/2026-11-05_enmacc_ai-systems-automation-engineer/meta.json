@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build ops-mcp-server",
  "notes": "English documents; Munich; gap: 3-5+ yrs, TypeScript/Java/Go, event-driven, KYC, Temporal/n8n; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Munich",
  "ats": 90,
  "apply_url": "https://www.linkedin.com/jobs/view/4487505117",
@@ -48,5 +48,6 @@
   "project-brief-ops-mcp-server.md"
  ],
  "build": "ops-mcp-server",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

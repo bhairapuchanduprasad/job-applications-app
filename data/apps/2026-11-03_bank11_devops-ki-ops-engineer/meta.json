@@ -48,5 +48,6 @@
   "project-brief-self-hosted-llm-platform.md"
  ],
  "build": "self-hosted-llm-platform",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "Du hast sehr gute Deutschkenntnisse in Wort und Schrift (Projektsprache ist Deutsch)."
 }

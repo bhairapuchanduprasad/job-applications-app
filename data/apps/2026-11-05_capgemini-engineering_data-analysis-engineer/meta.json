@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build cell-kpi-anomaly-pipeline",
  "notes": "German documents; Stuttgart; gap: numerical linear algebra, HPC, calibration, German B1 vs sichere; AUeG temporary; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Stuttgart",
  "ats": 73,
  "apply_url": "https://www.linkedin.com/jobs/view/4487554845",
@@ -42,5 +42,6 @@
  ],
  "briefs": [],
  "build": "cell-kpi-anomaly-pipeline",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "Sichere Deutsch- und Englischkenntnisse in Wort und Schrift."
 }

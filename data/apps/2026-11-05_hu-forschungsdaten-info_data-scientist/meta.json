@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build point-cloud-pipeline",
  "notes": "English documents; Stuttgart on CV; deadline 15.11.2026 (email single PDF); gap: research data mgmt, 3D/genomic data, PhD; fixed-term to 2032; JD from Uni Tübingen page; reused planned project; no reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Stuttgart",
  "ats": 67,
  "apply_url": "https://www.linkedin.com/jobs/view/4487550420",
@@ -44,5 +44,6 @@
   "project-brief-point-cloud-pipeline-reuse.md"
  ],
  "build": "point-cloud-pipeline",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "Very good English, written and spoken. (German not mentioned.)"
 }

@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build agent-ready-data-platform",
  "notes": "English documents; Heidelberg; gap: German B1 vs fluent, Spark/dbt, client travel; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Heidelberg",
  "ats": 94,
  "apply_url": "https://www.linkedin.com/jobs/view/4487284197",
@@ -48,5 +48,6 @@
   "project-brief-agent-ready-data-platform.md"
  ],
  "build": "agent-ready-data-platform",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "English and German (written and spoken), and"
 }

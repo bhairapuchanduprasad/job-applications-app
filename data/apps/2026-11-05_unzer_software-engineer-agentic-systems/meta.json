@@ -5,11 +5,11 @@
  "company": "Unzer",
  "role": "Software Engineer - Agentic Systems (m/f/d)",
  "fit": 72,
- "status": "build-first",
- "next_step": "build spec-driven-agent-harness",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; Berlin hybrid; gap: Java, payments; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "2026-11-05",
+ "applied_via": "Company careers site",
  "city": "Berlin",
  "ats": 77,
  "apply_url": "https://www.linkedin.com/jobs/view/4487299799",
@@ -45,6 +45,7 @@
   }
  ],
  "briefs": [],
- "build": "spec-driven-agent-harness",
- "found_by_scout": false
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

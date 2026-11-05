@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build ai-gateway-platform",
  "notes": "English documents; remote Germany; staffing agency, client unnamed; gap: tenancy/entitlements/metering, distributed systems, C#/Go; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Germany",
  "ats": 68,
  "apply_url": "https://www.linkedin.com/jobs/view/4485543048",
@@ -44,5 +44,6 @@
   "project-brief-internal-ai-platform-gateway.md"
  ],
  "build": "ai-gateway-platform",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

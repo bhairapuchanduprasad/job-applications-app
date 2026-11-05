@@ -44,5 +44,6 @@
   "project-brief-robot-episode-ingestion.md"
  ],
  "build": "robot-episode-ingestion",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

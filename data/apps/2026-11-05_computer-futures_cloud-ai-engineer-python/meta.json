@@ -48,5 +48,6 @@
   "project-brief-llm-gateway.md"
  ],
  "build": "llm-gateway",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "Gute Deutschkenntnisse"
 }

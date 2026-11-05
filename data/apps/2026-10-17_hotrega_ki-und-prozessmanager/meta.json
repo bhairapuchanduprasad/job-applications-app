@@ -48,5 +48,6 @@
   "project-brief-product-qa-assistant.md"
  ],
  "build": "product-qa-assistant",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build agent-eval-harness",
  "notes": "English documents; Cologne; gaps: German B1 vs fluent, 5 years vs 3, Django, Langfuse in production",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Cologne",
  "ats": 70,
  "apply_url": "https://www.linkedin.com/jobs/view/4487244320",
@@ -48,5 +48,6 @@
   "project-brief-agent-eval-harness.md"
  ],
  "build": "agent-eval-harness",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "You're fluent in German and English."
 }

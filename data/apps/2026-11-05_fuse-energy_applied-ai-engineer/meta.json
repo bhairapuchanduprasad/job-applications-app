@@ -5,11 +5,11 @@
  "company": "Fuse Energy",
  "role": "Applied AI Engineer",
  "fit": 74,
- "status": "build-first",
- "next_step": "build energy-customer-service-agent",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; location Germany (city not stated); gap: VLM, Temporal; reused planned project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "2026-11-05",
+ "applied_via": "LinkedIn Easy Apply",
  "city": "Germany",
  "ats": 75,
  "apply_url": "https://www.linkedin.com/jobs/view/4487514518",
@@ -43,6 +43,7 @@
  "briefs": [
   "project-brief-energy-customer-service-agent.md"
  ],
- "build": "energy-customer-service-agent",
- "found_by_scout": false
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

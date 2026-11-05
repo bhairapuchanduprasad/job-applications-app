@@ -44,5 +44,6 @@
   "project-brief-road-damage-inference.md"
  ],
  "build": "road-damage-inference",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

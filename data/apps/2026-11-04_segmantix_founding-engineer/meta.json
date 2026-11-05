@@ -48,5 +48,6 @@
   "project-brief-point-cloud-pipeline.md"
  ],
  "build": "point-cloud-pipeline",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "German language skills."
 }

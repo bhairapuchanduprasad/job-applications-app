@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build cell-kpi-anomaly-pipeline",
  "notes": "German documents; Berlin; gaps: German B1 vs fluent, ZenML/Google Cloud, multi-year; reused planned Cell KPI project; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Berlin",
  "ats": 84,
  "apply_url": "https://www.linkedin.com/jobs/view/4487261944",
@@ -42,5 +42,6 @@
  ],
  "briefs": [],
  "build": "cell-kpi-anomaly-pipeline",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "Du kommunizierst sicher und präzise auf Deutsch – schriftlich wie mündlich. Auch auf Englisch bewegst du dich sicher in deinem beruflichen Umfeld."
 }

@@ -49,5 +49,6 @@
   "project-brief-voice-receptionist-agent.md"
  ],
  "build": "agent-eval-harness",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "Exzellentes Englisch. Deutsch ist von Vorteil."
 }

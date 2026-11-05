@@ -8,8 +8,8 @@
  "status": "build-first",
  "next_step": "build multi-tenant-rag-service",
  "notes": "English documents; Berlin/remote EU; gaps: 5+ years vs 3, vLLM, multi-tenant RAG, leading engineers",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Berlin",
  "ats": 64,
  "apply_url": "https://www.linkedin.com/jobs/view/4487236510",
@@ -48,5 +48,6 @@
   "project-brief-multi-tenant-rag-service.md"
  ],
  "build": "multi-tenant-rag-service",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "No mention of German"
 }

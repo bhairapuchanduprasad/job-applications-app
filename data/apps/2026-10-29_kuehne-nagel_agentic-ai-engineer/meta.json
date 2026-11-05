@@ -44,5 +44,6 @@
   "project-brief-agent-eval-harness.md"
  ],
  "build": "agent-eval-harness",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }

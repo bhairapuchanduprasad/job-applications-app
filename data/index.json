@@ -1,5 +1,5 @@
 {
- "generated": 1793854371.407319,
+ "generated": 1793858360.651704,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -15,7 +15,8 @@
    "apply_url_kind": "search",
    "build": "contract-risk-agents",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Deutsch und Englisch sehr gut in Wort und Schrift"
   },
   {
    "folder": "2026-10-14_accenture_junior-applied-ai-engineer",
@@ -31,7 +32,8 @@
    "apply_url_kind": "search",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Very good German and English language skills, as well as a willingness to travel occasionally for business purposes."
   },
   {
    "folder": "2026-10-14_dexter-health_ai-engineer-llm",
@@ -47,7 +49,8 @@
    "apply_url_kind": "search",
    "build": "care-note-structurer",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "German language skills"
   },
   {
    "folder": "2026-10-16_snocks_junior-ai-engineer",
@@ -63,7 +66,8 @@
    "apply_url_kind": "search",
    "build": "shop-support-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Sprache: Englisch mind. C1 (Teamkommunikation), Deutsch mind. B1."
   },
   {
    "folder": "2026-10-16_sap_ai-engineer-development-expert",
@@ -79,7 +83,8 @@
    "apply_url_kind": "search",
    "build": "meter-read-plausibility-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-17_haiar_backend-software-engineer-ai-systems",
@@ -95,7 +100,8 @@
    "apply_url_kind": "search",
    "build": "autohaus-service-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-17_bcg-platinion_ai-associate",
@@ -111,7 +117,8 @@
    "apply_url_kind": "search",
    "build": "spec-driven-agent-harness",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "You are fluent in both German and English and can confidently understand and communicate complex topics in both languages"
   },
   {
    "folder": "2026-10-17_jobgether_ai-evaluation-engineer",
@@ -127,7 +134,8 @@
    "apply_url_kind": "search",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -143,7 +151,8 @@
    "apply_url_kind": "search",
    "build": "ops-mcp-server",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Nice to have: hands-on MCP, Claude Code, or agentic frameworks (LangChain, CrewAI, Google ADK); German B1 or above (Ops & Energy team)."
   },
   {
    "folder": "2026-10-17_hotrega_ki-und-prozessmanager",
@@ -159,7 +168,8 @@
    "apply_url_kind": "search",
    "build": "product-qa-assistant",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-21_siemens-advanta_consultant-ai-new-technologies",
@@ -175,7 +185,8 @@
    "apply_url_kind": "search",
    "build": "plant-maintenance-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-21_aily-labs_decision-intelligence-analyst",
@@ -191,7 +202,8 @@
    "apply_url_kind": "search",
    "build": "",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-21_bedrock-projekt_python-genai-developer",
@@ -207,7 +219,8 @@
    "apply_url_kind": "search",
    "build": "",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Deutschkenntnisse auf dem Level A2"
   },
   {
    "folder": "2026-10-22_kraken_software-engineer-autonomous-agents",
@@ -223,7 +236,8 @@
    "apply_url_kind": "search",
    "build": "energy-service-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-22_comena_forward-deployed-engineer",
@@ -239,7 +253,8 @@
    "apply_url_kind": "search",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-23_hermes-group_ai-engineer",
@@ -255,7 +270,8 @@
    "apply_url_kind": "search",
    "build": "quality-process-copilot",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-23_dexter-health_ai-developer-llm-products",
@@ -271,7 +287,8 @@
    "apply_url_kind": "search",
    "build": "care-note-structurer",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "German language skills"
   },
   {
    "folder": "2026-10-23_taskverse-adesso_ai-engineer",
@@ -287,7 +304,8 @@
    "apply_url_kind": "search",
    "build": "",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "…ical requirements; organisation, reliability, continuous development. German or English proficiency may be relevant to particular projects."
   },
   {
    "folder": "2026-10-23_opta-data_ai-engineer",
@@ -303,7 +321,8 @@
    "apply_url_kind": "search",
    "build": "spec-driven-agent-harness",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-24_michael-page_ai-engineer",
@@ -319,7 +338,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutsch- oder Englischkenntnisse"
   },
   {
    "folder": "2026-10-24_rewe-digital_platform-engineer-ki-platform",
@@ -335,7 +355,8 @@
    "apply_url_kind": "posting",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-24_bitmarck_software-engineer-conversational-ai",
@@ -351,7 +372,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-24_union-investment_forward-deployed-engineer",
@@ -367,7 +389,8 @@
    "apply_url_kind": "posting",
    "build": "spec-driven-agent-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-24_valantic_junior-consultant-ai-mlops",
@@ -383,7 +406,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-24_sparda-bank-hannover_ki-plattform-experte",
@@ -399,7 +423,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-25_cohere_forward-deployed-engineer",
@@ -415,7 +440,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-25_cancierge-ai_machine-learning-engineer",
@@ -431,7 +457,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-25_juicylemons_product-engineer",
@@ -447,7 +474,8 @@
    "apply_url_kind": "posting",
    "build": "clinical-info-assistant",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai",
@@ -463,7 +491,8 @@
    "apply_url_kind": "posting",
    "build": "azure-ai-rag-starter-kit",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutschkenntnisse in Wort und Schrift runden dein Profil ab."
   },
   {
    "folder": "2026-10-25_bestandsfaktor_founding-software-engineer",
@@ -479,7 +508,8 @@
    "apply_url_kind": "posting",
    "build": "client-occasion-engine",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-25_cgi_ai-qa-engineer",
@@ -495,7 +525,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Deutsch sehr gut, Englisch gut"
   },
   {
    "folder": "2026-10-25_baehrbots_ai-integration-engineer",
@@ -511,7 +542,8 @@
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Englischkenntnisse und Deutschkenntnisse"
   },
   {
    "folder": "2026-10-25_markant_devops-engineer-daten-ki-plattformen",
@@ -527,7 +559,8 @@
    "apply_url_kind": "posting",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "…nfortunately, applications without a valid work permit and sufficient German language skills may not be considered."
   },
   {
    "folder": "2026-10-25_dr-theiss_solution-consultant-ki-plattformen",
@@ -543,7 +576,8 @@
    "apply_url_kind": "posting",
    "build": "product-qa-assistant",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "…nfortunately, applications without a valid work permit and sufficient German language skills may not be considered."
   },
   {
    "folder": "2026-10-25_chrono24_ai-solution-engineer",
@@ -559,7 +593,8 @@
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Language: Very good German and English skills."
   },
   {
    "folder": "2026-10-26_instatiq_applied-ai-engineer",
@@ -575,7 +610,8 @@
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Verhandlungssichere Deutsch- und Englischkenntnisse"
   },
   {
    "folder": "2026-10-26_rohde-schwarz_ai-ml-engineer-agentic-ai",
@@ -591,7 +627,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutschkenntnisse und sehr gute Englischkenntnisse in Wort und Schrift runden dein Profil ab."
   },
   {
    "folder": "2026-10-26_scalable-capital_ai-software-engineer-python",
@@ -607,7 +644,8 @@
    "apply_url_kind": "posting",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-26_feri_junior-ki-entwickler",
@@ -623,7 +661,8 @@
    "apply_url_kind": "posting",
    "build": "quality-process-copilot",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sprachen: Sehr gute Deutsch- und gute Englischkenntnisse"
   },
   {
    "folder": "2026-10-26_rewe-group_agentic-bi-developer",
@@ -639,7 +678,8 @@
    "apply_url_kind": "posting",
    "build": "semantic-analytics-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du vermittelst technische Themen adressatengerecht – von Engineer bis Management - und das sicher in Deutsch und Englisch"
   },
   {
    "folder": "2026-10-26_daw_ai-data-engineer",
@@ -655,7 +695,8 @@
    "apply_url_kind": "posting",
    "build": "quality-process-copilot",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du verfügst über sehr gute Deutsch- und Englischkenntnisse."
   },
   {
    "folder": "2026-10-26_elunic_ai-tech-consultant",
@@ -671,7 +712,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-26_idm_product-ai-engineer",
@@ -687,7 +729,8 @@
    "apply_url_kind": "posting",
    "build": "care-note-structurer",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Deutschkenntnisse (nicht erforderlich, aber hilfreich für die klinische Zusammenarbeit)"
   },
   {
    "folder": "2026-10-27_atira_ai-engineer",
@@ -703,7 +746,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Full working proficiency in English. German is not required"
   },
   {
    "folder": "2026-10-27_atira_forward-deployed-engineer",
@@ -719,7 +763,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Full working proficiency in both German and English"
   },
   {
    "folder": "2026-10-27_ai-futures_founding-engineer",
@@ -735,7 +780,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_summ-ai_ai-engineer-llms-agents",
@@ -751,7 +797,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_vector_devops-engineer-ai-developer-platforms",
@@ -767,7 +814,8 @@
    "apply_url_kind": "posting",
    "build": "ai-gateway-platform",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_uni-hamburg_research-software-engineer",
@@ -783,7 +831,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_tomorrow-bird_ai-solutions-engineer",
@@ -799,7 +848,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_sap-fioneer_graduate-ai-engineer",
@@ -815,7 +865,8 @@
    "apply_url_kind": "posting",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_hochtief-edgital_applied-ai-engineer",
@@ -831,7 +882,8 @@
    "apply_url_kind": "posting",
    "build": "road-damage-inference",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Gute Deutsch- und Englischkenntnisse."
   },
   {
    "folder": "2026-10-27_bayer_ai-application-expert",
@@ -847,7 +899,8 @@
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Are proficient in German and have excellent English skills (spoken and written), and work effectively in an intercultu…"
   },
   {
    "folder": "2026-10-27_bits_forward-deployed-ai-engineer",
@@ -863,7 +916,8 @@
    "apply_url_kind": "posting",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du kommunizierst sicher auf Deutsch und Englisch und hast Freude an der direkten Zusammenarbeit mit Kunden."
   },
   {
    "folder": "2026-10-27_capgemini-engineering_ai-application-engineer",
@@ -879,7 +933,8 @@
    "apply_url_kind": "posting",
    "build": "autohaus-service-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sichere Deutsch- und Englischkenntnisse in Wort und Schrift."
   },
   {
    "folder": "2026-10-27_wefra-life_data-scientist",
@@ -895,7 +950,8 @@
    "apply_url_kind": "posting",
    "build": "clinical-info-assistant",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Englischkenntnisse mindestens auf C1-Niveau; Deutschkenntnisse auf B1-Niveau sind wünschenswert."
   },
   {
    "folder": "2026-10-27_check24_junior-data-scientist-generative-ai",
@@ -911,7 +967,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sprachkenntnisse: Du bringst verhandlungssichere Deutsch- und gute Englischkenntnisse in Wort und Schrift mit"
   },
   {
    "folder": "2026-10-27_egroup_voice-ai-product-engineer",
@@ -927,7 +984,8 @@
    "apply_url_kind": "posting",
    "build": "voice-receptionist-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_ki-group_llm-application-engineer",
@@ -943,7 +1001,8 @@
    "apply_url_kind": "posting",
    "build": "price-intelligence-copilot",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Very good German and English communication skills."
   },
   {
    "folder": "2026-10-27_sportradar_forward-deployed-ai-engineer",
@@ -959,7 +1018,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_olm-consultants_founding-ai-engineer",
@@ -975,7 +1035,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_safetec_ai-specialist",
@@ -991,7 +1052,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du arbeitest gerne in interdisziplinären Teams, vermittelst zwischen fachlichen und technischen Perspektiven und kommunizierst sicher auf Deutsch und Englisch"
   },
   {
    "folder": "2026-10-27_revolut_applied-ai-engineer",
@@ -1007,7 +1069,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_heinrich-schmid_ki-engineer",
@@ -1023,7 +1086,8 @@
    "apply_url_kind": "posting",
    "build": "product-qa-assistant",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-27_redcare-pharmacy_platform-engineer",
@@ -1039,7 +1103,8 @@
    "apply_url_kind": "posting",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Fluency in English; German language skills are a plus."
   },
   {
    "folder": "2026-10-28_wolters-kluwer_ai-agent-engineer",
@@ -1055,7 +1120,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du sprichst hervorragend Deutsch und gut Englisch."
   },
   {
    "folder": "2026-10-28_beurer_ai-platform-engineer",
@@ -1071,7 +1137,8 @@
    "apply_url_kind": "posting",
    "build": "ai-gateway-platform",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutsch- und Englischkenntnisse"
   },
   {
    "folder": "2026-10-28_all-for-one_sap-cloud-ai-developer",
@@ -1087,7 +1154,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du arbeitest strukturiert und eigenverantwortlich, bringst dich gerne im Team ein und kommunizierst sehr gut auf Deutsch sowie gut auf Englisch"
   },
   {
    "folder": "2026-10-28_finanz-informatik_data-scientist-compliance",
@@ -1103,7 +1171,8 @@
    "apply_url_kind": "posting",
    "build": "payment-fraud-detection",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-28_signal-iduna_ai-governance-engineer",
@@ -1119,7 +1188,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "kannst komplexe technische Zusammenhänge verständlich vermitteln, arbeitest gerne interdisziplinär und verfügst über sehr gute Deutsch- sowie gute Englischkenntnisse"
   },
   {
    "folder": "2026-10-28_alago_founding-ai-engineer",
@@ -1135,7 +1205,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "We work in English. German helps for customer calls but isn't required. We have native speakers for that."
   },
   {
    "folder": "2026-10-28_airbus-defence-and-space_software-engineer-ivv-agentic-ai",
@@ -1151,7 +1222,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Fließende Deutsch- und Englischkenntnisse sowie gute Kommunikationsfähigkeit."
   },
   {
    "folder": "2026-10-28_flow-factor_ki-entwickler-ai-engineer",
@@ -1167,7 +1239,8 @@
    "apply_url_kind": "posting",
    "build": "product-qa-assistant",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Fehlerfreie schriftliche Ausdrucksweise auf Deutsch"
   },
   {
    "folder": "2026-10-28_affinis_microsoft-copilot-consultant",
@@ -1183,7 +1256,8 @@
    "apply_url_kind": "posting",
    "build": "quality-process-copilot",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du verfügst über sehr gute Deutschkenntnisse sowie gute Englischkenntnisse."
   },
   {
    "folder": "2026-10-28_hdp_machine-learning-engineer",
@@ -1199,7 +1273,8 @@
    "apply_url_kind": "posting",
    "build": "care-note-structurer",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-28_flaconi_business-automation-developer",
@@ -1215,7 +1290,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-28_taod_data-engineer-scientist",
@@ -1231,7 +1307,8 @@
    "apply_url_kind": "posting",
    "build": "azure-ai-rag-starter-kit",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Kommunikationsfähigkeiten in Deutsch"
   },
   {
    "folder": "2026-10-28_zurich_data-scientist-ai-solution-expert",
@@ -1247,7 +1324,8 @@
    "apply_url_kind": "posting",
    "build": "client-occasion-engine",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutsch‑ und gute Englischkenntnisse"
   },
   {
    "folder": "2026-10-28_iabg_junior-data-analyst",
@@ -1263,7 +1341,8 @@
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutschkenntnisse in Wort und Schrift"
   },
   {
    "folder": "2026-10-28_4flow_ai-engineer-consulting",
@@ -1279,7 +1358,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutsch- und Englischkenntnisse sowie Freude an internationaler Teamarbeit runden dein Profil ab."
   },
   {
    "folder": "2026-10-28_altasigma_ai-engineer",
@@ -1295,7 +1375,8 @@
    "apply_url_kind": "posting",
    "build": "semantic-analytics-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du bist kommunikationsstark und hast die Fähigkeit, komplexe Themen verständlich zu vermitteln, fließend in Deutsch und sehr gut auf Englisch."
   },
   {
    "folder": "2026-10-29_getpress_backend-engineer-agentic-ai",
@@ -1311,7 +1392,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "C1-Deutschkenntnisse sind von Vorteil, B2-Niveau ist ausreichend (mit Motivation in deinem ersten Arbeitsjahr den Kurs zu C1 zu machen)"
   },
   {
    "folder": "2026-10-29_kuehne-nagel_agentic-ai-engineer",
@@ -1327,7 +1409,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-29_amprion_experte-methodenentwicklung-ki",
@@ -1343,7 +1426,8 @@
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift"
   },
   {
    "folder": "2026-10-29_union-investment_data-scientist-ki-kompetenzzentrum",
@@ -1359,7 +1443,8 @@
    "apply_url_kind": "posting",
    "build": "payment-fraud-detection",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Erfahrung mit Git und idealerweise CI/CD; Azure-Kenntnisse sowie sehr gute Deutschkenntnisse"
   },
   {
    "folder": "2026-10-29_paddy_ai-product-engineer",
@@ -1375,7 +1460,8 @@
    "apply_url_kind": "posting",
    "build": "clinical-info-assistant",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sprachen: Fließend Deutsch und sehr gutes Englisch."
   },
   {
    "folder": "2026-10-29_rizm_product-engineer",
@@ -1391,7 +1477,8 @@
    "apply_url_kind": "posting",
    "build": "energy-service-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-29_event-inc_ai-engineer",
@@ -1407,7 +1494,8 @@
    "apply_url_kind": "posting",
    "build": "spec-driven-agent-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Englischkenntnisse; Deutsch ist ein Plus"
   },
   {
    "folder": "2026-10-29_amadeus-fire_ai-solutions-engineer",
@@ -1423,7 +1511,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-29_fusion-consulting_knowledge-engineer",
@@ -1439,7 +1528,8 @@
    "apply_url_kind": "posting",
    "build": "semantic-analytics-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-10-29_eclear_python-developer-data-scientist",
@@ -1455,7 +1545,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "…higkeiten sowie die Fähigkeit, in dynamischen Umgebungen zu arbeiten (Deutschkenntnisse auf B2-Niveau erforderlich)."
   },
   {
    "folder": "2026-10-29_jobgether_data-scientist-ai-experimentation",
@@ -1471,7 +1562,8 @@
    "apply_url_kind": "posting",
    "build": "matching-experiment-lab",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-01_se3-labs_data-ml-engineer",
@@ -1487,7 +1579,8 @@
    "apply_url_kind": "posting",
    "build": "road-damage-inference",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-01_se3-labs_forward-deployed-engineer-applied-ai",
@@ -1503,7 +1596,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "You speak German at a fluent or professional level and can confidently work with customers in German-speaking environments."
   },
   {
    "folder": "2026-11-01_adesso_azure-ai-engineer-agentic-systems",
@@ -1519,7 +1613,8 @@
    "apply_url_kind": "posting",
    "build": "azure-ai-rag-starter-kit",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Sprachkenntnisse: Deine sehr guten Deutsch- und guten Englischkenntnisse ermöglichen dir eine sichere Kommunikation."
   },
   {
    "folder": "2026-11-01_adesso_ai-automation-developer-sap",
@@ -1535,7 +1630,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Kommunikationstalent: Du kommunizierst sicher auf Deutsch und Englisch, intern sowie extern."
   },
   {
    "folder": "2026-11-01_deloitte_consultant-ai-data-analytics",
@@ -1551,7 +1647,8 @@
    "apply_url_kind": "posting",
    "build": "payment-fraud-detection",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Reisebereitschaft sowie Deutsch und Englisch sehr gut in Wort und Schrift"
   },
   {
    "folder": "2026-11-02_almedia_ai-full-stack-engineer",
@@ -1567,7 +1664,8 @@
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-02_kausable_agentic-ai-harness-engineer",
@@ -1583,7 +1681,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-02_odacova_applied-ai-backend-engineer",
@@ -1599,7 +1698,8 @@
    "apply_url_kind": "posting",
    "build": "canteen-menu-insights",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutsch- und Englischkenntnisse"
   },
   {
    "folder": "2026-11-02_coltech_ai-engineer",
@@ -1615,7 +1715,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-02_hyra_software-engineer-ai",
@@ -1631,7 +1732,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-02_thryve_generative-ai-engineer",
@@ -1647,7 +1749,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-02_bkk-firmus_ki-entwickler",
@@ -1663,7 +1766,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "…nfortunately, applications without a valid work permit and sufficient German language skills may not be considered."
   },
   {
    "folder": "2026-11-02_amadeus-fire_ki-spezialist",
@@ -1679,7 +1783,8 @@
    "apply_url_kind": "posting",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutsch- und Englischkenntnisse"
   },
   {
    "folder": "2026-11-02_e-regio_ki-entwickler-ai-engineer",
@@ -1695,7 +1800,8 @@
    "apply_url_kind": "posting",
    "build": "quality-process-copilot",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutsch- und gute Englischkenntnisse für die Zusammenarbeit mit Fachbereichen und technische Themen."
   },
   {
    "folder": "2026-11-02_senacor_ai-native-software-engineer",
@@ -1711,7 +1817,8 @@
    "apply_url_kind": "posting",
    "build": "spec-driven-agent-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "…nfortunately, applications without a valid work permit and sufficient German language skills may not be considered."
   },
   {
    "folder": "2026-11-02_flex-capital_ai-engineer-dealflow",
@@ -1727,7 +1834,8 @@
    "apply_url_kind": "posting",
    "build": "dealflow-sourcing-engine",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du sprichst verhandlungssicher Deutsch und Englisch."
   },
   {
    "folder": "2026-11-02_ericsson_graduate-ai-ml-data-engineer",
@@ -1743,7 +1851,8 @@
    "apply_url_kind": "posting",
    "build": "cell-kpi-anomaly-pipeline",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-02_quantumblack_data-engineering-consultant",
@@ -1759,7 +1868,8 @@
    "apply_url_kind": "posting",
    "build": "agent-ready-data-platform",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Strong communication skills, both verbal and written, in German and English"
   },
   {
    "folder": "2026-11-02_cgi_azure-cloud-ai-engineer",
@@ -1775,7 +1885,8 @@
    "apply_url_kind": "posting",
    "build": "azure-ai-rag-starter-kit",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Professionelle Kommunikationsfähigkeit in Deutsch und Englisch"
   },
   {
    "folder": "2026-11-02_mercedes-benz_ai-solutions-consultant",
@@ -1791,7 +1902,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Verhandlungssichere Deutsch- und Englischkenntnisse"
   },
   {
    "folder": "2026-11-03_vent-io_data-software-engineer-ai-data",
@@ -1807,7 +1919,8 @@
    "apply_url_kind": "posting",
    "build": "leasing-document-extraction",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du kommunizierst sehr gut auf Deutsch und Englisch"
   },
   {
    "folder": "2026-11-03_navan_backend-software-engineer",
@@ -1823,7 +1936,8 @@
    "apply_url_kind": "posting",
    "build": "expense-missing-info-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_zapp_ai-platform-engineer",
@@ -1839,7 +1953,8 @@
    "apply_url_kind": "posting",
    "build": "ai-platform-azure",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_saint-gobain_machine-learning-engineer-industrial-ai",
@@ -1855,7 +1970,8 @@
    "apply_url_kind": "posting",
    "build": "glass-defect-detection",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "…unterschiedlichen Fachbereichen zusammen und verfügst über sehr gute Deutsch- und Englischkenntnisse."
   },
   {
    "folder": "2026-11-03_vogel_founding-engineer",
@@ -1871,7 +1987,8 @@
    "apply_url_kind": "posting",
    "build": "advisory-data-layer",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_carbmee_forward-deployed-engineer-north-america",
@@ -1887,7 +2004,8 @@
    "apply_url_kind": "posting",
    "build": "bom-emission-matcher",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_nais-knk_ai-product-engineer",
@@ -1903,7 +2021,8 @@
    "apply_url_kind": "posting",
    "build": "quality-process-copilot",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du sprichst sehr gut Deutsch und bringst idealerweise auch gute Englischkenntnisse mit."
   },
   {
    "folder": "2026-11-03_attempto_genai-engineer-fullstack",
@@ -1919,7 +2038,8 @@
    "apply_url_kind": "posting",
    "build": "genai-service-spring-angular",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sprachen: Deutsch und Englisch fließend"
   },
   {
    "folder": "2026-11-03_coltech_agentic-ai-coding-engineer",
@@ -1935,7 +2055,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_xitavis_product-engineer-fullstack-ki",
@@ -1951,7 +2072,8 @@
    "apply_url_kind": "posting",
    "build": "spec-driven-agent-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Gutes Deutsch für den Kundenkontakt, Englisch für die Technik"
   },
   {
    "folder": "2026-11-03_maorika_ai-automation-infrastructure-specialist",
@@ -1967,7 +2089,8 @@
    "apply_url_kind": "posting",
    "build": "shop-support-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_stark_machine-learning-engineer",
@@ -1983,7 +2106,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_juni_data-ai-engineer",
@@ -1999,7 +2123,8 @@
    "apply_url_kind": "posting",
    "build": "ecosystem-data-hub",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Fließend Englisch, Deutsch ist ein Plus"
   },
   {
    "folder": "2026-11-03_deutsche-rentenversicherung-bund_anwendungsentwickler-genai",
@@ -2015,7 +2140,8 @@
    "apply_url_kind": "posting",
    "build": "it-ticket-assistant-bedrock",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Die Tätigkeit erfordert verhandlungssichere Deutschkenntnisse in Wort und Schrift."
   },
   {
    "folder": "2026-11-03_openai_technical-success",
@@ -2031,7 +2157,8 @@
    "apply_url_kind": "posting",
    "build": "customer-ai-pilot-kit",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_mamgo_ai-support-engineer",
@@ -2047,7 +2174,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutschkenntnisse in Wort und Schrift sowie mindestens grundlegende Englischkenntnisse"
   },
   {
    "folder": "2026-11-03_focused-energy_software-engineer",
@@ -2063,7 +2191,8 @@
    "apply_url_kind": "posting",
    "build": "lab-requests-portal",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_reply_ai-solutions-engineer",
@@ -2079,7 +2208,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sehr gute Deutsch- und Englischkenntnisse ermöglichen es dir, auch komplexe technische Inhalte verständlich und zielgruppengerecht zu vermitteln"
   },
   {
    "folder": "2026-11-03_jobgether_ai-engineer",
@@ -2095,7 +2225,8 @@
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_reprisk_software-engineer-quality-engineering",
@@ -2111,7 +2242,8 @@
    "apply_url_kind": "posting",
    "build": "ai-output-quality-gates",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_8com_cyber-security-automation-ai-engineer",
@@ -2127,7 +2259,8 @@
    "apply_url_kind": "posting",
    "build": "self-hosted-llm-inference",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "…er und kannst komplexe technische Themen verständlich vermitteln. Auf Deutsch und Englisch bewegst du dich sicher."
   },
   {
    "folder": "2026-11-03_wetteronline_machine-learning-engineer",
@@ -2143,7 +2276,8 @@
    "apply_url_kind": "posting",
    "build": "radar-nowcasting",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_next-ventures_forward-deployed-ai-engineer",
@@ -2159,7 +2293,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-03",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Fluent German and English — required"
   },
   {
    "folder": "2026-11-03_kayak_data-scientist",
@@ -2175,7 +2310,8 @@
    "apply_url_kind": "posting",
    "build": "matching-experiment-lab",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_jenoptik_data-scientist-ki",
@@ -2191,7 +2327,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sie verfügen über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift"
   },
   {
    "folder": "2026-11-03_kuro_software-engineer-ai",
@@ -2207,7 +2344,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-03",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "German-speaking (definitely not a must, we’re fully international)"
   },
   {
    "folder": "2026-11-03_burckhardt-compression_machine-learning-engineer-mlops",
@@ -2223,7 +2361,8 @@
    "apply_url_kind": "posting",
    "build": "cell-kpi-anomaly-pipeline",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_vicoland_ai-platform-innovation-engineer",
@@ -2239,7 +2378,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Professional proficiency in German."
   },
   {
    "folder": "2026-11-03_sysperto_ki-implementierungs-consultant",
@@ -2255,7 +2395,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-internal-docs",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Gute Deutsch- und Englischkenntnisse in Wort und Schrift"
   },
   {
    "folder": "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
@@ -2271,7 +2412,8 @@
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sprachkenntnisse: Verhandlungssichere Deutsch- und gute Englischkenntnisse in Wort und Schrift runden Dein Profil ab"
   },
   {
    "folder": "2026-11-03_elunic_forward-deployed-engineer",
@@ -2287,7 +2429,8 @@
    "apply_url_kind": "posting",
    "build": "order-inbox-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_trovarit_web-ai-developer",
@@ -2303,7 +2446,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-internal-docs",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Very good written and spoken German for team collaboration, communication with business departments, and working with German-language technical documentation."
   },
   {
    "folder": "2026-11-03_enrichment-technology_software-engineer-genai-ml",
@@ -2319,7 +2463,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-mcp",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_revolut_nlp-deep-learning-engineer",
@@ -2335,7 +2480,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-03",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_ingersoll-rand_ai-developer",
@@ -2351,7 +2497,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-03",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_rewe_creative-ai-developer",
@@ -2367,7 +2514,8 @@
    "apply_url_kind": "posting",
    "build": "creative-asset-automation-pipeline",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_almedia_product-engineer-client-platform",
@@ -2383,7 +2531,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-03",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-03_bank11_devops-ki-ops-engineer",
@@ -2399,7 +2548,8 @@
    "apply_url_kind": "posting",
    "build": "self-hosted-llm-platform",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Du hast sehr gute Deutschkenntnisse in Wort und Schrift (Projektsprache ist Deutsch)."
   },
   {
    "folder": "2026-11-04_neura-robotics_agentic-ai-engineer",
@@ -2415,7 +2565,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Exzellentes Englisch. Deutsch ist von Vorteil."
   },
   {
    "folder": "2026-11-04_koch-pac-systeme_cloud-ai-software-developer",
@@ -2431,7 +2582,8 @@
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_segmantix_founding-engineer",
@@ -2447,7 +2599,8 @@
    "apply_url_kind": "posting",
    "build": "point-cloud-pipeline",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "German language skills."
   },
   {
    "folder": "2026-11-04_terratech-holding_software-engineer",
@@ -2463,7 +2616,8 @@
    "apply_url_kind": "posting",
    "build": "client-self-serve-portal",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_truvio_ai-engineer",
@@ -2479,7 +2633,8 @@
    "apply_url_kind": "posting",
    "build": "invoice-capture-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_adesso_software-engineer-azure-ai",
@@ -2495,7 +2650,8 @@
    "apply_url_kind": "posting",
    "build": "azure-ai-rag-starter-kit",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sprachkenntnisse: Deine sehr guten Deutsch- und guten Englischkenntnisse ermöglichen dir eine sichere Kommunikation."
   },
   {
    "folder": "2026-11-04_randstad-deutschland_data-engineer",
@@ -2511,7 +2667,8 @@
    "apply_url_kind": "posting",
    "build": "production-yield-anomaly",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Gute Deutschkenntnisse in Wort und Schrift"
   },
   {
    "folder": "2026-11-04_accenture-dach_junior-generative-ai-engineer",
@@ -2527,7 +2684,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-04",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Sicheres Auftreten und Kommunikationsfähigkeit auf Deutsch und Englisch sowie Freude an der Zusammenarbeit mit Kunden und interdisziplinären Teams."
   },
   {
    "folder": "2026-11-04_mediamarktsaturn_expert-data-scientist",
@@ -2543,7 +2701,8 @@
    "apply_url_kind": "posting",
    "build": "retail-demand-forecasting-optimizer",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_quantumblack_software-engineer",
@@ -2559,7 +2718,8 @@
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Strong communication skills, both verbal and written in German and English, with the ability to adjust your style to suit different perspectives and seniority levels"
   },
   {
    "folder": "2026-11-04_etteplan_applied-ai-engineer",
@@ -2575,7 +2735,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-04",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Fluent German and English"
   },
   {
    "folder": "2026-11-04_datagroup_junior-solutions-consultant-ai-automatisierung",
@@ -2591,7 +2752,8 @@
    "apply_url_kind": "posting",
    "build": "it-ticket-assistant-bedrock",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "Teamorientierung, grundlegende Reisebereitschaft sowie sehr gute Deutsch- und gute Englisch­kenntnisse in Wort und Schrift"
   },
   {
    "folder": "2026-11-04_nanoscribe_software-engineer-python-3d-printing",
@@ -2607,7 +2769,8 @@
    "apply_url_kind": "posting",
    "build": "point-cloud-pipeline",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "German or English: both are fine - stating your salary expectations and possible starting date. Do y…"
   },
   {
    "folder": "2026-11-04_undp_management-data-analyst",
@@ -2623,7 +2786,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_koro_analytics-engineer",
@@ -2639,7 +2803,8 @@
    "apply_url_kind": "posting",
    "build": "semantic-layer-metrics-agent",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_iwoca_full-stack-engineer-operations-engineering",
@@ -2655,7 +2820,8 @@
    "apply_url_kind": "posting",
    "build": "collections-ops-workbench",
    "applied_date": "",
-   "found_by_scout": true
+   "found_by_scout": true,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_happyrobot_forward-deployed-engineer",
@@ -2671,7 +2837,8 @@
    "apply_url_kind": "posting",
    "build": "voice-receptionist-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "We are looking for a versatile and highly skilled German-speaking Forward Deployed Engineer to join our team. In this role, you will combine strong te…"
   },
   {
    "folder": "2026-11-04_voiceline_forward-deployed-engineer",
@@ -2687,7 +2854,8 @@
    "apply_url_kind": "posting",
    "build": "lab-requests-portal",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Languages: Fluent/Advanced in German and English"
   },
   {
    "folder": "2026-11-04_deloitte_consultant-ai-operations",
@@ -2703,7 +2871,8 @@
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "…in einem Beratungsunternehmen, sowie Reisebereitschaft und sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift"
   },
   {
    "folder": "2026-11-04_meltwater_ai-engineer",
@@ -2719,7 +2888,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-04",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_openai_applied-ai-engineer-digital-natives",
@@ -2735,7 +2905,8 @@
    "apply_url_kind": "posting",
    "build": "customer-ai-pilot-kit",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Are fluent in both German and English"
   },
   {
    "folder": "2026-11-04_thalia_ai-engineer-generative-ki",
@@ -2751,7 +2922,8 @@
    "apply_url_kind": "posting",
    "build": "knowledge-assistant-citations-permissions",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Sehr gute Deutschkenntnisse in Wort und Schrift sind für diese Position erforderlich, da die Kommunikation mit…"
   },
   {
    "folder": "2026-11-04_bloomwell_ai-automation-engineer",
@@ -2767,7 +2939,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-04",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- und Englischkenntnisse runden dein Profil ab"
   },
   {
    "folder": "2026-11-04_smartvelo_ki-automatisierung-engineer",
@@ -2783,7 +2956,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-04",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Deutsch fließend als Kommunikationssprache; Englisch auf Lese-/Schreibniveau für Dokumentation und Tools"
   },
   {
    "folder": "2026-11-04_adidas_data-analyst-advanced-analytics-finance",
@@ -2799,7 +2973,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-04",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_jl-digital_it-consultant-cloud-ai",
@@ -2815,7 +2990,8 @@
    "apply_url_kind": "posting",
    "build": "n8n-ai-workflow-hub",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- und gute Englischkenntnisse (schriftlich & mündlich)"
   },
   {
    "folder": "2026-11-04_pyck_ai-software-engineer-wms",
@@ -2831,7 +3007,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-04",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_now-gmbh_full-stack-ai-engineer",
@@ -2847,7 +3024,8 @@
    "apply_url_kind": "posting",
    "build": "spec-driven-coding-agent-harness",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Du verfügst über Deutschkenntnisse auf mindestens B2-Niveau."
   },
   {
    "folder": "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme",
@@ -2863,7 +3041,8 @@
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Sehr gutes Deutsch und Englisch"
   },
   {
    "folder": "2026-11-04_arrows_software-engineer",
@@ -2879,7 +3058,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "2026-11-04",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-04_progroup_betriebsingenieur-ki-anwendungen",
@@ -2895,7 +3075,8 @@
    "apply_url_kind": "posting",
    "build": "plant-maintenance-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_neura-robotics_platform-engineer-robot-data",
@@ -2911,7 +3092,8 @@
    "apply_url_kind": "posting",
    "build": "robot-episode-ingestion",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_hdi-group_data-scientist-ai-engineer-insurance",
@@ -2927,7 +3109,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Englisch sicher in Wort und Schrift, Deutsch von Vorteil"
   },
   {
    "folder": "2026-11-05_accenture-dach_generative-ai-software-engineer-specialist",
@@ -2943,7 +3126,8 @@
    "apply_url_kind": "posting",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "German language good to have, but not mandatory."
   },
   {
    "folder": "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai",
@@ -2959,7 +3143,8 @@
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_acto_ai-engineer-agentic-systems-voice",
@@ -2975,7 +3160,8 @@
    "apply_url_kind": "posting",
    "build": "voice-receptionist-agent",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_wilo-group_data-scientist-ki",
@@ -2991,7 +3177,8 @@
    "apply_url_kind": "posting",
    "build": "pump-sensor-anomaly",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "…überzeugen durch Teamfähigkeit, Kommunikationsstärke sowie sehr gute Deutsch- und Englischkenntnisse."
   },
   {
    "folder": "2026-11-05_arrows_ai-engineer",
@@ -3007,7 +3194,8 @@
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_skaylink_copilot-studio-ai-solutions-consultant",
@@ -3023,7 +3211,8 @@
    "apply_url_kind": "posting",
    "build": "azure-ai-agent-starter-kit",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Teamfähigkeit, Freude an Innovation und sichere Kommunikation auf Deutsch und Englisch."
   },
   {
    "folder": "2026-11-05_aldi-nord_data-scientist",
@@ -3039,7 +3228,8 @@
    "apply_url_kind": "posting",
    "build": "retail-demand-forecasting-optimizer",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Excellent written and spoken English (C1), German at the B2 level is desirable"
   },
   {
    "folder": "2026-11-05_motorenfabrik-hatz_data-scientist",
@@ -3055,7 +3245,8 @@
    "apply_url_kind": "posting",
    "build": "cell-kpi-anomaly-pipeline",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift."
   },
   {
    "folder": "2026-11-05_siemens-energy_ai-solutions-specialist",
@@ -3071,7 +3262,8 @@
    "apply_url_kind": "posting",
    "build": "",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_computer-futures_cloud-ai-engineer-python",
@@ -3087,7 +3279,8 @@
    "apply_url_kind": "posting",
    "build": "llm-gateway",
    "applied_date": "",
-   "found_by_scout": false
+   "found_by_scout": false,
+   "german": "Gute Deutschkenntnisse"
   },
   {
    "folder": "2026-11-05_proxify_forward-deployed-ai-engineer",
@@ -3102,8 +3295,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487236510",
    "apply_url_kind": "posting",
    "build": "multi-tenant-rag-service",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_lime-connect_backend-engineer-ai-agents",
@@ -3118,8 +3312,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487244320",
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "You're fluent in German and English."
   },
   {
    "folder": "2026-11-05_taskverse-senacor_data-scientist",
@@ -3134,8 +3329,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487247140",
    "apply_url_kind": "posting",
    "build": "matching-experiment-lab",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "…important for collaboration in an international business environment; German language skills may be beneficial depending on the project."
   },
   {
    "folder": "2026-11-05_taskverse-lieferando_machine-learning-engineer",
@@ -3150,8 +3346,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487251016",
    "apply_url_kind": "posting",
    "build": "retail-demand-forecasting-optimizer",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_gema_ai-engineer",
@@ -3166,8 +3363,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487261944",
    "apply_url_kind": "posting",
    "build": "cell-kpi-anomaly-pipeline",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Du kommunizierst sicher und präzise auf Deutsch – schriftlich wie mündlich. Auch auf Englisch bewegst du dich sicher in deinem beruflichen Umfeld."
   },
   {
    "folder": "2026-11-05_rewire_data-scientist",
@@ -3182,8 +3380,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487277632",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "English and German (written and spoken), and"
   },
   {
    "folder": "2026-11-05_rewire_data-engineer",
@@ -3198,8 +3397,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487284197",
    "apply_url_kind": "posting",
    "build": "agent-ready-data-platform",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "English and German (written and spoken), and"
   },
   {
    "folder": "2026-11-05_unzer_software-engineer-agentic-systems",
@@ -3208,14 +3408,15 @@
    "company": "Unzer",
    "role": "Software Engineer - Agentic Systems (m/f/d)",
    "fit": 72,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 77,
    "apply_url": "https://www.linkedin.com/jobs/view/4487299799",
    "apply_url_kind": "posting",
-   "build": "spec-driven-agent-harness",
-   "applied_date": null,
-   "found_by_scout": false
+   "build": "",
+   "applied_date": "2026-11-05",
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_slalom_aws-ai-engineer",
@@ -3230,8 +3431,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4475453512",
    "apply_url_kind": "posting",
    "build": "customer-service-assistant-aws",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Verhandlungssicheres Deutsch und Englisch in Wort und Schrift"
   },
   {
    "folder": "2026-11-05_infosys_technology-analyst-ai-robotics-iot",
@@ -3246,8 +3448,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4476423309",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Fluent in both German and English"
   },
   {
    "folder": "2026-11-05_gerhard-schubert_it-specialist-eim-ai-wissensmanagement",
@@ -3262,8 +3465,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4485542934",
    "apply_url_kind": "posting",
    "build": "azure-ai-agent-starter-kit",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Kommunikationsfähigkeiten in Deutsch und Englisch"
   },
   {
    "folder": "2026-11-05_inviso_backend-platform-engineer",
@@ -3278,8 +3482,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4485543048",
    "apply_url_kind": "posting",
    "build": "ai-gateway-platform",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_databricks_ai-forward-deployed-engineer",
@@ -3294,8 +3499,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4485545086",
    "apply_url_kind": "posting",
    "build": "text2sql-analytics-agent",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_dataclue_junior-forward-deployed-engineer",
@@ -3304,14 +3510,15 @@
    "company": "DataClue.ai",
    "role": "Junior Forward Deployed Engineer: Software Development & Applied AI (m/w/d)",
    "fit": 68,
-   "status": "build-first",
+   "status": "applied",
    "city": "München",
    "ats": 67,
    "apply_url": "https://www.linkedin.com/jobs/view/4485568011",
    "apply_url_kind": "posting",
-   "build": "order-inbox-agent",
-   "applied_date": null,
-   "found_by_scout": false
+   "build": "",
+   "applied_date": "2026-11-05",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift"
   },
   {
    "folder": "2026-11-05_enmacc_ai-systems-automation-engineer",
@@ -3326,8 +3533,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487505117",
    "apply_url_kind": "posting",
    "build": "ops-mcp-server",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_wandelbots_software-engineer-business-acceleration",
@@ -3342,8 +3550,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487509351",
    "apply_url_kind": "posting",
    "build": "robot-episode-ingestion",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Language Skills: Speaking fluent German and English is not a problem for you."
   },
   {
    "folder": "2026-11-05_fuse-energy_applied-ai-engineer",
@@ -3352,14 +3561,15 @@
    "company": "Fuse Energy",
    "role": "Applied AI Engineer",
    "fit": 74,
-   "status": "build-first",
+   "status": "applied",
    "city": "Germany",
    "ats": 75,
    "apply_url": "https://www.linkedin.com/jobs/view/4487514518",
    "apply_url_kind": "posting",
-   "build": "energy-customer-service-agent",
-   "applied_date": null,
-   "found_by_scout": false
+   "build": "",
+   "applied_date": "2026-11-05",
+   "found_by_scout": false,
+   "german": "No mention of German"
   },
   {
    "folder": "2026-11-05_hu-forschungsdaten-info_data-scientist",
@@ -3374,8 +3584,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487550420",
    "apply_url_kind": "posting",
    "build": "point-cloud-pipeline",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Very good English, written and spoken. (German not mentioned.)"
   },
   {
    "folder": "2026-11-05_capgemini-engineering_data-analysis-engineer",
@@ -3390,8 +3601,9 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487554845",
    "apply_url_kind": "posting",
    "build": "cell-kpi-anomaly-pipeline",
-   "applied_date": null,
-   "found_by_scout": false
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sichere Deutsch- und Englischkenntnisse in Wort und Schrift."
   }
  ],
  "builds": {
@@ -3433,8 +3645,7 @@
    "2026-10-24_union-investment_forward-deployed-engineer",
    "2026-10-29_event-inc_ai-engineer",
    "2026-11-02_senacor_ai-native-software-engineer",
-   "2026-11-03_xitavis_product-engineer-fullstack-ki",
-   "2026-11-05_unzer_software-engineer-agentic-systems"
+   "2026-11-03_xitavis_product-engineer-fullstack-ki"
   ],
   "agent-eval-harness": [
    "2026-10-17_jobgether_ai-evaluation-engineer",
@@ -3500,8 +3711,7 @@
    "2026-10-29_amadeus-fire_ai-solutions-engineer",
    "2026-11-01_adesso_ai-automation-developer-sap",
    "2026-11-03_coltech_agentic-ai-coding-engineer",
-   "2026-11-03_elunic_forward-deployed-engineer",
-   "2026-11-05_dataclue_junior-forward-deployed-engineer"
+   "2026-11-03_elunic_forward-deployed-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -3694,9 +3904,6 @@
   ],
   "text2sql-analytics-agent": [
    "2026-11-05_databricks_ai-forward-deployed-engineer"
-  ],
-  "energy-customer-service-agent": [
-   "2026-11-05_fuse-energy_applied-ai-engineer"
   ]
  }
 }

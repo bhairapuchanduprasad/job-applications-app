@@ -8,8 +8,8 @@
  "status": "ready",
  "next_step": "submit",
  "notes": "English documents; Heidelberg; gap: German B1 vs fluent, client travel; no web research or reviewer pass; scout",
- "applied_date": null,
- "applied_via": null,
+ "applied_date": "",
+ "applied_via": "",
  "city": "Heidelberg",
  "ats": 87,
  "apply_url": "https://www.linkedin.com/jobs/view/4487277632",
@@ -45,5 +45,6 @@
  ],
  "briefs": [],
  "build": "",
- "found_by_scout": false
+ "found_by_scout": false,
+ "german": "English and German (written and spoken), and"
 }

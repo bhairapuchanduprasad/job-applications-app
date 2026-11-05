@@ -44,5 +44,6 @@
   "project-brief-lab-requests-portal.md"
  ],
  "build": "lab-requests-portal",
- "found_by_scout": true
+ "found_by_scout": true,
+ "german": "No mention of German"
 }
