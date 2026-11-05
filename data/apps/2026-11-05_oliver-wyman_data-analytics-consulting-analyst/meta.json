@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_oliver-wyman_data-analytics-consulting-analyst",
+ "date": "2026-11-05",
+ "prepared_at": 1793896220,
+ "company": "Oliver Wyman",
+ "role": "Data & Analytics Consulting Analyst (m/f/d)",
+ "fit": 58,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Berlin; English docs; German B1 vs business fluency; no finance/credit risk/R; no Projects section (space); needs transcripts + references; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 52,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486766108",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486766108",
+ "contact": "",
+ "verdict": "Solid Python/ML/data-science base and consulting-style internship, but \"business fluency in German\" (B1 only), no financial-services/credit-risk work, no R, and consulting/case-interview profile.",
+ "gaps": [
+  "German: B1 vs business fluency. Stated honestly in the letter. Not C1/C2 mandato",
+  "Financial services / credit risk: stated as not yet done in the letter.",
+  "Application asks for transcripts, high school diploma and employment references:"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Oliver-Wyman.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Oliver-Wyman.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "Language skills: business fluency in German and English.",
+ "jd_lang": "English"
+}

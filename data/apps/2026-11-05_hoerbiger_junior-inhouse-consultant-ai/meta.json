@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_hoerbiger_junior-inhouse-consultant-ai",
+ "date": "2026-11-05",
+ "prepared_at": 1793896017,
+ "company": "HOERBIGER",
+ "role": "Junior Inhouse Consultant / Projektingenieur AI (m/w/d)",
+ "fit": 62,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Schongau (Munich on CV); English docs for German posting; German B1 vs sichere Deutschkenntnisse; no IoT/edge/Linux; no Projects section (space); ATS 74%; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485841128",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485841128",
+ "contact": "",
+ "verdict": "Good match on Python, AI/ML, industrial process data, Azure and stakeholder work; gaps are German level, IoT/edge/Linux and the consulting/project-lead framing.",
+ "gaps": [
+  "German (top gap): posting asks for \"sicheren Deutsch- und Englischkenntnissen\"; ",
+  "IoT / edge / Linux: stated as not yet done in the letter; not claimed on the CV.",
+  "Consulting/project lead: framed through Covestro consulting internship and Kniit"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_HOERBIGER.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_HOERBIGER.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "Mit sicheren Deutsch- und Englischkenntnissen bewegst Du Dich souverän im internationalen Umfeld.",
+ "jd_lang": "German"
+}

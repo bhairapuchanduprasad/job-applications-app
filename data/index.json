@@ -1,5 +1,5 @@
 {
- "generated": 1793895747.243582,
+ "generated": 1793896222.409848,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4194,6 +4194,42 @@
    "found_by_scout": false,
    "german": "Fließende Deutschkenntnisse (mind. Level B2-C1).",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_hoerbiger_junior-inhouse-consultant-ai",
+   "date": "2026-11-05",
+   "prepared_at": 1793896017,
+   "company": "HOERBIGER",
+   "role": "Junior Inhouse Consultant / Projektingenieur AI (m/w/d)",
+   "fit": 62,
+   "status": "ready",
+   "city": "Munich",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485841128",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Mit sicheren Deutsch- und Englischkenntnissen bewegst Du Dich souverän im internationalen Umfeld.",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_oliver-wyman_data-analytics-consulting-analyst",
+   "date": "2026-11-05",
+   "prepared_at": 1793896220,
+   "company": "Oliver Wyman",
+   "role": "Data & Analytics Consulting Analyst (m/f/d)",
+   "fit": 58,
+   "status": "ready",
+   "city": "Berlin",
+   "ats": 52,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486766108",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Language skills: business fluency in German and English.",
+   "jd_lang": "English"
   }
  ],
  "builds": {
