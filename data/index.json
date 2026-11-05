@@ -1,5 +1,5 @@
 {
- "generated": 1793854089.640137,
+ "generated": 1793854371.407319,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3376,6 +3376,22 @@
    "build": "point-cloud-pipeline",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_capgemini-engineering_data-analysis-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793854286,
+   "company": "Capgemini Engineering",
+   "role": "Data Analysis Engineer (w/m/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 73,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487554845",
+   "apply_url_kind": "posting",
+   "build": "cell-kpi-anomaly-pipeline",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3563,7 +3579,8 @@
    "2026-11-02_ericsson_graduate-ai-ml-data-engineer",
    "2026-11-03_burckhardt-compression_machine-learning-engineer-mlops",
    "2026-11-05_motorenfabrik-hatz_data-scientist",
-   "2026-11-05_gema_ai-engineer"
+   "2026-11-05_gema_ai-engineer",
+   "2026-11-05_capgemini-engineering_data-analysis-engineer"
   ],
   "agent-ready-data-platform": [
    "2026-11-02_quantumblack_data-engineering-consultant",

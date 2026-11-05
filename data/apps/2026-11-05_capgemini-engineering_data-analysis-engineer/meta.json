@@ -1,0 +1,46 @@
+{
+ "folder": "2026-11-05_capgemini-engineering_data-analysis-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793854286,
+ "company": "Capgemini Engineering",
+ "role": "Data Analysis Engineer (w/m/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build cell-kpi-anomaly-pipeline",
+ "notes": "German documents; Stuttgart; gap: numerical linear algebra, HPC, calibration, German B1 vs sichere; AUeG temporary; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Stuttgart",
+ "ats": 73,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487554845",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487554845",
+ "contact": "",
+ "verdict": "Python/NumPy/SciPy/Matplotlib, ML, time-series modelling and automated evaluation are covered. The role leans toward scientific computing (numerical linear algebra, calibration algorithms, HPC, measurement systems), which the profile does not evidence. German \"sichere Deutschkenntnisse\" is a gap (B1).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Capgemini-Engineering.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Capgemini-Engineering.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "cell-kpi-anomaly-pipeline",
+ "found_by_scout": false
+}
