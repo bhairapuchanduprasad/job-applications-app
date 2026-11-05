@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-05_adesso_cloud-native-data-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793879894,
+ "company": "adesso SE",
+ "role": "Cloud Native Data Engineer (all genders)",
+ "fit": 54,
+ "status": "build-first",
+ "next_step": "build cell-kpi-anomaly-pipeline (Kubernetes Data Pipeline Lab variant)",
+ "notes": "Essen; German docs; German B1 top gap; no production Spark/Kafka/Airflow/Trino/Helm/ArgoCD; fourth adesso/TaskVerse application; no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Essen",
+ "ats": 64,
+ "apply_url": "https://www.linkedin.com/jobs/view/4426039896",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4426039896",
+ "contact": "",
+ "verdict": "Data-engineering/platform role on Kubernetes with Spark, Kafka, Airflow, Trino, Helm, ArgoCD. My strengths (Python, Docker, Kubernetes at Kniit, CI/CD in GitLab, AWS CDK as IaC, cloud deployment, AI tool use) fit the platform and Python side. No production Spark/Kafka/Airflow/Trino, Helm or ArgoCD, so the data-engineering core is a gap.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_adesso.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_adesso.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-cell-kpi-anomaly-pipeline.md"
+ ],
+ "build": "cell-kpi-anomaly-pipeline",
+ "found_by_scout": false,
+ "german": "Deine sehr guten Deutsch- und guten Englischkenntnisse ermöglichen dir eine sichere Kommunikation.",
+ "jd_lang": "German"
+}

@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-05_ecovis_entwickler-ki-plattformen-daten-automatisierung",
+ "date": "2026-11-05",
+ "prepared_at": 1793880164,
+ "company": "ECOVIS Deutschland",
+ "role": "Entwickler KI-Plattformen, Daten und Automatisierung (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build ai-platform-azure",
+ "notes": "German docs; \"sehr gutes Deutsch\" vs B1 top gap; Chemnitz or Munich; apply online or e-mail Judith Blask; no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Chemnitz",
+ "ats": 100,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482070597",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4482070597",
+ "contact": "",
+ "verdict": "AI platform/architecture role in a tax and law firm group: LLM and model selection, RAG, API integration, operations, security, technical sub-project lead. LLM/RAG/evaluation and Azure/Docker/Kubernetes fit well. Less proof for identity management, production monitoring, EU AI Act and multi-team project steering.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Ecovis.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Ecovis.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-ai-platform-azure.md"
+ ],
+ "build": "ai-platform-azure",
+ "found_by_scout": false,
+ "german": "sehr gutes Deutsch und gutes Englisch",
+ "jd_lang": "German"
+}

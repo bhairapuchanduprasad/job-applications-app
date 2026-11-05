@@ -1,5 +1,5 @@
 {
- "generated": 1793879896.59844,
+ "generated": 1793880166.8991349,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3906,6 +3906,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_adesso_cloud-native-data-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793879894,
+   "company": "adesso SE",
+   "role": "Cloud Native Data Engineer (all genders)",
+   "fit": 54,
+   "status": "build-first",
+   "city": "Essen",
+   "ats": 64,
+   "apply_url": "https://www.linkedin.com/jobs/view/4426039896",
+   "apply_url_kind": "posting",
+   "build": "cell-kpi-anomaly-pipeline",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Deine sehr guten Deutsch- und guten Englischkenntnisse ermöglichen dir eine sichere Kommunikation.",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_ecovis_entwickler-ki-plattformen-daten-automatisierung",
+   "date": "2026-11-05",
+   "prepared_at": 1793880164,
+   "company": "ECOVIS Deutschland",
+   "role": "Entwickler KI-Plattformen, Daten und Automatisierung (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Chemnitz",
+   "ats": 100,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482070597",
+   "apply_url_kind": "posting",
+   "build": "ai-platform-azure",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "sehr gutes Deutsch und gutes Englisch",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4091,7 +4127,8 @@
    "2026-11-03_burckhardt-compression_machine-learning-engineer-mlops",
    "2026-11-05_motorenfabrik-hatz_data-scientist",
    "2026-11-05_gema_ai-engineer",
-   "2026-11-05_capgemini-engineering_data-analysis-engineer"
+   "2026-11-05_capgemini-engineering_data-analysis-engineer",
+   "2026-11-05_adesso_cloud-native-data-engineer"
   ],
   "agent-ready-data-platform": [
    "2026-11-02_quantumblack_data-engineering-consultant"
@@ -4103,7 +4140,8 @@
    "2026-11-03_navan_backend-software-engineer"
   ],
   "ai-platform-azure": [
-   "2026-11-03_zapp_ai-platform-engineer"
+   "2026-11-03_zapp_ai-platform-engineer",
+   "2026-11-05_ecovis_entwickler-ki-plattformen-daten-automatisierung"
   ],
   "glass-defect-detection": [
    "2026-11-03_saint-gobain_machine-learning-engineer-industrial-ai"
