@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-06_bcg-platinion_ai-tech-consultant",
+ "date": "2026-11-06",
+ "prepared_at": 1793908963,
+ "company": "BCG Platinion",
+ "role": "AI Tech Consultant (all genders)",
+ "fit": 58,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Stuttgart; English docs; needs 2+ yrs IT consulting (have 5-month consulting internship); German B1 vs German+English; cyber resilience/robotics gaps; no project on CV (dropped to fit 2 pages); ATS 44% on honest gaps; hooks reused from 2026-10-17 BCG application; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 44,
+ "apply_url": "https://www.linkedin.com/jobs/view/4435548736",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply via the BCG Platinion online portal. They ask for CV, an informative project list and references; the pipeline only produces CV + letter.",
+ "source": "https://www.linkedin.com/jobs/view/4435548736",
+ "contact": "David Körte",
+ "verdict": "Strong on AI tools, agentic AI/ML, DevOps/CI/CD, cloud and stakeholder-facing work (Covestro AI Consulting Internship, Kniit domain experts). Weak on the formal bar: at least two years of IT consulting (you have a 5-month consulting internship), German \"both German and English\" (B1), and cyber resilience / enterprise IT architecture / robotics.",
+ "gaps": [
+  "IT consulting ≥ 2 years",
+  "German",
+  "Cyber resilience, robotics, enterprise architecture, tech strategy"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_BCG-Platinion.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_BCG-Platinion.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German as level; \"You're good at understanding and communicating complex topics in both German and English\"",
+ "jd_lang": "English"
+}

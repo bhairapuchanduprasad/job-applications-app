@@ -1,5 +1,5 @@
 {
- "generated": 1793908695.135396,
+ "generated": 1793909169.015082,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4266,6 +4266,42 @@
    "found_by_scout": false,
    "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_bcg-platinion_ai-tech-consultant",
+   "date": "2026-11-06",
+   "prepared_at": 1793908963,
+   "company": "BCG Platinion",
+   "role": "AI Tech Consultant (all genders)",
+   "fit": 58,
+   "status": "ready",
+   "city": "Stuttgart",
+   "ats": 44,
+   "apply_url": "https://www.linkedin.com/jobs/view/4435548736",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German as level; \"You're good at understanding and communicating complex topics in both German and English\"",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_trilux_ai-solution-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793909166,
+   "company": "TRILUX",
+   "role": "AI Solution Engineer (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Cologne",
+   "ats": 94,
+   "apply_url": "https://www.linkedin.com/jobs/view/4469017817",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-agent-starter-kit",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Deutschkenntnisse auf mindestens B2-Niveau sowie sehr gute Kommunikationsfähigkeiten in Englisch",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4568,7 +4604,8 @@
   "azure-ai-agent-starter-kit": [
    "2026-11-05_skaylink_copilot-studio-ai-solutions-consultant",
    "2026-11-05_gerhard-schubert_it-specialist-eim-ai-wissensmanagement",
-   "2026-11-05_r-v-versicherung_consultant-data-science"
+   "2026-11-05_r-v-versicherung_consultant-data-science",
+   "2026-11-06_trilux_ai-solution-engineer"
   ],
   "multi-tenant-rag-service": [
    "2026-11-05_proxify_forward-deployed-ai-engineer"

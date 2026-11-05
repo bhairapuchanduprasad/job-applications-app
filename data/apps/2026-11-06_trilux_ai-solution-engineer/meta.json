@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-06_trilux_ai-solution-engineer",
+ "date": "2026-11-06",
+ "prepared_at": 1793909166,
+ "company": "TRILUX",
+ "role": "AI Solution Engineer (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build azure-ai-agent-starter-kit",
+ "notes": "English documents; asks 5+ years (have 3) and German B2 (have B1)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Cologne",
+ "ats": 94,
+ "apply_url": "https://www.linkedin.com/jobs/view/4469017817",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4469017817",
+ "contact": "",
+ "verdict": "Core stack (Python, LLM/RAG/agents, Azure, Docker, CI/CD) matches well; the two hard requirements (5+ years, German B2) are gaps.",
+ "gaps": [
+  "Years of experience: say 3 years plainly, point to end-to-end ownership.",
+  "German: documents in English (posting also demands very good English); letter st",
+  "IAM: only via the planned project (Entra ID groups); no claim of real experience"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_TRILUX.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_TRILUX.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-azure-ai-agent-starter-kit-trilux.md"
+ ],
+ "build": "azure-ai-agent-starter-kit",
+ "found_by_scout": false,
+ "german": "Deutschkenntnisse auf mindestens B2-Niveau sowie sehr gute Kommunikationsfähigkeiten in Englisch",
+ "jd_lang": "German"
+}
