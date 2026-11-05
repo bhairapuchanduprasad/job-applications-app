@@ -1,5 +1,5 @@
 {
- "generated": 1793894292.577007,
+ "generated": 1793894510.243519,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4049,6 +4049,24 @@
    "applied_date": "",
    "found_by_scout": false,
    "german": "Sehr gute deutsche und englische Sprachkenntnisse runden dein Profil ab",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_neura-robotics_backend-service-engineer-neuraverse",
+   "date": "2026-11-05",
+   "prepared_at": 1793894508,
+   "company": "NEURA Robotics",
+   "role": "Backend Service Engineer - Neuraverse (Mensch)",
+   "fit": 58,
+   "status": "ready",
+   "city": "Stuttgart",
+   "ats": 69,
+   "apply_url": "https://www.linkedin.com/jobs/view/4440831537",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Deutsch ist ein Plus",
    "jd_lang": "German"
   }
  ],

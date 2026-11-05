@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_neura-robotics_backend-service-engineer-neuraverse",
+ "date": "2026-11-05",
+ "prepared_at": 1793894508,
+ "company": "NEURA Robotics",
+ "role": "Backend Service Engineer - Neuraverse (Mensch)",
+ "fit": 58,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Riederich (CV: Stuttgart); English docs; payment/billing/ERP gap; no Projects section (page limit); scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 69,
+ "apply_url": "https://www.linkedin.com/jobs/view/4440831537",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4440831537",
+ "contact": "",
+ "verdict": "Solid Python microservices/AWS/API base, but the core of the role (payments, metering/billing, ERP, e-commerce transactions) is a gap.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_NEURA-Robotics.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_NEURA-Robotics.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "Deutsch ist ein Plus",
+ "jd_lang": "German"
+}
