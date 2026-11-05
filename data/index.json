@@ -1,5 +1,5 @@
 {
- "generated": 1793895079.0785081,
+ "generated": 1793895237.3344178,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4104,6 +4104,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_openai_applied-ai-engineer-codex",
+   "date": "2026-11-05",
+   "prepared_at": 1793895077,
+   "company": "OpenAI",
+   "role": "Applied AI Engineer, Codex",
+   "fit": 60,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 55,
+   "apply_url": "https://www.linkedin.com/jobs/view/4469440742",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-coding-agent-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Are able to speak English and German fluently.",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-05_r-v-versicherung_consultant-data-science",
+   "date": "2026-11-05",
+   "prepared_at": 1793895235,
+   "company": "R+V Versicherung (R+V Re)",
+   "role": "Consultant (m/w/d) Data Science",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Wiesbaden",
+   "ats": 69,
+   "apply_url": "https://www.linkedin.com/jobs/view/4477069578",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-agent-starter-kit",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4390,7 +4426,8 @@
   ],
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",
-   "2026-11-05_cgi_software-engineer-ai-engineered-development"
+   "2026-11-05_cgi_software-engineer-ai-engineered-development",
+   "2026-11-05_openai_applied-ai-engineer-codex"
   ],
   "robot-episode-ingestion": [
    "2026-11-05_neura-robotics_platform-engineer-robot-data",
@@ -4401,7 +4438,8 @@
   ],
   "azure-ai-agent-starter-kit": [
    "2026-11-05_skaylink_copilot-studio-ai-solutions-consultant",
-   "2026-11-05_gerhard-schubert_it-specialist-eim-ai-wissensmanagement"
+   "2026-11-05_gerhard-schubert_it-specialist-eim-ai-wissensmanagement",
+   "2026-11-05_r-v-versicherung_consultant-data-science"
   ],
   "multi-tenant-rag-service": [
    "2026-11-05_proxify_forward-deployed-ai-engineer"

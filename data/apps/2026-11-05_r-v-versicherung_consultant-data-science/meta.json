@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-05_r-v-versicherung_consultant-data-science",
+ "date": "2026-11-05",
+ "prepared_at": 1793895235,
+ "company": "R+V Versicherung (R+V Re)",
+ "role": "Consultant (m/w/d) Data Science",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build azure-ai-agent-starter-kit",
+ "notes": "Wiesbaden; English docs; no SAFe/insurance experience; 3y borderline for \"mehrjährig\"; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Wiesbaden",
+ "ats": 69,
+ "apply_url": "https://www.linkedin.com/jobs/view/4477069578",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4477069578",
+ "contact": "",
+ "verdict": "Good match on GenAI/agents/ML/Python/GitLab/Azure; \"mehrjährige Berufserfahrung\" (3 years) and no SAFe/insurance background hold it back.",
+ "gaps": [
+  "SAFe and insurance: stated openly in the letter, learning quickly.",
+  "German: the posting is in German but names no German level; the team works in Ge",
+  "Experience: \"mehrjährig\" with 3 years is borderline, no number given."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_R+V.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_R+V.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-azure-ai-agent-starter-kit-rv.md"
+ ],
+ "build": "azure-ai-agent-starter-kit",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

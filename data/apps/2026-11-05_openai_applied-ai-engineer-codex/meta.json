@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_openai_applied-ai-engineer-codex",
+ "date": "2026-11-05",
+ "prepared_at": 1793895077,
+ "company": "OpenAI",
+ "role": "Applied AI Engineer, Codex",
+ "fit": 60,
+ "status": "build-first",
+ "next_step": "build spec-driven-coding-agent-harness",
+ "notes": "Munich; English docs; German fluent asked (B1 gap); no Codex/TypeScript; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 55,
+ "apply_url": "https://www.linkedin.com/jobs/view/4469440742",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4469440742",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_OpenAI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_OpenAI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "spec-driven-coding-agent-harness",
+ "found_by_scout": false,
+ "german": "Are able to speak English and German fluently.",
+ "jd_lang": "English"
+}
