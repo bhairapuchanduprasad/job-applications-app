@@ -1,5 +1,5 @@
 {
- "generated": 1793881003.107044,
+ "generated": 1793881132.86239,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4014,6 +4014,24 @@
    "found_by_scout": false,
    "german": "Sehr gute Deutschkenntnisse",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_battery-kutter_junior-software-developer-ai-automation",
+   "date": "2026-11-05",
+   "prepared_at": 1793881131,
+   "company": "Battery-Kutter GmbH & Co. KG",
+   "role": "Junior Software Developer - AI and Automation (d/w/m)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Hamburg",
+   "ats": 50,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487733271",
+   "apply_url_kind": "posting",
+   "build": "n8n-ai-workflow-hub",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4294,7 +4312,8 @@
    "2026-11-04_thalia_ai-engineer-generative-ki"
   ],
   "n8n-ai-workflow-hub": [
-   "2026-11-04_jl-digital_it-consultant-cloud-ai"
+   "2026-11-04_jl-digital_it-consultant-cloud-ai",
+   "2026-11-05_battery-kutter_junior-software-developer-ai-automation"
   ],
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",

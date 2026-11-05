@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-05_battery-kutter_junior-software-developer-ai-automation",
+ "date": "2026-11-05",
+ "prepared_at": 1793881131,
+ "company": "Battery-Kutter GmbH & Co. KG",
+ "role": "Junior Software Developer - AI and Automation (d/w/m)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build n8n-ai-workflow-hub",
+ "notes": "Norderstedt (CV: Hamburg); German docs; German B1 top gap; IT-support/Windows/M365 gaps; scout; no reviewer pass; contact Mr. Duwensee",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 50,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487733271",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487733271",
+ "contact": "",
+ "verdict": "Junior role in internal tools, web apps and AI automation fits my profile well; IT-support part (Windows, hardware, networks), M365/ERP and \"sehr gute\" German are the gaps.",
+ "gaps": [
+  "German: B1 vs \"sehr gute\"; stated in the letter. Documents are German (German po",
+  "IT support (hardware, Windows, network): stated plainly in the letter, not claim",
+  "n8n AI Workflow Hub is planned (not built); not used as proof in the letter."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Battery-Kutter.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Battery-Kutter.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-n8n-ai-workflow-hub.md"
+ ],
+ "build": "n8n-ai-workflow-hub",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+ "jd_lang": "German"
+}
