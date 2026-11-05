@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_enmacc_ai-systems-automation-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793853386,
+ "company": "enmacc",
+ "role": "AI Systems and Automation Engineer (m/f/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "English documents; Munich; gap: 3-5+ yrs, TypeScript/Java/Go, event-driven, KYC, Temporal/n8n; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Munich",
+ "ats": 90,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487505117",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487505117",
+ "contact": "",
+ "verdict": "Strong match on agentic/LLM/MCP, Python/FastAPI/Postgres, Docker, CI/CD and approval-style web apps. Weaker on years of pure backend experience, TypeScript/Java/Go and regulated onboarding.",
+ "gaps": [
+  "Years of experience: 3-5+ asked, ~3 total (CV says 3 years); posting says \"don't",
+  "TypeScript/Java/Go, Kafka/queues beyond SQS, Temporal/n8n, KYC/regulated onboard",
+  "Monitoring/\"run it\" ownership in production is thin."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_enmacc.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_enmacc.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-ops-mcp-server.md"
+ ],
+ "build": "ops-mcp-server",
+ "found_by_scout": false
+}

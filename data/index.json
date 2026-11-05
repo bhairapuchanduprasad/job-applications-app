@@ -1,5 +1,5 @@
 {
- "generated": 1793853161.818203,
+ "generated": 1793853388.156526,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3312,6 +3312,22 @@
    "build": "order-inbox-agent",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_enmacc_ai-systems-automation-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793853386,
+   "company": "enmacc",
+   "role": "AI Systems and Automation Engineer (m/f/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 90,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487505117",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3381,7 +3397,8 @@
    "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
    "2026-11-04_quantumblack_software-engineer",
    "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme",
-   "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai"
+   "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai",
+   "2026-11-05_enmacc_ai-systems-automation-engineer"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",
