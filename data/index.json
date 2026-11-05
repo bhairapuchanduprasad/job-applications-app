@@ -1,5 +1,5 @@
 {
- "generated": 1793895237.3344178,
+ "generated": 1793895399.0057201,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4140,6 +4140,24 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_r-v-versicherung_data-scientist-analytisches-crm",
+   "date": "2026-11-05",
+   "prepared_at": 1793895396,
+   "company": "R+V Versicherung",
+   "role": "Data Scientist (m/w/d) für analytisches CRM und datengestützte Potenziale",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Wiesbaden",
+   "ats": 67,
+   "apply_url": "https://www.linkedin.com/jobs/view/4477078185",
+   "apply_url_kind": "posting",
+   "build": "next-best-offer-engine",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4449,6 +4467,9 @@
   ],
   "internal-knowledge-assistant": [
    "2026-11-05_finanz-informatik_ai-engineer-ki-entwickler"
+  ],
+  "next-best-offer-engine": [
+   "2026-11-05_r-v-versicherung_data-scientist-analytisches-crm"
   ]
  }
 }

@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-05_r-v-versicherung_data-scientist-analytisches-crm",
+ "date": "2026-11-05",
+ "prepared_at": 1793895396,
+ "company": "R+V Versicherung",
+ "role": "Data Scientist (m/w/d) für analytisches CRM und datengestützte Potenziale",
+ "fit": 52,
+ "status": "build-first",
+ "next_step": "build next-best-offer-engine",
+ "notes": "Wiesbaden; German docs; German B1 vs sehr gut; no SAS/segmentation; ATS 67%; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Wiesbaden",
+ "ats": 67,
+ "apply_url": "https://www.linkedin.com/jobs/view/4477078185",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4477078185",
+ "contact": "",
+ "verdict": "Solid data science/ML/SQL/Python base, but \"sehr gute Deutschkenntnisse in Wort und Schrift\" (I have B1) is the main gap, and the role is classic CRM analytics (segmentation, SAS) rather than GenAI.",
+ "gaps": [
+  "German: documents are in German (German posting that requires German, rule 3). L",
+  "SAS and segmentation experience: stated plainly in the letter; the Next-Best-Off"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_R+V-CRM.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_R+V-CRM.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-next-best-offer-engine.md"
+ ],
+ "build": "next-best-offer-engine",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+ "jd_lang": "German"
+}
