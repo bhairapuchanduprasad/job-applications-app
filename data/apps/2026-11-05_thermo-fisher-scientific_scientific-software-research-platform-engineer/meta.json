@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-05_thermo-fisher-scientific_scientific-software-research-platform-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793865578,
+ "company": "Thermo Fisher Scientific",
+ "role": "Scientific Software & Research Platform Engineer (m/f/d)",
+ "fit": 55,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Bremen; on-site, hands-on with spectrometers; asks for start date + salary in application; no instrument/Linux/C++ experience",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bremen",
+ "ats": 33,
+ "apply_url": "https://www.linkedin.com/jobs/view/4477352567",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4477352567",
+ "contact": "",
+ "verdict": "Python research-software and sensor time-series modeling match; the instrument hands-on work, physics background, Linux/Bash and C++/Rust do not.",
+ "gaps": [
+  "Instrument work: stated openly in the letter (no spectrometer experience, willin",
+  "No physics degree: framed via Mechanical Engineering and sensor-data modeling at"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Thermo-Fisher.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Thermo-Fisher.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

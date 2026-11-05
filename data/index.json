@@ -1,5 +1,5 @@
 {
- "generated": 1793865580.3486872,
+ "generated": 1793865790.762384,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3816,6 +3816,42 @@
    "found_by_scout": false,
    "german": "Sichere Deutsch- und Englischkenntnisse in Wort und Schrift.",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_thermo-fisher-scientific_scientific-software-research-platform-engineer",
+   "date": "2026-11-05",
+   "prepared_at": 1793865578,
+   "company": "Thermo Fisher Scientific",
+   "role": "Scientific Software & Research Platform Engineer (m/f/d)",
+   "fit": 55,
+   "status": "ready",
+   "city": "Bremen",
+   "ats": 33,
+   "apply_url": "https://www.linkedin.com/jobs/view/4477352567",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-05_medirion_embedded-full-stack-software-developer",
+   "date": "2026-11-05",
+   "prepared_at": 1793865788,
+   "company": "Medirion",
+   "role": "Embedded / Full Stack SW Developer (m,w,d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Duisburg",
+   "ats": 38,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485585581",
+   "apply_url_kind": "posting",
+   "build": "clinical-info-assistant",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Excellent communication skills in English and German.",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -3935,7 +3971,8 @@
   "clinical-info-assistant": [
    "2026-10-25_juicylemons_product-engineer",
    "2026-10-27_wefra-life_data-scientist",
-   "2026-10-29_paddy_ai-product-engineer"
+   "2026-10-29_paddy_ai-product-engineer",
+   "2026-11-05_medirion_embedded-full-stack-software-developer"
   ],
   "azure-ai-rag-starter-kit": [
    "2026-10-25_hamburger-energienetze_azure-devops-engineer-ai",

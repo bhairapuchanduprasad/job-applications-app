@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-05_medirion_embedded-full-stack-software-developer",
+ "date": "2026-11-05",
+ "prepared_at": 1793865788,
+ "company": "Medirion",
+ "role": "Embedded / Full Stack SW Developer (m,w,d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build clinical-info-assistant",
+ "notes": "Duisburg; Java/C++/AngularJS gaps; TVL 11-13 pay scale; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Duisburg",
+ "ats": 38,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485585581",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485585581",
+ "contact": "",
+ "verdict": "Full stack Python/React/cloud background fits; the named stack (Java, C++, AngularJS) and \"extensive\" experience do not.",
+ "gaps": [
+  "Java, C++, AngularJS: stated openly in the letter as learning on the job. Not on",
+  "Multithreading / real-time: left out (not confirmed hands-on).",
+  "German is a preferred, not mandatory; B1 stated in letter.",
+  "\"Embedded\" in the title is unclear: description is pure full stack/AI software."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Medirion.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Medirion.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "clinical-info-assistant",
+ "found_by_scout": false,
+ "german": "Excellent communication skills in English and German.",
+ "jd_lang": "English"
+}
