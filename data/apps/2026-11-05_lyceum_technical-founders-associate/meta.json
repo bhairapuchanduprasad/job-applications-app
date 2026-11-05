@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-05_lyceum_technical-founders-associate",
+ "date": "2026-11-05",
+ "prepared_at": 1793880740,
+ "company": "Lyceum",
+ "role": "Technical Founders Associate",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build self-hosted-llm-inference",
+ "notes": "Berlin; product-leaning role, GPU/product gaps stated in letter; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 38,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486593359",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486593359",
+ "contact": "",
+ "verdict": "Technically close (LLM APIs, FastAPI, Docker, user-facing work), but it is a product/associate role and I have no formal product or GPU-infra experience.",
+ "gaps": [
+  "GPU/inference-serving and product-management experience: stated openly in the le",
+  "German: not mentioned in the posting."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Lyceum.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Lyceum.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-self-hosted-llm-inference.md"
+ ],
+ "build": "self-hosted-llm-inference",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

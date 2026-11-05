@@ -1,5 +1,5 @@
 {
- "generated": 1793880557.8598359,
+ "generated": 1793880742.0717518,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3978,6 +3978,24 @@
    "found_by_scout": false,
    "german": "Sehr gute Deutsch- sowie sehr gute Englischkenntnisse",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_lyceum_technical-founders-associate",
+   "date": "2026-11-05",
+   "prepared_at": 1793880740,
+   "company": "Lyceum",
+   "role": "Technical Founders Associate",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 38,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486593359",
+   "apply_url_kind": "posting",
+   "build": "self-hosted-llm-inference",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -4213,7 +4231,8 @@
   ],
   "self-hosted-llm-inference": [
    "2026-11-03_8com_cyber-security-automation-ai-engineer",
-   "2026-11-05_createch-engineering_ki-experte-ki-administration"
+   "2026-11-05_createch-engineering_ki-experte-ki-administration",
+   "2026-11-05_lyceum_technical-founders-associate"
   ],
   "radar-nowcasting": [
    "2026-11-03_wetteronline_machine-learning-engineer"
