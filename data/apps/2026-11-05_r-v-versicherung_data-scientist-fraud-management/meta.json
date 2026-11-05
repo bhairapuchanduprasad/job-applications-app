@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-05_r-v-versicherung_data-scientist-fraud-management",
+ "date": "2026-11-05",
+ "prepared_at": 1793895508,
+ "company": "R+V Versicherung",
+ "role": "Data Scientist Fraud Management (m/w/d)",
+ "fit": 52,
+ "status": "build-first",
+ "next_step": "build payment-fraud-detection",
+ "notes": "Wiesbaden; German docs; German B1 vs B2-C1; no fraud/insurance/business-case experience; third R+V application; scout; no reviewer pass",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Wiesbaden",
+ "ats": 100,
+ "apply_url": "https://www.linkedin.com/jobs/view/4477080151",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4477080151",
+ "contact": "",
+ "verdict": "Python/SQL/ML and anomaly-style modelling fit, but no fraud, insurance or business-case/management-paper experience, and German \"mind. B2-C1\" vs my B1 is the top gap.",
+ "gaps": [
+  "German: documents in German (German posting that requires German, rule 3); lette",
+  "Fraud/insurance and business cases: stated plainly; the Payment Fraud Detection "
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_R+V-Fraud.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_R+V-Fraud.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-payment-fraud-detection.md"
+ ],
+ "build": "payment-fraud-detection",
+ "found_by_scout": false,
+ "german": "Gute Deutschkenntnisse in Wort und Schrift (mind. B2-C1).",
+ "jd_lang": "German"
+}

@@ -1,5 +1,5 @@
 {
- "generated": 1793895399.0057201,
+ "generated": 1793895510.6127229,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4158,6 +4158,24 @@
    "found_by_scout": false,
    "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_r-v-versicherung_data-scientist-fraud-management",
+   "date": "2026-11-05",
+   "prepared_at": 1793895508,
+   "company": "R+V Versicherung",
+   "role": "Data Scientist Fraud Management (m/w/d)",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Wiesbaden",
+   "ats": 100,
+   "apply_url": "https://www.linkedin.com/jobs/view/4477080151",
+   "apply_url_kind": "posting",
+   "build": "payment-fraud-detection",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Gute Deutschkenntnisse in Wort und Schrift (mind. B2-C1).",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4328,7 +4346,8 @@
   "payment-fraud-detection": [
    "2026-10-28_finanz-informatik_data-scientist-compliance",
    "2026-10-29_union-investment_data-scientist-ki-kompetenzzentrum",
-   "2026-11-01_deloitte_consultant-ai-data-analytics"
+   "2026-11-01_deloitte_consultant-ai-data-analytics",
+   "2026-11-05_r-v-versicherung_data-scientist-fraud-management"
   ],
   "matching-experiment-lab": [
    "2026-10-29_jobgether_data-scientist-ai-experimentation",
