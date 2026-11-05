@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-05_hiredbuddy_machine-learning-engineer",
+ "date": "2026-11-05",
+ "prepared_at": 1793866050,
+ "company": "HiredBuddy",
+ "role": "Machine Learning Engineer",
+ "fit": 78,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Remote (listed France); entry level; legitimacy of company unverified; unsupervised learning gap; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486576321",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486576321",
+ "contact": "",
+ "verdict": "Strong match on skills; I am more experienced than the entry-level brief, and the company is thinly documented.",
+ "gaps": [
+  "Unsupervised learning, clustering, recommender systems: not in profile, left out",
+  "German not mentioned in the posting."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_HiredBuddy.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_HiredBuddy.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
