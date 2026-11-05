@@ -1,5 +1,5 @@
 {
- "generated": 1793852448.223093,
+ "generated": 1793852644.372154,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3248,6 +3248,22 @@
    "build": "",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_gerhard-schubert_it-specialist-eim-ai-wissensmanagement",
+   "date": "2026-11-05",
+   "prepared_at": 1793852642,
+   "company": "Gerhard Schubert GmbH",
+   "role": "IT Specialist Enterprise Information Management, AI & Wissensmanagement",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 38,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485542934",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-agent-starter-kit",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3533,7 +3549,8 @@
    "2026-11-05_wilo-group_data-scientist-ki"
   ],
   "azure-ai-agent-starter-kit": [
-   "2026-11-05_skaylink_copilot-studio-ai-solutions-consultant"
+   "2026-11-05_skaylink_copilot-studio-ai-solutions-consultant",
+   "2026-11-05_gerhard-schubert_it-specialist-eim-ai-wissensmanagement"
   ],
   "multi-tenant-rag-service": [
    "2026-11-05_proxify_forward-deployed-ai-engineer"

@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-05_gerhard-schubert_it-specialist-eim-ai-wissensmanagement",
+ "date": "2026-11-05",
+ "prepared_at": 1793852642,
+ "company": "Gerhard Schubert GmbH",
+ "role": "IT Specialist Enterprise Information Management, AI & Wissensmanagement",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build azure-ai-agent-starter-kit",
+ "notes": "German documents; Crailsheim (CV: Stuttgart); gap: German B1 vs sehr gut, .NET/Oracle, EIM architecture, leadership; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Stuttgart",
+ "ats": 38,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485542934",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485542934",
+ "contact": "",
+ "verdict": "Knowledge management + AI + Azure matches Kniit well; German (\"sehr gute Kommunikationsfähigkeiten in Deutsch\") and .NET/Oracle/EIM-architecture are gaps.",
+ "gaps": [
+  "German: B1 vs \"sehr gut\"; the posting also says applications without sufficient ",
+  ".NET/Oracle: named in the letter as not used professionally, SQL/Postgres/MongoD",
+  "EIM architecture, functional safety, business continuity, leadership: left out, "
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Schubert.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Schubert.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "azure-ai-agent-starter-kit",
+ "found_by_scout": false
+}
