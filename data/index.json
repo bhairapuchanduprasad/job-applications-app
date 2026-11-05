@@ -1,5 +1,5 @@
 {
- "generated": 1793881132.86239,
+ "generated": 1793894292.577007,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3824,13 +3824,13 @@
    "company": "Thermo Fisher Scientific",
    "role": "Scientific Software & Research Platform Engineer (m/f/d)",
    "fit": 55,
-   "status": "ready",
+   "status": "applied",
    "city": "Bremen",
    "ats": 33,
    "apply_url": "https://www.linkedin.com/jobs/view/4477352567",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-05",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -4031,6 +4031,24 @@
    "applied_date": "",
    "found_by_scout": false,
    "german": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-05_bearingpoint_junior-consultant-generative-ai",
+   "date": "2026-11-05",
+   "prepared_at": 1793894274,
+   "company": "BearingPoint",
+   "role": "(Junior) Consultant Generative AI (m/w/d)",
+   "fit": 72,
+   "status": "ready",
+   "city": "Frankfurt",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4105574897",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute deutsche und englische Sprachkenntnisse runden dein Profil ab",
    "jd_lang": "German"
   }
  ],

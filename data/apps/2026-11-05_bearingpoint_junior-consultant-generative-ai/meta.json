@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-05_bearingpoint_junior-consultant-generative-ai",
+ "date": "2026-11-05",
+ "prepared_at": 1793894274,
+ "company": "BearingPoint",
+ "role": "(Junior) Consultant Generative AI (m/w/d)",
+ "fit": 72,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; German B1 vs sehr gute required; no Projects section (page limit)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/view/4105574897",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4105574897",
+ "contact": "",
+ "verdict": "Strong match on LLM integration, RAG, consulting-style requirements work and cloud; held back by \"sehr gute\" German (I have B1) and no client-facing consulting job.",
+ "gaps": [
+  "German (top gap)",
+  "No permanent consulting role (only the Covestro AI Consulting internship); frame",
+  "R and Java not claimed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_BearingPoint.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_BearingPoint.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "Sehr gute deutsche und englische Sprachkenntnisse runden dein Profil ab",
+ "jd_lang": "German"
+}
