@@ -1,5 +1,5 @@
 {
- "generated": 1793853773.787392,
+ "generated": 1793854089.640137,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3360,6 +3360,22 @@
    "build": "energy-customer-service-agent",
    "applied_date": null,
    "found_by_scout": false
+  },
+  {
+   "folder": "2026-11-05_hu-forschungsdaten-info_data-scientist",
+   "date": "2026-11-05",
+   "prepared_at": 1793854087,
+   "company": "forschungsdaten.info (HUMAN ORIGINS, Uni Tübingen)",
+   "role": "Data Scientist (m/f/d, E13 TV-L, 100%)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 67,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487550420",
+   "apply_url_kind": "posting",
+   "build": "point-cloud-pipeline",
+   "applied_date": null,
+   "found_by_scout": false
   }
  ],
  "builds": {
@@ -3610,7 +3626,8 @@
   ],
   "point-cloud-pipeline": [
    "2026-11-04_segmantix_founding-engineer",
-   "2026-11-04_nanoscribe_software-engineer-python-3d-printing"
+   "2026-11-04_nanoscribe_software-engineer-python-3d-printing",
+   "2026-11-05_hu-forschungsdaten-info_data-scientist"
   ],
   "client-self-serve-portal": [
    "2026-11-04_terratech-holding_software-engineer"

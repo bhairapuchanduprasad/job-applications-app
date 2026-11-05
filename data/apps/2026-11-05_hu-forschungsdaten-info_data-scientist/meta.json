@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-05_hu-forschungsdaten-info_data-scientist",
+ "date": "2026-11-05",
+ "prepared_at": 1793854087,
+ "company": "forschungsdaten.info (HUMAN ORIGINS, Uni Tübingen)",
+ "role": "Data Scientist (m/f/d, E13 TV-L, 100%)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build point-cloud-pipeline",
+ "notes": "English documents; Stuttgart on CV; deadline 15.11.2026 (email single PDF); gap: research data mgmt, 3D/genomic data, PhD; fixed-term to 2032; JD from Uni Tübingen page; reused planned project; no reviewer pass; scout",
+ "applied_date": null,
+ "applied_via": null,
+ "city": "Stuttgart",
+ "ats": 67,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487550420",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487550420",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_HUMAN-ORIGINS.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_HUMAN-ORIGINS.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-point-cloud-pipeline-reuse.md"
+ ],
+ "build": "point-cloud-pipeline",
+ "found_by_scout": false
+}
