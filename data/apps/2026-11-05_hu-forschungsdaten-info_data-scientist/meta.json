@@ -5,11 +5,11 @@
  "company": "forschungsdaten.info (HUMAN ORIGINS, Uni Tübingen)",
  "role": "Data Scientist (m/f/d, E13 TV-L, 100%)",
  "fit": 66,
- "status": "build-first",
- "next_step": "build point-cloud-pipeline",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; Stuttgart on CV; deadline 15.11.2026 (email single PDF); gap: research data mgmt, 3D/genomic data, PhD; fixed-term to 2032; JD from Uni Tübingen page; reused planned project; no reviewer pass; scout",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-05",
+ "applied_via": "Company careers site",
  "city": "Stuttgart",
  "ats": 67,
  "apply_url": "https://www.linkedin.com/jobs/view/4487550420",
@@ -43,7 +43,7 @@
  "briefs": [
   "project-brief-point-cloud-pipeline-reuse.md"
  ],
- "build": "point-cloud-pipeline",
+ "build": "",
  "found_by_scout": false,
  "german": "Very good English, written and spoken. (German not mentioned.)",
  "jd_lang": "English"

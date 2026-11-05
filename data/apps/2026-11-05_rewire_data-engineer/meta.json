@@ -5,11 +5,11 @@
  "company": "Rewire",
  "role": "Data Engineer (m/w/d)",
  "fit": 66,
- "status": "build-first",
- "next_step": "build agent-ready-data-platform",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; Heidelberg; gap: German B1 vs fluent, Spark/dbt, client travel; reused planned project; no web research or reviewer pass; scout",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-05",
+ "applied_via": "Company careers site",
  "city": "Heidelberg",
  "ats": 94,
  "apply_url": "https://www.linkedin.com/jobs/view/4487284197",
@@ -47,7 +47,7 @@
  "briefs": [
   "project-brief-agent-ready-data-platform.md"
  ],
- "build": "agent-ready-data-platform",
+ "build": "",
  "found_by_scout": false,
  "german": "English and German (written and spoken), and",
  "jd_lang": "English"

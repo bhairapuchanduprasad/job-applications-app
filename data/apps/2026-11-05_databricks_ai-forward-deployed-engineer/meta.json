@@ -5,11 +5,11 @@
  "company": "Databricks",
  "role": "AI Forward Deployed Engineer",
  "fit": 62,
- "status": "build-first",
- "next_step": "build text2sql-analytics-agent",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; Munich; gap: 3 vs min 4 yrs, Databricks/Spark, DSPy, Text2SQL; reused planned project; no web research or reviewer pass; scout",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-05",
+ "applied_via": "Company careers site",
  "city": "Munich",
  "ats": 65,
  "apply_url": "https://www.linkedin.com/jobs/view/4485545086",
@@ -43,7 +43,7 @@
  "briefs": [
   "project-brief-text2sql-analytics-agent.md"
  ],
- "build": "text2sql-analytics-agent",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"

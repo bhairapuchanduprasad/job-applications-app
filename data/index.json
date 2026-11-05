@@ -1,5 +1,5 @@
 {
- "generated": 1793858420.123374,
+ "generated": 1793865580.3486872,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -3572,13 +3572,13 @@
    "company": "Rewire",
    "role": "Data Scientist (m/w/d)",
    "fit": 70,
-   "status": "ready",
+   "status": "applied",
    "city": "Heidelberg",
    "ats": 87,
    "apply_url": "https://www.linkedin.com/jobs/view/4487277632",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-05",
    "found_by_scout": false,
    "german": "English and German (written and spoken), and",
    "jd_lang": "English"
@@ -3590,13 +3590,13 @@
    "company": "Rewire",
    "role": "Data Engineer (m/w/d)",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Heidelberg",
    "ats": 94,
    "apply_url": "https://www.linkedin.com/jobs/view/4487284197",
    "apply_url_kind": "posting",
-   "build": "agent-ready-data-platform",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-05",
    "found_by_scout": false,
    "german": "English and German (written and spoken), and",
    "jd_lang": "English"
@@ -3680,13 +3680,13 @@
    "company": "Inviso",
    "role": "Backend / Platform Engineer",
    "fit": 52,
-   "status": "build-first",
+   "status": "applied",
    "city": "Germany",
    "ats": 68,
    "apply_url": "https://www.linkedin.com/jobs/view/4485543048",
    "apply_url_kind": "posting",
-   "build": "ai-gateway-platform",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-05",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -3698,13 +3698,13 @@
    "company": "Databricks",
    "role": "AI Forward Deployed Engineer",
    "fit": 62,
-   "status": "build-first",
+   "status": "applied",
    "city": "Munich",
    "ats": 65,
    "apply_url": "https://www.linkedin.com/jobs/view/4485545086",
    "apply_url_kind": "posting",
-   "build": "text2sql-analytics-agent",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-05",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -3734,13 +3734,13 @@
    "company": "enmacc",
    "role": "AI Systems and Automation Engineer (m/f/d)",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Munich",
    "ats": 90,
    "apply_url": "https://www.linkedin.com/jobs/view/4487505117",
    "apply_url_kind": "posting",
-   "build": "ops-mcp-server",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-05",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -3788,13 +3788,13 @@
    "company": "forschungsdaten.info (HUMAN ORIGINS, Uni Tübingen)",
    "role": "Data Scientist (m/f/d, E13 TV-L, 100%)",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Stuttgart",
    "ats": 67,
    "apply_url": "https://www.linkedin.com/jobs/view/4487550420",
    "apply_url_kind": "posting",
-   "build": "point-cloud-pipeline",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-05",
    "found_by_scout": false,
    "german": "Very good English, written and spoken. (German not mentioned.)",
    "jd_lang": "English"
@@ -3884,8 +3884,7 @@
    "2026-11-03_check24_junior-full-stack-entwickler-ai-digital-innovation-reise",
    "2026-11-04_quantumblack_software-engineer",
    "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme",
-   "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai",
-   "2026-11-05_enmacc_ai-systems-automation-engineer"
+   "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",
@@ -3966,8 +3965,7 @@
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms",
-   "2026-10-28_beurer_ai-platform-engineer",
-   "2026-11-05_inviso_backend-platform-engineer"
+   "2026-10-28_beurer_ai-platform-engineer"
   ],
   "road-damage-inference": [
    "2026-10-27_hochtief-edgital_applied-ai-engineer",
@@ -4005,8 +4003,7 @@
    "2026-11-05_capgemini-engineering_data-analysis-engineer"
   ],
   "agent-ready-data-platform": [
-   "2026-11-02_quantumblack_data-engineering-consultant",
-   "2026-11-05_rewire_data-engineer"
+   "2026-11-02_quantumblack_data-engineering-consultant"
   ],
   "leasing-document-extraction": [
    "2026-11-03_vent-io_data-software-engineer-ai-data"
@@ -4065,8 +4062,7 @@
   ],
   "point-cloud-pipeline": [
    "2026-11-04_segmantix_founding-engineer",
-   "2026-11-04_nanoscribe_software-engineer-python-3d-printing",
-   "2026-11-05_hu-forschungsdaten-info_data-scientist"
+   "2026-11-04_nanoscribe_software-engineer-python-3d-printing"
   ],
   "client-self-serve-portal": [
    "2026-11-04_terratech-holding_software-engineer"
@@ -4113,9 +4109,6 @@
   ],
   "customer-service-assistant-aws": [
    "2026-11-05_slalom_aws-ai-engineer"
-  ],
-  "text2sql-analytics-agent": [
-   "2026-11-05_databricks_ai-forward-deployed-engineer"
   ]
  }
 }

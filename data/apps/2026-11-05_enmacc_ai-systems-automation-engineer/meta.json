@@ -5,11 +5,11 @@
  "company": "enmacc",
  "role": "AI Systems and Automation Engineer (m/f/d)",
  "fit": 66,
- "status": "build-first",
- "next_step": "build ops-mcp-server",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; Munich; gap: 3-5+ yrs, TypeScript/Java/Go, event-driven, KYC, Temporal/n8n; reused planned project; no web research or reviewer pass; scout",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-05",
+ "applied_via": "LinkedIn Easy Apply",
  "city": "Munich",
  "ats": 90,
  "apply_url": "https://www.linkedin.com/jobs/view/4487505117",
@@ -47,7 +47,7 @@
  "briefs": [
   "project-brief-ops-mcp-server.md"
  ],
- "build": "ops-mcp-server",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"

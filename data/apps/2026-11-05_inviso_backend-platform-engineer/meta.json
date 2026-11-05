@@ -5,11 +5,11 @@
  "company": "Inviso",
  "role": "Backend / Platform Engineer",
  "fit": 52,
- "status": "build-first",
- "next_step": "build ai-gateway-platform",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; remote Germany; staffing agency, client unnamed; gap: tenancy/entitlements/metering, distributed systems, C#/Go; reused planned project; no web research or reviewer pass; scout",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-05",
+ "applied_via": "Company careers site",
  "city": "Germany",
  "ats": 68,
  "apply_url": "https://www.linkedin.com/jobs/view/4485543048",
@@ -43,7 +43,7 @@
  "briefs": [
   "project-brief-internal-ai-platform-gateway.md"
  ],
- "build": "ai-gateway-platform",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"
