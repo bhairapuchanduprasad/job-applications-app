@@ -1,5 +1,5 @@
 {
- "generated": 1793925214.823189,
+ "generated": 1793925240.227364,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4478,6 +4478,24 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487791452",
    "apply_url_kind": "posting",
    "build": "ecosystem-data-hub",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_nds-netzwerksysteme_ki-business-partner",
+   "date": "2026-11-06",
+   "prepared_at": 1793925212,
+   "company": "nds Netzwerksysteme GmbH",
+   "role": "KI-Pionier / AI Business Partner / KI Consultant (m/w/d)",
+   "fit": 58,
+   "status": "ready",
+   "city": "Stuttgart",
+   "ats": 100,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488072421",
+   "apply_url_kind": "posting",
+   "build": "",
    "applied_date": "",
    "found_by_scout": false,
    "german": "No mention of German",
