@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-06_amazon-music_data-scientist-ii-music-disco",
+ "date": "2026-11-06",
+ "prepared_at": 1793981473,
+ "company": "Amazon Music",
+ "role": "Data Scientist II, Music DISCO",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build matching-experiment-lab",
+ "notes": "Berlin; Job ID A10524281; causal inference gap",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 50,
+ "apply_url": "https://www.linkedin.com/jobs/view/4462097153",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4462097153",
+ "contact": "",
+ "verdict": "Solid ML, SQL/Python and stakeholder evidence; the core of the role (causal inference, cohort analysis, marketing RCT evaluation) is a real gap.",
+ "gaps": [
+  "Causal inference / marketing measurement / cohort analysis: stated openly in the",
+  "Large-tech DS role; R.",
+  "Matching Experiment Lab is planned, not built."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Amazon-Music.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Amazon-Music.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "matching-experiment-lab",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

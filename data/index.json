@@ -1,5 +1,5 @@
 {
- "generated": 1793981295.047138,
+ "generated": 1793981476.015674,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4572,6 +4572,24 @@
    "found_by_scout": false,
    "german": "knowledge of German is considered an advantage",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_amazon-music_data-scientist-ii-music-disco",
+   "date": "2026-11-06",
+   "prepared_at": 1793981473,
+   "company": "Amazon Music",
+   "role": "Data Scientist II, Music DISCO",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 50,
+   "apply_url": "https://www.linkedin.com/jobs/view/4462097153",
+   "apply_url_kind": "posting",
+   "build": "matching-experiment-lab",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -4754,7 +4772,8 @@
   "matching-experiment-lab": [
    "2026-10-29_jobgether_data-scientist-ai-experimentation",
    "2026-11-03_kayak_data-scientist",
-   "2026-11-05_taskverse-senacor_data-scientist"
+   "2026-11-05_taskverse-senacor_data-scientist",
+   "2026-11-06_amazon-music_data-scientist-ii-music-disco"
   ],
   "canteen-menu-insights": [
    "2026-11-02_odacova_applied-ai-backend-engineer"
