@@ -1,5 +1,5 @@
 {
- "generated": 1793981476.015674,
+ "generated": 1793981822.746028,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4590,6 +4590,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_creatio_ai-consultant",
+   "date": "2026-11-06",
+   "prepared_at": 1793981682,
+   "company": "Creatio",
+   "role": "AI Consultant",
+   "fit": 60,
+   "status": "ready",
+   "city": "Munich",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4469605210",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Excellent spoken and written German and English",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_octopus-energy_analytics-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793981819,
+   "company": "Octopus Energy",
+   "role": "Analytics Engineer (m/w/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "München",
+   "ats": 86,
+   "apply_url": "https://www.linkedin.com/jobs/view/4471888085",
+   "apply_url_kind": "posting",
+   "build": "netzentgelte-kostenmodell",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Du kommunizierst klar – auf Deutsch und Englisch",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4923,6 +4959,9 @@
   ],
   "industrial-graphrag-platform": [
    "2026-11-06_edag-group_ai-data-software-engineer-metys"
+  ],
+  "netzentgelte-kostenmodell": [
+   "2026-11-06_octopus-energy_analytics-engineer"
   ]
  }
 }

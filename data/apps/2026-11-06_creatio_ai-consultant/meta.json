@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-06_creatio_ai-consultant",
+ "date": "2026-11-06",
+ "prepared_at": 1793981682,
+ "company": "Creatio",
+ "role": "AI Consultant",
+ "fit": 60,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Munich; customer-facing consulting gap; German B1 vs excellent German",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4469605210",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4469605210",
+ "contact": "",
+ "verdict": "Consulting-plus-AI-agents role; the Covestro AI Consulting Intern role and agent builds fit, but the posting asks for German at a high level and several years of customer-facing consulting.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Creatio.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Creatio.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "Excellent spoken and written German and English",
+ "jd_lang": "English"
+}

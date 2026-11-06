@@ -1,0 +1,55 @@
+{
+ "folder": "2026-11-06_octopus-energy_analytics-engineer",
+ "date": "2026-11-06",
+ "prepared_at": 1793981819,
+ "company": "Octopus Energy",
+ "role": "Analytics Engineer (m/w/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build netzentgelte-kostenmodell",
+ "notes": "Munich; dbt/Airflow + pricing-domain gap; German documents; Mid-Level to Senior asked",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "München",
+ "ats": 86,
+ "apply_url": "https://www.linkedin.com/jobs/view/4471888085",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4471888085",
+ "contact": "",
+ "verdict": "Solid Python/SQL/data-pipeline and energy-sector background; no dbt/Airflow in production, no pricing/regulatory-cost domain, German B1 vs German stakeholder communication.",
+ "gaps": [
+  "dbt, Airflow: stated honestly in the letter; planned project \"Netzentgelte-Koste",
+  "Domain: Netzentgelte, Umlagen, Steuern and pricing: not in profile, stated as to",
+  "German B1: the posting asks for communication in German and English (no level na",
+  "Not an AI role: pure analytics/data engineering; \"Mid-Level bis Senior\" is a str"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_Lebenslauf_Octopus-Energy.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Anschreiben_Octopus-Energy.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-netzentgelte-kostenmodell.md"
+ ],
+ "build": "netzentgelte-kostenmodell",
+ "found_by_scout": false,
+ "german": "Du kommunizierst klar – auf Deutsch und Englisch",
+ "jd_lang": "German"
+}
