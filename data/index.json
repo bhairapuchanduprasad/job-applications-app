@@ -1,5 +1,5 @@
 {
- "generated": 1793981822.746028,
+ "generated": 1793981972.0463428,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4626,6 +4626,24 @@
    "found_by_scout": false,
    "german": "Du kommunizierst klar – auf Deutsch und Englisch",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_alten_ai-development-engineer-python-llm",
+   "date": "2026-11-06",
+   "prepared_at": 1793981969,
+   "company": "ALTEN Consulting Services",
+   "role": "AI Development Engineer - Python & LLM (all gender)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Ingolstadt",
+   "ats": 88,
+   "apply_url": "https://www.linkedin.com/jobs/view/4476035279",
+   "apply_url_kind": "posting",
+   "build": "local-knowledge-assistant",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Verfügst über sehr gute Deutschkenntnisse in Wort und Schrift",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4962,6 +4980,9 @@
   ],
   "netzentgelte-kostenmodell": [
    "2026-11-06_octopus-energy_analytics-engineer"
+  ],
+  "local-knowledge-assistant": [
+   "2026-11-06_alten_ai-development-engineer-python-llm"
   ]
  }
 }

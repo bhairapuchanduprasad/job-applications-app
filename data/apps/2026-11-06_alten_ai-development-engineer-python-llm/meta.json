@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-06_alten_ai-development-engineer-python-llm",
+ "date": "2026-11-06",
+ "prepared_at": 1793981969,
+ "company": "ALTEN Consulting Services",
+ "role": "AI Development Engineer - Python & LLM (all gender)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build local-knowledge-assistant (reuse planned project)",
+ "notes": "Schrobenhausen (CV: Ingolstadt); German documents; German B1 vs sehr gut; no Bash/PowerShell; salary 60-80k",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Ingolstadt",
+ "ats": 88,
+ "apply_url": "https://www.linkedin.com/jobs/view/4476035279",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4476035279",
+ "contact": "",
+ "verdict": "Strong technical match (LLM/RAG assistant over documents, Python, architecture, deployment); held back by the \"sehr gute Deutschkenntnisse\" requirement (B1) and no Bash/PowerShell in the profile.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_ALTEN.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_ALTEN.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "local-knowledge-assistant",
+ "found_by_scout": false,
+ "german": "Verfügst über sehr gute Deutschkenntnisse in Wort und Schrift",
+ "jd_lang": "German"
+}
