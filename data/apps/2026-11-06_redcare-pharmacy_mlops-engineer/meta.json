@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-06_redcare-pharmacy_mlops-engineer",
+ "date": "2026-11-06",
+ "prepared_at": 1793982182,
+ "company": "Redcare Pharmacy",
+ "role": "MLOps Engineer (m/f/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build model-release-pipeline",
+ "notes": "Cologne; MLflow/Kubeflow/GitHub Actions gaps; second Redcare application (Platform Engineer 2026-10-27)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Cologne",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4477379832",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4477379832",
+ "contact": "",
+ "verdict": "Good match on Python, Docker, ML evaluation and deploying AI in production; gaps on the named MLOps tooling (MLflow, Kubeflow, GitHub Actions, Jenkins) and on operating Kubernetes as a platform.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Redcare-Pharmacy.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Redcare-Pharmacy.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-model-release-pipeline.md"
+ ],
+ "build": "model-release-pipeline",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

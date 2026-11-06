@@ -1,5 +1,5 @@
 {
- "generated": 1793981972.0463428,
+ "generated": 1793982191.046402,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4644,6 +4644,24 @@
    "found_by_scout": false,
    "german": "Verfügst über sehr gute Deutschkenntnisse in Wort und Schrift",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_redcare-pharmacy_mlops-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793982182,
+   "company": "Redcare Pharmacy",
+   "role": "MLOps Engineer (m/f/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Cologne",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4477379832",
+   "apply_url_kind": "posting",
+   "build": "model-release-pipeline",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -4983,6 +5001,9 @@
   ],
   "local-knowledge-assistant": [
    "2026-11-06_alten_ai-development-engineer-python-llm"
+  ],
+  "model-release-pipeline": [
+   "2026-11-06_redcare-pharmacy_mlops-engineer"
   ]
  }
 }
