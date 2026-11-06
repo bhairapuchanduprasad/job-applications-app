@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-06_cimpa-plm-services_junior-data-engineer-live-intelligence",
+ "date": "2026-11-06",
+ "prepared_at": 1793924971,
+ "company": "CIMPA PLM Services",
+ "role": "Junior Data Engineer for Live Intelligence (m/w/d)",
+ "fit": 78,
+ "status": "build-first",
+ "next_step": "build ecosystem-data-hub and industrial-graphrag-platform",
+ "notes": "English documents (German posting, no German required); Hamburg; entry-level with training plan; no deadline",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 86,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487791452",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487791452",
+ "contact": "",
+ "verdict": "Junior data engineering role with knowledge graphs, Python/SQL and AI integration. Strong match on pipelines and graphs, weaker on industry (PLM/aerospace) and JS/HTML/CSS.",
+ "gaps": [
+  "PLM / aerospace / export control: stated openly in the letter, framed as learnin",
+  "Workflow-automation tools and data governance: no hands-on evidence, left out of",
+  "JS/HTML/CSS: React only, said so in the letter.",
+  "German: not mentioned in the posting. German-language posting, but no German req"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_CIMPA.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_CIMPA.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "ecosystem-data-hub",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}
