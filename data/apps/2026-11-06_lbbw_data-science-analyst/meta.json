@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-06_lbbw_data-science-analyst",
+ "date": "2026-11-06",
+ "prepared_at": 1793923440,
+ "company": "LBBW (SüdLeasing)",
+ "role": "Data Science Analyst (m/w/d)",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build payment-fraud-detection",
+ "notes": "Stuttgart; German docs; apply by email bewerbung@suedleasing.com; German B1 vs sehr gut top gap; no credit risk PD/LGD or finance experience",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 64,
+ "apply_url": "https://www.linkedin.com/jobs/view/4484550031",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply by email: bewerbung@suedleasing.com (Referenznummer 17971 for the subject, not in the letter).",
+ "source": "https://www.linkedin.com/jobs/view/4484550031",
+ "contact": "",
+ "verdict": "Good match on forecasting/ML modelling and Python; held back by \"sehr gute Deutschkenntnisse\" (have B1) and no credit-risk / finance background.",
+ "gaps": [
+  "German: B1 vs \"sehr gut\". Documents are in German (German posting requiring Germ",
+  "Credit risk/finance: named in the letter as a gap; the fraud-detection project i",
+  "R: not on profile, left out."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_LBBW.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_LBBW.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-payment-fraud-detection.md"
+ ],
+ "build": "payment-fraud-detection",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutschkenntnisse in Wort und Schrift für die Bearbeitung komplexer Unterlagen",
+ "jd_lang": "German"
+}

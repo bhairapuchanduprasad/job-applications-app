@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
+ "date": "2026-11-06",
+ "prepared_at": 1793923213,
+ "company": "SAP",
+ "role": "Developer (Agentic Foundation for SAP Cloud ALM Development & Operations)",
+ "fit": 80,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Limited up to 6 months; looks like student-style placement (enrollment certificate asked), check eligibility; St. Leon-Rot shown as Heidelberg",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Heidelberg",
+ "ats": 85,
+ "apply_url": "https://www.linkedin.com/jobs/view/4477089919",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4477089919",
+ "contact": "",
+ "verdict": "",
+ "gaps": [
+  "crewAI, GitHub Copilot, Java: left out, stated honestly for crewAI/Java in the l",
+  "German B1 only: letter says B1."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_SAP.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_SAP.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "\"You’re comfortable working in German and can communicate confidently in English.\"",
+ "jd_lang": "English"
+}

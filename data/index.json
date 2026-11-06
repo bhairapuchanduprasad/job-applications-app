@@ -1,5 +1,5 @@
 {
- "generated": 1793909169.015082,
+ "generated": 1793923442.895139,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4302,6 +4302,42 @@
    "found_by_scout": false,
    "german": "Deutschkenntnisse auf mindestens B2-Niveau sowie sehr gute Kommunikationsfähigkeiten in Englisch",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
+   "date": "2026-11-06",
+   "prepared_at": 1793923213,
+   "company": "SAP",
+   "role": "Developer (Agentic Foundation for SAP Cloud ALM Development & Operations)",
+   "fit": 80,
+   "status": "build-first",
+   "city": "Heidelberg",
+   "ats": 85,
+   "apply_url": "https://www.linkedin.com/jobs/view/4477089919",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "\"You’re comfortable working in German and can communicate confidently in English.\"",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_lbbw_data-science-analyst",
+   "date": "2026-11-06",
+   "prepared_at": 1793923440,
+   "company": "LBBW (SüdLeasing)",
+   "role": "Data Science Analyst (m/w/d)",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 64,
+   "apply_url": "https://www.linkedin.com/jobs/view/4484550031",
+   "apply_url_kind": "posting",
+   "build": "payment-fraud-detection",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutschkenntnisse in Wort und Schrift für die Bearbeitung komplexer Unterlagen",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4361,7 +4397,8 @@
    "2026-11-03_vicoland_ai-platform-innovation-engineer",
    "2026-11-04_neura-robotics_agentic-ai-engineer",
    "2026-11-05_arrows_ai-engineer",
-   "2026-11-05_lime-connect_backend-engineer-ai-agents"
+   "2026-11-05_lime-connect_backend-engineer-ai-agents",
+   "2026-11-06_sap_developer-agentic-foundation-cloud-alm"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -4475,7 +4512,8 @@
    "2026-10-28_finanz-informatik_data-scientist-compliance",
    "2026-10-29_union-investment_data-scientist-ki-kompetenzzentrum",
    "2026-11-01_deloitte_consultant-ai-data-analytics",
-   "2026-11-05_r-v-versicherung_data-scientist-fraud-management"
+   "2026-11-05_r-v-versicherung_data-scientist-fraud-management",
+   "2026-11-06_lbbw_data-science-analyst"
   ],
   "matching-experiment-lab": [
    "2026-10-29_jobgether_data-scientist-ai-experimentation",
