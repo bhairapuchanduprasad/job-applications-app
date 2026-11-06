@@ -1,5 +1,5 @@
 {
- "generated": 1793923442.895139,
+ "generated": 1793923592.617395,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4338,6 +4338,24 @@
    "found_by_scout": false,
    "german": "Sehr gute Deutschkenntnisse in Wort und Schrift für die Bearbeitung komplexer Unterlagen",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_gebhardt-foerdertechnik_digital-twin-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793923590,
+   "company": "GEBHARDT Fördertechnik GmbH",
+   "role": "Digital Twin Engineer (m/w/d)",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Heidelberg",
+   "ats": 63,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485840440",
+   "apply_url_kind": "posting",
+   "build": "anlagen-datenhub",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- und gute Englischkenntnisse",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4656,6 +4674,9 @@
   ],
   "next-best-offer-engine": [
    "2026-11-05_r-v-versicherung_data-scientist-analytisches-crm"
+  ],
+  "anlagen-datenhub": [
+   "2026-11-06_gebhardt-foerdertechnik_digital-twin-engineer"
   ]
  }
 }

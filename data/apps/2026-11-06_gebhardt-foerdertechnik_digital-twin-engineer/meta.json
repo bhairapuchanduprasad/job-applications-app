@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-06_gebhardt-foerdertechnik_digital-twin-engineer",
+ "date": "2026-11-06",
+ "prepared_at": 1793923590,
+ "company": "GEBHARDT Fördertechnik GmbH",
+ "role": "Digital Twin Engineer (m/w/d)",
+ "fit": 52,
+ "status": "build-first",
+ "next_step": "build anlagen-datenhub",
+ "notes": "German documents; apply only via \"Jetzt bewerben\"; German B1 vs sehr gut is top gap",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Heidelberg",
+ "ats": 63,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485840440",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply only via \"Jetzt bewerben\" on the LinkedIn/GEBHARDT posting.",
+ "source": "https://www.linkedin.com/jobs/view/4485840440",
+ "contact": "",
+ "verdict": "Software + stakeholder + SAP-data work matches well; \"sehr gute Deutschkenntnisse\" (have B1), \"mehrjährige\" software experience and no Anlagenbau/Digital-Twin background pull it down.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_GEBHARDT.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_GEBHARDT.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-anlagen-datenhub.md"
+ ],
+ "build": "anlagen-datenhub",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutsch- und gute Englischkenntnisse",
+ "jd_lang": "German"
+}
