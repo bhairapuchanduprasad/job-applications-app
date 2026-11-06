@@ -1,5 +1,5 @@
 {
- "generated": 1793982191.046402,
+ "generated": 1793982745.947327,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4662,6 +4662,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_moss_applied-ai-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793982452,
+   "company": "Moss",
+   "role": "Applied AI Engineer",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 46,
+   "apply_url": "https://www.linkedin.com/jobs/view/4479846891",
+   "apply_url_kind": "posting",
+   "build": "invoice-capture-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_smiths-detection_software-engineer-computer-vision-ai",
+   "date": "2026-11-06",
+   "prepared_at": 1793982738,
+   "company": "Smiths Detection",
+   "role": "Software Engineer - Computer Vision & Künstliche Intelligenz (m/w/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Wiesbaden",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486217889",
+   "apply_url_kind": "posting",
+   "build": "road-damage-inference",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4823,7 +4859,8 @@
   ],
   "road-damage-inference": [
    "2026-10-27_hochtief-edgital_applied-ai-engineer",
-   "2026-11-01_se3-labs_data-ml-engineer"
+   "2026-11-01_se3-labs_data-ml-engineer",
+   "2026-11-06_smiths-detection_software-engineer-computer-vision-ai"
   ],
   "voice-receptionist-agent": [
    "2026-10-27_egroup_voice-ai-product-engineer",
@@ -4932,7 +4969,8 @@
    "2026-11-04_terratech-holding_software-engineer"
   ],
   "invoice-capture-agent": [
-   "2026-11-04_truvio_ai-engineer"
+   "2026-11-04_truvio_ai-engineer",
+   "2026-11-06_moss_applied-ai-engineer"
   ],
   "production-yield-anomaly": [
    "2026-11-04_randstad-deutschland_data-engineer"

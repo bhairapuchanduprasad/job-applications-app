@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-06_smiths-detection_software-engineer-computer-vision-ai",
+ "date": "2026-11-06",
+ "prepared_at": 1793982738,
+ "company": "Smiths Detection",
+ "role": "Software Engineer - Computer Vision & Künstliche Intelligenz (m/w/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build road-damage-inference + point-cloud-pipeline",
+ "notes": "English documents; gaps: C++, classical image processing, X-ray; salary 60k",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Wiesbaden",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486217889",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486217889",
+ "contact": "",
+ "verdict": "Solid ML/Python/evaluation base, but the role centres on classical 2D/3D image processing, C++ and X-ray imaging, where there is no professional experience.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Smiths-Detection.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Smiths-Detection.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "road-damage-inference",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

@@ -1,0 +1,55 @@
+{
+ "folder": "2026-11-06_moss_applied-ai-engineer",
+ "date": "2026-11-06",
+ "prepared_at": 1793982452,
+ "company": "Moss",
+ "role": "Applied AI Engineer",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build invoice-capture-agent (planned, reused)",
+ "notes": "Munich; no German mentioned; gaps Google ADK/GCP/Kafka; 'seasoned' level risk; salary not stated",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 46,
+ "apply_url": "https://www.linkedin.com/jobs/view/4479846891",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4479846891",
+ "contact": "",
+ "verdict": "Strong match on agents, MCP, RAG, evals and Python backend; gaps are the \"seasoned/production at scale\" tone, Google ADK/GCP/Kafka, and 3 years vs. a senior-leaning ask.",
+ "gaps": [
+  "Google ADK, GCP/Vertex, Kafka: stated openly in the letter; framework knowledge ",
+  "Seniority: no years requirement given, but \"seasoned\" suggests mid/senior. Risk ",
+  "No German requirement in the posting."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Moss.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Moss.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md",
+  "project-brief-invoice-capture-agent.md"
+ ],
+ "build": "invoice-capture-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
