@@ -1,5 +1,5 @@
 {
- "generated": 1793923592.617395,
+ "generated": 1793923987.849232,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4356,6 +4356,42 @@
    "found_by_scout": false,
    "german": "Sehr gute Deutsch- und gute Englischkenntnisse",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_johann-bunte_ai-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793923799,
+   "company": "Johann Bunte Bauunternehmung GmbH & Co. KG",
+   "role": "AI Engineer (m/w/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Oldenburg",
+   "ats": 86,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485865200",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-agent-starter-kit",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_newrocket_campus-ai-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793923985,
+   "company": "NewRocket",
+   "role": "Campus AI Engineer: Claude & Enterprise Automation (Remote)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 57,
+   "apply_url": "https://www.linkedin.com/jobs/view/4485868022",
+   "apply_url_kind": "posting",
+   "build": "n8n-ai-workflow-hub",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -4643,7 +4679,8 @@
   "n8n-ai-workflow-hub": [
    "2026-11-04_jl-digital_it-consultant-cloud-ai",
    "2026-11-05_battery-kutter_junior-software-developer-ai-automation",
-   "2026-11-05_sharpist_gtm-engineer-ai-automation"
+   "2026-11-05_sharpist_gtm-engineer-ai-automation",
+   "2026-11-06_newrocket_campus-ai-engineer"
   ],
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",
@@ -4661,7 +4698,8 @@
    "2026-11-05_skaylink_copilot-studio-ai-solutions-consultant",
    "2026-11-05_gerhard-schubert_it-specialist-eim-ai-wissensmanagement",
    "2026-11-05_r-v-versicherung_consultant-data-science",
-   "2026-11-06_trilux_ai-solution-engineer"
+   "2026-11-06_trilux_ai-solution-engineer",
+   "2026-11-06_johann-bunte_ai-engineer"
   ],
   "multi-tenant-rag-service": [
    "2026-11-05_proxify_forward-deployed-ai-engineer"

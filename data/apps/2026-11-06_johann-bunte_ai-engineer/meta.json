@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-06_johann-bunte_ai-engineer",
+ "date": "2026-11-06",
+ "prepared_at": 1793923799,
+ "company": "Johann Bunte Bauunternehmung GmbH & Co. KG",
+ "role": "AI Engineer (m/w/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build azure-ai-agent-starter-kit",
+ "notes": "Leer/Oldenburg; English docs; no named contact; no deadline; no Microsoft low-code or construction experience",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Oldenburg",
+ "ats": 86,
+ "apply_url": "https://www.linkedin.com/jobs/view/4485865200",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4485865200",
+ "contact": "",
+ "verdict": "Practical AI and automation prototyping role in a construction firm. Strong match on building prototypes, APIs and stakeholder work; gaps are Microsoft low-code tooling and construction domain.",
+ "gaps": [
+  "No Power Platform, Copilot Studio or Microsoft 365 automation experience: not cl",
+  "German: posting is in German but states no German requirement. Documents are in ",
+  "No construction domain knowledge."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Johann-Bunte.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Johann-Bunte.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "azure-ai-agent-starter-kit",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}
