@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-06_intersnack-it_data-scientist-ml-engineer-predictive-analytics-agentic-ai",
+ "date": "2026-11-06",
+ "prepared_at": 1793981083,
+ "company": "Intersnack IT KG",
+ "role": "Data Scientist & ML Engineer - Predictive Analytics & Agentic AI",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build retail-demand-forecasting-optimizer",
+ "notes": "English documents; Düsseldorf; no MLOps tooling/optimisation experience; sister role at same company",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Düsseldorf",
+ "ats": 77,
+ "apply_url": "https://www.linkedin.com/jobs/view/4406753081",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4406753081",
+ "contact": "",
+ "verdict": "Strong on predictive ML (Covestro time series), LLM/RAG/agents and Azure/AWS; weaker on MLOps tooling, optimisation, simulation, AI security/regulation.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Intersnack-IT.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Intersnack-IT.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "retail-demand-forecasting-optimizer",
+ "found_by_scout": false,
+ "german": "knowledge of German is considered an advantage",
+ "jd_lang": "English"
+}
