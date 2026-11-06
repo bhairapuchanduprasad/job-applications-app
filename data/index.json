@@ -1,5 +1,5 @@
 {
- "generated": 1793923987.849232,
+ "generated": 1793924400.7499259,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4392,6 +4392,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_edag-group_ai-data-software-engineer-metys",
+   "date": "2026-11-06",
+   "prepared_at": 1793924162,
+   "company": "EDAG Group",
+   "role": "AI & Data Software Engineer Metys (m/w/d)",
+   "fit": 64,
+   "status": "build-first",
+   "city": "Frankfurt am Main",
+   "ats": 83,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486757923",
+   "apply_url_kind": "posting",
+   "build": "industrial-graphrag-platform",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Fließende Deutsch- und Englischkenntnisse (mind. B2) in Wort & Schrift",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_fullstack-talents_voice-ai-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793924398,
+   "company": "Fullstack Talents (client undisclosed)",
+   "role": "Voice AI Engineer",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 59,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486904219",
+   "apply_url_kind": "posting",
+   "build": "voice-receptionist-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -4557,7 +4593,8 @@
   "voice-receptionist-agent": [
    "2026-10-27_egroup_voice-ai-product-engineer",
    "2026-11-04_happyrobot_forward-deployed-engineer",
-   "2026-11-05_acto_ai-engineer-agentic-systems-voice"
+   "2026-11-05_acto_ai-engineer-agentic-systems-voice",
+   "2026-11-06_fullstack-talents_voice-ai-engineer"
   ],
   "price-intelligence-copilot": [
    "2026-10-27_ki-group_llm-application-engineer"
@@ -4715,6 +4752,9 @@
   ],
   "anlagen-datenhub": [
    "2026-11-06_gebhardt-foerdertechnik_digital-twin-engineer"
+  ],
+  "industrial-graphrag-platform": [
+   "2026-11-06_edag-group_ai-data-software-engineer-metys"
   ]
  }
 }

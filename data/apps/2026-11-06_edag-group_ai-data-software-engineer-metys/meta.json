@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-06_edag-group_ai-data-software-engineer-metys",
+ "date": "2026-11-06",
+ "prepared_at": 1793924162,
+ "company": "EDAG Group",
+ "role": "AI & Data Software Engineer Metys (m/w/d)",
+ "fit": 64,
+ "status": "build-first",
+ "next_step": "build industrial-graphrag-platform",
+ "notes": "Fulda (CV: Frankfurt am Main); German documents; mind. B2 German vs B1 is top gap; no OpenSearch/Milvus/Lakehouse",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 83,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486757923",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486757923",
+ "contact": "",
+ "verdict": "Strong match on LLM/agentic/GraphRAG/knowledge-graph work; gaps in OpenSearch/Milvus, Lakehouse, multi-cloud depth and German B2.",
+ "gaps": [
+  "German B2: stated honestly (B1) in CV and letter; documents are in German becaus",
+  "OpenSearch/Milvus/Lakehouse: named openly in the letter as missing; the planned "
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_EDAG.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_EDAG.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-industrial-graphrag-platform.md"
+ ],
+ "build": "industrial-graphrag-platform",
+ "found_by_scout": false,
+ "german": "Fließende Deutsch- und Englischkenntnisse (mind. B2) in Wort & Schrift",
+ "jd_lang": "German"
+}
