@@ -1,5 +1,5 @@
 {
- "generated": 1793925240.227364,
+ "generated": 1793937496.244647,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4499,6 +4499,24 @@
    "applied_date": "",
    "found_by_scout": false,
    "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_urenco-global_r-d-ai-specialist",
+   "date": "2026-11-06",
+   "prepared_at": 1793937399,
+   "company": "Urenco Global",
+   "role": "R&D AI Specialist (m/w/d)",
+   "fit": 72,
+   "status": "ready",
+   "city": "Münster",
+   "ats": 73,
+   "apply_url": "https://www.linkedin.com/jobs/view/4472099657",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Deutschkenntnisse sind von Vorteil",
    "jd_lang": "German"
   }
  ],

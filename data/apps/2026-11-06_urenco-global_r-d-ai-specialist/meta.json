@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-06_urenco-global_r-d-ai-specialist",
+ "date": "2026-11-06",
+ "prepared_at": 1793937399,
+ "company": "Urenco Global",
+ "role": "R&D AI Specialist (m/w/d)",
+ "fit": 72,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; Gronau shown as Münster; computer vision gap; no deadline",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Münster",
+ "ats": 73,
+ "apply_url": "https://www.linkedin.com/jobs/view/4472099657",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4472099657",
+ "contact": "",
+ "verdict": "Strong on LLMs, agents, RAG, evaluation environments, integration; weaker on computer vision / Physical AI and industrial production context.",
+ "gaps": [
+  "Computer vision and Physical AI: stated honestly in the letter as the area with ",
+  "\"Mehrjährige\" experience: 3 years, within reach."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Urenco.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Urenco.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "Deutschkenntnisse sind von Vorteil",
+ "jd_lang": "German"
+}
