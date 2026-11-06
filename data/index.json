@@ -1,5 +1,5 @@
 {
- "generated": 1793924576.3571289,
+ "generated": 1793924674.220255,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4446,6 +4446,24 @@
    "found_by_scout": false,
    "german": "Sehr gute Deutsch- und gute Englischkenntnisse",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_baumlink_ai-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793924672,
+   "company": "BAUMLINK (recruiter; client undisclosed)",
+   "role": "AI Engineer",
+   "fit": 78,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487776896",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-coding-agent-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -4740,7 +4758,8 @@
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",
    "2026-11-05_cgi_software-engineer-ai-engineered-development",
-   "2026-11-05_openai_applied-ai-engineer-codex"
+   "2026-11-05_openai_applied-ai-engineer-codex",
+   "2026-11-06_baumlink_ai-engineer"
   ],
   "robot-episode-ingestion": [
    "2026-11-05_neura-robotics_platform-engineer-robot-data",

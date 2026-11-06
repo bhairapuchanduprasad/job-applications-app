@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-06_baumlink_ai-engineer",
+ "date": "2026-11-06",
+ "prepared_at": 1793924672,
+ "company": "BAUMLINK (recruiter; client undisclosed)",
+ "role": "AI Engineer",
+ "fit": 78,
+ "status": "build-first",
+ "next_step": "build spec-driven-coding-agent-harness",
+ "notes": "Recruiter posting; Berlin hybrid 50:50; up to 110k incl. equity; reply to recruiter with CV + what you built with agents; gap: Cursor",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487776896",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487776896",
+ "contact": "the posting says \"Send me your CV or LinkedIn profile and tell me briefly about something you've built using AI agents\"",
+ "verdict": "Agentic engineering is my current daily work (LangGraph multi-agent, MCP, Claude Code); gaps are Cursor and shipping to external customers at scale.",
+ "gaps": [
+  "Cursor: not used; stated honestly in the letter.",
+  "Agents that autonomously write/test their own code in production: only the plann"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_BAUMLINK.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_BAUMLINK.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "spec-driven-coding-agent-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
