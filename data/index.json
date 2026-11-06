@@ -1,5 +1,5 @@
 {
- "generated": 1793924400.7499259,
+ "generated": 1793924576.3571289,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4428,6 +4428,24 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_viridium-gruppe_ai-business-requirements-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793924574,
+   "company": "Viridium Gruppe",
+   "role": "AI Business / Requirements Engineer",
+   "fit": 58,
+   "status": "ready",
+   "city": "Frankfurt am Main",
+   "ats": 25,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486920400",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- und gute Englischkenntnisse",
+   "jd_lang": "German"
   }
  ],
  "builds": {

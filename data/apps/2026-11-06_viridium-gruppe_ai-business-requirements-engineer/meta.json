@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-06_viridium-gruppe_ai-business-requirements-engineer",
+ "date": "2026-11-06",
+ "prepared_at": 1793924574,
+ "company": "Viridium Gruppe",
+ "role": "AI Business / Requirements Engineer",
+ "fit": 58,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; very good German required (have B1); no IREB/BPMN/Jira; contact Frank Lieberwirth",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 25,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486920400",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486920400",
+ "contact": "",
+ "verdict": "Strong on LLM/agent building and evaluation, weak on formal requirements engineering (IREB, BPMN, Jira) and regulation; German \"sehr gut\" required, I have B1.",
+ "gaps": [
+  "German: \"Sehr gute Deutsch- und gute Englischkenntnisse\". B1 only. Letter says s",
+  "Requirements-engineering methods and tools: stated openly in the letter."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Viridium.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Viridium.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutsch- und gute Englischkenntnisse",
+ "jd_lang": "German"
+}
