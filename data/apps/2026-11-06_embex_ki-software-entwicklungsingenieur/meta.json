@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-06_embex_ki-software-entwicklungsingenieur",
+ "date": "2026-11-06",
+ "prepared_at": 1793982941,
+ "company": "embeX GmbH",
+ "role": "Software-Entwicklungsingenieur (m/w/d) Künstliche Intelligenz",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build industrial-graphrag-platform",
+ "notes": "Freiburg; German documents; apply only via company job portal; German B1 vs sehr gut top gap; no OpenShift/GitOps/Grafana",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Freiburg",
+ "ats": 69,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486222607",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply only via embeX's job portal (Bitte ausschließlich über unser Jobportal). Contact: Annette Wiegand.",
+ "source": "https://www.linkedin.com/jobs/view/4486222607",
+ "contact": "Annette Wiegand.",
+ "verdict": "Core topics (RAG, LangGraph agents, multi-agent, Python/FastAPI, Docker, vector DBs) match my Kniit and Covestro work well. Gaps: OpenShift/GitOps/observability, \"mehrjährige\" experience (3 years), \"sehr gute Deutschkenntnisse\" (B1).",
+ "gaps": [
+  "German (top gap): posting is German and asks \"Sehr gute Deutsch- sowie Englischk",
+  "OpenShift/GitOps/Prometheus/Grafana/vLLM: not claimed; letter says openly I have",
+  "\"Mehrjährige Berufserfahrung\": 3 years including internships; Entry-level on Lin"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_embeX.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_embeX.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "industrial-graphrag-platform",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutsch- sowie Englischkenntnisse",
+ "jd_lang": "German"
+}

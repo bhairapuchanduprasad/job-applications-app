@@ -1,5 +1,5 @@
 {
- "generated": 1793982745.947327,
+ "generated": 1793983168.59804,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4698,6 +4698,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_embex_ki-software-entwicklungsingenieur",
+   "date": "2026-11-06",
+   "prepared_at": 1793982941,
+   "company": "embeX GmbH",
+   "role": "Software-Entwicklungsingenieur (m/w/d) Künstliche Intelligenz",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Freiburg",
+   "ats": 69,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486222607",
+   "apply_url_kind": "posting",
+   "build": "industrial-graphrag-platform",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- sowie Englischkenntnisse",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-06_d-u-h-group_ai-knowledge-graph-engineer",
+   "date": "2026-11-06",
+   "prepared_at": 1793983163,
+   "company": "d.u.h.Group",
+   "role": "AI & Knowledge Graph Engineer (m/w/d)",
+   "fit": 84,
+   "status": "ready",
+   "city": "Saarbr\\\"ucken",
+   "ats": 100,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486229310",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "gute Deutsch- und Englischkenntnisse",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -5032,7 +5068,8 @@
    "2026-11-06_gebhardt-foerdertechnik_digital-twin-engineer"
   ],
   "industrial-graphrag-platform": [
-   "2026-11-06_edag-group_ai-data-software-engineer-metys"
+   "2026-11-06_edag-group_ai-data-software-engineer-metys",
+   "2026-11-06_embex_ki-software-entwicklungsingenieur"
   ],
   "netzentgelte-kostenmodell": [
    "2026-11-06_octopus-energy_analytics-engineer"

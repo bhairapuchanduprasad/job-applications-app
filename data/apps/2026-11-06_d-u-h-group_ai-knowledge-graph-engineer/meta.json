@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-06_d-u-h-group_ai-knowledge-graph-engineer",
+ "date": "2026-11-06",
+ "prepared_at": 1793983163,
+ "company": "d.u.h.Group",
+ "role": "AI & Knowledge Graph Engineer (m/w/d)",
+ "fit": 84,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Saarbrücken; English documents; German 'gute Deutschkenntnisse' (have B1); gaps Siemens ICX/Mendix/Snowflake/Databricks; no salary stated",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Saarbr\\\"ucken",
+ "ats": 100,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486229310",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486229310",
+ "contact": "",
+ "verdict": "Close match: knowledge graph + MCP + agentic AI + Claude Code are exactly my current Kniit work; Associate level, \"Berufseinstieg\" welcome.",
+ "gaps": [
+  "German: \"gute Deutschkenntnisse\" is stated, not C1/B2. Documents in English; let",
+  "Siemens ICX / Mendix / Snowflake / Databricks: named as gap in the letter (ICX, ",
+  "Data integration is shown via Kniit ingestion + SAP ground truth, not as classic"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_d-u-h-Group.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_d-u-h-Group.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "gute Deutsch- und Englischkenntnisse",
+ "jd_lang": "German"
+}
