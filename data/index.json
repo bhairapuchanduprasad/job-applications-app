@@ -1,5 +1,5 @@
 {
- "generated": 1793981086.186353,
+ "generated": 1793981295.047138,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4554,6 +4554,24 @@
    "found_by_scout": false,
    "german": "knowledge of German is considered an advantage",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-06_intersnack-it_data-engineer-ai-pipelines-dataops",
+   "date": "2026-11-06",
+   "prepared_at": 1793981292,
+   "company": "Intersnack IT KG",
+   "role": "Data Engineer - AI Pipelines & DataOps",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Düsseldorf",
+   "ats": 45,
+   "apply_url": "https://www.linkedin.com/jobs/view/4406761067",
+   "apply_url_kind": "posting",
+   "build": "cell-kpi-anomaly-pipeline",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "knowledge of German is considered an advantage",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -4750,7 +4768,8 @@
    "2026-11-05_motorenfabrik-hatz_data-scientist",
    "2026-11-05_gema_ai-engineer",
    "2026-11-05_capgemini-engineering_data-analysis-engineer",
-   "2026-11-05_adesso_cloud-native-data-engineer"
+   "2026-11-05_adesso_cloud-native-data-engineer",
+   "2026-11-06_intersnack-it_data-engineer-ai-pipelines-dataops"
   ],
   "agent-ready-data-platform": [
    "2026-11-02_quantumblack_data-engineering-consultant"
