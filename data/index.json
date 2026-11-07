@@ -1,5 +1,5 @@
 {
- "generated": 1794016866.774217,
+ "generated": 1794017119.5411258,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4842,6 +4842,24 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-07_draeger_ai-engineer",
+   "date": "2026-11-07",
+   "prepared_at": 1794016983,
+   "company": "Dräger",
+   "role": "AI Engineer (m/w/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Lübeck",
+   "ats": 77,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486254870",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "\"Deutsch und Englisch nutzt Du fließend in Projekten und Dokumentation.\"",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -4902,7 +4920,8 @@
    "2026-11-04_neura-robotics_agentic-ai-engineer",
    "2026-11-05_arrows_ai-engineer",
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
-   "2026-11-06_sap_developer-agentic-foundation-cloud-alm"
+   "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
+   "2026-11-07_draeger_ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",

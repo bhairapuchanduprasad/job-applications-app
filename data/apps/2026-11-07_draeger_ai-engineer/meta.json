@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-07_draeger_ai-engineer",
+ "date": "2026-11-07",
+ "prepared_at": 1794016983,
+ "company": "Dräger",
+ "role": "AI Engineer (m/w/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "German documents; Lübeck; gaps: German B1 vs \"fließend\", Databricks, LLMOps drift monitoring, AI security; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Lübeck",
+ "ats": 77,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486254870",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486254870",
+ "contact": "Nicolas Bremer",
+ "verdict": "Strong match on agentic/RAG systems and evaluation; gaps are fluent German, Databricks, LLMOps drift monitoring and \"mehrjährige\" experience.",
+ "gaps": [
+  "German: posting says \"Deutsch und Englisch nutzt Du fließend\". B1 is stated open",
+  "Databricks, drift monitoring: named honestly in nothing misleading; letter does ",
+  "Security risks of AI apps: not covered; left out."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_Lebenslauf_Draeger.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Anschreiben_Draeger.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "\"Deutsch und Englisch nutzt Du fließend in Projekten und Dokumentation.\"",
+ "jd_lang": "German"
+}
