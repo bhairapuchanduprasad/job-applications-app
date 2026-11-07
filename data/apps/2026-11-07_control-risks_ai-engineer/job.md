@@ -1,0 +1,85 @@
+Source: https://www.linkedin.com/jobs/view/4486231564
+Title: AI Engineer
+Company: Control Risks
+Location: Berlin, Germany
+
+- Seniority level: Not Applicable
+- Employment type: Full-time
+- Industries: Business Consulting and Services
+
+As AI Engineer you will own the AI and data layer of the platform. You will design and implement the knowledge graph architecture, build agentic pipelines that enrich entity data through AI web research, and develop the graph interrogation layer that translates natural language compliance questions into structured graph queries.
+You will work closely with the CTO and a small AI team including a data engineer and a junior AI engineer. You will have significant technical autonomy and direct influence over how the product evolves.
+
+Please submit yoru CV in English. 
+
+Requirements
+
+What You'll Work On
+
+Knowledge graph architecture and implementation
+• Own and evolve the platform's knowledge graph data model — entities (Company, Person, Community, Episodic), relationships, and temporal attributes
+• Implement and extend custom entity and relationship extraction pipelines using LMs, with structured output validation and confidence scoring
+• Use Graphiti (Zep AI's temporal knowledge graph framework) as the memory layer, managing episode ingestion, entity resolution, and graph updates
+• Design and enforce graph schema standards, ensuring consistency across data sources and ingestion pipelines
+• Build evaluation frameworks to measure extraction quality, entity disambiguation accuracy, and graph coverage
+
+Agentic AI pipelines
+• Design and implement multi-step agentic workflows that orchestrate LLM calls, web search, database lookups, and graph writes
+• Integrate AI web search (Tavily, Perplexity, or similar) as a tool within agentic pipelines for real-time entity enrichment
+• Build retrieval-augmented generation (RAG) pipelines over the knowledge graph, translating compliance queries into Cypher and natural language answers
+• Implement the graph interrogation layer — a conversational interface for compliance analysts to query the knowledge graph without writing Cypher
+• Manage LLM API integrations (Anthropic Claude, Gemini) including prompt engineering, structured outputs, and cost/latency optimisation
+
+Data pipelines and integrations
+• Build and maintain Python-based data ingestion pipelines reading from Databricks, connecting to external APIs (sanctions lists, corporate registries, Polixis, Vantage), and writing to Neo4j
+• Implement NER (named entity recognition) and entity disambiguation logic for extracting structured facts from unstructured compliance documents
+• Develop topic modelling pipelines to classify extracted facts as knowledge graph relationship attributes
+• Integrate with the .NET backend via well-defined HTTP contracts, ensuring the AI layer is independently deployable and testable
+
+Research and technical leadership
+• Stay current with the fast-moving agentic AI and knowledge graph literature — evaluate new frameworks, models, and techniques for production applicability
+• Contribute to architectural decisions with evidence: benchmarks, prototypes, and documented trade-offs
+• Maintain Claude Code context files (CLAUDE.md, SKILLS.md) for the AI codebase, enabling AI-augmented development across the team
+• Write clear technical documentation in Notion covering design decisions, data models, and operational runbooks.
+
+What We're Looking For
+
+Must-have
+• 3+ years of professional experience in AI/ML engineering, with at least 1 year working on knowledge graphs or graph-based data systems in production
+• Hands-on experience with Neo4j — data modelling, Cypher query writing, schema design, and performance tuning
+• Deep familiarity with LLM APIs (OpenAI, Anthropic, or Gemini) — prompt engineering, structured outputs, function/tool calling, and cost management
+• Understanding the trade-offs between LLMs and smaller fine-tuned models (Hugging Face Transformers, sentence-transformers) — knowing when a purpose-built model outperforms a prompted general one on cost, latency, and accuracy
+• Experience building agentic pipelines — multi-step LLM workflows with tool use, memory, and state management
+• Python proficiency — you write clean, testable Python and understand async patterns for I/O-bound AI workloads
+• Experience with RAG architectures — vector search, hybrid retrieval, and integrating retrieval into LLM-powered applications
+• Ability to read and apply AI research papers — you can take a paper on narrative extraction or entity disambiguation and turn it into a working prototype
+• Strong English communication skills — written and verbal
+
+Strong advantage
+• Direct experience or knowledge with Graphiti (Zep AI) or other temporal knowledge graph frameworks
+• Familiarity with entity resolution and disambiguation techniques at scale
+• Experience with NER pipelines, topic modelling, or information extraction from compliance or financial documents
+• Knowledge of the third-party risk, sanctions screening, or KYC/AML domain
+• Experience with Databricks, Delta Lake, or similar data lakehouse platforms
+• Exposure to GCP (Vertex AI, Cloud Run, Pub/Sub, Cloud Storage)
+• Experience designing evaluation frameworks for LLM-generated structured outputs
+• Prior work in a RegTech, FinTech, or compliance-adjacent environment
+
+What Good Looks Like in This Role
+
+We are direct about what we expect. The person who thrives here will:
+• Treat the knowledge graph data model as the product's most important artefact — they think carefully about schema decisions and document them
+• Read the literature. When evaluating a new approach to entity disambiguation or graph memory, they check what's been published, not just what's on GitHub
+• Write evaluation harnesses before scaling pipelines. They know that a pipeline that produces plausible-looking output is not the same as one that produces correct output
+• Communicate blockers and trade-offs early. Technical uncertainty is expected — silence is not
+
+Benefits
+
+- Control Risks offers a competitively positioned compensation and benefits package that is transparent and summarised in the full job offer. 
+- We operate a discretionary global bonus scheme that incentivises, and rewards individuals based on company and individual performance. 
+- Control Risks supports hybrid working arrangements, wherever possible, that emphasise the value of in-person time together - in the office and with our clients - while continuing to support flexible and remote working. 
+- Working with our clients, from day one our people are given direct responsibility, career development and the opportunity to work collaboratively on fascinating projects in a rewarding and inclusive global environment. 
+- The Company is committed to further its diversity, inclusion and equity agenda and as an employee you have access to various business resource groups in the Company including the Company's LGBT+ network called MOSAIC, the Women's Network, and Synergy - a people network to celebrate and promote ethnic diversity at Control Risks 
+
+Control Risks is committed to a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age or veteran status.
+If you require any reasonable adjustments to be made in order to participate fully in the interview process, please let us know and we will be happy to accommodate your needs.

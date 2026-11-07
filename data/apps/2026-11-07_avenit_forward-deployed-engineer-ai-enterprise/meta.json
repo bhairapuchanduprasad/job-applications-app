@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-07_avenit_forward-deployed-engineer-ai-enterprise",
+ "date": "2026-11-07",
+ "prepared_at": 1794014063,
+ "company": "avenit AG (VUSYON)",
+ "role": "Forward Deployed Engineer (m/w/d) – AI & Enterprise Solutions",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build enterprise-knowledge-agent",
+ "notes": "German documents; Offenburg office or home office (CV: Freiburg im Breisgau); gaps: German B1 vs \"sicher\", TypeScript, ERP/CRM, GDPR/EU AI Act; reused planned project; no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Freiburg im Breisgau",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486238459",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486238459",
+ "contact": "",
+ "verdict": "Strong match on LLMs, RAG, agents, Python and stakeholder work; German \"sicher\" and enterprise-system integration are the gaps.",
+ "gaps": [
+  "German: \"Du kommunizierst sicher auf Deutsch\" (no level named, not C1). Document",
+  "TypeScript, ERP/CRM: stated honestly in the letter, not claimed on CV.",
+  "GDPR / EU AI Act: not in the profile, left out."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_Lebenslauf_avenit.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Anschreiben_avenit.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [
+  "project-brief-enterprise-knowledge-agent.md"
+ ],
+ "build": "enterprise-knowledge-agent",
+ "found_by_scout": false,
+ "german": "\"Du kommunizierst sicher auf Deutsch und idealerweise auch auf Englisch.\"",
+ "jd_lang": "German"
+}

@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-07_netlight_data-ai-consultant",
+ "date": "2026-11-07",
+ "prepared_at": 1794012487,
+ "company": "Netlight",
+ "role": "Data & AI Consultant",
+ "fit": 72,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Associate; English only; Hamburg; no project on CV",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 63,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486234946",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486234946",
+ "contact": "",
+ "verdict": "Associate-level consulting role, English only, 2-3 yrs; strong match on GenAI, Python, cloud, stakeholder work; weaker on classic data engineering (ETL, streaming).",
+ "gaps": [
+  "No ETL/ELT tool or streaming/Spark experience in a job; not claimed.",
+  "No GCP/StackIT; stated openly in the letter.",
+  "No Java/Scala/TypeScript/Go/C#; Python is enough per the JD (\"at least one\").",
+  "Code reviews / automated testing not documented in the profile; left out."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Netlight.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Netlight.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

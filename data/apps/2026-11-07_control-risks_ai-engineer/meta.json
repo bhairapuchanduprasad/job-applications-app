@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-07_control-risks_ai-engineer",
+ "date": "2026-11-07",
+ "prepared_at": 1794011620,
+ "company": "Control Risks",
+ "role": "AI Engineer",
+ "fit": 82,
+ "status": "build-first",
+ "next_step": "build compliance-entity-graph",
+ "notes": "Scout run; Berlin; English CV requested; gaps Graphiti, Databricks, GCP, KYC/AML; no salary stated",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 60,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486231564",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486231564",
+ "contact": "",
+ "verdict": "Knowledge-graph + agentic + Neo4j + LLM-API work is exactly what I did at Kniit; gaps are Graphiti, Cypher-at-scale/performance tuning and the compliance domain.",
+ "gaps": [
+  "Graphiti, Databricks, GCP, KYC/AML: left out of CV; stated honestly as new to me",
+  "Domain: frame regulatory/technical-document extraction as adjacent."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Control-Risks.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Control-Risks.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-compliance-entity-graph.md"
+ ],
+ "build": "compliance-entity-graph",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

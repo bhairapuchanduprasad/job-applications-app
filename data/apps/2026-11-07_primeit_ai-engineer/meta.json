@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-07_primeit_ai-engineer",
+ "date": "2026-11-07",
+ "prepared_at": 1794016684,
+ "company": "PrimeIT",
+ "role": "Artificial Intelligence Engineer",
+ "fit": 78,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Lisbon|Porto|Remote contract; salary EUR 1,200-2,000 base (far below expectation); confirm remote from Germany",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Lisbon",
+ "ats": 90,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486253731",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486253731",
+ "contact": "",
+ "verdict": "Technical match is strong (GenAI, RAG, agents, cloud, Docker/K8s, CI/CD); the weak points are location, pay and contract terms.",
+ "gaps": [
+  "\"MLOps\" as a named discipline (no MLflow/model registry experience listed): left"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_PrimeIT.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_PrimeIT.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
