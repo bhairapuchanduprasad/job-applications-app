@@ -1,5 +1,5 @@
 {
- "generated": 1794017250.662173,
+ "generated": 1794017369.749563,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4896,6 +4896,24 @@
    "found_by_scout": false,
    "german": "Sehr gute Deutsch- und Englischkenntnisse",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-07_drees-sommer_ai-engineer",
+   "date": "2026-11-07",
+   "prepared_at": 1794017367,
+   "company": "Drees & Sommer",
+   "role": "AI Engineer (m/w/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 83,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486262214",
+   "apply_url_kind": "posting",
+   "build": "enterprise-knowledge-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "gute Deutschkenntnisse",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -5248,7 +5266,8 @@
   ],
   "enterprise-knowledge-agent": [
    "2026-11-07_smartclip_data-scientist-applied-ai",
-   "2026-11-07_avenit_forward-deployed-engineer-ai-enterprise"
+   "2026-11-07_avenit_forward-deployed-engineer-ai-enterprise",
+   "2026-11-07_drees-sommer_ai-engineer"
   ],
   "compliance-entity-graph": [
    "2026-11-07_control-risks_ai-engineer"

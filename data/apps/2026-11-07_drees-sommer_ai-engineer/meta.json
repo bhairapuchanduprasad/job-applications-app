@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-07_drees-sommer_ai-engineer",
+ "date": "2026-11-07",
+ "prepared_at": 1794017367,
+ "company": "Drees & Sommer",
+ "role": "AI Engineer (m/w/d)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build enterprise-knowledge-agent (reuse planned project)",
+ "notes": "Stuttgart (posting open: Hamburg/Berlin/Leipzig/Köln/Düsseldorf/Frankfurt/München); German documents; German B1 vs gute; gaps security/guardrails, TypeScript; no web research or reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 83,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486262214",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486262214",
+ "contact": "",
+ "verdict": "Strong match on LLM apps, RAG, agents, MCP and the Python/FastAPI/React stack; gaps are \"gute Deutschkenntnisse\" (B1), enterprise security/guardrail experience and TypeScript.",
+ "gaps": [
+  "German: B1. Posting is German and asks for \"gute Deutschkenntnisse\", so document",
+  "Security/privacy/guardrails and TypeScript: named honestly as missing in the let",
+  "Context Engineering listed in the posting: kept only where already in the base C"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Drees-Sommer.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Drees-Sommer.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "enterprise-knowledge-agent",
+ "found_by_scout": false,
+ "german": "gute Deutschkenntnisse",
+ "jd_lang": "German"
+}
