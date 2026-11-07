@@ -1,5 +1,5 @@
 {
- "generated": 1794017513.592203,
+ "generated": 1794017820.0211608,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4932,6 +4932,24 @@
    "found_by_scout": false,
    "german": "Deutsch von Vorteil",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-07_blp_forward-deployed-engineer",
+   "date": "2026-11-07",
+   "prepared_at": 1794017817,
+   "company": "BLP",
+   "role": "Forward Deployed Engineer",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Cologne",
+   "ats": 77,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486961920",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "German is a plus",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5046,7 +5064,8 @@
    "2026-11-01_adesso_ai-automation-developer-sap",
    "2026-11-03_coltech_agentic-ai-coding-engineer",
    "2026-11-03_elunic_forward-deployed-engineer",
-   "2026-11-05_ai-futures_product-engineer"
+   "2026-11-05_ai-futures_product-engineer",
+   "2026-11-07_blp_forward-deployed-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
