@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-07_thuega-smartservice_ai-agent-engineer",
+ "date": "2026-11-07",
+ "prepared_at": 1794017511,
+ "company": "Thüga SmartService",
+ "role": "AI Agent Engineer (m/w/d)",
+ "fit": 76,
+ "status": "build-first",
+ "next_step": "build spec-driven-agent-harness, agent-eval-harness",
+ "notes": "English docs; German is a plus only; Munich; gaps Codex/Cursor",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 83,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486268939",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486268939",
+ "contact": "",
+ "verdict": "Strong match on agents, MCP, Claude Code and evaluation; the main gaps are Codex/Cursor and the explicit 3-4 years as a software developer.",
+ "gaps": [
+  "Codex/Cursor: stated openly in the letter, framed as quick to pick up next to Cl",
+  "Observing new models/frameworks, system prompts and skills: covered by Kniit ski"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Thuega-SmartService.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Thuega-SmartService.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "spec-driven-agent-harness",
+ "found_by_scout": false,
+ "german": "Deutsch von Vorteil",
+ "jd_lang": "German"
+}
