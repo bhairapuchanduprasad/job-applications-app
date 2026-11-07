@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-07_amprion_ai-engineer",
+ "date": "2026-11-07",
+ "prepared_at": 1794017248,
+ "company": "Amprion GmbH",
+ "role": "AI Engineer (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build road-damage-inference",
+ "notes": "Berlin; German documents; gaps: German B1 vs \"sehr gut\", computer vision in industry; reused planned project; no web research or reviewer pass; scout; 2nd Amprion role (other: Dortmund)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486261088",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486261088",
+ "contact": "",
+ "verdict": "Classic ML (regression, time series, tree models, LSTM) and evaluation work are strong; production integration is strong. Computer vision is thin (coursework only) and German is B1 against \"sehr gute Deutschkenntnisse\".",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_Lebenslauf_Amprion.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "de"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Anschreiben_Amprion.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "de"
+  }
+ ],
+ "briefs": [],
+ "build": "road-damage-inference",
+ "found_by_scout": false,
+ "german": "Sehr gute Deutsch- und Englischkenntnisse",
+ "jd_lang": "German"
+}

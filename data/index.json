@@ -1,5 +1,5 @@
 {
- "generated": 1794017119.5411258,
+ "generated": 1794017250.662173,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4860,6 +4860,42 @@
    "found_by_scout": false,
    "german": "\"Deutsch und Englisch nutzt Du fließend in Projekten und Dokumentation.\"",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-07_arx-robotics_ai-operations-engineer",
+   "date": "2026-11-07",
+   "prepared_at": 1794017117,
+   "company": "ARX Robotics",
+   "role": "AI Operations Engineer (m/f/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486260436",
+   "apply_url_kind": "posting",
+   "build": "model-release-pipeline",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German (German is a plus)",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-07_amprion_ai-engineer",
+   "date": "2026-11-07",
+   "prepared_at": 1794017248,
+   "company": "Amprion GmbH",
+   "role": "AI Engineer (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486261088",
+   "apply_url_kind": "posting",
+   "build": "road-damage-inference",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "Sehr gute Deutsch- und Englischkenntnisse",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -5023,7 +5059,8 @@
   "road-damage-inference": [
    "2026-10-27_hochtief-edgital_applied-ai-engineer",
    "2026-11-01_se3-labs_data-ml-engineer",
-   "2026-11-06_smiths-detection_software-engineer-computer-vision-ai"
+   "2026-11-06_smiths-detection_software-engineer-computer-vision-ai",
+   "2026-11-07_amprion_ai-engineer"
   ],
   "voice-receptionist-agent": [
    "2026-10-27_egroup_voice-ai-product-engineer",
@@ -5206,7 +5243,8 @@
    "2026-11-06_alten_ai-development-engineer-python-llm"
   ],
   "model-release-pipeline": [
-   "2026-11-06_redcare-pharmacy_mlops-engineer"
+   "2026-11-06_redcare-pharmacy_mlops-engineer",
+   "2026-11-07_arx-robotics_ai-operations-engineer"
   ],
   "enterprise-knowledge-agent": [
    "2026-11-07_smartclip_data-scientist-applied-ai",

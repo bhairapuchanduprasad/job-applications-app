@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-07_arx-robotics_ai-operations-engineer",
+ "date": "2026-11-07",
+ "prepared_at": 1794017117,
+ "company": "ARX Robotics",
+ "role": "AI Operations Engineer (m/f/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build model-release-pipeline",
+ "notes": "Munich; defense tech; gaps: MLflow/Terraform, defense/compliance, ops depth; reused planned project; no reviewer pass; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486260436",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486260436",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_ARX-Robotics.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_ARX-Robotics.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "model-release-pipeline",
+ "found_by_scout": false,
+ "german": "No mention of German (German is a plus)",
+ "jd_lang": "English"
+}
