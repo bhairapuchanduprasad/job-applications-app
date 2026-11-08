@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-08_kik_data-engineer",
+ "date": "2026-11-08",
+ "prepared_at": 1794113995,
+ "company": "KiK Textilien und Non-Food GmbH",
+ "role": "Data Engineer (m/w/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build retail-sales-lakehouse",
+ "notes": "Bönen (CV: Dortmund); hybrid; no deadline; Databricks/Spark gap",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Dortmund",
+ "ats": 83,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488182846",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488182846",
+ "contact": "",
+ "verdict": "Strong on pipelines, Python/SQL, Git, CI/CD, Azure and data quality; weak on the named platform (Databricks, Spark) and classic ETL/warehouse work.",
+ "gaps": [
+  "Databricks and Spark/PySpark: stated openly in the letter; CV Projects section s",
+  "No title or role as Data Engineer; closest is the Kniit pipeline work.",
+  "Monitoring/automated checks of pipelines: only evaluation against ground truth."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_KiK.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_KiK.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-retail-sales-lakehouse.md"
+ ],
+ "build": "retail-sales-lakehouse",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}
