@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-08_prior-labs_ml-engineer-backend",
+ "date": "2026-11-08",
+ "prepared_at": 1794144254,
+ "company": "Prior Labs",
+ "role": "ML Engineer, Backend",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build road-damage-inference-service",
+ "notes": "Berlin; scout run; posted by FDE Times; ~3 yrs vs 3+; gaps: Terraform, GCP, inference optimisation; CV dropped 3 certifications and LLM Gateway project for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486686483",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486686483",
+ "contact": "",
+ "verdict": "Real ML + backend + Docker/K8s + FastAPI experience, but ~3 years against \"3+\", no Terraform/GCP, no inference-optimisation depth.",
+ "gaps": [
+  "Terraform/GCP: cover letter states it plainly and points to CDK; Model Inference",
+  "Inference optimisation, open-source contributions, GDPR: left as gaps.",
+  "3+ yrs is borderline; no German required."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Prior-Labs.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Prior-Labs.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "road-damage-inference-service",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

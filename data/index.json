@@ -1,5 +1,5 @@
 {
- "generated": 1794144020.465465,
+ "generated": 1794144257.532094,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5040,6 +5040,24 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-08_prior-labs_ml-engineer-backend",
+   "date": "2026-11-08",
+   "prepared_at": 1794144254,
+   "company": "Prior Labs",
+   "role": "ML Engineer, Backend",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486686483",
+   "apply_url_kind": "posting",
+   "build": "road-damage-inference-service",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5390,6 +5408,9 @@
   ],
   "spin-off-ecosystem-data-hub": [
    "2026-11-08_inverto_data-backend-engineer"
+  ],
+  "road-damage-inference-service": [
+   "2026-11-08_prior-labs_ml-engineer-backend"
   ]
  }
 }
