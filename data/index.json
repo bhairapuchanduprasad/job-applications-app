@@ -1,5 +1,5 @@
 {
- "generated": 1794113997.168101,
+ "generated": 1794143494.470332,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4958,13 +4958,13 @@
    "company": "Akelius Languages",
    "role": "Artificial Intelligence Engineer",
    "fit": 74,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 68,
    "apply_url": "https://www.linkedin.com/jobs/view/4488176031",
    "apply_url_kind": "posting",
-   "build": "agent-eval-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-08",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -4976,16 +4976,34 @@
    "company": "KiK Textilien und Non-Food GmbH",
    "role": "Data Engineer (m/w/d)",
    "fit": 55,
-   "status": "build-first",
+   "status": "applied",
    "city": "Dortmund",
    "ats": 83,
    "apply_url": "https://www.linkedin.com/jobs/view/4488182846",
    "apply_url_kind": "posting",
-   "build": "retail-sales-lakehouse",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-08",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-08_inverto_data-backend-engineer",
+   "date": "2026-11-08",
+   "prepared_at": 1794143489,
+   "company": "Inverto | A BCG Company",
+   "role": "Data & Backend Engineer (f/m/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Cologne",
+   "ats": 78,
+   "apply_url": "https://www.linkedin.com/jobs/view/4416551278",
+   "apply_url_kind": "posting",
+   "build": "spin-off-ecosystem-data-hub",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "German language skills are a plus",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5047,8 +5065,7 @@
    "2026-11-04_neura-robotics_agentic-ai-engineer",
    "2026-11-05_arrows_ai-engineer",
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
-   "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
-   "2026-11-08_akelius-languages_ai-engineer"
+   "2026-11-06_sap_developer-agentic-foundation-cloud-alm"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -5333,8 +5350,8 @@
    "2026-11-07_avenit_forward-deployed-engineer-ai-enterprise",
    "2026-11-07_drees-sommer_ai-engineer"
   ],
-  "retail-sales-lakehouse": [
-   "2026-11-08_kik_data-engineer"
+  "spin-off-ecosystem-data-hub": [
+   "2026-11-08_inverto_data-backend-engineer"
   ]
  }
 }

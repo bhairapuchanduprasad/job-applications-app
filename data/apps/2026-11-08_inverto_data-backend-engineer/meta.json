@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-08_inverto_data-backend-engineer",
+ "date": "2026-11-08",
+ "prepared_at": 1794143489,
+ "company": "Inverto | A BCG Company",
+ "role": "Data & Backend Engineer (f/m/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build spin-off-ecosystem-data-hub",
+ "notes": "Cologne; scout run; 5+ years asked (have ~3); no data warehouse or Azure DevOps experience",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Cologne",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4416551278",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4416551278",
+ "contact": "",
+ "verdict": "Data/backend role with AI pipelines; my strengths are pipelines, APIs and LLM work, but the posting asks for 5+ years in data engineering, data warehouse and DevOps, and I have about 3 years, mostly AI-focused.",
+ "gaps": [
+  "Data warehouse development and formal data governance: not claimed on the CV.",
+  "Azure DevOps: stated plainly in the letter (GitLab CI/CD instead).",
+  "Years of experience: 3 vs 5+."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Inverto.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Inverto.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-spin-off-ecosystem-data-hub.md"
+ ],
+ "build": "spin-off-ecosystem-data-hub",
+ "found_by_scout": false,
+ "german": "German language skills are a plus",
+ "jd_lang": "English"
+}

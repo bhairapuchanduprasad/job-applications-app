@@ -5,11 +5,11 @@
  "company": "KiK Textilien und Non-Food GmbH",
  "role": "Data Engineer (m/w/d)",
  "fit": 55,
- "status": "build-first",
- "next_step": "build retail-sales-lakehouse",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Bönen (CV: Dortmund); hybrid; no deadline; Databricks/Spark gap",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-08",
+ "applied_via": "Company careers site",
  "city": "Dortmund",
  "ats": 83,
  "apply_url": "https://www.linkedin.com/jobs/view/4488182846",
@@ -47,7 +47,7 @@
  "briefs": [
   "project-brief-retail-sales-lakehouse.md"
  ],
- "build": "retail-sales-lakehouse",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "German"
