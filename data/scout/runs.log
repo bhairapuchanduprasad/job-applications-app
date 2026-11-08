@@ -197,3 +197,6 @@
   prepared: embeX GmbH, KI Software-Entwicklungsingenieur, Freiburg, fit 68: German docs; German B1 vs "sehr gute" is top gap; no OpenShift/GitOps/Grafana; apply only via company portal; build industrial-graphrag-platform first; no web research done [build-first]
   prepared: d.u.h.Group, AI & Knowledge Graph Engineer, Saarbrücken, fit 84; English docs although posting asks for "gute Deutschkenntnisse" (you have B1), say if you want German docs; no Projects section (2-page limit), nothing to build [ready]
 2026-11-07 01:25 found 219, new 76, prepared 0, skipped 22 (pre-filter 22, Sonnet triage 0, during /apply 0), 54 left for the next run (claude stopped, likely usage limit)
+2026-11-08 10:31 found 110, new 82, prepared 2, skipped 80 (pre-filter 45, Sonnet triage 24, during /apply 11)
+  prepared: Akelius Languages, Artificial Intelligence Engineer, Berlin, fit 74; CV lists planned project Agent Eval Harness (build before submitting); gaps: edtech, scale, TypeScript/Java; apply via LinkedIn; ATS 68%; no reviewer pass run [build-first]
+  prepared: KiK Textilien und Non-Food, Data Engineer (m/w/d), Bönen (CV says Dortmund), fit 55: Databricks/Spark are gaps; build retail-sales-lakehouse project before submitting; CV dropped the 3 Udemy certs to stay at 2 pages; review subagent skipped; sync_cloud.sh also ran publish. [build-first]
