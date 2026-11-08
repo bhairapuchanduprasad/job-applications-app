@@ -1,5 +1,5 @@
 {
- "generated": 1794143494.470332,
+ "generated": 1794144020.465465,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5004,6 +5004,42 @@
    "found_by_scout": false,
    "german": "German language skills are a plus",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-08_michael-page_ki-entwickler",
+   "date": "2026-11-08",
+   "prepared_at": 1794143757,
+   "company": "Michael Page",
+   "role": "KI Entwickler (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Frankfurt am Main",
+   "ats": 80,
+   "apply_url": "https://www.linkedin.com/jobs/view/4472081762",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-08_inviso_applied-ai-engineer",
+   "date": "2026-11-08",
+   "prepared_at": 1794144012,
+   "company": "Inviso",
+   "role": "Applied AI Engineer - Germany",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 90,
+   "apply_url": "https://www.linkedin.com/jobs/view/4486683432",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5065,7 +5101,9 @@
    "2026-11-04_neura-robotics_agentic-ai-engineer",
    "2026-11-05_arrows_ai-engineer",
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
-   "2026-11-06_sap_developer-agentic-foundation-cloud-alm"
+   "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
+   "2026-11-08_michael-page_ki-entwickler",
+   "2026-11-08_inviso_applied-ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",

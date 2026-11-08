@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-08_inviso_applied-ai-engineer",
+ "date": "2026-11-08",
+ "prepared_at": 1794144012,
+ "company": "Inviso",
+ "role": "Applied AI Engineer - Germany",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness and llm-gateway",
+ "notes": "Remote (listed Berlin); scout run; recruiter for anonymous client, same recruiter as the 2026-11-05 Backend / Platform Engineer application; gaps: A2A, live guardrails/monitoring",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 90,
+ "apply_url": "https://www.linkedin.com/jobs/view/4486683432",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4486683432",
+ "contact": "",
+ "verdict": "Strong match on agentic systems, RAG, evaluation, MCP/tool calling and Claude. Weaker on production monitoring at scale, guardrails in a live system, and enterprise consulting experience.",
+ "gaps": [
+  "A2A: not on CV.",
+  "Guardrails / monitoring / LLM-as-judge in live production: shown only through pl",
+  "Seniority: \"experienced\" role from a recruiter; I have about 3 years."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Inviso.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Inviso.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

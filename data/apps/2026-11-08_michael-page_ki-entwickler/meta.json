@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-08_michael-page_ki-entwickler",
+ "date": "2026-11-08",
+ "prepared_at": 1794143757,
+ "company": "Michael Page",
+ "role": "KI Entwickler (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness and llm-gateway",
+ "notes": "Frankfurt; recruiter posting for an anonymous financial-services client; gaps: Terraform, IAM/security, 'mehrjaehrige' experience; React beginner",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 80,
+ "apply_url": "https://www.linkedin.com/jobs/view/4472081762",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4472081762",
+ "contact": "",
+ "verdict": "Strong match on agentic GenAI, RAG, evaluation, Python and AWS. Weak on Terraform, IAM/security depth and \"mehrjährig\" production GenAI at scale.",
+ "gaps": [
+  "Terraform: letter says plainly CDK, not Terraform. CV shows Terraform only insid",
+  "IAM/security/secrets: planned LLM Gateway project (not used in letter).",
+  "React/TypeScript: CV keeps \"React(beginner)\"; letter says working level.",
+  "Senior-ish scope (coaching, architecture ownership): not claimed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Michael-Page.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Michael-Page.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}
