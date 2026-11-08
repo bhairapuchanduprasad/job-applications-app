@@ -5,11 +5,11 @@
  "company": "BLP",
  "role": "Forward Deployed Engineer",
  "fit": 66,
- "status": "build-first",
- "next_step": "build order-inbox-agent",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "TypeScript backend gap; ERP/consulting MUST partially met; scout run",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-07",
+ "applied_via": "Company careers site",
  "city": "Cologne",
  "ats": 77,
  "apply_url": "https://www.linkedin.com/jobs/view/4486961920",
@@ -43,7 +43,7 @@
  "briefs": [
   "project-brief-order-inbox-agent.md"
  ],
- "build": "order-inbox-agent",
+ "build": "",
  "found_by_scout": false,
  "german": "German is a plus",
  "jd_lang": "English"

@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-08_akelius-languages_ai-engineer",
+ "date": "2026-11-08",
+ "prepared_at": 1794113724,
+ "company": "Akelius Languages",
+ "role": "Artificial Intelligence Engineer",
+ "fit": 74,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Berlin; apply via LinkedIn; scout run; edtech gap",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 45,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488176031",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488176031",
+ "contact": "",
+ "verdict": "Strong match on agents, MCP, RAG, evaluation and cost work; gaps are edtech, TypeScript/Java and proof of scale (tens of thousands of users).",
+ "gaps": [
+  "Edtech: not on the CV; the letter uses the NGO/teacher-assistant angle only.",
+  "Scale (tens of thousands of users): no such deployment in the profile; not claim",
+  "Monitoring of quality/usage/costs in production: only via the planned Agent Eval",
+  "German: not required (posting is in English, no German mention)."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Akelius.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Akelius.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

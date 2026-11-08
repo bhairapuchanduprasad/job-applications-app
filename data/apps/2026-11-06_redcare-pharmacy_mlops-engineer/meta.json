@@ -5,11 +5,11 @@
  "company": "Redcare Pharmacy",
  "role": "MLOps Engineer (m/f/d)",
  "fit": 66,
- "status": "build-first",
- "next_step": "build model-release-pipeline",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Cologne; MLflow/Kubeflow/GitHub Actions gaps; second Redcare application (Platform Engineer 2026-10-27)",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-07",
+ "applied_via": "Company careers site",
  "city": "Cologne",
  "ats": 81,
  "apply_url": "https://www.linkedin.com/jobs/view/4477379832",
@@ -43,7 +43,7 @@
  "briefs": [
   "project-brief-model-release-pipeline.md"
  ],
- "build": "model-release-pipeline",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"

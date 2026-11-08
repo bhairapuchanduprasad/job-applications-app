@@ -5,11 +5,11 @@
  "company": "Control Risks",
  "role": "AI Engineer",
  "fit": 82,
- "status": "build-first",
- "next_step": "build compliance-entity-graph",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Scout run; Berlin; English CV requested; gaps Graphiti, Databricks, GCP, KYC/AML; no salary stated",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-07",
+ "applied_via": "LinkedIn Easy Apply",
  "city": "Berlin",
  "ats": 60,
  "apply_url": "https://www.linkedin.com/jobs/view/4486231564",
@@ -46,7 +46,7 @@
  "briefs": [
   "project-brief-compliance-entity-graph.md"
  ],
- "build": "compliance-entity-graph",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"

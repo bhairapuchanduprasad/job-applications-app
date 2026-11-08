@@ -1,5 +1,5 @@
 {
- "generated": 1794017820.0211608,
+ "generated": 1794113729.6393359,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -4454,13 +4454,13 @@
    "company": "BAUMLINK (recruiter; client undisclosed)",
    "role": "AI Engineer",
    "fit": 78,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 79,
    "apply_url": "https://www.linkedin.com/jobs/view/4487776896",
    "apply_url_kind": "posting",
-   "build": "spec-driven-coding-agent-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -4544,13 +4544,13 @@
    "company": "Intersnack IT KG",
    "role": "Data Scientist & ML Engineer - Predictive Analytics & Agentic AI",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Düsseldorf",
    "ats": 77,
    "apply_url": "https://www.linkedin.com/jobs/view/4406753081",
    "apply_url_kind": "posting",
-   "build": "retail-demand-forecasting-optimizer",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "knowledge of German is considered an advantage",
    "jd_lang": "English"
@@ -4562,13 +4562,13 @@
    "company": "Intersnack IT KG",
    "role": "Data Engineer - AI Pipelines & DataOps",
    "fit": 55,
-   "status": "build-first",
+   "status": "applied",
    "city": "Düsseldorf",
    "ats": 45,
    "apply_url": "https://www.linkedin.com/jobs/view/4406761067",
    "apply_url_kind": "posting",
-   "build": "cell-kpi-anomaly-pipeline",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "knowledge of German is considered an advantage",
    "jd_lang": "English"
@@ -4652,13 +4652,13 @@
    "company": "Redcare Pharmacy",
    "role": "MLOps Engineer (m/f/d)",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Cologne",
    "ats": 81,
    "apply_url": "https://www.linkedin.com/jobs/view/4477379832",
    "apply_url_kind": "posting",
-   "build": "model-release-pipeline",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -4670,13 +4670,13 @@
    "company": "Moss",
    "role": "Applied AI Engineer",
    "fit": 72,
-   "status": "build-first",
+   "status": "applied",
    "city": "Munich",
    "ats": 46,
    "apply_url": "https://www.linkedin.com/jobs/view/4479846891",
    "apply_url_kind": "posting",
-   "build": "invoice-capture-agent",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -4760,13 +4760,13 @@
    "company": "Almedia",
    "role": "Junior Data Scientist",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 57,
    "apply_url": "https://www.linkedin.com/jobs/view/4480372099",
    "apply_url_kind": "posting",
-   "build": "matching-experiment-lab",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -4778,13 +4778,13 @@
    "company": "Control Risks",
    "role": "AI Engineer",
    "fit": 82,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 60,
    "apply_url": "https://www.linkedin.com/jobs/view/4486231564",
    "apply_url_kind": "posting",
-   "build": "compliance-entity-graph",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -4796,13 +4796,13 @@
    "company": "Netlight",
    "role": "Data & AI Consultant",
    "fit": 72,
-   "status": "ready",
+   "status": "applied",
    "city": "Hamburg",
    "ats": 63,
    "apply_url": "https://www.linkedin.com/jobs/view/4486234946",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -4832,13 +4832,13 @@
    "company": "PrimeIT",
    "role": "Artificial Intelligence Engineer",
    "fit": 78,
-   "status": "ready",
+   "status": "applied",
    "city": "Lisbon",
    "ats": 90,
    "apply_url": "https://www.linkedin.com/jobs/view/4486253731",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -4850,13 +4850,13 @@
    "company": "Dräger",
    "role": "AI Engineer (m/w/d)",
    "fit": 72,
-   "status": "build-first",
+   "status": "applied",
    "city": "Lübeck",
    "ats": 77,
    "apply_url": "https://www.linkedin.com/jobs/view/4486254870",
    "apply_url_kind": "posting",
-   "build": "agent-eval-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "\"Deutsch und Englisch nutzt Du fließend in Projekten und Dokumentation.\"",
    "jd_lang": "German"
@@ -4868,13 +4868,13 @@
    "company": "ARX Robotics",
    "role": "AI Operations Engineer (m/f/d)",
    "fit": 62,
-   "status": "build-first",
+   "status": "applied",
    "city": "Munich",
    "ats": 75,
    "apply_url": "https://www.linkedin.com/jobs/view/4486260436",
    "apply_url_kind": "posting",
-   "build": "model-release-pipeline",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "No mention of German (German is a plus)",
    "jd_lang": "English"
@@ -4940,15 +4940,33 @@
    "company": "BLP",
    "role": "Forward Deployed Engineer",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Cologne",
    "ats": 77,
    "apply_url": "https://www.linkedin.com/jobs/view/4486961920",
    "apply_url_kind": "posting",
-   "build": "order-inbox-agent",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-07",
    "found_by_scout": false,
    "german": "German is a plus",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-08_akelius-languages_ai-engineer",
+   "date": "2026-11-08",
+   "prepared_at": 1794113724,
+   "company": "Akelius Languages",
+   "role": "Artificial Intelligence Engineer",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 45,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488176031",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
    "jd_lang": "English"
   }
  ],
@@ -5012,7 +5030,7 @@
    "2026-11-05_arrows_ai-engineer",
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
    "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
-   "2026-11-07_draeger_ai-engineer"
+   "2026-11-08_akelius-languages_ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -5064,8 +5082,7 @@
    "2026-11-01_adesso_ai-automation-developer-sap",
    "2026-11-03_coltech_agentic-ai-coding-engineer",
    "2026-11-03_elunic_forward-deployed-engineer",
-   "2026-11-05_ai-futures_product-engineer",
-   "2026-11-07_blp_forward-deployed-engineer"
+   "2026-11-05_ai-futures_product-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -5138,8 +5155,7 @@
    "2026-10-29_jobgether_data-scientist-ai-experimentation",
    "2026-11-03_kayak_data-scientist",
    "2026-11-05_taskverse-senacor_data-scientist",
-   "2026-11-06_amazon-music_data-scientist-ii-music-disco",
-   "2026-11-07_almedia_junior-data-scientist"
+   "2026-11-06_amazon-music_data-scientist-ii-music-disco"
   ],
   "canteen-menu-insights": [
    "2026-11-02_odacova_applied-ai-backend-engineer"
@@ -5153,8 +5169,7 @@
    "2026-11-05_motorenfabrik-hatz_data-scientist",
    "2026-11-05_gema_ai-engineer",
    "2026-11-05_capgemini-engineering_data-analysis-engineer",
-   "2026-11-05_adesso_cloud-native-data-engineer",
-   "2026-11-06_intersnack-it_data-engineer-ai-pipelines-dataops"
+   "2026-11-05_adesso_cloud-native-data-engineer"
   ],
   "agent-ready-data-platform": [
    "2026-11-02_quantumblack_data-engineering-consultant"
@@ -5226,8 +5241,7 @@
    "2026-11-04_terratech-holding_software-engineer"
   ],
   "invoice-capture-agent": [
-   "2026-11-04_truvio_ai-engineer",
-   "2026-11-06_moss_applied-ai-engineer"
+   "2026-11-04_truvio_ai-engineer"
   ],
   "production-yield-anomaly": [
    "2026-11-04_randstad-deutschland_data-engineer"
@@ -5235,8 +5249,7 @@
   "retail-demand-forecasting-optimizer": [
    "2026-11-04_mediamarktsaturn_expert-data-scientist",
    "2026-11-05_aldi-nord_data-scientist",
-   "2026-11-05_taskverse-lieferando_machine-learning-engineer",
-   "2026-11-06_intersnack-it_data-scientist-ml-engineer-predictive-analytics-agentic-ai"
+   "2026-11-05_taskverse-lieferando_machine-learning-engineer"
   ],
   "semantic-layer-metrics-agent": [
    "2026-11-04_koro_analytics-engineer"
@@ -5256,8 +5269,7 @@
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",
    "2026-11-05_cgi_software-engineer-ai-engineered-development",
-   "2026-11-05_openai_applied-ai-engineer-codex",
-   "2026-11-06_baumlink_ai-engineer"
+   "2026-11-05_openai_applied-ai-engineer-codex"
   ],
   "robot-episode-ingestion": [
    "2026-11-05_neura-robotics_platform-engineer-robot-data",
@@ -5298,17 +5310,10 @@
   "local-knowledge-assistant": [
    "2026-11-06_alten_ai-development-engineer-python-llm"
   ],
-  "model-release-pipeline": [
-   "2026-11-06_redcare-pharmacy_mlops-engineer",
-   "2026-11-07_arx-robotics_ai-operations-engineer"
-  ],
   "enterprise-knowledge-agent": [
    "2026-11-07_smartclip_data-scientist-applied-ai",
    "2026-11-07_avenit_forward-deployed-engineer-ai-enterprise",
    "2026-11-07_drees-sommer_ai-engineer"
-  ],
-  "compliance-entity-graph": [
-   "2026-11-07_control-risks_ai-engineer"
   ]
  }
 }
