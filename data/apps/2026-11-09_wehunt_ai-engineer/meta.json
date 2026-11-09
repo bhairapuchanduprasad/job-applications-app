@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-09_wehunt_ai-engineer",
+ "date": "2026-11-09",
+ "prepared_at": 1794246204,
+ "company": "WeHunt",
+ "role": "AI Engineer | Full Remote",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build voice-receptionist-agent",
+ "notes": "Scout. Italian recruiter, anonymous insurance client, full remote (check if Germany-based allowed). 40-55k EUR. Asks 5y Python backend. Model Release Pipeline dropped for page count.",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 82,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487664177",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487664177",
+ "contact": "",
+ "verdict": "Good match on LLM/RAG, Python backend, AWS and Docker. Weak spots: \"5 years of backend Python\" (I have 3), no OpenAI-specific production work, no MLflow, and an Italian employer/recruiter.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_WeHunt.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_WeHunt.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "voice-receptionist-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "Italian"
+}
