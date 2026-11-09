@@ -1,5 +1,5 @@
 {
- "generated": 1794246398.7267299,
+ "generated": 1794246861.42973,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5166,6 +5166,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-09_kb-marketing_softwareentwickler-ki-automatisierung",
+   "date": "2026-11-09",
+   "prepared_at": 1794246656,
+   "company": "KB Marketing GmbH",
+   "role": "Softwareentwickler (m/w/d) für KI & Automatisierung",
+   "fit": 84,
+   "status": "build-first",
+   "city": "Essen",
+   "ats": 89,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488847279",
+   "apply_url_kind": "posting",
+   "build": "n8n-ai-workflow-hub",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-09_ida_editorial-technologist",
+   "date": "2026-11-09",
+   "prepared_at": 1794246859,
+   "company": "ida (Innovations- und Digitalagentur GmbH)",
+   "role": "Editorial Technologist (m/w/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Leipzig",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488868514",
+   "apply_url_kind": "posting",
+   "build": "newsroom-briefing-assistant",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -5464,7 +5500,8 @@
    "2026-11-04_jl-digital_it-consultant-cloud-ai",
    "2026-11-05_battery-kutter_junior-software-developer-ai-automation",
    "2026-11-05_sharpist_gtm-engineer-ai-automation",
-   "2026-11-06_newrocket_campus-ai-engineer"
+   "2026-11-06_newrocket_campus-ai-engineer",
+   "2026-11-09_kb-marketing_softwareentwickler-ki-automatisierung"
   ],
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",
@@ -5518,6 +5555,9 @@
   ],
   "spin-off-ecosystem-data-hub": [
    "2026-11-08_inverto_data-backend-engineer"
+  ],
+  "newsroom-briefing-assistant": [
+   "2026-11-09_ida_editorial-technologist"
   ]
  }
 }

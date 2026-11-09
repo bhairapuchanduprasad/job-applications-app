@@ -1,0 +1,55 @@
+{
+ "folder": "2026-11-09_ida_editorial-technologist",
+ "date": "2026-11-09",
+ "prepared_at": 1794246859,
+ "company": "ida (Innovations- und Digitalagentur GmbH)",
+ "role": "Editorial Technologist (m/w/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build newsroom-briefing-assistant",
+ "notes": "Scout; German-written posting, no German requirement stated but German media clients; gaps TypeScript, media experience, pitching/speaking; remote or office",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Leipzig",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488868514",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488868514",
+ "contact": "",
+ "verdict": "Strong match on LLM/agent prototyping and Python/React/API full-stack; gaps are TypeScript, media/newsroom background and client pitching/speaking.",
+ "gaps": [
+  "TypeScript: not claimed in skills; React listed as in base CV. The Projects sect",
+  "Media/journalism experience, newsroom AI use cases: leave out; cover letter says",
+  "Pitching/acquisition/speaking: no evidence; state only stakeholder advisory at C",
+  "CMS integrations: gap."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_ida.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_ida.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-newsroom-briefing-assistant.md"
+ ],
+ "build": "newsroom-briefing-assistant",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

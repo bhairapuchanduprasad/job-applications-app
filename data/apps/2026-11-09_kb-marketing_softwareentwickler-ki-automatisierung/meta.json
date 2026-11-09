@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-09_kb-marketing_softwareentwickler-ki-automatisierung",
+ "date": "2026-11-09",
+ "prepared_at": 1794246656,
+ "company": "KB Marketing GmbH",
+ "role": "Softwareentwickler (m/w/d) für KI & Automatisierung",
+ "fit": 84,
+ "status": "build-first",
+ "next_step": "build n8n-ai-workflow-hub",
+ "notes": "Entry level; on-site Essen 5 days/week; salary 4800-5900 EUR/month posted; LinkedIn company shown as Mittelstand-Recruiter",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Essen",
+ "ats": 89,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488847279",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488847279",
+ "contact": "www.karriere-kbmarketing.de",
+ "verdict": "Entry-level AI/automation developer role built around Claude Code, Postgres, APIs and RAG; very close to my Kniit work. Weak spots are marketing/business domain and JavaScript.",
+ "gaps": [
+  "Marketing and sales domain: no experience; frame via consulting-style stakeholde",
+  "CRM, n8n: covered only by the planned n8n AI Workflow Hub project (no results cl",
+  "JavaScript: not on the CV beyond React (beginner).",
+  "Salary: €4,800-5,900/month posted (€57.6k-70.8k/year), above my €55k expectation"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_KB-Marketing.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_KB-Marketing.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "n8n-ai-workflow-hub",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}
