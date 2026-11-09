@@ -1,5 +1,5 @@
 {
- "generated": 1794245506.882431,
+ "generated": 1794245751.515808,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5090,6 +5090,24 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4479279889",
    "apply_url_kind": "posting",
    "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-09_global-fintech-talent_machine-learning-engineer",
+   "date": "2026-11-09",
+   "prepared_at": 1794245749,
+   "company": "Global FinTech Talent",
+   "role": "Machine Learning Engineer",
+   "fit": 62,
+   "status": "ready",
+   "city": "Germany",
+   "ats": 64,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487154144",
+   "apply_url_kind": "posting",
+   "build": "",
    "applied_date": "",
    "found_by_scout": false,
    "german": "No mention of German",

@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-09_global-fintech-talent_machine-learning-engineer",
+ "date": "2026-11-09",
+ "prepared_at": 1794245749,
+ "company": "Global FinTech Talent",
+ "role": "Machine Learning Engineer",
+ "fit": 62,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Recruiter for confidential client; monitored coding assessment; asks compensation/notice in CV; no ranking/recsys experience",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 64,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487154144",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487154144",
+ "contact": "",
+ "verdict": "Solid on Python, PyTorch, embeddings, vector search, retrieval evaluation and shipping a pipeline; no hands-on ranking, recommender or personalisation work, and the posting wants production ML with consumer-scale users.",
+ "gaps": [
+  "Ranking/recommendation/personalisation/reranking: left out; not invented. Cover ",
+  "Thesis is research; cover letter says so (the posting asks to separate research ",
+  "A Matching Experiment Lab (planned) project would cover ranking + NDCG, but the "
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Global_FinTech_Talent.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Global_FinTech_Talent.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
