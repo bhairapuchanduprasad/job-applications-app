@@ -1,5 +1,5 @@
 {
- "generated": 1794245751.515808,
+ "generated": 1794246019.234535,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5111,6 +5111,24 @@
    "applied_date": "",
    "found_by_scout": false,
    "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-09_ai-futures_forward-deployed-engineer",
+   "date": "2026-11-09",
+   "prepared_at": 1794246017,
+   "company": "AI Futures",
+   "role": "Forward Deployed Engineer",
+   "fit": 72,
+   "status": "ready",
+   "city": "Berlin",
+   "ats": 47,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487170614",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "German a bonus",
    "jd_lang": "English"
   }
  ],
