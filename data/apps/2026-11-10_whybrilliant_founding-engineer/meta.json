@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-10_whybrilliant_founding-engineer",
+ "date": "2026-11-10",
+ "prepared_at": 1794254367,
+ "company": "WhyBrilliant",
+ "role": "Founding Engineer",
+ "fit": 72,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Scout. Anonymous startup via WhyBrilliant AI recruiter; on-site Bonn hacker house; apply at whybrilliant.com with LinkedIn",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bonn",
+ "ats": 33,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487183539",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply at whybrilliant.com (LinkedIn login). Employer is anonymous until first contact.",
+ "source": "https://www.linkedin.com/jobs/view/4487183539",
+ "contact": "",
+ "verdict": "Strong match on agent pipelines and full-stack work. Gaps are computer-use automation, hackathon/independent builder history, and an in-person Bonn requirement.",
+ "gaps": [
+  "Computer-use automation: not claimed anywhere; leave as gap.",
+  "Hackathons: none in profile; not claimed.",
+  "CV Projects section left out: with it the CV went to 3 pages. Kept 1 certificati"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_WhyBrilliant.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_WhyBrilliant.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

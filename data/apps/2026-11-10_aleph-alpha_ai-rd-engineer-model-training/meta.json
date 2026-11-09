@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-10_aleph-alpha_ai-rd-engineer-model-training",
+ "date": "2026-11-10",
+ "prepared_at": 1794255289,
+ "company": "Aleph Alpha",
+ "role": "AI R&D Engineer - Model Training (f/m/d)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build model-release-pipeline",
+ "notes": "Berlin or Heidelberg, on-site 2 days/week; scout-prepared; real gaps: TDD, trunk-based, DDD, Rust, RL infra",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 22,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487195621",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487195621",
+ "contact": "",
+ "verdict": "Engineering-minded, junior-friendly role in an LLM training team; Python, Kubernetes, CI, clean code and eval work match, but there is no pre-training / cluster-scheduling / RL-infrastructure experience.",
+ "gaps": [
+  "TDD, trunk-based development, DDD, Rust, RL infrastructure, cluster scheduling: ",
+  "Foundation-model pre-training: no experience; frame via LoRA/QLoRA fine-tuning a",
+  "Salary/seniority: posting welcomes every career stage."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Aleph_Alpha.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Aleph_Alpha.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "model-release-pipeline",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

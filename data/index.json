@@ -1,5 +1,5 @@
 {
- "generated": 1794246861.42973,
+ "generated": 1794256130.338625,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5202,6 +5202,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-10_whybrilliant_founding-engineer",
+   "date": "2026-11-10",
+   "prepared_at": 1794254367,
+   "company": "WhyBrilliant",
+   "role": "Founding Engineer",
+   "fit": 72,
+   "status": "ready",
+   "city": "Bonn",
+   "ats": 33,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487183539",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-10_aleph-alpha_ai-rd-engineer-model-training",
+   "date": "2026-11-10",
+   "prepared_at": 1794255289,
+   "company": "Aleph Alpha",
+   "role": "AI R&D Engineer - Model Training (f/m/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 22,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487195621",
+   "apply_url_kind": "posting",
+   "build": "model-release-pipeline",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5558,6 +5594,9 @@
   ],
   "newsroom-briefing-assistant": [
    "2026-11-09_ida_editorial-technologist"
+  ],
+  "model-release-pipeline": [
+   "2026-11-10_aleph-alpha_ai-rd-engineer-model-training"
   ]
  }
 }
