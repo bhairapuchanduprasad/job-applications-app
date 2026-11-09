@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-09_bit-capital_ai-engineer",
+ "date": "2026-11-09",
+ "prepared_at": 1794245504,
+ "company": "BIT Capital",
+ "role": "AI Engineer (m/f/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Berlin; scout run; send to Carlos Bielsa; gaps Databricks, Managed Agents, finance; CV dropped 3 certs and LLM Gateway project for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 76,
+ "apply_url": "https://www.linkedin.com/jobs/view/4479279889",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4479279889",
+ "contact": "",
+ "verdict": "Strong match on agents, evals, Claude Code and cost control; gaps in Databricks, finance domain and production eval/LLMOps tooling.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_BIT-Capital.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_BIT-Capital.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

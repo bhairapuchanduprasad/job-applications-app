@@ -1,5 +1,5 @@
 {
- "generated": 1794245245.725465,
+ "generated": 1794245506.882431,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5076,6 +5076,24 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-09_bit-capital_ai-engineer",
+   "date": "2026-11-09",
+   "prepared_at": 1794245504,
+   "company": "BIT Capital",
+   "role": "AI Engineer (m/f/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4479279889",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5138,7 +5156,8 @@
    "2026-11-05_arrows_ai-engineer",
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
    "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
-   "2026-11-08_inviso_applied-ai-engineer"
+   "2026-11-08_inviso_applied-ai-engineer",
+   "2026-11-09_bit-capital_ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
