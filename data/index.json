@@ -1,5 +1,5 @@
 {
- "generated": 1794144257.532094,
+ "generated": 1794245245.725465,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5012,13 +5012,13 @@
    "company": "Michael Page",
    "role": "KI Entwickler (m/w/d)",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Frankfurt am Main",
    "ats": 80,
    "apply_url": "https://www.linkedin.com/jobs/view/4472081762",
    "apply_url_kind": "posting",
-   "build": "agent-eval-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-08",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
@@ -5048,16 +5048,34 @@
    "company": "Prior Labs",
    "role": "ML Engineer, Backend",
    "fit": 58,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 75,
    "apply_url": "https://www.linkedin.com/jobs/view/4486686483",
    "apply_url_kind": "posting",
-   "build": "road-damage-inference-service",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-08",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-09_goldbeck_agentic-software-developer",
+   "date": "2026-11-09",
+   "prepared_at": 1794245241,
+   "company": "GOLDBECK",
+   "role": "Agentic Software Developer (m/w/d) Strategische Projekte",
+   "fit": 80,
+   "status": "ready",
+   "city": "Bielefeld",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4476293371",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -5120,7 +5138,6 @@
    "2026-11-05_arrows_ai-engineer",
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
    "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
-   "2026-11-08_michael-page_ki-entwickler",
    "2026-11-08_inviso_applied-ai-engineer"
   ],
   "ops-mcp-server": [
@@ -5408,9 +5425,6 @@
   ],
   "spin-off-ecosystem-data-hub": [
    "2026-11-08_inverto_data-backend-engineer"
-  ],
-  "road-damage-inference-service": [
-   "2026-11-08_prior-labs_ml-engineer-backend"
   ]
  }
 }

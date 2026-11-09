@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-09_goldbeck_agentic-software-developer",
+ "date": "2026-11-09",
+ "prepared_at": 1794245241,
+ "company": "GOLDBECK",
+ "role": "Agentic Software Developer (m/w/d) Strategische Projekte",
+ "fit": 80,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Apply online to Clemens Ruberg, Bielefeld; gaps C#/Angular, construction domain; no Projects section (no space)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bielefeld",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4476293371",
+ "apply_url_kind": "posting",
+ "apply_hint": "Contact: Clemens Ruberg, GOLDBECK Technologies GmbH, Ummelner Straße 4–6, 33649 Bielefeld. Apply online. Earliest start 15 Nov 2026.",
+ "source": "https://www.linkedin.com/jobs/view/4476293371",
+ "contact": "Clemens Ruberg, GOLDBECK Technologies GmbH",
+ "verdict": "Strong match on LLM/RAG/agentic work, Azure, Kubernetes, Claude Code and stakeholder work. Gaps are C#/Angular and the construction domain.",
+ "gaps": [
+  "C# and Angular: not in profile. Letter says Python is the main language and Angu",
+  "\"Monitoring\": only evaluation is evidenced.",
+  "Construction domain: none.",
+  "Projects section left out of the CV: no space at 2 pages (certifications trimmed"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_Goldbeck.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_Goldbeck.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}
