@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-10_sap_application-engineer-healthcare-integration",
+ "date": "2026-11-10",
+ "prepared_at": 1794273508,
+ "company": "SAP",
+ "role": "Application Engineer (f/m/d) - Healthcare Integration & AI Solutions",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build care-note-structurer",
+ "notes": "Scout. Garching (CV: Munich); gaps: SAP BTP, SAP LoB integration, healthcare domain, observability",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 38,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487966642",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487966642",
+ "contact": "",
+ "verdict": "Solid on Python/REST/cloud/CI-CD/AI-assisted engineering and SAP-expert collaboration; weak on SAP BTP, SAP LoB integration and healthcare.",
+ "gaps": [
+  "SAP BTP / LoB integration and healthcare: stated honestly in the letter as not y",
+  "\"Berufserfahren\" career status; no years stated. Posting is in English with no G",
+  "Observability, application security, Java/Node stack not claimed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_SAP.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_SAP.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "care-note-structurer",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

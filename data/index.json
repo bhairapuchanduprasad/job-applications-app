@@ -1,5 +1,5 @@
 {
- "generated": 1794273304.1696699,
+ "generated": 1794273511.102735,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5310,6 +5310,24 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-10_sap_application-engineer-healthcare-integration",
+   "date": "2026-11-10",
+   "prepared_at": 1794273508,
+   "company": "SAP",
+   "role": "Application Engineer (f/m/d) - Healthcare Integration & AI Solutions",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 38,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487966642",
+   "apply_url_kind": "posting",
+   "build": "care-note-structurer",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5333,7 +5351,8 @@
    "2026-10-23_dexter-health_ai-developer-llm-products",
    "2026-10-26_idm_product-ai-engineer",
    "2026-10-28_hdp_machine-learning-engineer",
-   "2026-11-10_voize_ml-engineer-nlp"
+   "2026-11-10_voize_ml-engineer-nlp",
+   "2026-11-10_sap_application-engineer-healthcare-integration"
   ],
   "shop-support-agent": [
    "2026-10-16_snocks_junior-ai-engineer",
