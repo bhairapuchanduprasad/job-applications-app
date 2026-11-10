@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-10_experience-it-solutions_generative-ai-engineer",
+ "date": "2026-11-10",
+ "prepared_at": 1794268742,
+ "company": "eXperience IT Solutions",
+ "role": "Ingeniero/a IA Generativa: LLMs RAG Python (Remoto)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant-mcp",
+ "notes": "Scout. Granada/Spain company, 100% remote, prefers Sevilla residents; Spanish-language posting; gap LlamaIndex",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 92,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487189949",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487189949",
+ "contact": "",
+ "verdict": "Strong skills match (RAG, LangChain, Python/APIs, cloud). Held back by location (Spain-based company, \"preference for Sevilla residents\"), a Spanish-language posting and no LlamaIndex in production.",
+ "gaps": [
+  "LlamaIndex (named openly in the letter, adjacent LangChain experience).",
+  "Spanish: not in profile, posting written in Spanish. Daily working language unkn",
+  "On-premise deployment is only covered by the planned project."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_eXperience-IT-Solutions.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_eXperience-IT-Solutions.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "knowledge-assistant-mcp",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "Spanish"
+}

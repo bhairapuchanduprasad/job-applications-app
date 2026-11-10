@@ -1,5 +1,5 @@
 {
- "generated": 1794256130.338625,
+ "generated": 1794273304.1696699,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5238,6 +5238,78 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-10_experience-it-solutions_generative-ai-engineer",
+   "date": "2026-11-10",
+   "prepared_at": 1794268742,
+   "company": "eXperience IT Solutions",
+   "role": "Ingeniero/a IA Generativa: LLMs RAG Python (Remoto)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 92,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487189949",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant-mcp",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "Spanish"
+  },
+  {
+   "folder": "2026-11-10_voize_ml-engineer-nlp",
+   "date": "2026-11-10",
+   "prepared_at": 1794271463,
+   "company": "voize",
+   "role": "ML Engineer in NLP",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487404150",
+   "apply_url_kind": "posting",
+   "build": "care-note-structurer",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-10_gws_backend-developer-service-integration",
+   "date": "2026-11-10",
+   "prepared_at": 1794272373,
+   "company": "GWS",
+   "role": "Backend Developer (m/w/d) Service & Integration",
+   "fit": 62,
+   "status": "build-first",
+   "city": "M\\\"unster",
+   "ats": 62,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487929975",
+   "apply_url_kind": "posting",
+   "build": "odoo-service-tool-bridge",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-10_siemens-energy_ai-context-engineer-fpa",
+   "date": "2026-11-10",
+   "prepared_at": 1794273300,
+   "company": "Siemens Energy",
+   "role": "AI & Context Engineer (m/f/d) FP&A",
+   "fit": 62,
+   "status": "ready",
+   "city": "Berlin",
+   "ats": 55,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487944432",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5260,7 +5332,8 @@
    "2026-10-14_dexter-health_ai-engineer-llm",
    "2026-10-23_dexter-health_ai-developer-llm-products",
    "2026-10-26_idm_product-ai-engineer",
-   "2026-10-28_hdp_machine-learning-engineer"
+   "2026-10-28_hdp_machine-learning-engineer",
+   "2026-11-10_voize_ml-engineer-nlp"
   ],
   "shop-support-agent": [
    "2026-10-16_snocks_junior-ai-engineer",
@@ -5394,7 +5467,8 @@
    "2026-11-02_thryve_generative-ai-engineer",
    "2026-11-02_bkk-firmus_ki-entwickler",
    "2026-11-03_jenoptik_data-scientist-ki",
-   "2026-11-03_enrichment-technology_software-engineer-genai-ml"
+   "2026-11-03_enrichment-technology_software-engineer-genai-ml",
+   "2026-11-10_experience-it-solutions_generative-ai-engineer"
   ],
   "ai-gateway-platform": [
    "2026-10-27_vector_devops-engineer-ai-developer-platforms",
@@ -5597,6 +5671,9 @@
   ],
   "model-release-pipeline": [
    "2026-11-10_aleph-alpha_ai-rd-engineer-model-training"
+  ],
+  "odoo-service-tool-bridge": [
+   "2026-11-10_gws_backend-developer-service-integration"
   ]
  }
 }

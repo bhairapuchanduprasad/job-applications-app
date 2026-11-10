@@ -1,0 +1,2 @@
+Reused project: see applications/2026-11-04_smartvelo_ki-automatisierung-engineer/_work/project-brief-odoo-service-tool-bridge.md (same scope).
+CV bullet it must live up to (GWS variant): FastAPI bridge to Odoo ERP over JSON-RPC with demo data, webhook + scheduled sync with retries and logging, LLM service-report draft with human approval before write-back. Stack on CV: Python, FastAPI, PostgreSQL, Docker, pytest.

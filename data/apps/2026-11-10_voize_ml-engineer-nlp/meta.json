@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-10_voize_ml-engineer-nlp",
+ "date": "2026-11-10",
+ "prepared_at": 1794271463,
+ "company": "voize",
+ "role": "ML Engineer in NLP",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build care-note-structurer",
+ "notes": "Scout. Berlin; gaps: production fine-tuned models, caching/routing, care domain",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487404150",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487404150",
+ "contact": "",
+ "verdict": "Strong match on LLM agents, evaluation and production work; weaker on model training in production and care-domain/German-language NLP.",
+ "gaps": [
+  "Fine-tuned model shipped to production (only QLoRA hobby project and Covestro re",
+  "Caching / model routing as a named practice; German NLP; healthcare domain.",
+  "Care Note Structurer is planned: must be built before submitting."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_voize.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_voize.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "care-note-structurer",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

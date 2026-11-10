@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-10_gws_backend-developer-service-integration",
+ "date": "2026-11-10",
+ "prepared_at": 1794272373,
+ "company": "GWS",
+ "role": "Backend Developer (m/w/d) Service & Integration",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build odoo-service-tool-bridge",
+ "notes": "Scout. Münster; German-language posting, no stated German requirement; gaps: Django, OAuth, Pydantic, Shopware/e-commerce",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "M\\\"unster",
+ "ats": 62,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487929975",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487929975",
+ "contact": "",
+ "verdict": "Solid Python/FastAPI/Docker/Azure/Postgres backend base; missing Django, OAuth, Pydantic as named skills and the ERP/e-commerce domain.",
+ "gaps": [
+  "Django, Pydantic, OpenAPI, OAuth, code-review practice, Shopware/e-commerce.",
+  "German B1 for a German-speaking customer-service role.",
+  "Odoo Service-Tool Bridge is planned: build before submitting."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Prasad_Bhairapu_CV_GWS.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Prasad_Bhairapu_Cover_Letter_GWS.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-odoo-service-tool-bridge.md"
+ ],
+ "build": "odoo-service-tool-bridge",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}
