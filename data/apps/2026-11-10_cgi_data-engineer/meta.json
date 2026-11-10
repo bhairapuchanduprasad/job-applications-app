@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-10_cgi_data-engineer",
+ "date": "2026-11-10",
+ "prepared_at": 1794273676,
+ "company": "CGI",
+ "role": "Data Engineer (m/w/d)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build retail-sales-lakehouse",
+ "notes": "Kaiserslautern; 2+ yrs; Spark/Databricks/ADF gaps; scout run",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Kaiserslautern",
+ "ats": 78,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488886847",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488886847",
+ "contact": "",
+ "verdict": "Solid Python/SQL/ML-pipeline/CI-CD/Azure base; the named stack (Spark, Databricks, ADF, Azure ML Studio, Scala) is missing in work experience.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_CGI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_CGI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "retail-sales-lakehouse",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

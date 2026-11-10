@@ -1,5 +1,5 @@
 {
- "generated": 1794273511.102735,
+ "generated": 1794273679.6468139,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5328,6 +5328,24 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-10_cgi_data-engineer",
+   "date": "2026-11-10",
+   "prepared_at": 1794273676,
+   "company": "CGI",
+   "role": "Data Engineer (m/w/d)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Kaiserslautern",
+   "ats": 78,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488886847",
+   "apply_url_kind": "posting",
+   "build": "retail-sales-lakehouse",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -5693,6 +5711,9 @@
   ],
   "odoo-service-tool-bridge": [
    "2026-11-10_gws_backend-developer-service-integration"
+  ],
+  "retail-sales-lakehouse": [
+   "2026-11-10_cgi_data-engineer"
   ]
  }
 }
