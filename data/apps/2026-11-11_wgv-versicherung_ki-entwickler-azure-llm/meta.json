@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-11_wgv-versicherung_ki-entwickler-azure-llm",
+ "date": "2026-11-11",
+ "prepared_at": 1794342620,
+ "company": "WGV Versicherung",
+ "role": "KI-Entwickler (m/w/d) - Azure & LLM Integration",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build azure-dokumenten-assistent",
+ "notes": "Scout. Stuttgart; gaps: on-prem to Azure migration, EU AI Act, Document Intelligence/Azure OpenAI only via planned project; no web research",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489491344",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489491344",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_WGV.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_WGV.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "azure-dokumenten-assistent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

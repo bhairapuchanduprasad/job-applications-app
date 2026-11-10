@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-11_undp_ai-innovation-analyst",
+ "date": "2026-11-11",
+ "prepared_at": 1794342746,
+ "company": "UNDP",
+ "role": "AI Innovation Analyst",
+ "fit": 72,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Bonn; JD copied from internship template, check grade; open to internal and external; C#/GCP/UN gaps",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bonn",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489602577",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489602577",
+ "contact": "",
+ "verdict": "Strong match on AI/LLM, Python, Azure and stakeholder work; gaps are C#/JavaScript depth, GCP, UN experience.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_UNDP.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_UNDP.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

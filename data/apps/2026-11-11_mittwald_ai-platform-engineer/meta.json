@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-11_mittwald_ai-platform-engineer",
+ "date": "2026-11-11",
+ "prepared_at": 1794341913,
+ "company": "mittwald",
+ "role": "AI Platform Engineer",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build self-hosted-llm-inference",
+ "notes": "Scout. Espelkamp (CV: Bielefeld); gaps: Go, CUDA/GPU ops; certifications dropped for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Bielefeld",
+ "ats": 68,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488377546",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488377546",
+ "contact": "",
+ "verdict": "Strong on LLMs, RAG, Kubernetes/Docker, LiteLLM, Python; weak on GPU/CUDA/vLLM production ops and Go.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_mittwald.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_mittwald.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-self-hosted-llm-inference.md"
+ ],
+ "build": "self-hosted-llm-inference",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

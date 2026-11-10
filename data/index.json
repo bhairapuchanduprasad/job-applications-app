@@ -1,5 +1,5 @@
 {
- "generated": 1794285858.3722382,
+ "generated": 1794343064.867024,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5346,6 +5346,276 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_owkin_software-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794340911,
+   "company": "Owkin",
+   "role": "Software Engineer",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 36,
+   "apply_url": "https://www.linkedin.com/jobs/view/4426607272",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_siemens-healthineers_rd-scientist-operational-ai",
+   "date": "2026-11-11",
+   "prepared_at": 1794341207,
+   "company": "Siemens Healthineers",
+   "role": "R&D Scientist – Operational AI (f/m/d)",
+   "fit": 55,
+   "status": "ready",
+   "city": "Erlangen",
+   "ats": 40,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487499676",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "German is a plus",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_grainset-data_junior-data-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794341340,
+   "company": "Grainset Data",
+   "role": "Junior Data Engineer",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 47,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487955040",
+   "apply_url_kind": "posting",
+   "build": "netzentgelte-kostenmodell",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_beff_machine-learning-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794341513,
+   "company": "Beff",
+   "role": "Machine Learning Engineer",
+   "fit": 58,
+   "status": "ready",
+   "city": "Stuttgart",
+   "ats": 61,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487989490",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_jobgether_ai-developer",
+   "date": "2026-11-11",
+   "prepared_at": 1794341623,
+   "company": "Jobgether",
+   "role": "AI Developer",
+   "fit": 82,
+   "status": "ready",
+   "city": "Germany",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488315653",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_jobgether_gtm-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794341755,
+   "company": "Jobgether",
+   "role": "GTM Engineer",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488323458",
+   "apply_url_kind": "posting",
+   "build": "n8n-ai-workflow-hub",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_mittwald_ai-platform-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794341913,
+   "company": "mittwald",
+   "role": "AI Platform Engineer",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Bielefeld",
+   "ats": 68,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488377546",
+   "apply_url_kind": "posting",
+   "build": "self-hosted-llm-inference",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_mobilize-financial-services_data-analyst",
+   "date": "2026-11-11",
+   "prepared_at": 1794342049,
+   "company": "Mobilize Financial Services",
+   "role": "Data Analyst (m/w/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Neuss",
+   "ats": 33,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489134690",
+   "apply_url_kind": "posting",
+   "build": "semantic-analytics-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_allianz_ai-data-scientist-dsi",
+   "date": "2026-11-11",
+   "prepared_at": 1794342187,
+   "company": "Allianz",
+   "role": "AI & Data Scientist (m/f/d) - Digital Solutions for Investment",
+   "fit": 78,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 72,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489467392",
+   "apply_url_kind": "posting",
+   "build": "azure-ai-rag-starter-kit",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "German is a plus",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_racksnet_ai-engineer-intent-based-networking",
+   "date": "2026-11-11",
+   "prepared_at": 1794342314,
+   "company": "racksnet GmbH",
+   "role": "Specialist/Engineer AI/Intent-Based Networking (m/w/d)",
+   "fit": 60,
+   "status": "ready",
+   "city": "Frankfurt am Main",
+   "ats": 56,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489469411",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_open-logic-systems_consultant-data-science",
+   "date": "2026-11-11",
+   "prepared_at": 1794342430,
+   "company": "Open Logic Systems GmbH & Co. KG",
+   "role": "Consultant Data Science (m/w/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Münster",
+   "ats": 42,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489476094",
+   "apply_url_kind": "posting",
+   "build": "cell-kpi-anomaly-pipeline",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_wgv-versicherung_ki-entwickler-azure-llm",
+   "date": "2026-11-11",
+   "prepared_at": 1794342620,
+   "company": "WGV Versicherung",
+   "role": "KI-Entwickler (m/w/d) - Azure & LLM Integration",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489491344",
+   "apply_url_kind": "posting",
+   "build": "azure-dokumenten-assistent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_undp_ai-innovation-analyst",
+   "date": "2026-11-11",
+   "prepared_at": 1794342746,
+   "company": "UNDP",
+   "role": "AI Innovation Analyst",
+   "fit": 72,
+   "status": "ready",
+   "city": "Bonn",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489602577",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_dz-bank_ki-entwickler-llm-agenten",
+   "date": "2026-11-11",
+   "prepared_at": 1794342900,
+   "company": "DZ BANK AG",
+   "role": "KI-Entwickler - KI-Anwendungen und LLM-Agenten (m/w/d)",
+   "fit": 68,
+   "status": "ready",
+   "city": "Frankfurt am Main",
+   "ats": 50,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489608649",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_welevel_ai-systems-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794343025,
+   "company": "welevel",
+   "role": "AI Systems Engineer (m/f/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 53,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489617347",
+   "apply_url_kind": "posting",
+   "build": "npc-memory-service",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5409,7 +5679,8 @@
    "2026-11-05_arrows_ai-engineer",
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
    "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
-   "2026-11-08_inviso_applied-ai-engineer"
+   "2026-11-08_inviso_applied-ai-engineer",
+   "2026-11-11_owkin_software-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -5482,7 +5753,8 @@
    "2026-10-28_taod_data-engineer-scientist",
    "2026-11-01_adesso_azure-ai-engineer-agentic-systems",
    "2026-11-02_cgi_azure-cloud-ai-engineer",
-   "2026-11-04_adesso_software-engineer-azure-ai"
+   "2026-11-04_adesso_software-engineer-azure-ai",
+   "2026-11-11_allianz_ai-data-scientist-dsi"
   ],
   "client-occasion-engine": [
    "2026-10-25_bestandsfaktor_founding-software-engineer",
@@ -5492,7 +5764,8 @@
    "2026-10-26_rewe-group_agentic-bi-developer",
    "2026-10-28_altasigma_ai-engineer",
    "2026-10-29_fusion-consulting_knowledge-engineer",
-   "2026-11-06_intersnack-it_ai-engineer-analytics-end-user-insights"
+   "2026-11-06_intersnack-it_ai-engineer-analytics-end-user-insights",
+   "2026-11-11_mobilize-financial-services_data-analyst"
   ],
   "knowledge-assistant-mcp": [
    "2026-10-27_summ-ai_ai-engineer-llms-agents",
@@ -5549,7 +5822,8 @@
    "2026-11-05_motorenfabrik-hatz_data-scientist",
    "2026-11-05_gema_ai-engineer",
    "2026-11-05_capgemini-engineering_data-analysis-engineer",
-   "2026-11-05_adesso_cloud-native-data-engineer"
+   "2026-11-05_adesso_cloud-native-data-engineer",
+   "2026-11-11_open-logic-systems_consultant-data-science"
   ],
   "agent-ready-data-platform": [
    "2026-11-02_quantumblack_data-engineering-consultant"
@@ -5598,7 +5872,8 @@
   "self-hosted-llm-inference": [
    "2026-11-03_8com_cyber-security-automation-ai-engineer",
    "2026-11-05_createch-engineering_ki-experte-ki-administration",
-   "2026-11-05_lyceum_technical-founders-associate"
+   "2026-11-05_lyceum_technical-founders-associate",
+   "2026-11-11_mittwald_ai-platform-engineer"
   ],
   "radar-nowcasting": [
    "2026-11-03_wetteronline_machine-learning-engineer"
@@ -5644,7 +5919,8 @@
    "2026-11-04_jl-digital_it-consultant-cloud-ai",
    "2026-11-05_battery-kutter_junior-software-developer-ai-automation",
    "2026-11-05_sharpist_gtm-engineer-ai-automation",
-   "2026-11-06_newrocket_campus-ai-engineer"
+   "2026-11-06_newrocket_campus-ai-engineer",
+   "2026-11-11_jobgether_gtm-engineer"
   ],
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",
@@ -5685,7 +5961,8 @@
    "2026-11-06_embex_ki-software-entwicklungsingenieur"
   ],
   "netzentgelte-kostenmodell": [
-   "2026-11-06_octopus-energy_analytics-engineer"
+   "2026-11-06_octopus-energy_analytics-engineer",
+   "2026-11-11_grainset-data_junior-data-engineer"
   ],
   "local-knowledge-assistant": [
    "2026-11-06_alten_ai-development-engineer-python-llm"
@@ -5700,6 +5977,12 @@
   ],
   "model-release-pipeline": [
    "2026-11-10_aleph-alpha_ai-rd-engineer-model-training"
+  ],
+  "azure-dokumenten-assistent": [
+   "2026-11-11_wgv-versicherung_ki-entwickler-azure-llm"
+  ],
+  "npc-memory-service": [
+   "2026-11-11_welevel_ai-systems-engineer"
   ]
  }
 }

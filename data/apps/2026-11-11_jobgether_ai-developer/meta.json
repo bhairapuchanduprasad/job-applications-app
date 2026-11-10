@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-11_jobgether_ai-developer",
+ "date": "2026-11-11",
+ "prepared_at": 1794341623,
+ "company": "Jobgether",
+ "role": "AI Developer",
+ "fit": 82,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Scout. Remote Germany; partner company unnamed; gaps: LlamaIndex; Projects dropped for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488315653",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488315653",
+ "contact": "",
+ "verdict": "LLM/RAG/agent application developer role; matches the Kniit and Covestro work closely.",
+ "gaps": [
+  "LlamaIndex (leave out). Chatbots as a product: only the Covestro agentic app, fr",
+  "No German requirement. No named employer (Jobgether lists on behalf of a partner"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Jobgether.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Jobgether.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

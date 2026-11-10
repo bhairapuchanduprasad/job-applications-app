@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-11_open-logic-systems_consultant-data-science",
+ "date": "2026-11-11",
+ "prepared_at": 1794342430,
+ "company": "Open Logic Systems GmbH & Co. KG",
+ "role": "Consultant Data Science (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build cell-kpi-anomaly-pipeline",
+ "notes": "Scout. Münster; gaps: Spark, Linux, 2y post-degree; certifications dropped for 2 pages; contact markus.dewendt@open-ls.de",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Münster",
+ "ats": 42,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489476094",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489476094",
+ "contact": "",
+ "verdict": "Good match on Python, SQL, cloud, ML and consulting-style work; gaps in Spark, Linux and \"2 years after degree\".",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Open-Logic-Systems.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Open-Logic-Systems.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "cell-kpi-anomaly-pipeline",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

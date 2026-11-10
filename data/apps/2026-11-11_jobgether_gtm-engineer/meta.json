@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-11_jobgether_gtm-engineer",
+ "date": "2026-11-11",
+ "prepared_at": 1794341755,
+ "company": "Jobgether",
+ "role": "GTM Engineer",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build n8n-ai-workflow-hub",
+ "notes": "Partner company unnamed; remote Europe; HubSpot/Clay gaps; CV drops certifications for space",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488323458",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488323458",
+ "contact": "",
+ "verdict": "Strong on AI agents, LLM workflows, evaluation, Python/SQL and predictive modeling. Weak on the tool stack (HubSpot, Clay) and the B2B go-to-market domain.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Jobgether.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Jobgether.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "n8n-ai-workflow-hub",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-11_racksnet_ai-engineer-intent-based-networking",
+ "date": "2026-11-11",
+ "prepared_at": 1794342314,
+ "company": "racksnet GmbH",
+ "role": "Specialist/Engineer AI/Intent-Based Networking (m/w/d)",
+ "fit": 60,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "English documents; gaps: Vue.js/Node.js, GCP, Jenkins, networking domain; no web research",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Frankfurt am Main",
+ "ats": 56,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489469411",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489469411",
+ "contact": "",
+ "verdict": "Solid ML/time-series/Python/Docker/REST/Azure/AWS match; gaps in the JS stack (Node.js, Vue.js), GCP/SageMaker, Jenkins and any networking domain knowledge. Role leans on \"extensive\" experience in several areas.",
+ "gaps": [
+  "Vue.js/Node.js: stated honestly in the letter as not used, would learn. GCP, Sag",
+  "German: no mention in posting. Not a gap."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_racksnet.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_racksnet.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

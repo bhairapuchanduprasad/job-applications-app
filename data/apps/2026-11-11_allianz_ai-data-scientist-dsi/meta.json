@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-11_allianz_ai-data-scientist-dsi",
+ "date": "2026-11-11",
+ "prepared_at": 1794342187,
+ "company": "Allianz",
+ "role": "AI & Data Scientist (m/f/d) - Digital Solutions for Investment",
+ "fit": 78,
+ "status": "build-first",
+ "next_step": "build azure-ai-rag-starter-kit",
+ "notes": "Munich; German is a plus; CV project Azure AI RAG Starter-Kit planned",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 72,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489467392",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489467392",
+ "contact": "",
+ "verdict": "Strong GenAI/RAG/agents + Azure/AWS/Docker/Kubernetes match, 3 yrs fits \"up to 5\", MSc AI. Gaps: Terraform, investment/risk domain, AI governance.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Allianz.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Allianz.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "azure-ai-rag-starter-kit",
+ "found_by_scout": false,
+ "german": "German is a plus",
+ "jd_lang": "English"
+}

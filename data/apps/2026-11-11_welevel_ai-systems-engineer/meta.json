@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-11_welevel_ai-systems-engineer",
+ "date": "2026-11-11",
+ "prepared_at": 1794343025,
+ "company": "welevel",
+ "role": "AI Systems Engineer (m/f/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build npc-memory-service",
+ "notes": "English documents; Munich onsite; UE5 and real-time/game API experience are gaps; project NPC Memory Service unbuilt",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 53,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489617347",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489617347",
+ "contact": "",
+ "verdict": "",
+ "gaps": [
+  "UE5/gameplay integration: stated openly in the letter, not on CV.",
+  "PostgreSQL depth: covered by the planned NPC Memory Service project (not claimed",
+  "German: No mention of German."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_welevel.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_welevel.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-npc-memory-service.md"
+ ],
+ "build": "npc-memory-service",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

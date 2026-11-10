@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-11_siemens-healthineers_rd-scientist-operational-ai",
+ "date": "2026-11-11",
+ "prepared_at": 1794341207,
+ "company": "Siemens Healthineers",
+ "role": "R&D Scientist – Operational AI (f/m/d)",
+ "fit": 55,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Scout. Erlangen; gaps: optimization/OR, digital twin, publications, 'several years'; apply via talent community",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Erlangen",
+ "ats": 40,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487499676",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487499676",
+ "contact": "",
+ "verdict": "Strong on LLM/RAG/agents, Python, Azure; weak on optimization/OR, digital twins, simulation, research publications, and \"several years\" of experience (I have 3).",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Siemens-Healthineers.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Siemens-Healthineers.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "German is a plus",
+ "jd_lang": "English"
+}
