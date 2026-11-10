@@ -5,11 +5,11 @@
  "company": "ida (Innovations- und Digitalagentur GmbH)",
  "role": "Editorial Technologist (m/w/d)",
  "fit": 72,
- "status": "build-first",
- "next_step": "build newsroom-briefing-assistant",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Scout; German-written posting, no German requirement stated but German media clients; gaps TypeScript, media experience, pitching/speaking; remote or office",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-10",
+ "applied_via": "Company careers site",
  "city": "Leipzig",
  "ats": 71,
  "apply_url": "https://www.linkedin.com/jobs/view/4488868514",
@@ -48,7 +48,7 @@
  "briefs": [
   "project-brief-newsroom-briefing-assistant.md"
  ],
- "build": "newsroom-briefing-assistant",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "German"

@@ -5,11 +5,11 @@
  "company": "GWS",
  "role": "Backend Developer (m/w/d) Service & Integration",
  "fit": 62,
- "status": "build-first",
- "next_step": "build odoo-service-tool-bridge",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Scout. Münster; German-language posting, no stated German requirement; gaps: Django, OAuth, Pydantic, Shopware/e-commerce",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-10",
+ "applied_via": "Company careers site",
  "city": "M\\\"unster",
  "ats": 62,
  "apply_url": "https://www.linkedin.com/jobs/view/4487929975",
@@ -47,7 +47,7 @@
  "briefs": [
   "project-brief-odoo-service-tool-bridge.md"
  ],
- "build": "odoo-service-tool-bridge",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "German"
