@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-11_jobgether_software-engineer-ai-integrations",
+ "date": "2026-11-11",
+ "prepared_at": 1794399231,
+ "company": "Jobgether",
+ "role": "Software Engineer, AI Integrations",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build web-data-integrations-toolkit",
+ "notes": "Via Jobgether for unnamed partner; remote Germany; TypeScript/PyPI/npm gaps",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 62,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488694023",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488694023",
+ "contact": "",
+ "verdict": "Strong on MCP, Claude Code, Python/REST, CI/CD; weak on published SDK/CLI packages (PyPI/npm), TypeScript/Node, DevRel.",
+ "gaps": [
+  "PyPI/npm, TypeScript, SDK/CLI: stated honestly in letter as being closed via a p",
+  "LlamaIndex, Playwright, BigQuery, Snowflake, DevRel: left out.",
+  "German: no mention in posting (no requirement)."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Jobgether.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Jobgether.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-web-data-integrations-toolkit.md"
+ ],
+ "build": "web-data-integrations-toolkit",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

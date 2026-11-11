@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-11_actai_machine-learning-engineer-ranking-retrieval",
+ "date": "2026-11-11",
+ "prepared_at": 1794399030,
+ "company": "ActAI",
+ "role": "Machine Learning Engineer, Ranking & Retrieval",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build hybrid-search-reranking-lab",
+ "notes": "Germany (no city; CV says Germany); entry level but asks 3+ yrs ML engineering; gaps: personalisation/recsys, production ranking, JAX; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488666708",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488666708",
+ "contact": "",
+ "verdict": "Strong on embeddings, retrieval evaluation and RAG; weak on 3+ years of classic ML engineering, ranking/recommendation and personalisation in production.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_ActAI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_ActAI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-hybrid-search-reranking-lab.md"
+ ],
+ "build": "hybrid-search-reranking-lab",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

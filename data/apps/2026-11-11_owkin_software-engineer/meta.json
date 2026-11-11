@@ -5,11 +5,11 @@
  "company": "Owkin",
  "role": "Software Engineer",
  "fit": 62,
- "status": "build-first",
- "next_step": "build agent-eval-harness",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Senior-leaning posting; gaps: Athena/Trino/Airflow, on-call, leadership; CV in English; remote Germany ok",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-11",
+ "applied_via": "Company careers site",
  "city": "Berlin",
  "ats": 36,
  "apply_url": "https://www.linkedin.com/jobs/view/4426607272",
@@ -43,7 +43,7 @@
  "briefs": [
   "project-brief-agent-eval-harness.md"
  ],
- "build": "agent-eval-harness",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"

@@ -5,11 +5,11 @@
  "company": "Grainset Data",
  "role": "Junior Data Engineer",
  "fit": 66,
- "status": "build-first",
- "next_step": "build netzentgelte-kostenmodell",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Scout. Remote Germany, US (Boston) company: check employer entity; gaps: dbt/Airflow/warehouse",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-11",
+ "applied_via": "Company careers site",
  "city": "Germany",
  "ats": 47,
  "apply_url": "https://www.linkedin.com/jobs/view/4487955040",
@@ -43,7 +43,7 @@
  "briefs": [
   "project-brief-netzentgelte-kostenmodell.md"
  ],
- "build": "netzentgelte-kostenmodell",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"

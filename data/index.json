@@ -1,5 +1,5 @@
 {
- "generated": 1794370298.681576,
+ "generated": 1794399526.485342,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5354,13 +5354,13 @@
    "company": "Owkin",
    "role": "Software Engineer",
    "fit": 62,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 36,
    "apply_url": "https://www.linkedin.com/jobs/view/4426607272",
    "apply_url_kind": "posting",
-   "build": "agent-eval-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -5390,13 +5390,13 @@
    "company": "Grainset Data",
    "role": "Junior Data Engineer",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Germany",
    "ats": 47,
    "apply_url": "https://www.linkedin.com/jobs/view/4487955040",
    "apply_url_kind": "posting",
-   "build": "netzentgelte-kostenmodell",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -5426,13 +5426,13 @@
    "company": "Jobgether",
    "role": "AI Developer",
    "fit": 82,
-   "status": "ready",
+   "status": "applied",
    "city": "Germany",
    "ats": 87,
    "apply_url": "https://www.linkedin.com/jobs/view/4488315653",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -5444,13 +5444,13 @@
    "company": "Jobgether",
    "role": "GTM Engineer",
    "fit": 58,
-   "status": "build-first",
+   "status": "applied",
    "city": "Germany",
    "ats": 75,
    "apply_url": "https://www.linkedin.com/jobs/view/4488323458",
    "apply_url_kind": "posting",
-   "build": "n8n-ai-workflow-hub",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -5516,13 +5516,13 @@
    "company": "racksnet GmbH",
    "role": "Specialist/Engineer AI/Intent-Based Networking (m/w/d)",
    "fit": 60,
-   "status": "ready",
+   "status": "applied",
    "city": "Frankfurt am Main",
    "ats": 56,
    "apply_url": "https://www.linkedin.com/jobs/view/4489469411",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -5570,13 +5570,13 @@
    "company": "UNDP",
    "role": "AI Innovation Analyst",
    "fit": 72,
-   "status": "ready",
+   "status": "applied",
    "city": "Bonn",
    "ats": 71,
    "apply_url": "https://www.linkedin.com/jobs/view/4489602577",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -5588,13 +5588,13 @@
    "company": "DZ BANK AG",
    "role": "KI-Entwickler - KI-Anwendungen und LLM-Agenten (m/w/d)",
    "fit": 68,
-   "status": "ready",
+   "status": "applied",
    "city": "Frankfurt am Main",
    "ats": 50,
    "apply_url": "https://www.linkedin.com/jobs/view/4489608649",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
@@ -5606,13 +5606,13 @@
    "company": "welevel",
    "role": "AI Systems Engineer (m/f/d)",
    "fit": 62,
-   "status": "build-first",
+   "status": "applied",
    "city": "Munich",
    "ats": 53,
    "apply_url": "https://www.linkedin.com/jobs/view/4489617347",
    "apply_url_kind": "posting",
-   "build": "npc-memory-service",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -5642,13 +5642,13 @@
    "company": "PwC Deutschland",
    "role": "AI-Consultant - Public & Infrastructure (w/m/d)",
    "fit": 62,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 74,
    "apply_url": "https://www.linkedin.com/jobs/view/4487906507",
    "apply_url_kind": "posting",
-   "build": "knowledge-assistant",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
@@ -5660,13 +5660,13 @@
    "company": "Joblet-AI (micro1)",
    "role": "Forward Deployed Engineer (Remote)",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Germany",
    "ats": 87,
    "apply_url": "https://www.linkedin.com/jobs/view/4488635706",
    "apply_url_kind": "posting",
-   "build": "agent-eval-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-11",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -5678,16 +5678,124 @@
    "company": "Joblet-AI (micro1)",
    "role": "AI Engineer (Remote)",
    "fit": 76,
-   "status": "build-first",
+   "status": "applied",
    "city": "Germany",
    "ats": 76,
    "apply_url": "https://www.linkedin.com/jobs/view/4488647526",
    "apply_url_kind": "posting",
-   "build": "agent-eval-harness",
+   "build": "",
+   "applied_date": "2026-11-11",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_avelios-medical_machine-learning-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794398419,
+   "company": "Avelios Medical",
+   "role": "Machine Learning Engineer (all genders)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 73,
+   "apply_url": "https://www.linkedin.com/jobs/view/4361562595",
+   "apply_url_kind": "posting",
+   "build": "care-note-structurer",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "German is a plus",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_dymatrix_junior-cloud-data-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794398547,
+   "company": "DYMATRIX",
+   "role": "(Junior) Cloud Data Engineer (all genders)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 28,
+   "apply_url": "https://www.linkedin.com/jobs/view/4405109763",
+   "apply_url_kind": "posting",
+   "build": "retail-sales-lakehouse",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_huk-coburg_data-analyst-claims",
+   "date": "2026-11-11",
+   "prepared_at": 1794398753,
+   "company": "HUK-COBURG",
+   "role": "Data Analyst - Claims (w/m/d)",
+   "fit": 58,
+   "status": "ready",
+   "city": "Nuremberg",
+   "ats": 67,
+   "apply_url": "https://www.linkedin.com/jobs/view/4478285591",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_actai_machine-learning-engineer-ranking-retrieval",
+   "date": "2026-11-11",
+   "prepared_at": 1794399030,
+   "company": "ActAI",
+   "role": "Machine Learning Engineer, Ranking & Retrieval",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 75,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488666708",
+   "apply_url_kind": "posting",
+   "build": "hybrid-search-reranking-lab",
    "applied_date": "",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_jobgether_software-engineer-ai-integrations",
+   "date": "2026-11-11",
+   "prepared_at": 1794399231,
+   "company": "Jobgether",
+   "role": "Software Engineer, AI Integrations",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 62,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488694023",
+   "apply_url_kind": "posting",
+   "build": "web-data-integrations-toolkit",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_jet-hr_ai-software-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794399422,
+   "company": "Jet HR",
+   "role": "AI Software Engineer",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 62,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489680803",
+   "apply_url_kind": "posting",
+   "build": "retail-sales-lakehouse",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "Italian"
   }
  ],
  "builds": {
@@ -5711,7 +5819,8 @@
    "2026-10-23_dexter-health_ai-developer-llm-products",
    "2026-10-26_idm_product-ai-engineer",
    "2026-10-28_hdp_machine-learning-engineer",
-   "2026-11-10_sap_application-engineer-healthcare-integration"
+   "2026-11-10_sap_application-engineer-healthcare-integration",
+   "2026-11-11_avelios-medical_machine-learning-engineer"
   ],
   "shop-support-agent": [
    "2026-10-16_snocks_junior-ai-engineer",
@@ -5751,10 +5860,7 @@
    "2026-11-05_arrows_ai-engineer",
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
    "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
-   "2026-11-08_inviso_applied-ai-engineer",
-   "2026-11-11_owkin_software-engineer",
-   "2026-11-11_joblet-ai_forward-deployed-engineer",
-   "2026-11-11_joblet-ai_ai-engineer"
+   "2026-11-08_inviso_applied-ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -5994,8 +6100,7 @@
    "2026-11-04_jl-digital_it-consultant-cloud-ai",
    "2026-11-05_battery-kutter_junior-software-developer-ai-automation",
    "2026-11-05_sharpist_gtm-engineer-ai-automation",
-   "2026-11-06_newrocket_campus-ai-engineer",
-   "2026-11-11_jobgether_gtm-engineer"
+   "2026-11-06_newrocket_campus-ai-engineer"
   ],
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",
@@ -6036,8 +6141,7 @@
    "2026-11-06_embex_ki-software-entwicklungsingenieur"
   ],
   "netzentgelte-kostenmodell": [
-   "2026-11-06_octopus-energy_analytics-engineer",
-   "2026-11-11_grainset-data_junior-data-engineer"
+   "2026-11-06_octopus-energy_analytics-engineer"
   ],
   "local-knowledge-assistant": [
    "2026-11-06_alten_ai-development-engineer-python-llm"
@@ -6056,11 +6160,15 @@
   "azure-dokumenten-assistent": [
    "2026-11-11_wgv-versicherung_ki-entwickler-azure-llm"
   ],
-  "npc-memory-service": [
-   "2026-11-11_welevel_ai-systems-engineer"
+  "retail-sales-lakehouse": [
+   "2026-11-11_dymatrix_junior-cloud-data-engineer",
+   "2026-11-11_jet-hr_ai-software-engineer"
   ],
-  "knowledge-assistant": [
-   "2026-11-11_pwc_ai-consultant-public-infrastructure"
+  "hybrid-search-reranking-lab": [
+   "2026-11-11_actai_machine-learning-engineer-ranking-retrieval"
+  ],
+  "web-data-integrations-toolkit": [
+   "2026-11-11_jobgether_software-engineer-ai-integrations"
   ]
  }
 }

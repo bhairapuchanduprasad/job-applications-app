@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-11_avelios-medical_machine-learning-engineer",
+ "date": "2026-11-11",
+ "prepared_at": 1794398419,
+ "company": "Avelios Medical",
+ "role": "Machine Learning Engineer (all genders)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build care-note-structurer",
+ "notes": "Munich; German is a plus only; gaps: ASR, federated ML, Pydantic (project unbuilt), clinical data; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 73,
+ "apply_url": "https://www.linkedin.com/jobs/view/4361562595",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4361562595",
+ "contact": "",
+ "verdict": "Strong match on LLM/RAG/vector DB production work and PyTorch; gaps on ASR, federated learning, clinical data and Pydantic.",
+ "gaps": [
+  "ASR, federated learning: stated openly in the cover letter as not done yet; not ",
+  "Pydantic: only via the planned project; no claim in experience.",
+  "Clinical domain: Care Note Structurer project (planned, not built) is on the CV;"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Avelios-Medical.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Avelios-Medical.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-care-note-structurer.md"
+ ],
+ "build": "care-note-structurer",
+ "found_by_scout": false,
+ "german": "German is a plus",
+ "jd_lang": "English"
+}

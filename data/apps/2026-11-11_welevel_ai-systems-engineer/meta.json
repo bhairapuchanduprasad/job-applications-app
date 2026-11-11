@@ -5,11 +5,11 @@
  "company": "welevel",
  "role": "AI Systems Engineer (m/f/d)",
  "fit": 62,
- "status": "build-first",
- "next_step": "build npc-memory-service",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; Munich onsite; UE5 and real-time/game API experience are gaps; project NPC Memory Service unbuilt",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-11",
+ "applied_via": "Company careers site",
  "city": "Munich",
  "ats": 53,
  "apply_url": "https://www.linkedin.com/jobs/view/4489617347",
@@ -47,7 +47,7 @@
  "briefs": [
   "project-brief-npc-memory-service.md"
  ],
- "build": "npc-memory-service",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"

@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-11_dymatrix_junior-cloud-data-engineer",
+ "date": "2026-11-11",
+ "prepared_at": 1794398547,
+ "company": "DYMATRIX",
+ "role": "(Junior) Cloud Data Engineer (all genders)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build retail-sales-lakehouse",
+ "notes": "Stuttgart (also Köln/Hamburg); German-written posting, German not stated as requirement but client-facing; gaps: C#, ADF, Databricks, Cosmos DB; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 28,
+ "apply_url": "https://www.linkedin.com/jobs/view/4405109763",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4405109763",
+ "contact": "",
+ "verdict": "Entry-level data engineering role on an Azure/.NET/Databricks stack. Python, SQL, ETL pipelines and Azure experience fit; C#, Databricks, Data Factory and Cosmos DB are all gaps.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_DYMATRIX.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_DYMATRIX.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "retail-sales-lakehouse",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}
