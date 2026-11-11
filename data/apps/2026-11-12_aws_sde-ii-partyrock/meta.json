@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-12_aws_sde-ii-partyrock",
+ "date": "2026-11-12",
+ "prepared_at": 1794427257,
+ "company": "Amazon Web Services (AWS)",
+ "role": "Software Development Engineer II, PartyRock",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build client-self-serve-portal",
+ "notes": "Berlin on-site; on-call; TypeScript-first stack is the main gap; all certifications dropped to hold 2 pages; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 45,
+ "apply_url": "https://www.linkedin.com/jobs/view/4464058049",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4464058049",
+ "contact": "",
+ "verdict": "Strong AWS, React and AI-product background; main gap is the TypeScript-first stack and \"SDE II\" backend breadth.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_AWS.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_AWS.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-client-self-serve-portal.md"
+ ],
+ "build": "client-self-serve-portal",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

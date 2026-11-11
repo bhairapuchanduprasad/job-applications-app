@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-12_cluepoints_ai-engineer",
+ "date": "2026-11-12",
+ "prepared_at": 1794427598,
+ "company": "CluePoints",
+ "role": "AI Engineer",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Belgium / Remote EU: confirm remote from Germany; 2-page CV; no clinical/Databricks experience",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 50,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481783666",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4481783666",
+ "contact": "",
+ "verdict": "Strong match on RAG, knowledge graphs, evaluation and Python; weak on regulated/clinical domain and Databricks/Snowflake.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_CluePoints.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_CluePoints.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

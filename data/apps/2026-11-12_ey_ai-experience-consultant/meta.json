@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-12_ey_ai-experience-consultant",
+ "date": "2026-11-12",
+ "prepared_at": 1794427386,
+ "company": "EY",
+ "role": "AI-Experience Consultant - Business Consulting (w/m/d)",
+ "fit": 65,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Munich; no CV project added; gaps: n8n/Make/Zapier, workshops",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 27,
+ "apply_url": "https://www.linkedin.com/jobs/view/4478992780",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4478992780",
+ "contact": "",
+ "verdict": "Strong on LLMs, RAG, Python, APIs, prototypes; weaker on named low-code tools (n8n/Make/Zapier), workshop facilitation and client-facing consulting.",
+ "gaps": [
+  "n8n/Make/Zapier: not claimed; planned project on CV, build before submitting.",
+  "Workshops/training: left out.",
+  "Seniority \"Mid-Senior\" but no years required."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_EY.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_EY.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-12_trivago_software-engineer-ai-productivity-solutions",
+ "date": "2026-11-12",
+ "prepared_at": 1794428081,
+ "company": "trivago",
+ "role": "Software Engineer - AI & Productivity Solutions",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build ops-mcp-server",
+ "notes": "Düsseldorf; asks C#/.NET, React/TS, Azure; recruiting: video + coding task",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Düsseldorf",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489021144",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489021144",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_trivago.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_trivago.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-mcp-skills-library-portal.md"
+ ],
+ "build": "ops-mcp-server",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

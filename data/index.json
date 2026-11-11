@@ -1,5 +1,5 @@
 {
- "generated": 1794399526.485342,
+ "generated": 1794428096.974408,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5796,6 +5796,114 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "Italian"
+  },
+  {
+   "folder": "2026-11-12_aws_sde-ii-partyrock",
+   "date": "2026-11-12",
+   "prepared_at": 1794427257,
+   "company": "Amazon Web Services (AWS)",
+   "role": "Software Development Engineer II, PartyRock",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 45,
+   "apply_url": "https://www.linkedin.com/jobs/view/4464058049",
+   "apply_url_kind": "posting",
+   "build": "client-self-serve-portal",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-12_ey_ai-experience-consultant",
+   "date": "2026-11-12",
+   "prepared_at": 1794427386,
+   "company": "EY",
+   "role": "AI-Experience Consultant - Business Consulting (w/m/d)",
+   "fit": 65,
+   "status": "ready",
+   "city": "Munich",
+   "ats": 27,
+   "apply_url": "https://www.linkedin.com/jobs/view/4478992780",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-12_cluepoints_ai-engineer",
+   "date": "2026-11-12",
+   "prepared_at": 1794427598,
+   "company": "CluePoints",
+   "role": "AI Engineer",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 50,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481783666",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-12_glassflow_founding-engineer",
+   "date": "2026-11-12",
+   "prepared_at": 1794427735,
+   "company": "GlassFlow",
+   "role": "Founding Engineer",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488246580",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-12_finanz-informatik_llmops-engineer",
+   "date": "2026-11-12",
+   "prepared_at": 1794427877,
+   "company": "Finanz Informatik",
+   "role": "LLMOps Engineer für KI-Services (m/w/d)",
+   "fit": 52,
+   "status": "build-first",
+   "city": "Hannover",
+   "ats": 56,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489013957",
+   "apply_url_kind": "posting",
+   "build": "self-hosted-llm-inference",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-12_trivago_software-engineer-ai-productivity-solutions",
+   "date": "2026-11-12",
+   "prepared_at": 1794428081,
+   "company": "trivago",
+   "role": "Software Engineer - AI & Productivity Solutions",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Düsseldorf",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489021144",
+   "apply_url_kind": "posting",
+   "build": "ops-mcp-server",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5860,7 +5968,9 @@
    "2026-11-05_arrows_ai-engineer",
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
    "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
-   "2026-11-08_inviso_applied-ai-engineer"
+   "2026-11-08_inviso_applied-ai-engineer",
+   "2026-11-12_cluepoints_ai-engineer",
+   "2026-11-12_glassflow_founding-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -5872,7 +5982,8 @@
    "2026-11-04_fraunhofer-isst_software-engineer-datenoekosysteme",
    "2026-11-05_almedia_junior-engineer-typescript-python-devops-ai",
    "2026-11-05_empion-by-factorial_full-stack-developer-ai-systemintegration",
-   "2026-11-06_headsquare-group_it-consultant"
+   "2026-11-06_headsquare-group_it-consultant",
+   "2026-11-12_trivago_software-engineer-ai-productivity-solutions"
   ],
   "product-qa-assistant": [
    "2026-10-17_hotrega_ki-und-prozessmanager",
@@ -6054,7 +6165,8 @@
    "2026-11-03_8com_cyber-security-automation-ai-engineer",
    "2026-11-05_createch-engineering_ki-experte-ki-administration",
    "2026-11-05_lyceum_technical-founders-associate",
-   "2026-11-11_mittwald_ai-platform-engineer"
+   "2026-11-11_mittwald_ai-platform-engineer",
+   "2026-11-12_finanz-informatik_llmops-engineer"
   ],
   "radar-nowcasting": [
    "2026-11-03_wetteronline_machine-learning-engineer"
@@ -6074,7 +6186,8 @@
    "2026-11-04_nanoscribe_software-engineer-python-3d-printing"
   ],
   "client-self-serve-portal": [
-   "2026-11-04_terratech-holding_software-engineer"
+   "2026-11-04_terratech-holding_software-engineer",
+   "2026-11-12_aws_sde-ii-partyrock"
   ],
   "invoice-capture-agent": [
    "2026-11-04_truvio_ai-engineer"
