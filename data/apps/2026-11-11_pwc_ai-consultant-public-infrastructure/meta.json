@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-11_pwc_ai-consultant-public-infrastructure",
+ "date": "2026-11-11",
+ "prepared_at": 1794369940,
+ "company": "PwC Deutschland",
+ "role": "AI-Consultant - Public & Infrastructure (w/m/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build knowledge-assistant",
+ "notes": "English documents; no German requirement stated but client work with German public bodies likely needs German (have B1); contact Noemia Gryzia",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 74,
+ "apply_url": "https://www.linkedin.com/jobs/view/4487906507",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4487906507",
+ "contact": "",
+ "verdict": "Consulting-heavy role with ML/prototyping content; strong technical match, thin on classic consulting and public-sector experience.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_PwC.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_PwC.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "knowledge-assistant",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

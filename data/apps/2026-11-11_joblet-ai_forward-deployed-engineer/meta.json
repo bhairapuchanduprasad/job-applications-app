@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-11_joblet-ai_forward-deployed-engineer",
+ "date": "2026-11-11",
+ "prepared_at": 1794370116,
+ "company": "Joblet-AI (micro1)",
+ "role": "Forward Deployed Engineer (Remote)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Remote (Ireland listed); USD pay range, likely US employer: check entity/contract; travel required; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 87,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488635706",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488635706",
+ "contact": "",
+ "verdict": "Strong match on LLM agents, RAG, evaluation and Python; weaker on data labeling/taxonomy work, external-partner (AI lab) experience and the seniority the posting implies.",
+ "gaps": [
+  "No labeling/annotation taxonomy systems at scale and no frontier-lab partner wor",
+  "Project on CV (Agent Eval & Human-in-the-Loop Harness) is planned, not built: re"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Joblet-AI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Joblet-AI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

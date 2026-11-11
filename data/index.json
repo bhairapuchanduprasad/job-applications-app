@@ -1,5 +1,5 @@
 {
- "generated": 1794343064.867024,
+ "generated": 1794370298.681576,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -5616,6 +5616,78 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_regnauer_ai-software-developer",
+   "date": "2026-11-11",
+   "prepared_at": 1794369674,
+   "company": "Regnauer Fertigbau GmbH & Co. KG",
+   "role": "Softwareentwickler für KI & digitale Anwendungen (m/w/d)",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 91,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487868700",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_pwc_ai-consultant-public-infrastructure",
+   "date": "2026-11-11",
+   "prepared_at": 1794369940,
+   "company": "PwC Deutschland",
+   "role": "AI-Consultant - Public & Infrastructure (w/m/d)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 74,
+   "apply_url": "https://www.linkedin.com/jobs/view/4487906507",
+   "apply_url_kind": "posting",
+   "build": "knowledge-assistant",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-11_joblet-ai_forward-deployed-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794370116,
+   "company": "Joblet-AI (micro1)",
+   "role": "Forward Deployed Engineer (Remote)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 87,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488635706",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-11_joblet-ai_ai-engineer",
+   "date": "2026-11-11",
+   "prepared_at": 1794370236,
+   "company": "Joblet-AI (micro1)",
+   "role": "AI Engineer (Remote)",
+   "fit": 76,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 76,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488647526",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -5680,7 +5752,9 @@
    "2026-11-05_lime-connect_backend-engineer-ai-agents",
    "2026-11-06_sap_developer-agentic-foundation-cloud-alm",
    "2026-11-08_inviso_applied-ai-engineer",
-   "2026-11-11_owkin_software-engineer"
+   "2026-11-11_owkin_software-engineer",
+   "2026-11-11_joblet-ai_forward-deployed-engineer",
+   "2026-11-11_joblet-ai_ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -5732,7 +5806,8 @@
    "2026-11-01_adesso_ai-automation-developer-sap",
    "2026-11-03_coltech_agentic-ai-coding-engineer",
    "2026-11-03_elunic_forward-deployed-engineer",
-   "2026-11-05_ai-futures_product-engineer"
+   "2026-11-05_ai-futures_product-engineer",
+   "2026-11-11_regnauer_ai-software-developer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -5983,6 +6058,9 @@
   ],
   "npc-memory-service": [
    "2026-11-11_welevel_ai-systems-engineer"
+  ],
+  "knowledge-assistant": [
+   "2026-11-11_pwc_ai-consultant-public-infrastructure"
   ]
  }
 }
