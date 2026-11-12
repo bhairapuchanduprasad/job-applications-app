@@ -1,0 +1,3 @@
+# Notes
+Likely questions: 1) How would you build a data product on Databricks with no prior hands-on? (Answer: Kniit pipeline end to end, Retail Sales Lakehouse project, same concepts.) 2) Describe a time you explained a technical result to non-technical stakeholders (Covestro chemists, Kniit SAP experts). 3) How do you measure adoption of what you build?
+Form fields: Salary: 60000 EUR gross/year (big established company). Notice: available from 15 Nov 2026. Why KARL STORZ: data work close to a medical product used in surgery, global sales and subsidiaries as users. Blue Card, relocating to Tuttlingen area OK.

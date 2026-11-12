@@ -1,5 +1,5 @@
 {
- "generated": 1794487081.147545,
+ "generated": 1794515635.909628,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -6066,6 +6066,240 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_sumup_machine-learning-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794513635,
+   "company": "SumUp",
+   "role": "Machine Learning Engineer",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 68,
+   "apply_url": "https://www.linkedin.com/jobs/view/4433956145",
+   "apply_url_kind": "posting",
+   "build": "model-release-pipeline",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_elevenlabs_applied-ai-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794513867,
+   "company": "ElevenLabs",
+   "role": "Applied AI Engineer",
+   "fit": 78,
+   "status": "ready",
+   "city": "Germany",
+   "ats": 38,
+   "apply_url": "https://www.linkedin.com/jobs/view/4482136972",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_xheron_ai-harness-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794513985,
+   "company": "xHeron",
+   "role": "AI Harness Engineer - Agentic & Autonomous Operations (m/f/x)",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 81,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488517685",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_freiheit-com_software-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794514130,
+   "company": "freiheit.com technologies",
+   "role": "Software Engineer",
+   "fit": 62,
+   "status": "ready",
+   "city": "Hamburg",
+   "ats": 40,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488517991",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_flender_ai-solution-developer",
+   "date": "2026-11-13",
+   "prepared_at": 1794514380,
+   "company": "Flender",
+   "role": "AI-Solution Developer (m/w/d)",
+   "fit": 76,
+   "status": "build-first",
+   "city": "Münster",
+   "ats": 38,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489226989",
+   "apply_url_kind": "posting",
+   "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-13_atyos_ai-rd-engineer-genai",
+   "date": "2026-11-13",
+   "prepared_at": 1794514496,
+   "company": "ATYOS",
+   "role": "AI R&D Engineer (GenAI)",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Strasbourg, Grand Est, France",
+   "ats": 67,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489254883",
+   "apply_url_kind": "posting",
+   "build": "it-ticket-assistent-bedrock",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "French"
+  },
+  {
+   "folder": "2026-11-13_cognizant_frontier-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794514657,
+   "company": "Cognizant",
+   "role": "Frontier Engineer (d/f/m)",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Frankfurt am Main",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489256744",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_casinovibes_ai-engineer-agentic-systems",
+   "date": "2026-11-13",
+   "prepared_at": 1794514801,
+   "company": "CasinoVibes",
+   "role": "AI Engineer - Agentic Systems (Claude Code)",
+   "fit": 80,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 50,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489962139",
+   "apply_url_kind": "posting",
+   "build": "spec-driven-coding-agent-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_neko-health_ai-acceleration-specialist",
+   "date": "2026-11-13",
+   "prepared_at": 1794515046,
+   "company": "Neko Health",
+   "role": "AI Acceleration Specialist",
+   "fit": 68,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 44,
+   "apply_url": "https://www.linkedin.com/jobs/view/4490364505",
+   "apply_url_kind": "posting",
+   "build": "quality-process-copilot",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_context-fab_forward-deployed-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794515199,
+   "company": "context/fab",
+   "role": "Forward Deployed Engineer",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 35,
+   "apply_url": "https://www.linkedin.com/jobs/view/4490380906",
+   "apply_url_kind": "posting",
+   "build": "plant-maintenance-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_karl-storz_data-scientist",
+   "date": "2026-11-13",
+   "prepared_at": 1794515315,
+   "company": "KARL STORZ",
+   "role": "Data Scientist (m/f/d)",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Stuttgart",
+   "ats": 70,
+   "apply_url": "https://www.linkedin.com/jobs/view/4490382451",
+   "apply_url_kind": "posting",
+   "build": "retail-sales-lakehouse",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_lio_forward-deployed-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794515459,
+   "company": "Lio",
+   "role": "Forward Deployed Engineer (all genders)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 33,
+   "apply_url": "https://www.linkedin.com/jobs/view/4490385198",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_sea-sentinel-ai_founding-backend-ai-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794515620,
+   "company": "Sea Sentinel AI",
+   "role": "Founding Backend & AI Engineer",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 70,
+   "apply_url": "https://www.linkedin.com/jobs/view/4490500134",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -6136,7 +6370,10 @@
    "2026-11-12_cluepoints_ai-engineer",
    "2026-11-12_glassflow_founding-engineer",
    "2026-11-12_just-eat-takeaway_data-scientist-ai-engineer",
-   "2026-11-12_softproject_ai-engineer"
+   "2026-11-12_softproject_ai-engineer",
+   "2026-11-13_xheron_ai-harness-engineer",
+   "2026-11-13_cognizant_frontier-engineer",
+   "2026-11-13_sea-sentinel-ai_founding-backend-ai-engineer"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
@@ -6167,7 +6404,9 @@
    "2026-11-04_koch-pac-systeme_cloud-ai-software-developer",
    "2026-11-04_deloitte_consultant-ai-operations",
    "2026-11-04_progroup_betriebsingenieur-ki-anwendungen",
-   "2026-11-05_continental-industry_ai-digitalization-engineer-manufacturing"
+   "2026-11-05_continental-industry_ai-digitalization-engineer-manufacturing",
+   "2026-11-13_flender_ai-solution-developer",
+   "2026-11-13_context-fab_forward-deployed-engineer"
   ],
   "energy-service-agent": [
    "2026-10-22_kraken_software-engineer-autonomous-agents",
@@ -6190,7 +6429,8 @@
    "2026-11-03_coltech_agentic-ai-coding-engineer",
    "2026-11-03_elunic_forward-deployed-engineer",
    "2026-11-05_ai-futures_product-engineer",
-   "2026-11-11_regnauer_ai-software-developer"
+   "2026-11-11_regnauer_ai-software-developer",
+   "2026-11-13_lio_forward-deployed-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -6198,7 +6438,8 @@
    "2026-10-26_daw_ai-data-engineer",
    "2026-10-28_affinis_microsoft-copilot-consultant",
    "2026-11-02_e-regio_ki-entwickler-ai-engineer",
-   "2026-11-03_nais-knk_ai-product-engineer"
+   "2026-11-03_nais-knk_ai-product-engineer",
+   "2026-11-13_neko-health_ai-acceleration-specialist"
   ],
   "clinical-info-assistant": [
    "2026-10-25_juicylemons_product-engineer",
@@ -6387,7 +6628,8 @@
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",
    "2026-11-05_cgi_software-engineer-ai-engineered-development",
-   "2026-11-05_openai_applied-ai-engineer-codex"
+   "2026-11-05_openai_applied-ai-engineer-codex",
+   "2026-11-13_casinovibes_ai-engineer-agentic-systems"
   ],
   "robot-episode-ingestion": [
    "2026-11-05_neura-robotics_platform-engineer-robot-data",
@@ -6438,14 +6680,16 @@
   ],
   "model-release-pipeline": [
    "2026-11-10_aleph-alpha_ai-rd-engineer-model-training",
-   "2026-11-12_bdo-germany_ml-mlops-engineer"
+   "2026-11-12_bdo-germany_ml-mlops-engineer",
+   "2026-11-13_sumup_machine-learning-engineer"
   ],
   "azure-dokumenten-assistent": [
    "2026-11-11_wgv-versicherung_ki-entwickler-azure-llm"
   ],
   "retail-sales-lakehouse": [
    "2026-11-11_dymatrix_junior-cloud-data-engineer",
-   "2026-11-11_jet-hr_ai-software-engineer"
+   "2026-11-11_jet-hr_ai-software-engineer",
+   "2026-11-13_karl-storz_data-scientist"
   ],
   "hybrid-search-reranking-lab": [
    "2026-11-11_actai_machine-learning-engineer-ranking-retrieval"
@@ -6455,6 +6699,9 @@
   ],
   "practice-document-inbox": [
    "2026-11-12_docmaite_software-engineer-python-ki"
+  ],
+  "it-ticket-assistent-bedrock": [
+   "2026-11-13_atyos_ai-rd-engineer-genai"
   ]
  }
 }

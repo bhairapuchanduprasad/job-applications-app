@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-13_lio_forward-deployed-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794515459,
+ "company": "Lio",
+ "role": "Forward Deployed Engineer (all genders)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "Munich; no direct SAP/ERP integration (gap, stated in letter); on-site",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 33,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490385198",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490385198",
+ "contact": "",
+ "verdict": "Strong match on customer-facing agentic AI, APIs and deployment; no direct SAP/ERP integration or distributed-systems experience.",
+ "gaps": [
+  "No hands-on SAP or ERP API integration; stated honestly in the letter.",
+  "Distributed systems only at infrastructure level.",
+  "German: No mention of German in the posting."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Lio.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Lio.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-13_atyos_ai-rd-engineer-genai",
+ "date": "2026-11-13",
+ "prepared_at": 1794514496,
+ "company": "ATYOS",
+ "role": "AI R&D Engineer (GenAI)",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build it-ticket-assistent-bedrock",
+ "notes": "Posting in French; French required, remote or Strasbourg office; title 'Practice leader GenAI'",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Strasbourg, Grand Est, France",
+ "ats": 67,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489254883",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489254883",
+ "contact": "",
+ "verdict": "Strong technical match (RAG, unstructured documents, agentic/MCP, AWS, Python, Docker), held back by a required French level and missing Terraform/SageMaker.",
+ "gaps": [
+  "French: posting is in French and asks for French + technical English. Profile ha",
+  "Terraform, SageMaker: stated honestly as new in the letter. Bedrock only via the"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Atyos.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Atyos.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "it-ticket-assistent-bedrock",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "French"
+}

@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-13_sea-sentinel-ai_founding-backend-ai-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794515620,
+ "company": "Sea Sentinel AI",
+ "role": "Founding Backend & AI Engineer",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "Munich; apply by email to careers@sea-sentinel.ai with own-words shipped example (draft in application-notes.md); replies from 24 Nov; gaps: LLM monitoring in prod, Pulumi/SST, TypeScript",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 70,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490500134",
+ "apply_url_kind": "posting",
+ "apply_hint": "Apply by email to careers@sea-sentinel.ai (not sent by me). Attach CV. Cover letter PDF can go along, but their email wants short, own-voice text.",
+ "source": "https://www.linkedin.com/jobs/view/4490500134",
+ "contact": "",
+ "verdict": "Strong match on production LLM pipelines, prompt tuning and evals; gaps on LLM tracing/monitoring in production and Pulumi/SST, and the posting leans toward someone with more production time than 3 years.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Sea-Sentinel-AI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Sea-Sentinel-AI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

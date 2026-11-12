@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-13_sumup_machine-learning-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794513635,
+ "company": "SumUp",
+ "role": "Machine Learning Engineer",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build model-release-pipeline, shop-support-agent",
+ "notes": "Berlin; office-first; posting says Senior and 4+ yrs; Airflow/Langfuse/GCP gaps; certs and publications dropped for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 68,
+ "apply_url": "https://www.linkedin.com/jobs/view/4433956145",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4433956145",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_SumUp.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_SumUp.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "model-release-pipeline",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

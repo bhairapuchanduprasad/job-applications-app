@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-13_freiheit-com_software-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794514130,
+ "company": "freiheit.com technologies",
+ "role": "Software Engineer",
+ "fit": 62,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "On-site 5 days Hamburg; apply via applicant portal; no TypeScript/Go/Kotlin",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Hamburg",
+ "ats": 40,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488517991",
+ "apply_url_kind": "posting",
+ "apply_hint": "Form answers: salary EUR 55,000 gross/year (EUR 60,000 if they are a big established company); earliest start 15 Nov 2026; notice period none (Kniit ends 13 Nov 2026). Apply via their applicant portal.",
+ "source": "https://www.linkedin.com/jobs/view/4488517991",
+ "contact": "",
+ "verdict": "Solid full-stack/cloud/Python match for a generalist engineering role; no AI-specific focus, and no Go/Kotlin/TypeScript.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_freiheit-com.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_freiheit-com.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

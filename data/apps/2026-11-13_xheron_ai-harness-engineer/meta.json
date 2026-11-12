@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-13_xheron_ai-harness-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794513985,
+ "company": "xHeron",
+ "role": "AI Harness Engineer - Agentic & Autonomous Operations (m/f/x)",
+ "fit": 74,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness",
+ "notes": "English documents; Berlin; VSOP; process: CTO intro, take-home, case interview",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488517685",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488517685",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_xHeron.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_xHeron.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-agent-eval-harness.md"
+ ],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

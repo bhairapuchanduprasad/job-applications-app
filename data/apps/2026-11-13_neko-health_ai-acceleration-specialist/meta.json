@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-13_neko-health_ai-acceleration-specialist",
+ "date": "2026-11-13",
+ "prepared_at": 1794515046,
+ "company": "Neko Health",
+ "role": "AI Acceleration Specialist",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build quality-process-copilot",
+ "notes": "Scout; Berlin; no deadline; CV has one planned project (Quality Process Copilot); teaching/adoption gap",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 44,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490364505",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490364505",
+ "contact": "",
+ "verdict": "Strong on applied AI, building end to end and stakeholder work; weaker on teaching/adoption tracking and process mapping. Mid-senior label, but the minimums are 1-3 delivered solutions, so level is fine.",
+ "gaps": [
+  "Teaching/enablement: not in the profile, so the letter says plainly that I have ",
+  "Formal process mapping: stated as willingness to learn.",
+  "German: not mentioned in the posting."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Neko-Health.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Neko-Health.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "quality-process-copilot",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

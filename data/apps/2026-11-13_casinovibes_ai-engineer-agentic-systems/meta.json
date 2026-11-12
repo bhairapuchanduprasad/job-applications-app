@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-13_casinovibes_ai-engineer-agentic-systems",
+ "date": "2026-11-13",
+ "prepared_at": 1794514801,
+ "company": "CasinoVibes",
+ "role": "AI Engineer - Agentic Systems (Claude Code)",
+ "fit": 80,
+ "status": "build-first",
+ "next_step": "build spec-driven-coding-agent-harness",
+ "notes": "Remote Europe (Malta); live Claude Code exercise in interview; Projects: Spec-Driven Coding Agent Harness",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 50,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489962139",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489962139",
+ "contact": "",
+ "verdict": "Strong match on Claude Code, MCP, multi-agent and context work. Gaps: Node/Bash depth, public repos, hooks.",
+ "gaps": [
+  "No public repos or published MCP servers/plugins: do not claim any. Projects sec",
+  "Claude Agent SDK not confirmed hands-on: do not claim it; Claude Code + LangGrap",
+  "Hooks and Node/Bash: only through planned projects; build before submitting."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_CasinoVibes.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_CasinoVibes.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "spec-driven-coding-agent-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

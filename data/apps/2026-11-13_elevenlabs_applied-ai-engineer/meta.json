@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-13_elevenlabs_applied-ai-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794513867,
+ "company": "ElevenLabs",
+ "role": "Applied AI Engineer",
+ "fit": 78,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Remote Europe (GMT/GMT+1); Marketing Engineering; GTM data gap; certs and projects dropped for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 38,
+ "apply_url": "https://www.linkedin.com/jobs/view/4482136972",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4482136972",
+ "contact": "",
+ "verdict": "",
+ "gaps": [
+  "GTM/marketing data: stated openly in the letter, framed as \"not yet\".",
+  "No Projects section on the CV (dropped to hold 2 pages; certifications already c",
+  "Timezone: GMT+1 fine from Germany. Role is remote anywhere in Europe; header loc",
+  "German: no mention."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_ElevenLabs.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_ElevenLabs.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

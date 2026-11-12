@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-13_context-fab_forward-deployed-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794515199,
+ "company": "context/fab",
+ "role": "Forward Deployed Engineer",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "Munich; no OPC UA/MQTT/SCADA experience (gap, stated in letter); regular travel",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 35,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490380906",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490380906",
+ "contact": "",
+ "verdict": "Good match on Python/APIs/DB, AI agents and working with domain experts; weak on industrial protocols and manufacturing domain.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_context-fab.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_context-fab.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

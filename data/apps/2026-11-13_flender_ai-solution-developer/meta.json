@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-13_flender_ai-solution-developer",
+ "date": "2026-11-13",
+ "prepared_at": 1794514380,
+ "company": "Flender",
+ "role": "AI-Solution Developer (m/w/d)",
+ "fit": 76,
+ "status": "build-first",
+ "next_step": "build plant-maintenance-agent",
+ "notes": "Bocholt (CV shows Münster); German posting, English docs; salary by collective agreement; gaps: Copilot Studio, Azure AI Foundry, AWS Bedrock",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Münster",
+ "ats": 38,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489226989",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489226989",
+ "contact": "",
+ "verdict": "Agentic AI / RAG developer role in an enterprise AI-Factory; strong match on agents, RAG, consulting-style requirement analysis. Weak on Microsoft platform tooling.",
+ "gaps": [
+  "Copilot Studio, Azure AI Foundry, AWS Bedrock: no hands-on in profile. Cover let",
+  "GitHub Copilot: only Claude Code mentioned."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Flender.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Flender.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "plant-maintenance-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

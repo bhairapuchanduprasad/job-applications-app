@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-13_karl-storz_data-scientist",
+ "date": "2026-11-13",
+ "prepared_at": 1794515315,
+ "company": "KARL STORZ",
+ "role": "Data Scientist (m/f/d)",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build retail-sales-lakehouse",
+ "notes": "Tuttlingen; Databricks/Spark/Tableau gap; 'extensive experience' wording; Tableau and SAP HANA not on CV",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Stuttgart",
+ "ats": 70,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490382451",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490382451",
+ "contact": "",
+ "verdict": "Strong Python/SQL, NLP/GenAI and stakeholder work; weak on the Databricks/Spark/Delta and Tableau core, and the posting asks for \"extensive experience\".",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_KARL-STORZ.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_KARL-STORZ.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "retail-sales-lakehouse",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
