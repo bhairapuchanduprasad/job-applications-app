@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-12_joppy_forward-deployed-engineer",
+ "date": "2026-11-12",
+ "prepared_at": 1794485850,
+ "company": "Joppy",
+ "role": "Forward Deployed Engineer",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build clinical-info-assistant",
+ "notes": "Remote EU; recruiter posting for unnamed US healthcare/insurance client; salary 40-60K; Codex + US healthcare gaps; certs dropped for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 62,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489091645",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489091645",
+ "contact": "",
+ "verdict": "Strong match on production LLM/agent work, stakeholder discovery and daily Claude Code use; weaker on \"large client engagement\" evidence and the senior-leaning architecture ask.",
+ "gaps": [
+  "No paying external client engagement and no US healthcare/insurance experience: ",
+  "Codex: gap (Claude Code only)."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Joppy.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Joppy.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-clinical-info-assistant.md"
+ ],
+ "build": "clinical-info-assistant",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

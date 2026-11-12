@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-12_docmaite_software-engineer-python-ki",
+ "date": "2026-11-12",
+ "prepared_at": 1794485653,
+ "company": "DOCMAiTE",
+ "role": "Software Engineer (m/w/d) - Python / KI / Web-Services",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build practice-document-inbox",
+ "notes": "Oldenburg; healthcare startup; Django/Bootstrap/Azure DevOps gaps; German-written posting but no German skill stated; certs dropped for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Oldenburg",
+ "ats": 55,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488281729",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488281729",
+ "contact": "",
+ "verdict": "Strong Python/LLM/Docker/Postgres match; Django and the exact CI stack are gaps, healthcare domain is new.",
+ "gaps": [
+  "Django: say plainly FastAPI is the comparable framework (done in letter); planne",
+  "Bootstrap and Azure DevOps: left to the JD wording only where truthful (Bootstra",
+  "German at team level: unclear, raise in interview if needed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_DOCMAiTE.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_DOCMAiTE.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-practice-document-inbox.md"
+ ],
+ "build": "practice-document-inbox",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

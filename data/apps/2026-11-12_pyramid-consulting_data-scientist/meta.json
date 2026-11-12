@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-12_pyramid-consulting_data-scientist",
+ "date": "2026-11-12",
+ "prepared_at": 1794487007,
+ "company": "Pyramid Consulting, Inc",
+ "role": "Data Scientist",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build retail-demand-forecasting-optimizer",
+ "notes": "Remote Portugal/Germany/UK; 12-month contract via staffing agency; client unnamed; CV location Germany; certs dropped for 2 pages; R/Scala gaps",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 64,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490315279",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490315279",
+ "contact": "",
+ "verdict": "Solid data-science match on ML/time-series/Python/SQL; generic staffing-agency JD, client unnamed, R/Scala missing.",
+ "gaps": [
+  "R and Scala: not in profile; stated honestly in the letter (Python/SQL focus).",
+  "\"Data-mining\" as a named discipline and big-data stacks (Spark in production): n"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Pyramid-Consulting.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Pyramid-Consulting.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-retail-demand-forecasting-optimizer.md"
+ ],
+ "build": "retail-demand-forecasting-optimizer",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

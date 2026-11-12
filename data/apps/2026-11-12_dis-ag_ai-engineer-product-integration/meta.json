@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-12_dis-ag_ai-engineer-product-integration",
+ "date": "2026-11-12",
+ "prepared_at": 1794485203,
+ "company": "DIS AG",
+ "role": "AI Engineer / KI-Spezialist für Produktintegration (m/w/d)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build shop-support-agent",
+ "notes": "Mainz; staffing agency for unnamed client; reused planned project Shop Support Agent",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Mainz",
+ "ats": 53,
+ "apply_url": "https://www.linkedin.com/jobs/view/4471740001",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4471740001",
+ "contact": "",
+ "verdict": "Strong match on agents/LLMs/Python/backend; risks are the implicit German need, the \"erfahren\" wording and the staffing-agency setup.",
+ "gaps": [
+  "German: posting is in German but names no German-language requirement. Day-to-da",
+  "Java: not in profile, left out.",
+  "\"Erfahrenen KI-Experten\": no years named; 3 years of experience.",
+  "Chatbots/support assistants shipped in a product: covered only by the planned Sh"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_DIS-AG.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_DIS-AG.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "shop-support-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

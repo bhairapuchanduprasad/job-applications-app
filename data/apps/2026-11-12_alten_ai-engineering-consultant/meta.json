@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-12_alten_ai-engineering-consultant",
+ "date": "2026-11-12",
+ "prepared_at": 1794485371,
+ "company": "ALTEN",
+ "role": "AI Engineering Consultant (all gender)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build azure-ai-rag-starter-kit",
+ "notes": "Munich; consulting; asks Copilot/Azure DevOps/Jira (gaps); reused planned project Azure AI Agent Starter-Kit; Certs dropped for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 45,
+ "apply_url": "https://www.linkedin.com/jobs/view/4480443757",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4480443757",
+ "contact": "",
+ "verdict": "Strong on agents, RAG, Python, Azure and consulting-style stakeholder work. Weak on the Microsoft Copilot / GitHub Copilot, Azure DevOps and Jira tooling the posting names.",
+ "gaps": [
+  "Copilot (Microsoft/GitHub): not claimed; cover letter says openly it is not yet ",
+  "Azure DevOps, Jira, TypeScript/JavaScript: left out of the CV; GitLab CI/CD name",
+  "Workshops/coaching: no documented experience; only stakeholder advising is claim"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_ALTEN.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_ALTEN.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "azure-ai-rag-starter-kit",
+ "found_by_scout": false,
+ "german": "German language skills are considered a plus",
+ "jd_lang": "English"
+}
