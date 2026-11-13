@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-13_trivago_data-scientist-marketing",
+ "date": "2026-11-13",
+ "prepared_at": 1794572066,
+ "company": "trivago",
+ "role": "Data Scientist - Marketing",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build marketing-attribution-mmm-lab",
+ "notes": "English documents; Düsseldorf hybrid; weak on marketing science/BigQuery; case study in process",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Düsseldorf",
+ "ats": 53,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489555357",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489555357",
+ "contact": "",
+ "verdict": "Good on Python, SQL, predictive modelling, productionising and stakeholder work; weak on the core domain (attribution, incrementality, MMM, causal inference, geo testing) and BigQuery.",
+ "gaps": [
+  "Marketing science domain: stated honestly in the letter as new; covered on CV on",
+  "BigQuery: letter says not used in production.",
+  "Experience level: ads likely expect domain experience; process has a video intro"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_trivago.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_trivago.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-marketing-attribution-mmedia-mix-lab.md"
+ ],
+ "build": "marketing-attribution-mmm-lab",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

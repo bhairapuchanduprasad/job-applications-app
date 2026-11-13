@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-13_arbio_product-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794572363,
+ "company": "Arbio",
+ "role": "Product Engineer (f/m/x)",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build voice-receptionist-agent",
+ "notes": "English documents; Berlin; weak on TypeScript/Express; certifications and 2nd project dropped for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 57,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490597324",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490597324",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Arbio.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Arbio.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "voice-receptionist-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

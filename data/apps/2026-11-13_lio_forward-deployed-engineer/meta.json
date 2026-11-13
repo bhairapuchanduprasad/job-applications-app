@@ -5,11 +5,11 @@
  "company": "Lio",
  "role": "Forward Deployed Engineer (all genders)",
  "fit": 72,
- "status": "build-first",
- "next_step": "build order-inbox-agent",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "Munich; no direct SAP/ERP integration (gap, stated in letter); on-site",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-13",
+ "applied_via": "Company careers site",
  "city": "Munich",
  "ats": 33,
  "apply_url": "https://www.linkedin.com/jobs/view/4490385198",
@@ -47,7 +47,7 @@
  "briefs": [
   "project-brief-order-inbox-agent.md"
  ],
- "build": "order-inbox-agent",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"

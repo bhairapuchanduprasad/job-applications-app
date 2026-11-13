@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-13_jobgether_forward-deployed-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794572190,
+ "company": "Jobgether",
+ "role": "Forward Deployed Engineer (Applied AI / LLM Agents)",
+ "fit": 66,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "Germany remote; asks 5+ yrs (have ~3); CV trimmed to 2 pages (certifications and Eval Harness project dropped); partner company unnamed",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 68,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489556000",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489556000",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Jobgether.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Jobgether.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "order-inbox-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

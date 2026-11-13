@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-13_ct19_machine-learning-data-scientist-bioml",
+ "date": "2026-11-13",
+ "prepared_at": 1794572496,
+ "company": "CT19",
+ "role": "Machine Learning Data Scientist - BioML",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build fermentation-hybrid-model-lab",
+ "notes": "English documents; remote Germany/EU; EUR 60-80k + options; pre-seed biotech; gaps: mechanistic/ODE, PAT spectroscopy, UQ; certifications dropped for 2 pages; contact mason@ct-19.co.uk",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 44,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490597809",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490597809",
+ "contact": "",
+ "verdict": "Strong on time-series/process-data ML, thin on mechanistic modelling, spectroscopy and biology; PhD-or-3-years bar met only via the 3-year Master's route.",
+ "gaps": [
+  "Mechanistic modelling, PAT/spectroscopy, UQ, bioprocess: stated plainly as gaps ",
+  "PhD preferred: Master's + 3 years route; relevant-experience years are arguable.",
+  "Salary band €60-80k fits target (€55k)."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_CT19.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_CT19.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-fermentation-hybrid-model-lab.md"
+ ],
+ "build": "fermentation-hybrid-model-lab",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-13_stern-stewart-siteco_ai-solutions-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794571693,
+ "company": "Stern Stewart & Co. (SITECO)",
+ "role": "AI Solutions Engineer",
+ "fit": 74,
+ "status": "build-first",
+ "next_step": "build client-self-serve-portal",
+ "notes": "Munich; entry level; reused unbuilt Client Self-Serve Portal (no link); TypeScript gap",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 79,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488910905",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488910905",
+ "contact": "",
+ "verdict": "",
+ "gaps": [
+  "TypeScript: stated honestly in the letter as still being built up; Client Self-S",
+  "Cybersecurity: leave out."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Stern-Stewart.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Stern-Stewart.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "client-self-serve-portal",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

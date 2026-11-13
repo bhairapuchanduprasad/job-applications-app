@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-13_a11_forward-deployed-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794572637,
+ "company": "A11",
+ "role": "Forward Deployed Engineer (m/f/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "English documents; Berlin office only; client company unnamed; TypeScript and supply-chain gaps; certifications and Eval Harness project dropped for 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 58,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490708434",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490708434",
+ "contact": "",
+ "verdict": "Strong match on LLM agents, evals, human review, working with domain experts and messy documents; weaker on TypeScript, supply-chain domain and a formal \"3 yrs shipping software\" count.",
+ "gaps": [
+  "TypeScript: React only (CV says beginner). Letter admits it plainly.",
+  "Supply chain / trade domain: none; framed via procurement/finance interest.",
+  "Monitoring in production over time: not evidenced beyond Kniit handover."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_A11.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_A11.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-order-inbox-agent.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": false,
+ "german": "German is a plus",
+ "jd_lang": "English"
+}

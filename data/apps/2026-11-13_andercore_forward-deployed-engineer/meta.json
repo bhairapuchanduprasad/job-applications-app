@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-13_andercore_forward-deployed-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794571859,
+ "company": "Andercore",
+ "role": "Forward Deployed Engineer",
+ "fit": 76,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "English documents; Berlin; CV trimmed to 2 pages (certifications and Eval Harness project dropped)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 50,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489524958",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489524958",
+ "contact": "",
+ "verdict": "Strong match on LLM agents, evaluation, working with domain experts and Python; gaps are TypeScript depth, SQL depth and trade/B2B domain.",
+ "gaps": [
+  "TypeScript: only React frontend work; Order Inbox Agent project uses TypeScript ",
+  "Trade/supply chain: no experience; leave out, show interest via hook.",
+  "No hands-on proof of reusable skills/knowledge bases across a whole company, bey"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Andercore.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Andercore.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "order-inbox-agent",
+ "found_by_scout": false,
+ "german": "German is a plus.",
+ "jd_lang": "English"
+}

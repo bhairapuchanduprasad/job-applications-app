@@ -5,11 +5,11 @@
  "company": "xHeron",
  "role": "AI Harness Engineer - Agentic & Autonomous Operations (m/f/x)",
  "fit": 74,
- "status": "build-first",
- "next_step": "build agent-eval-harness",
+ "status": "applied",
+ "next_step": "wait for reply",
  "notes": "English documents; Berlin; VSOP; process: CTO intro, take-home, case interview",
- "applied_date": "",
- "applied_via": "",
+ "applied_date": "2026-11-13",
+ "applied_via": "LinkedIn Easy Apply",
  "city": "Berlin",
  "ats": 81,
  "apply_url": "https://www.linkedin.com/jobs/view/4488517685",
@@ -43,7 +43,7 @@
  "briefs": [
   "project-brief-agent-eval-harness.md"
  ],
- "build": "agent-eval-harness",
+ "build": "",
  "found_by_scout": false,
  "german": "No mention of German",
  "jd_lang": "English"

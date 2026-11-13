@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-13_ylab_ai-ml-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794571517,
+ "company": "YLAB",
+ "role": "AI/ML Engineer",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build voice-receptionist-agent",
+ "notes": "Cologne; English documents; German-written posting, team language likely German; unbuilt Voice Receptionist Agent (no link)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Cologne",
+ "ats": 53,
+ "apply_url": "https://www.linkedin.com/jobs/view/4488901609",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4488901609",
+ "contact": "",
+ "verdict": "",
+ "gaps": [
+  "ASR/TTS and child-voice handling: framed as new, covered by the planned Voice Re",
+  "Safety classifiers/guardrails, TypeScript: left out of CV, stated plainly nowher",
+  "German: not required in posting text, but team language is likely German (writte"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_YLAB.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_YLAB.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "voice-receptionist-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

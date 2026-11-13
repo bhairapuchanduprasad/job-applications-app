@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-13_thinkcell_data-scientist",
+ "date": "2026-11-13",
+ "prepared_at": 1794571213,
+ "company": "thinkcell",
+ "role": "Data Scientist (f/m/d)",
+ "fit": 70,
+ "status": "build-first",
+ "next_step": "build matching-experiment-lab",
+ "notes": "English documents; Berlin; 3+ yrs DS asked; Projects section has unbuilt Matching Experiment Lab (no link)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 71,
+ "apply_url": "https://www.linkedin.com/jobs/view/4464118834",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4464118834",
+ "contact": "",
+ "verdict": "Solid DS/ML and Python match; thinner on 3+ years of pure data science, product analytics and statistical inference.",
+ "gaps": [
+  "No behavioural / customer-product analytics experience; no explicit A/B testing ",
+  "Statistical inference and uncertainty quantification: only adjacent. Left unclai",
+  "Model monitoring in production: not claimed (Model Release Pipeline project not "
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_thinkcell.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_thinkcell.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "matching-experiment-lab",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

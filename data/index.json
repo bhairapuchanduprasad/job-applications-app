@@ -1,5 +1,5 @@
 {
- "generated": 1794542843.3469062,
+ "generated": 1794572672.850765,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -6074,13 +6074,13 @@
    "company": "SumUp",
    "role": "Machine Learning Engineer",
    "fit": 62,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 68,
    "apply_url": "https://www.linkedin.com/jobs/view/4433956145",
    "apply_url_kind": "posting",
-   "build": "model-release-pipeline",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6092,13 +6092,13 @@
    "company": "ElevenLabs",
    "role": "Applied AI Engineer",
    "fit": 78,
-   "status": "ready",
+   "status": "applied",
    "city": "Germany",
    "ats": 38,
    "apply_url": "https://www.linkedin.com/jobs/view/4482136972",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6110,13 +6110,13 @@
    "company": "xHeron",
    "role": "AI Harness Engineer - Agentic & Autonomous Operations (m/f/x)",
    "fit": 74,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 81,
    "apply_url": "https://www.linkedin.com/jobs/view/4488517685",
    "apply_url_kind": "posting",
-   "build": "agent-eval-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6128,13 +6128,13 @@
    "company": "freiheit.com technologies",
    "role": "Software Engineer",
    "fit": 62,
-   "status": "ready",
+   "status": "applied",
    "city": "Hamburg",
    "ats": 40,
    "apply_url": "https://www.linkedin.com/jobs/view/4488517991",
    "apply_url_kind": "posting",
    "build": "",
-   "applied_date": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6182,13 +6182,13 @@
    "company": "Cognizant",
    "role": "Frontier Engineer (d/f/m)",
    "fit": 74,
-   "status": "build-first",
+   "status": "applied",
    "city": "Frankfurt am Main",
    "ats": 71,
    "apply_url": "https://www.linkedin.com/jobs/view/4489256744",
    "apply_url_kind": "posting",
-   "build": "agent-eval-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6200,13 +6200,13 @@
    "company": "CasinoVibes",
    "role": "AI Engineer - Agentic Systems (Claude Code)",
    "fit": 80,
-   "status": "build-first",
+   "status": "applied",
    "city": "Germany",
    "ats": 50,
    "apply_url": "https://www.linkedin.com/jobs/view/4489962139",
    "apply_url_kind": "posting",
-   "build": "spec-driven-coding-agent-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6218,13 +6218,13 @@
    "company": "Neko Health",
    "role": "AI Acceleration Specialist",
    "fit": 68,
-   "status": "build-first",
+   "status": "applied",
    "city": "Berlin",
    "ats": 44,
    "apply_url": "https://www.linkedin.com/jobs/view/4490364505",
    "apply_url_kind": "posting",
-   "build": "quality-process-copilot",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6254,13 +6254,13 @@
    "company": "KARL STORZ",
    "role": "Data Scientist (m/f/d)",
    "fit": 58,
-   "status": "build-first",
+   "status": "applied",
    "city": "Stuttgart",
    "ats": 70,
    "apply_url": "https://www.linkedin.com/jobs/view/4490382451",
    "apply_url_kind": "posting",
-   "build": "retail-sales-lakehouse",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6272,13 +6272,13 @@
    "company": "Lio",
    "role": "Forward Deployed Engineer (all genders)",
    "fit": 72,
-   "status": "build-first",
+   "status": "applied",
    "city": "Munich",
    "ats": 33,
    "apply_url": "https://www.linkedin.com/jobs/view/4490385198",
    "apply_url_kind": "posting",
-   "build": "order-inbox-agent",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6290,13 +6290,13 @@
    "company": "Sea Sentinel AI",
    "role": "Founding Backend & AI Engineer",
    "fit": 66,
-   "status": "build-first",
+   "status": "applied",
    "city": "Munich",
    "ats": 70,
    "apply_url": "https://www.linkedin.com/jobs/view/4490500134",
    "apply_url_kind": "posting",
-   "build": "agent-eval-harness",
-   "applied_date": "",
+   "build": "",
+   "applied_date": "2026-11-13",
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
@@ -6326,15 +6326,195 @@
    "company": "Joblet-AI (micro1)",
    "role": "AI Research Engineer (Remote)",
    "fit": 58,
-   "status": "ready",
+   "status": "applied",
    "city": "Ireland",
    "ats": 53,
    "apply_url": "https://www.linkedin.com/jobs/view/4489527476",
    "apply_url_kind": "posting",
    "build": "",
+   "applied_date": "2026-11-13",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_thinkcell_data-scientist",
+   "date": "2026-11-13",
+   "prepared_at": 1794571213,
+   "company": "thinkcell",
+   "role": "Data Scientist (f/m/d)",
+   "fit": 70,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 71,
+   "apply_url": "https://www.linkedin.com/jobs/view/4464118834",
+   "apply_url_kind": "posting",
+   "build": "matching-experiment-lab",
    "applied_date": "",
    "found_by_scout": false,
    "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_stark_data-platform-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794571358,
+   "company": "STARK",
+   "role": "Data Platform Engineer – Data Operations (all genders)",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 33,
+   "apply_url": "https://www.linkedin.com/jobs/view/4481391017",
+   "apply_url_kind": "posting",
+   "build": "robot-episode-ingestion",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_ylab_ai-ml-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794571517,
+   "company": "YLAB",
+   "role": "AI/ML Engineer",
+   "fit": 58,
+   "status": "build-first",
+   "city": "Cologne",
+   "ats": 53,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488901609",
+   "apply_url_kind": "posting",
+   "build": "voice-receptionist-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-13_stern-stewart-siteco_ai-solutions-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794571693,
+   "company": "Stern Stewart & Co. (SITECO)",
+   "role": "AI Solutions Engineer",
+   "fit": 74,
+   "status": "build-first",
+   "city": "Munich",
+   "ats": 79,
+   "apply_url": "https://www.linkedin.com/jobs/view/4488910905",
+   "apply_url_kind": "posting",
+   "build": "client-self-serve-portal",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_andercore_forward-deployed-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794571859,
+   "company": "Andercore",
+   "role": "Forward Deployed Engineer",
+   "fit": 76,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 50,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489524958",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "German is a plus.",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_trivago_data-scientist-marketing",
+   "date": "2026-11-13",
+   "prepared_at": 1794572066,
+   "company": "trivago",
+   "role": "Data Scientist - Marketing",
+   "fit": 56,
+   "status": "build-first",
+   "city": "Düsseldorf",
+   "ats": 53,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489555357",
+   "apply_url_kind": "posting",
+   "build": "marketing-attribution-mmm-lab",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_jobgether_forward-deployed-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794572190,
+   "company": "Jobgether",
+   "role": "Forward Deployed Engineer (Applied AI / LLM Agents)",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 68,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489556000",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_arbio_product-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794572363,
+   "company": "Arbio",
+   "role": "Product Engineer (f/m/x)",
+   "fit": 62,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 57,
+   "apply_url": "https://www.linkedin.com/jobs/view/4490597324",
+   "apply_url_kind": "posting",
+   "build": "voice-receptionist-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_ct19_machine-learning-data-scientist-bioml",
+   "date": "2026-11-13",
+   "prepared_at": 1794572496,
+   "company": "CT19",
+   "role": "Machine Learning Data Scientist - BioML",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 44,
+   "apply_url": "https://www.linkedin.com/jobs/view/4490597809",
+   "apply_url_kind": "posting",
+   "build": "fermentation-hybrid-model-lab",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_a11_forward-deployed-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794572637,
+   "company": "A11",
+   "role": "Forward Deployed Engineer (m/f/d)",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Berlin",
+   "ats": 58,
+   "apply_url": "https://www.linkedin.com/jobs/view/4490708434",
+   "apply_url_kind": "posting",
+   "build": "order-inbox-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "German is a plus",
    "jd_lang": "English"
   }
  ],
@@ -6407,9 +6587,6 @@
    "2026-11-12_glassflow_founding-engineer",
    "2026-11-12_just-eat-takeaway_data-scientist-ai-engineer",
    "2026-11-12_softproject_ai-engineer",
-   "2026-11-13_xheron_ai-harness-engineer",
-   "2026-11-13_cognizant_frontier-engineer",
-   "2026-11-13_sea-sentinel-ai_founding-backend-ai-engineer",
    "2026-11-13_soccersolver_ai-engineer-agents"
   ],
   "ops-mcp-server": [
@@ -6467,7 +6644,9 @@
    "2026-11-03_elunic_forward-deployed-engineer",
    "2026-11-05_ai-futures_product-engineer",
    "2026-11-11_regnauer_ai-software-developer",
-   "2026-11-13_lio_forward-deployed-engineer"
+   "2026-11-13_andercore_forward-deployed-engineer",
+   "2026-11-13_jobgether_forward-deployed-engineer",
+   "2026-11-13_a11_forward-deployed-engineer"
   ],
   "quality-process-copilot": [
    "2026-10-23_hermes-group_ai-engineer",
@@ -6475,8 +6654,7 @@
    "2026-10-26_daw_ai-data-engineer",
    "2026-10-28_affinis_microsoft-copilot-consultant",
    "2026-11-02_e-regio_ki-entwickler-ai-engineer",
-   "2026-11-03_nais-knk_ai-product-engineer",
-   "2026-11-13_neko-health_ai-acceleration-specialist"
+   "2026-11-03_nais-knk_ai-product-engineer"
   ],
   "clinical-info-assistant": [
    "2026-10-25_juicylemons_product-engineer",
@@ -6530,7 +6708,9 @@
    "2026-10-27_egroup_voice-ai-product-engineer",
    "2026-11-04_happyrobot_forward-deployed-engineer",
    "2026-11-05_acto_ai-engineer-agentic-systems-voice",
-   "2026-11-06_fullstack-talents_voice-ai-engineer"
+   "2026-11-06_fullstack-talents_voice-ai-engineer",
+   "2026-11-13_ylab_ai-ml-engineer",
+   "2026-11-13_arbio_product-engineer"
   ],
   "price-intelligence-copilot": [
    "2026-10-27_ki-group_llm-application-engineer"
@@ -6546,7 +6726,8 @@
    "2026-10-29_jobgether_data-scientist-ai-experimentation",
    "2026-11-03_kayak_data-scientist",
    "2026-11-05_taskverse-senacor_data-scientist",
-   "2026-11-06_amazon-music_data-scientist-ii-music-disco"
+   "2026-11-06_amazon-music_data-scientist-ii-music-disco",
+   "2026-11-13_thinkcell_data-scientist"
   ],
   "canteen-menu-insights": [
    "2026-11-02_odacova_applied-ai-backend-engineer"
@@ -6633,7 +6814,8 @@
   ],
   "client-self-serve-portal": [
    "2026-11-04_terratech-holding_software-engineer",
-   "2026-11-12_aws_sde-ii-partyrock"
+   "2026-11-12_aws_sde-ii-partyrock",
+   "2026-11-13_stern-stewart-siteco_ai-solutions-engineer"
   ],
   "invoice-capture-agent": [
    "2026-11-04_truvio_ai-engineer"
@@ -6665,12 +6847,12 @@
   "spec-driven-coding-agent-harness": [
    "2026-11-04_now-gmbh_full-stack-ai-engineer",
    "2026-11-05_cgi_software-engineer-ai-engineered-development",
-   "2026-11-05_openai_applied-ai-engineer-codex",
-   "2026-11-13_casinovibes_ai-engineer-agentic-systems"
+   "2026-11-05_openai_applied-ai-engineer-codex"
   ],
   "robot-episode-ingestion": [
    "2026-11-05_neura-robotics_platform-engineer-robot-data",
-   "2026-11-05_wandelbots_software-engineer-business-acceleration"
+   "2026-11-05_wandelbots_software-engineer-business-acceleration",
+   "2026-11-13_stark_data-platform-engineer"
   ],
   "pump-sensor-anomaly": [
    "2026-11-05_wilo-group_data-scientist-ki"
@@ -6717,16 +6899,14 @@
   ],
   "model-release-pipeline": [
    "2026-11-10_aleph-alpha_ai-rd-engineer-model-training",
-   "2026-11-12_bdo-germany_ml-mlops-engineer",
-   "2026-11-13_sumup_machine-learning-engineer"
+   "2026-11-12_bdo-germany_ml-mlops-engineer"
   ],
   "azure-dokumenten-assistent": [
    "2026-11-11_wgv-versicherung_ki-entwickler-azure-llm"
   ],
   "retail-sales-lakehouse": [
    "2026-11-11_dymatrix_junior-cloud-data-engineer",
-   "2026-11-11_jet-hr_ai-software-engineer",
-   "2026-11-13_karl-storz_data-scientist"
+   "2026-11-11_jet-hr_ai-software-engineer"
   ],
   "hybrid-search-reranking-lab": [
    "2026-11-11_actai_machine-learning-engineer-ranking-retrieval"
@@ -6739,6 +6919,12 @@
   ],
   "it-ticket-assistent-bedrock": [
    "2026-11-13_atyos_ai-rd-engineer-genai"
+  ],
+  "marketing-attribution-mmm-lab": [
+   "2026-11-13_trivago_data-scientist-marketing"
+  ],
+  "fermentation-hybrid-model-lab": [
+   "2026-11-13_ct19_machine-learning-data-scientist-bioml"
   ]
  }
 }

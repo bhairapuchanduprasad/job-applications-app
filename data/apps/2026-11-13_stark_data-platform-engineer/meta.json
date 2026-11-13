@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-13_stark_data-platform-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794571358,
+ "company": "STARK",
+ "role": "Data Platform Engineer – Data Operations (all genders)",
+ "fit": 56,
+ "status": "build-first",
+ "next_step": "build robot-episode-ingestion",
+ "notes": "Munich; defence role, security clearance eligibility required; unbuilt Robot Episode Ingestion project on CV (no link); sibling of 2026-11-03 STARK ML Engineer",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 33,
+ "apply_url": "https://www.linkedin.com/jobs/view/4481391017",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4481391017",
+ "contact": "",
+ "verdict": "Real Python + backend + Postgres/Docker/CI base, but little classic data-engineering/ETL title experience, no GCP, no Linux/shell evidence, no robotics data.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_STARK.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_STARK.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "robot-episode-ingestion",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
