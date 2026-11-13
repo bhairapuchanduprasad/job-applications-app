@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-13_joblet-ai_ai-research-engineer",
+ "date": "2026-11-13",
+ "prepared_at": 1794542815,
+ "company": "Joblet-AI (micro1)",
+ "role": "AI Research Engineer (Remote)",
+ "fit": 58,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Remote (Ireland listed); USD pay, likely US employer: check entity/contract; sibling of FDE and AI Engineer postings; scout",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Ireland",
+ "ats": 53,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489527476",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489527476",
+ "contact": "",
+ "verdict": "Evaluation, Python, LLM agents and tooling match well; frontier coding-agent benchmarking, RL/post-training and C++ are gaps, and the role is research-heavy with \"Member of Technical Staff\" scope.",
+ "gaps": [
+  "No coding-agent benchmark work, no RL, no C++: stated plainly in the letter.",
+  "CV has no Projects section: no room at 2 pages (Agent Eval Harness / Spec-Driven"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Joblet-AI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Joblet-AI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

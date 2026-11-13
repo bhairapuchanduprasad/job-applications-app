@@ -1,0 +1,52 @@
+{
+ "folder": "2026-11-13_soccersolver_ai-engineer-agents",
+ "date": "2026-11-13",
+ "prepared_at": 1794542515,
+ "company": "SoccerSolver",
+ "role": "AI Engineer, Agents",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build agent-eval-harness; order-inbox-agent",
+ "notes": "Remote (listed Spain; confirm Germany ok); salary + shares; technical challenge video; no football experience",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 56,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489504894",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489504894",
+ "contact": "",
+ "verdict": "Strong match on agents, MCP, tool calling, RAG, Python and evaluation; gaps are football domain, production event-driven agents and optimization.",
+ "gaps": [
+  "Football domain: stated openly in the letter, framed as learning from their publ",
+  "Event/schedule-triggered agents: not claimed.",
+  "Optimization: only the statistics/ML base is claimed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_SoccerSolver.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_SoccerSolver.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "agent-eval-harness",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

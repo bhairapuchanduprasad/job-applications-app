@@ -1,5 +1,5 @@
 {
- "generated": 1794515635.909628,
+ "generated": 1794542843.3469062,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -6300,6 +6300,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_soccersolver_ai-engineer-agents",
+   "date": "2026-11-13",
+   "prepared_at": 1794542515,
+   "company": "SoccerSolver",
+   "role": "AI Engineer, Agents",
+   "fit": 72,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 56,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489504894",
+   "apply_url_kind": "posting",
+   "build": "agent-eval-harness",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-13_joblet-ai_ai-research-engineer",
+   "date": "2026-11-13",
+   "prepared_at": 1794542815,
+   "company": "Joblet-AI (micro1)",
+   "role": "AI Research Engineer (Remote)",
+   "fit": 58,
+   "status": "ready",
+   "city": "Ireland",
+   "ats": 53,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489527476",
+   "apply_url_kind": "posting",
+   "build": "",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -6373,7 +6409,8 @@
    "2026-11-12_softproject_ai-engineer",
    "2026-11-13_xheron_ai-harness-engineer",
    "2026-11-13_cognizant_frontier-engineer",
-   "2026-11-13_sea-sentinel-ai_founding-backend-ai-engineer"
+   "2026-11-13_sea-sentinel-ai_founding-backend-ai-engineer",
+   "2026-11-13_soccersolver_ai-engineer-agents"
   ],
   "ops-mcp-server": [
    "2026-10-17_cloover_ai-engineering-automation-specialist",
