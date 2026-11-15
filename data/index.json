@@ -1,5 +1,5 @@
 {
- "generated": 1794717251.9623082,
+ "generated": 1794772559.504056,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -6732,6 +6732,24 @@
    "found_by_scout": false,
    "german": "German is a plus",
    "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-16_north-tec_software-developer-internal-systems",
+   "date": "2026-11-16",
+   "prepared_at": 1794772532,
+   "company": "NORTH-TEC Gruppe",
+   "role": "Softwareentwickler interne Systeme und Schnittstellen (m/w/d)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Reußenköge",
+   "ats": 60,
+   "apply_url": "https://www.linkedin.com/jobs/view/4473852366",
+   "apply_url_kind": "posting",
+   "build": "odoo-service-tool-bridge",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "German"
   }
  ],
  "builds": {
@@ -7149,6 +7167,9 @@
   ],
   "machine-telemetry-ingestion": [
    "2026-11-15_marentis_software-engineer"
+  ],
+  "odoo-service-tool-bridge": [
+   "2026-11-16_north-tec_software-developer-internal-systems"
   ]
  }
 }
