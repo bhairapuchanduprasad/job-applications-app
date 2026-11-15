@@ -1,0 +1,54 @@
+{
+ "folder": "2026-11-15_8returns_product-engineer",
+ "date": "2026-11-15",
+ "prepared_at": 1794717220,
+ "company": "8returns",
+ "role": "Product Engineer",
+ "fit": 58,
+ "status": "build-first",
+ "next_step": "build client-self-serve-portal",
+ "notes": "English documents; German is a plus; TypeScript is the main gap; paid trial day; Berlin remote-first",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 81,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490790025",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490790025",
+ "contact": "",
+ "verdict": "Strong on agentic engineering, end-to-end ownership, stakeholder work and full-stack delivery; weak on the TypeScript requirement and on real product/merchant-facing ownership.",
+ "gaps": [
+  "TypeScript (top gap): stated openly in the letter; Client Self-Serve Portal proj",
+  "No e-commerce/returns, shop-system or carrier integration experience.",
+  "No public product/side project link to show (they ask for one)."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_8returns.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_8returns.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-client-self-serve-portal.md"
+ ],
+ "build": "client-self-serve-portal",
+ "found_by_scout": false,
+ "german": "German is a plus",
+ "jd_lang": "English"
+}

@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-15_elevenlabs_research-engineer",
+ "date": "2026-11-15",
+ "prepared_at": 1794715709,
+ "company": "ElevenLabs",
+ "role": "Research Engineer",
+ "fit": 55,
+ "status": "ready",
+ "next_step": "submit",
+ "notes": "Remote globally; no German requirement; gaps: audio, large-scale training, published research",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 29,
+ "apply_url": "https://www.linkedin.com/jobs/view/4474368548",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4474368548",
+ "contact": "",
+ "verdict": "Strong on evaluation/benchmarking and some fine-tuning; weak on large-scale model training, audio and published research.",
+ "gaps": [
+  "No audio/speech modelling experience; no multi-GPU or large-scale training; no p",
+  "Framing: lead with evaluation rigor and fine-tuning; do not claim research outpu"
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_ElevenLabs.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_ElevenLabs.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

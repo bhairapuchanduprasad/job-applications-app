@@ -1,0 +1,53 @@
+{
+ "folder": "2026-11-15_marentis_software-engineer",
+ "date": "2026-11-15",
+ "prepared_at": 1794717070,
+ "company": "Marentis",
+ "role": "Software Engineer (gn)",
+ "fit": 68,
+ "status": "build-first",
+ "next_step": "build machine-telemetry-ingestion",
+ "notes": "Atlantic portfolio company; Berlin; no deadline; MQTT/OPC UA gap; company research skipped (scout)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490782203",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490782203",
+ "contact": "",
+ "verdict": "Python/backend, SQL, knowledge graph, agent and time-series sensor work match well; no direct MQTT/OPC UA or manufacturing-integration experience, and the role wants an experienced independent code reviewer.",
+ "gaps": [
+  "MQTT/OPC UA: stated honestly in the letter; planned project \"Machine Telemetry I",
+  "Code review/testing: not claimed beyond what the profile supports."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Marentis.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Marentis.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-machine-telemetry-ingestion.md"
+ ],
+ "build": "machine-telemetry-ingestion",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-15_morson-edge_forward-deployed-engineer",
+ "date": "2026-11-15",
+ "prepared_at": 1794716587,
+ "company": "Morson Edge",
+ "role": "Forward Deployed Engineer",
+ "fit": 78,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent",
+ "notes": "Berlin; recruiter listing for anonymous AI-first startup; 3 certs dropped to fit 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 50,
+ "apply_url": "https://www.linkedin.com/jobs/view/4490721168",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4490721168",
+ "contact": "",
+ "verdict": "Strong match on AI agents, customer-facing delivery and end-to-end ownership; the posting is short, names no stack and the end client is anonymous (Morson Edge is the recruiter brand).",
+ "gaps": [
+  "No stack or years named, so keyword matching is generic. Customer-facing work is",
+  "\"Mid-Senior\" label from LinkedIn: could be pitched above 3 years."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Morson-Edge.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Morson-Edge.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "order-inbox-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

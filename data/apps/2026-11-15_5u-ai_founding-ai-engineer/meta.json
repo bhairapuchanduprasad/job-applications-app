@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-15_5u-ai_founding-ai-engineer",
+ "date": "2026-11-15",
+ "prepared_at": 1794715288,
+ "company": "5U AI",
+ "role": "Founding AI Engineer",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build order-inbox-agent, agent-eval-harness",
+ "notes": "Munich on-site only; application needs an AI coding session transcript (Claude Code log); decision within a week",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Munich",
+ "ats": 75,
+ "apply_url": "https://www.linkedin.com/jobs/view/4452294865",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4452294865",
+ "contact": "",
+ "verdict": "Strong match on production agent/LLM work, evals and full-stack delivery; weaker on 5+ years-style ownership of distributed systems, TypeScript and logistics integrations. Founding-level scope is a stretch for 3 years of experience.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_5U-AI.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_5U-AI.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-note.md"
+ ],
+ "build": "order-inbox-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}

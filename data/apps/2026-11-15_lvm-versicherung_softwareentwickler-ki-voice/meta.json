@@ -1,0 +1,48 @@
+{
+ "folder": "2026-11-15_lvm-versicherung_softwareentwickler-ki-voice",
+ "date": "2026-11-15",
+ "prepared_at": 1794715570,
+ "company": "LVM Versicherung",
+ "role": "Softwareentwickler KI und Voice (m/w/d)",
+ "fit": 72,
+ "status": "build-first",
+ "next_step": "build voice-receptionist-agent",
+ "notes": "Münster; tariff pay; min. 2 days campus; German-language posting, no German requirement stated; certs dropped to hold 2 pages",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Münster",
+ "ats": 94,
+ "apply_url": "https://www.linkedin.com/jobs/view/4474125558",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4474125558",
+ "contact": "",
+ "verdict": "",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_LVM.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_LVM.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "voice-receptionist-agent",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "German"
+}

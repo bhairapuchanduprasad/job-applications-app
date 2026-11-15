@@ -1,0 +1,51 @@
+{
+ "folder": "2026-11-15_autodesk_machine-learning-engineer",
+ "date": "2026-11-15",
+ "prepared_at": 1794716417,
+ "company": "Autodesk",
+ "role": "Machine Learning Engineer",
+ "fit": 62,
+ "status": "build-first",
+ "next_step": "build point-cloud-pipeline",
+ "notes": "Berlin; salary 59-86k EUR; certifications dropped to fit 2 pages; geometric ML/Physics AI gap",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Berlin",
+ "ats": 69,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489581789",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489581789",
+ "contact": "",
+ "verdict": "Solid Python/ML/evaluation/deployment profile; weak on the geometry/physics domain the team works in.",
+ "gaps": [
+  "Geometric ML / Physics AI / numerical simulation: stated honestly in the letter ",
+  "Model lifecycle/monitoring: not claimed."
+ ],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_Autodesk.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_Autodesk.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [],
+ "build": "point-cloud-pipeline",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
