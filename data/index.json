@@ -1,5 +1,5 @@
 {
- "generated": 1794772559.504056,
+ "generated": 1794801607.764551,
  "apps": [
   {
    "folder": "2026-10-09_deloitte_agentic-ai-developer",
@@ -6750,6 +6750,42 @@
    "found_by_scout": false,
    "german": "No mention of German",
    "jd_lang": "German"
+  },
+  {
+   "folder": "2026-11-16_leanteams_full-stack-engineer",
+   "date": "2026-11-16",
+   "prepared_at": 1794801456,
+   "company": "LeanTeams",
+   "role": "Full Stack Engineer (Backend-Focused)",
+   "fit": 55,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 50,
+   "apply_url": "https://www.linkedin.com/jobs/view/4489399640",
+   "apply_url_kind": "posting",
+   "build": "client-self-serve-portal",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
+  },
+  {
+   "folder": "2026-11-16_jobgether_middle-ai-analytics-engineer",
+   "date": "2026-11-16",
+   "prepared_at": 1794801598,
+   "company": "Jobgether",
+   "role": "Middle AI Analytics Engineer",
+   "fit": 66,
+   "status": "build-first",
+   "city": "Germany",
+   "ats": 70,
+   "apply_url": "https://www.linkedin.com/jobs/view/4490240993",
+   "apply_url_kind": "posting",
+   "build": "semantic-analytics-agent",
+   "applied_date": "",
+   "found_by_scout": false,
+   "german": "No mention of German",
+   "jd_lang": "English"
   }
  ],
  "builds": {
@@ -6914,7 +6950,8 @@
    "2026-10-29_fusion-consulting_knowledge-engineer",
    "2026-11-06_intersnack-it_ai-engineer-analytics-end-user-insights",
    "2026-11-11_mobilize-financial-services_data-analyst",
-   "2026-11-15_hdi-group_ai-automation-specialist-ai-engineer"
+   "2026-11-15_hdi-group_ai-automation-specialist-ai-engineer",
+   "2026-11-16_jobgether_middle-ai-analytics-engineer"
   ],
   "knowledge-assistant-mcp": [
    "2026-10-27_summ-ai_ai-engineer-llms-agents",
@@ -7050,7 +7087,8 @@
   "client-self-serve-portal": [
    "2026-11-04_terratech-holding_software-engineer",
    "2026-11-12_aws_sde-ii-partyrock",
-   "2026-11-15_8returns_product-engineer"
+   "2026-11-15_8returns_product-engineer",
+   "2026-11-16_leanteams_full-stack-engineer"
   ],
   "invoice-capture-agent": [
    "2026-11-04_truvio_ai-engineer"

@@ -1,0 +1,50 @@
+{
+ "folder": "2026-11-16_leanteams_full-stack-engineer",
+ "date": "2026-11-16",
+ "prepared_at": 1794801456,
+ "company": "LeanTeams",
+ "role": "Full Stack Engineer (Backend-Focused)",
+ "fit": 55,
+ "status": "build-first",
+ "next_step": "build client-self-serve-portal",
+ "notes": "Location listed Poland, Remote EU search, remote/residency not stated; TypeScript/SvelteKit/DDD gaps; anonymous startup via recruiter; apply via form; certs and publication dropped to fit 2 pages; company research skipped (scout)",
+ "applied_date": "",
+ "applied_via": "",
+ "city": "Germany",
+ "ats": 50,
+ "apply_url": "https://www.linkedin.com/jobs/view/4489399640",
+ "apply_url_kind": "posting",
+ "apply_hint": "",
+ "source": "https://www.linkedin.com/jobs/view/4489399640",
+ "contact": "",
+ "verdict": "Strong match on backend ownership, agentic AI and AI-assisted development; the whole TypeScript/Node/SvelteKit stack, DDD/CQRS and \"experienced\" level are gaps.",
+ "gaps": [],
+ "form_fields": [],
+ "questions": [],
+ "docs": [
+  {
+   "kind": "cv",
+   "file": "Chandu_Bhairapu_CV_LeanTeams.pdf",
+   "pages": [
+    "cv0-1.jpg",
+    "cv0-2.jpg"
+   ],
+   "lang": "en"
+  },
+  {
+   "kind": "letter",
+   "file": "Chandu_Bhairapu_Cover_Letter_LeanTeams.pdf",
+   "pages": [
+    "letter0-1.jpg"
+   ],
+   "lang": "en"
+  }
+ ],
+ "briefs": [
+  "project-brief-client-self-serve-portal.md"
+ ],
+ "build": "client-self-serve-portal",
+ "found_by_scout": false,
+ "german": "No mention of German",
+ "jd_lang": "English"
+}
